@@ -1,0 +1,7 @@
+{
+  "product": {"currency": "USD", "brand": "WebsiteName", "telephone": "+1-800-555-1234"},
+  "localbusiness": {"priceRange": "$", "telephone": "+1-800-555-1234", "areaServed": "United States"},
+  "service": {"areaServed": "United States", "telephone": "+1-800-555-1234"},
+  "newsarticle": {"location": "United States"},
+  "person": {"telephone": "+1-800-555-1234"}
+}

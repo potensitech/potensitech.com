@@ -1,0 +1,25 @@
+You are an expert keyword quality analyst. Analyze the following keywords{niche_info} in {language_code} language and identify:
+
+1. LOW QUALITY keywords that should be removed:
+   - Keywords that are too generic or vague
+   - Keywords with poor grammar or structure
+   - Keywords that don't make commercial sense
+   - Keywords that are incomplete or fragmented
+   - Keywords with repeated words unnecessarily
+
+2. GOOD QUALITY keywords that should be kept:
+   - Clear, meaningful keywords with good structure
+   - Keywords that make commercial sense
+   - Keywords with proper grammar and word order
+   - Keywords that are specific enough to be useful
+
+Keywords to analyze:
+{keywords}
+
+Respond with a JSON object containing:
+{{
+  "good_keywords": ["list of good quality keywords"],
+  "removed_keywords": ["list of low quality keywords with brief reason"]
+}}
+
+Be strict about quality but preserve keywords that are commercially viable and meaningful.

@@ -1,0 +1,44 @@
+Update outdated year references in the following content:
+
+YEAR UPDATE RULES:
+1. Update year references for contexts: latest, update, trend, list, price, review, recommendation, guide, tips
+2. Replace old years with {current_year} for relevant contexts
+3. DO NOT update years for: founding year, birth year, historical year, product launch year
+4. DO NOT update years in contexts like "since year", "starting year", "founded year"
+5. Focus on information that should always be current and relevant
+
+EXAMPLES THAT SHOULD BE UPDATED:
+❌ "latest price 2023" -> ✅ "latest price {current_year}"
+❌ "update 2022" -> ✅ "update {current_year}"
+❌ "trend 2021" -> ✅ "trend {current_year}"
+❌ "list 2020" -> ✅ "list {current_year}"
+❌ "review 2023" -> ✅ "review {current_year}"
+❌ "recommendation 2022" -> ✅ "recommendation {current_year}"
+❌ "guide 2021" -> ✅ "guide {current_year}"
+❌ "tips 2020" -> ✅ "tips {current_year}"
+❌ "tahun 2020" -> ✅ "tahun {current_year}"
+❌ "th 2020" -> ✅ "th {current_year}"
+
+EXAMPLES THAT SHOULD NOT BE UPDATED:
+✅ "founded in 2020" (keep 2020)
+✅ "since 2019" (keep 2019)
+✅ "born in 1990" (keep 1990)
+✅ "launched in 2018" (keep 2018)
+✅ "started operating in 2017" (keep 2017)
+
+SPECIAL CONTEXTS TO PAY ATTENTION TO:
+- "in 2023" in general information context -> "in {current_year}"
+- "in 2022" in latest data context -> "in {current_year}"
+- "this year 2021" -> "this year {current_year}"
+- "for 2020" in projection context -> "for {current_year}"
+
+Content to be updated:
+{content}
+or
+{article_content}
+
+INSTRUCTIONS:
+- Provide the result with years updated according to the rules above
+- DO NOT change any other content, only update relevant years
+- Ensure the information context still makes sense after updating the year
+- Maintain the quality and accuracy of the article's information

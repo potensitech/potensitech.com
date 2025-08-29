@@ -1,0 +1,147 @@
+{
+  "current_context_patterns": [
+    {
+      "pattern": "(latest|update|trend|list|price)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update keywords that indicate the latest information"
+    },
+    {
+      "pattern": "(in|on|for)\\s+year\\s+(\\d{4})",
+      "replacement": "\\1 year {current_year}",
+      "description": "Update time references with prepositions"
+    },
+    {
+      "pattern": "year\\s+(\\d{4})\\s+(this|now)",
+      "replacement": "year {current_year} \\2",
+      "description": "Update year references with time indicators"
+    },
+    {
+      "pattern": "(version|edition|model)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update product version or model"
+    },
+    {
+      "pattern": "(price|list|catalog)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update price or list references"
+    },
+    {
+      "pattern": "(\\w+)\\s+latest\\s+(\\d{4})",
+      "replacement": "\\1 latest {current_year}",
+      "description": "Update latest product or information"
+    },
+    {
+      "pattern": "update\\s+(\\w+)\\s+(\\d{4})",
+      "replacement": "update \\1 {current_year}",
+      "description": "Update information with the word 'update'"
+    },
+    {
+      "pattern": "(recommendation|choice|favorite)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update recommendations or choices"
+    },
+    {
+      "pattern": "(guide|tips|how-to)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update guides or tips"
+    },
+    {
+      "pattern": "(review|evaluation)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update review or evaluation"
+    }
+  ],
+  "heading_context_patterns": [
+    {
+      "pattern": "^(#+\\s+.*(?:latest|update|trend|list|price|review|evaluation|recommendation|guide|tips|how-to).*?)(\\d{4})(.*)$",
+      "replacement": "\\1{current_year}\\3",
+      "description": "Update year in markdown heading with relevant context"
+    },
+    {
+      "pattern": "^(#+\\s+.*)(\\d{4})\\s+(latest|update|trend|list|price|review|evaluation|recommendation|guide|tips|how-to)(.*)$",
+      "replacement": "\\1{current_year} \\3\\4",
+      "description": "Update year in heading before relevant keyword"
+    },
+    {
+      "pattern": "^(#+\\s+.*(?:in|on|for)\\s+year\\s+)(\\d{4})(.*)$",
+      "replacement": "\\1{current_year}\\3",
+      "description": "Update year in heading with time preposition"
+    },
+    {
+      "pattern": "^(#+\\s+.*year\\s+)(\\d{4})\\s+(this|now)(.*)$",
+      "replacement": "\\1{current_year} \\3\\4",
+      "description": "Update year in heading with time indicator"
+    },
+    {
+      "pattern": "^(#+\\s+.*(?:version|edition|model)\\s+)(\\d{4})(.*)$",
+      "replacement": "\\1{current_year}\\3",
+      "description": "Update version/model in heading"
+    }
+  ],
+  "specific_context_patterns": [
+    {
+      "pattern": "(info|information|data|update|price|list|trend|tips|guide|review)\\s+(latest|current|updated)\\s+(\\d{4})",
+      "replacement": "\\1 \\2 {current_year}",
+      "description": "Update the latest information with specific context"
+    },
+    {
+      "pattern": "(smartphone|gadget|technology|application)\\s+(latest|current)\\s+(\\d{4})",
+      "replacement": "\\1 \\2 {current_year}",
+      "description": "Update the latest technology"
+    },
+    {
+      "pattern": "(promo|discount|offer)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update promotions or offers"
+    },
+    {
+      "pattern": "(specification|feature)\\s+latest\\s+(\\d{4})",
+      "replacement": "\\1 latest {current_year}",
+      "description": "Update latest specifications or features"
+    },
+    {
+      "pattern": "(catalog|collection)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update catalog or collection"
+    },
+    {
+      "pattern": "(trend|trending)\\s+(\\d{4})",
+      "replacement": "\\1 {current_year}",
+      "description": "Update trend or trending topics"
+    }
+  ],
+  "exclusion_patterns": [
+    {
+      "pattern": "(founded|established|born|created)\\s+(\\d{4})",
+      "description": "Do not update historical years such as founding years"
+    },
+    {
+      "pattern": "(since|start)\\s+(\\d{4})",
+      "description": "Do not update starting years or since when"
+    },
+    {
+      "pattern": "(generation|era)\\s+(\\d{4})",
+      "description": "Do not update references to specific generations or eras"
+    },
+    {
+      "pattern": "(launched|released|out)\\s+(\\d{4})",
+      "description": "Do not update product launch years"
+    },
+    {
+      "pattern": "(operating|standing|established)\\s+(\\d{4})",
+      "description": "Do not update years of starting operation"
+    },
+    {
+      "pattern": "(copyright|©)\\s+(\\d{4})",
+      "description": "Do not update copyright years"
+    },
+    {
+      "pattern": "^#+\\s+.*(?:history|timeline|chronology).*\\d{4}",
+      "description": "Do not update years in history or timeline headings"
+    },
+    {
+      "pattern": "^#+\\s+.*(?:founded|established|born|created|launched|released).*\\d{4}",
+      "description": "Do not update historical years in headings"
+    }
+  ]
+}

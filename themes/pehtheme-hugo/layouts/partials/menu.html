@@ -1,0 +1,69 @@
+{{- /*
+Alternative solution: Keep the HTML simple and use CSS for responsive behavior
+*/}}
+
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- with index site.Menus $menuID }}
+  <nav id="menu-bar" class="block mt-3 close">
+    <ul class="menu-container">
+      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+    </ul>
+    <style>
+      /* Custom CSS for responsive menu */
+      .menu-container {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        flex-wrap: nowrap;
+        white-space: nowrap;
+        overflow-x: auto;
+      }
+      
+      /* On medium screens and up, allow wrapping */
+      @media (min-width: 768px) {
+        .menu-container {
+          flex-wrap: wrap;
+          white-space: normal;
+          overflow-x: visible;
+        }
+      }
+    </style>
+  </nav>
+{{- end }}
+
+{{- define "partials/inline/menu/walk.html" }}
+  {{- $page := .page }}
+  {{- range .menuEntries }}
+    {{- $attrs := dict "href" .URL }}
+    {{- /* Add the "rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" class to all links */}}
+    {{- $attrs = merge $attrs (dict "class" "rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200") }}
+    
+    {{- if $page.IsMenuCurrent .Menu . }}
+      {{- /* Add the "active:bg-zinc-300" class if the link is the current page */}}
+      {{- $attrs = merge $attrs (dict "class" (printf "%s %s" $attrs.class "border-zinc-400")) }}
+      {{- /* Add the "aria-current" attribute */}}
+      {{- $attrs = merge $attrs (dict "aria-current" "page") }}
+    {{- else if $page.HasMenuCurrent .Menu .}}
+      {{- /* Add the "ancestor" class if the link is an ancestor of the current page */}}
+      {{- $attrs = merge $attrs (dict "class" "ancestor") }}
+      {{- /* Add the "aria-current" attribute */}}
+      {{- $attrs = merge $attrs (dict "aria-current" "true") }}
+    {{- end }}
+    <li class="my-2">
+      <a
+        {{- range $k, $v := $attrs }}
+          {{- with $v }}
+            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+          {{- end }}
+        {{- end -}}
+      >{{ or (T .Identifier) .Name | safeHTML }}</a>
+      {{- with .Children }}
+        <ul>
+          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+        </ul>
+      {{- end }}
+    </li>
+  {{- end }}
+{{- end }}

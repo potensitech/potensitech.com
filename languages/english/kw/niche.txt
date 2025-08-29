@@ -1,0 +1,14 @@
+xiaomi
+iphone
+samsung
+apple
+sony
+asus
+philips
+sandisk
+intel
+nvidia
+amd
+canon
+nikon
+huawei

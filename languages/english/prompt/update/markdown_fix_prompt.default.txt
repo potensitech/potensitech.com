@@ -1,0 +1,93 @@
+Fix the incorrect markdown formatting in the following content:
+
+ISSUES TO FIX:
+1. Mixed bold/italic format: **text__ or *text_
+2. Incorrect heading format: **## Title** -> ## Title
+3. Broken table format with excessive underscores
+4. Trailing underscores at the end of formatting: **text___
+5. Inconsistent formatting within a single document
+6. CRITICAL: Headings merged with paragraphs without proper line breaks
+7. CRITICAL: Incorrect heading hierarchy - first main heading after intro should be ## (h2), not ### (h3)
+8. CRITICAL: Split headings where heading text is broken across multiple lines
+
+FIXING RULES:
+- Use **text** for bold (consistently)
+- Use *text* for italic (consistently)
+- ## Title for heading level 2
+- ### Title for heading level 3
+- CRITICAL: The FIRST main heading after the opening paragraph should ALWAYS be ## (h2), not ### (h3)
+- Subsequent headings should follow logical hierarchy: ## for main sections, ### for subsections
+- Tables must have a consistent | column | format
+- Table format MUST be valid markdown: each table row starts and ends with |, and the number of columns is consistent in all rows.
+- Table headers must be separated with a --- line as per markdown standard.
+- Do not leave underscores, spaces, or strange characters at the start or end of table rows.
+- If a table is broken, fix it so it renders correctly in a markdown viewer/Hugo.
+- Remove excessive trailing underscores
+- Keep formatting consistent throughout the document
+- CRITICAL: Separate headings/subheadings (##, ###, etc.) from paragraphs: if a heading is directly followed by a sentence/paragraph on the same line, move the heading to its own line and start the paragraph on the next line.
+- CRITICAL: Ensure there is always a blank line after headings before the next paragraph starts.
+
+HEADING HIERARCHY RULES:
+- After the opening paragraph, the FIRST main section should use ## (h2)
+- Major sections should use ## (h2)
+- Subsections under major sections should use ### (h3)
+- Sub-subsections should use #### (h4)
+- Never start main content sections with ### (h3) - this creates improper hierarchy
+
+YEAR EMPHASIS:
+- If the article mentions a year (except for history or old data), ONLY use the year {current_year} for all contexts of updates, trends, prices, recommendations, and the latest information.
+- Do not use years other than {current_year} except for history, launch year, or historical data.
+
+EXAMPLES OF FIXES:
+❌ **Use Huawei Health or AI Life App__
+✅ **Use Huawei Health or AI Life App**
+
+❌ *Use Huawei Health or AI Life App_
+✅ *Use Huawei Health or AI Life App*
+
+❌ **## Important Title**
+✅ ## Important Title
+
+❌ | **Column A**__ | Data B_ |
+✅ | **Column A** | Data B |
+
+❌ ### 1. **Samsung Galaxy A14 5G**The Samsung Galaxy A14 5G is a standout...
+✅ ### 1. **Samsung Galaxy A14 5G**
+
+The Samsung Galaxy A14 5G is a standout...
+
+❌ ## Why Choose Samsung?Samsung has built a reputation...
+✅ ## Why Choose Samsung?
+
+Samsung has built a reputation...
+
+❌ ### 1. Samsung (First main heading should be h2, not h3)
+✅ ## 1. Samsung
+
+❌ ### Galaxy S23 Ultra — The Hollywood Star (First main heading should be h2)
+✅ ## Galaxy S23 Ultra — The Hollywood Star
+
+❌ ### 2. Samsung 
+Galaxy S24 Ultra â€" Luxury Redefined
+✅ ### 2. Samsung Galaxy S24 Ultra â€" Luxury Redefined
+
+❌ ## Why 
+Choose an Android Phone Similar to iPhone?
+✅ ## Why Choose an Android Phone Similar to iPhone?
+
+❌ __Display__
+✅ **Display**
+
+Content to be fixed:
+{content}
+or
+{article_content}
+
+INSTRUCTIONS:
+- Provide the corrected markdown formatting that is proper and consistent
+- DO NOT change the content, only fix the markdown formatting
+- Ensure all bold, italic, heading, and table formats are consistent
+- Remove all excessive trailing underscores in formatting
+- CRITICAL: Always separate headings from paragraphs with proper line breaks
+- CRITICAL: Ensure first main heading after intro is ## (h2), not ### (h3)
+- For year mentions, follow the YEAR EMPHASIS rules above

@@ -1,0 +1,4 @@
+said\s+\w+\s*[":]\s*$
+replied\s*[":]\s*$
+stated\s*[":]\s*$
+answered\s+\w+\s*[":]\s*$

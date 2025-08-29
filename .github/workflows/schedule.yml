@@ -1,0 +1,134 @@
+name: Schedule Management
+
+on:
+  schedule:
+    # Pattern 1: schedule > keyword > article > image > deploy > index (5x daily)
+    - cron: '0 0 * * *'    # 00:00 UTC - with keywords
+    - cron: '48 4 * * *'   # 04:48 UTC - with keywords  
+    - cron: '36 9 * * *'   # 09:36 UTC - with keywords
+    - cron: '24 14 * * *'  # 14:24 UTC - with keywords
+    - cron: '12 19 * * *'  # 19:12 UTC - with keywords
+    
+    # Pattern 2: schedule > article > image > deploy > index (5x daily)
+    - cron: '30 2 * * *'   # 02:30 UTC - articles only
+    - cron: '18 6 * * *'   # 06:18 UTC - articles only
+    - cron: '6 11 * * *'   # 11:06 UTC - articles only
+    - cron: '54 16 * * *'  # 16:54 UTC - articles only
+    - cron: '42 21 * * *'  # 21:42 UTC - articles only
+    
+  workflow_dispatch:
+    inputs:
+      workflow_type:
+        description: 'Select workflow pattern to run'
+        required: true
+        default: 'full'
+        type: choice
+        options:
+          - 'full'        # keyword > article > image > deploy > index
+          - 'articles'    # article > image > deploy > index
+          - 'keywords'    # keywords only
+          - 'deploy'      # deploy > index only
+
+concurrency:
+  group: schedule-management-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  determine-workflow:
+    runs-on: ubuntu-latest
+    outputs:
+      workflow_type: ${{ steps.determine.outputs.workflow_type }}
+      run_keywords: ${{ steps.determine.outputs.run_keywords }}
+      
+    steps:
+      - name: Determine workflow type
+        id: determine
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            # Manual trigger - use selected option
+            WORKFLOW_TYPE="${{ github.event.inputs.workflow_type }}"
+          else
+            # Scheduled trigger - determine by time
+            CURRENT_HOUR=$(date +%H)
+            CURRENT_MINUTE=$(date +%M)
+            
+            # Check if this is a keyword schedule (Pattern 1)
+            if [[ ("$CURRENT_HOUR" == "00" && "$CURRENT_MINUTE" == "00") || \
+                  ("$CURRENT_HOUR" == "04" && "$CURRENT_MINUTE" == "48") || \
+                  ("$CURRENT_HOUR" == "09" && "$CURRENT_MINUTE" == "36") || \
+                  ("$CURRENT_HOUR" == "14" && "$CURRENT_MINUTE" == "24") || \
+                  ("$CURRENT_HOUR" == "19" && "$CURRENT_MINUTE" == "12") ]]; then
+              WORKFLOW_TYPE="full"
+            else
+              # Pattern 2 - articles only
+              WORKFLOW_TYPE="articles"
+            fi
+          fi
+          
+          echo "workflow_type=$WORKFLOW_TYPE" >> $GITHUB_OUTPUT
+          
+          # Determine if keywords should run
+          if [[ "$WORKFLOW_TYPE" == "full" || "$WORKFLOW_TYPE" == "keywords" ]]; then
+            echo "run_keywords=true" >> $GITHUB_OUTPUT
+          else
+            echo "run_keywords=false" >> $GITHUB_OUTPUT
+          fi
+          
+          echo "=== Workflow Determination ==="
+          echo "Event: ${{ github.event_name }}"
+          echo "Workflow Type: $WORKFLOW_TYPE"
+          echo "Run Keywords: $(if [[ "$WORKFLOW_TYPE" == "full" || "$WORKFLOW_TYPE" == "keywords" ]]; then echo "true"; else echo "false"; fi)"
+
+  trigger-keywords:
+    needs: determine-workflow
+    if: needs.determine-workflow.outputs.run_keywords == 'true'
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Trigger keywords generation
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-keywords-generation
+          client-payload: |
+            {
+              "scheduled_trigger": true,
+              "workflow_type": "${{ needs.determine-workflow.outputs.workflow_type }}",
+              "source": "schedule"
+            }
+
+  trigger-articles-direct:
+    needs: determine-workflow
+    if: needs.determine-workflow.outputs.workflow_type == 'articles'
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Trigger articles generation directly
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-articles-generation
+          client-payload: |
+            {
+              "scheduled_trigger": true,
+              "workflow_type": "articles",
+              "source": "schedule-direct"
+            }
+
+  trigger-deploy-only:
+    needs: determine-workflow
+    if: needs.determine-workflow.outputs.workflow_type == 'deploy'
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Trigger Hugo deploy directly
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-hugo-deploy
+          client-payload: |
+            {
+              "scheduled_trigger": true,
+              "workflow_type": "deploy",
+              "source": "schedule-direct"
+            }
