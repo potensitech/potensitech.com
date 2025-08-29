@@ -1,0 +1,8 @@
+# Cloudflare AI Model Configuration for Image Generation
+# Available models:
+# flux-schnell      - FLUX.1 Schnell (Fast, 1-8 steps, Recommended)
+# dreamshaper       - DreamShaper 8 LCM (Photorealistic)
+# sdxl-lightning    - SDXL Lightning (High quality 1024px)
+# sdxl-base         - SDXL Base 1.0 (Stable Diffusion XL)
+
+flux-schnell
