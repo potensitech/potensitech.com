@@ -732,5 +732,18 @@
             "Cultural: Wall Street",
             "Cultural: Times Square"
         ]
+    },
+    "cheap sony flagship model": {
+        "date": "2025-08-29T21:50:27",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Burgers"
+        ]
     }
 }
