@@ -719,5 +719,18 @@
             "Cultural: Wall Street",
             "Cultural: Times Square"
         ]
+    },
+    "budget-friendly sony flagship": {
+        "date": "2025-08-29T19:28:09",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Times Square"
+        ]
     }
 }
