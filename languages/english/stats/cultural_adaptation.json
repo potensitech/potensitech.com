@@ -680,5 +680,18 @@
             "Cultural: New York",
             "Cultural: Los Angeles"
         ]
+    },
+    "affordable sony flagship phone": {
+        "date": "2025-08-29T12:58:05",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Apple Pie"
+        ]
     }
 }
