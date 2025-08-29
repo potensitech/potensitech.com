@@ -121,7 +121,7 @@ Sony promises at least three years of software updates for its 2025 flagship mod
 
 ## Accessories and Ecosystem: More Than Just a Phone
 
-A flagship phone is only as good as the ecosystem it supports. Sony’s budget-friendly flagships integrate smoothly with headphones, smartwatches, and even PlayStation consoles—a nod to the brand’s entertainment roots.
+A [flagship phone](/sony/sony-flagship-phone-for-the-price) is only as good as the ecosystem it supports. Sony’s budget-friendly flagships integrate smoothly with headphones, smartwatches, and even PlayStation consoles—a nod to the brand’s entertainment roots.
 
 ### Audio and Entertainment
 
