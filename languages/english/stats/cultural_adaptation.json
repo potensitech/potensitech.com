@@ -693,5 +693,18 @@
             "Cultural: Hollywood",
             "Cultural: Apple Pie"
         ]
+    },
+    "best sony flagship under budget": {
+        "date": "2025-08-29T14:46:41",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Black Friday",
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: Wall Street"
+        ]
     }
 }
