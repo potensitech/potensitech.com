@@ -28,7 +28,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install openai cryptography nltk textstat requests beautifulsoup4 PyGithub pandas numpy pillow toml
+          pip install openai cryptography nltk textstat requests beautifulsoup4 PyGithub pandas numpy pillow toml PyYAML
 
       - name: Setup Python path
         run: |
