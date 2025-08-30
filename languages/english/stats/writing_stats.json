@@ -530,5 +530,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "nvidia affordable features explained": {
+        "date": "2025-08-30T16:59:41",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }

@@ -836,5 +836,18 @@
             "Cultural: Wall Street",
             "Cultural: Hollywood"
         ]
+    },
+    "nvidia affordable features explained": {
+        "date": "2025-08-30T16:59:41",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Burgers"
+        ]
     }
 }
