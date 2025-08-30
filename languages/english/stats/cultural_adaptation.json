@@ -810,5 +810,18 @@
             "Cultural: Chicago",
             "Cultural: Pizza"
         ]
+    },
+    "amd premium features at affordable prices": {
+        "date": "2025-08-30T11:25:34",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: Apple Pie",
+            "Cultural: Elon Musk"
+        ]
     }
 }
