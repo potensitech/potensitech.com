@@ -849,5 +849,18 @@
             "Cultural: Hollywood",
             "Cultural: Burgers"
         ]
+    },
+    "nvidia flagship product features": {
+        "date": "2025-08-30T19:27:05",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley"
+        ]
     }
 }
