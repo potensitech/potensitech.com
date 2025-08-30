@@ -771,5 +771,18 @@
             "Cultural: Los Angeles",
             "Cultural: Wall Street"
         ]
+    },
+    "top budget sony flagship model": {
+        "date": "2025-08-30T04:56:09",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley",
+            "Cultural: Pizza"
+        ]
     }
 }
