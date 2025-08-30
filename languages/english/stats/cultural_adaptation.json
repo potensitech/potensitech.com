@@ -797,5 +797,18 @@
             "Cultural: New York",
             "Cultural: Los Angeles"
         ]
+    },
+    "amd cost-effective solutions": {
+        "date": "2025-08-30T09:43:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Christmas",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Pizza"
+        ]
     }
 }
