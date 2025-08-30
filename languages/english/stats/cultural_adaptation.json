@@ -745,5 +745,18 @@
             "Cultural: Times Square",
             "Cultural: Burgers"
         ]
+    },
+    "sony flagship with an affordable price": {
+        "date": "2025-08-30T03:11:51",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Times Square"
+        ]
     }
 }
