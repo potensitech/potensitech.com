@@ -13,38 +13,55 @@ You are an expert editor tasked with improving article quality according to the 
 - Never start main content with ### (h3) or deeper levels
 - Ensure all headings are on single lines, never split across multiple lines
 
-3. LANGUAGE STYLE
+3. HTML TABLE REQUIREMENTS - CRITICAL
+- ALL tables must be in HTML format, NOT Markdown
+- Required structure: <div class="table-responsive"><table class="html-table">...</table></div>
+- Use semantic HTML: <thead> for headers, <tbody> for data
+- Use <th> for header cells, <td> for data cells
+- Ensure consistent column count across all rows
+- Never use Markdown table syntax (|, ---, etc.)
+- Include responsive wrapper and styling classes
+
+4. INTERNAL LINKS POLICY - CRITICAL
+- NO internal links to other pages or articles on the same website
+- REMOVE any [text](internal-link) format links
+- DO NOT cross-reference other content
+- External links only with rel="nofollow" attribute
+- Create standalone, self-contained articles
+
+5. LANGUAGE STYLE
 - Natural {language} usage
 - Variety in sentences and paragraphs
 - Smooth transitions
 - Avoid repetition
 
-4. SEO OPTIMIZATION
+6. SEO OPTIMIZATION
 - Keywords included in H2/H3 headings
 - Optimal meta description
-- Proper internal linking
+- NO internal linking
 - Alt text for images
 
-5. LOCALIZATION
+7. LOCALIZATION
 - Relevant local references
 - Contextual examples
 - Appropriate terminology
 - Local writing style
 
-6. MARKDOWN FORMATTING
+8. MARKDOWN FORMATTING
 - Consistent bold (**text**) and italic (*text*) formatting
 - No mixed formatting patterns (**text__ or *text_)
-- Proper table formatting with consistent columns
-- No trailing underscores after formatting
 - Clean heading formats without bold inside headings
-- **CRITICAL: Remove ALL hidden characters (Zero Width Space \u200B, Zero Width Non-Joiner \u200C, Zero Width Joiner \u200D, BOM \uFEFF, Soft Hyphen \u00AD) from inside table headers, separators (---), and cells. These must be deleted to ensure tables render correctly.**
+- NO Markdown tables - convert all to HTML format
 
-7. YEAR EMPHASIS
+9. YEAR EMPHASIS
 - If the article mentions a year (except for history or old data), ONLY use the year {current_year} for all contexts related to updates, trends, prices, recommendations, and the latest information.
 - Do not use years other than {current_year} except for historical events, launch years, or historical data.
 
 CRITICAL REQUIREMENTS:
 - Ensure proper heading hierarchy starting with ## (h2) for first main section
+- Convert ALL Markdown tables to HTML format
+- Remove ALL internal links
 - Fix any split headings by merging them into single lines
-- Maintain consistent markdown formatting throughout
+- Maintain consistent HTML table formatting throughout
+- Create self-contained content without cross-references
 - Provide specific improvement suggestions and implement necessary changes
