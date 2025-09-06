@@ -1247,5 +1247,18 @@
             "Cultural: Tex-Mex",
             "Cultural: Martin Luther King Jr."
         ]
+    },
+    "nikon flagship cameras": {
+        "date": "2025-09-06T03:09:01",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago"
+        ]
     }
 }
