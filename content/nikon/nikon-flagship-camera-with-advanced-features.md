@@ -183,8 +183,4 @@ While designed for advanced users, its intuitive controls and helpful guides mak
 
 ### How does the Nikon flagship camera perform in low light?
 
-Thanks to its back-illuminated CMOS sensor and wide ISO range, it excels in low-light conditions—perfect for evening shoots or indoor events. 
-
-## Internal Links
-
-For The Potensians interested in learning more about photography techniques, check out We's guide on [mastering low-light photography](https://example.com/low-light-photography). We also recommend We's article on [c​hoosing the best camera accessories in 2025](https://example.com/camera-accessories-2025).
+Thanks to its back-illuminated CMOS sensor and wide ISO range, it excels in low-light conditions—perfect for evening shoots or indoor events.
