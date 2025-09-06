@@ -1351,5 +1351,18 @@
             "Cultural: New York",
             "Cultural: Los Angeles"
         ]
+    },
+    "sandisk affordable product features": {
+        "date": "2025-09-06T19:25:03",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square"
+        ]
     }
 }
