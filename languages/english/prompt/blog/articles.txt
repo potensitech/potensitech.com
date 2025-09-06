@@ -41,6 +41,33 @@ Structure: {copywriting_style_name} - {copywriting_style_description}
    - End with {calls_to_action}
    - Close with {closing}
 
+### TABLE REQUIREMENTS
+- ALWAYS use HTML table format instead of Markdown tables
+- Wrap tables in: <div class="table-responsive">
+- Use class="html-table" for styling consistency
+- Structure: <table><thead><tbody> with proper <th> and <td> tags
+- Ensure equal column count in all rows
+- Include at least one relevant data table
+
+HTML TABLE TEMPLATE:
+<div class="table-responsive">
+<table class="html-table">
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+</thead>
+<tbody>
+<tr><td>Value 1</td><td>Value 2</td><td>Value 3</td></tr>
+<tr><td>Value 4</td><td>Value 5</td><td>Value 6</td></tr>
+</tbody>
+</table>
+</div>
+
+### LINKING POLICY
+- NO internal links to other pages or articles on the same website
+- NO cross-references to other content
+- External links only with rel="nofollow" attribute
+- Create self-contained, standalone articles
+
 ### OPTIMIZATION
 Keyword "{keyword}":
 - 1x in introduction
@@ -73,4 +100,4 @@ IMPORTANT (Brand Interpretation - apply if {keyword} contains a brand name):
 
 RULES:  
 - Always generate the product according to the above mapping when the brand is present inside {keyword}.  
-- Never guess alternative product categories.  
+- Never guess alternative product categories.
