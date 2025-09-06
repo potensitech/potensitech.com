@@ -1,0 +1,135 @@
+name: Articles Generation
+
+on:
+  repository_dispatch:
+    types: [trigger-articles-generation]
+  workflow_dispatch:
+
+concurrency:
+  group: articles-generation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  articles-generation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.5'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install openai cryptography nltk textstat requests beautifulsoup4 PyGithub pandas numpy pillow toml pyyaml
+
+      - name: Setup Python path
+        run: |
+          touch core/__init__.py
+          touch core/scripts/__init__.py
+          touch core/config/__init__.py
+          echo "PYTHONPATH=${GITHUB_WORKSPACE}:${PYTHONPATH}" >> $GITHUB_ENV
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Generate articles
+        id: generate-articles
+        run: |
+          export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+          cd "${GITHUB_WORKSPACE}"
+          echo "=== Generating articles with script_run.pyc ==="
+          python core/scripts/script_run.pyc
+          echo "=== Articles generated ==="
+          echo "articles_generation_completed=true" >> $GITHUB_OUTPUT
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Commit articles to master
+        id: commit-articles
+        run: |
+          echo "=== Checking for article changes ==="
+          git status --porcelain
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "articles_generated=true" >> $GITHUB_OUTPUT
+            echo "Article changes detected - committing to master"
+            git add .
+            git commit -m "Generate articles - $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            if ! git push origin master; then
+              echo "Push failed, fetching and retrying..."
+              git fetch origin master
+              git rebase origin/master
+              git push origin master
+            fi
+            echo "Articles committed to master successfully"
+          else
+            echo "articles_generated=false" >> $GITHUB_OUTPUT
+            echo "No article changes detected"
+          fi
+
+      - name: Generate internal links
+        id: generate-internal-links
+        run: |
+          export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+          cd "${GITHUB_WORKSPACE}"
+          echo "=== Running internal linker ==="
+          python core/github/internal_linker.pyc
+          echo "=== Internal links generated ==="
+          echo "internal_links_generation_completed=true" >> $GITHUB_OUTPUT
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Commit internal links to master
+        id: commit-internal-links
+        run: |
+          echo "=== Checking for internal link changes ==="
+          git status --porcelain
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "internal_links_generated=true" >> $GITHUB_OUTPUT
+            echo "Internal link changes detected - committing to master"
+            git add .
+            git commit -m "Generate internal links - $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            if ! git push origin master; then
+              echo "Push failed, fetching and retrying..."
+              git fetch origin master
+              git rebase origin/master
+              git push origin master
+            fi
+            echo "Internal links committed to master successfully"
+          else
+            echo "internal_links_generated=false" >> $GITHUB_OUTPUT
+            echo "No internal link changes detected"
+          fi
+
+      - name: Cleanup article script temp files
+        if: steps.generate-articles.outputs.articles_generation_completed == 'true'
+        run: |
+          export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+          cd "${GITHUB_WORKSPACE}"
+          echo "=== Cleaning up script_run.pyc with script_delete.pyc ==="
+          python core/scripts/script_delete.pyc
+          echo "Article script temp files cleaned"
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Trigger images generation
+        if: |
+          steps.generate-articles.outputs.articles_generation_completed == 'true' || 
+          steps.commit-articles.outputs.articles_generated == 'true' || 
+          steps.commit-internal-links.outputs.internal_links_generated == 'true'
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-images-generation

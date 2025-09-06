@@ -1,0 +1,5 @@
+camera
+battery
+display
+performance
+android

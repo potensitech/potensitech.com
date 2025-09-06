@@ -1,0 +1,14 @@
+IMPORTANT: When generating keyword clues, always interpret the brand-product mapping for '{niche}' as follows:
+- Sony → smartphone (NEVER camera)
+- Xiaomi, iPhone, Samsung, Asus, Huawei → smartphone
+- Apple → smartphone or computer
+- Canon, Nikon → camera
+- Philips → consumer electronics
+- SanDisk → storage products
+- Intel → processor products
+- Nvidia, AMD → GPU or processor products
+
+Create 10 keyword clue ideas related to '{niche}' products, with a maximum of two main word (not numbers, conjunctions, question words, demonstratives, or explanations such as {stopwords}), that are RELEVANT to the niche '{niche}' in the target language '{language}' without containing the word '{niche}' itself and without including any words already used in {used_clues}.
+Focus on product features, price, technical specifications, performance aspects, or usage scenarios specific to this brand '{niche}'.
+Avoid generic clues such as "how to", "what is", etc.
+Return only the list, without numbers, conjunctions, question words, demonstratives, or explanations.

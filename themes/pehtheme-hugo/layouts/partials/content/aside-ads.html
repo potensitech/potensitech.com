@@ -1,0 +1,157 @@
+{{ if .Site.Params.ads.enable }}
+<div class="ad-container rounded-2xl p-4 bg-zinc-100 mb-10">
+    
+    {{ if .Site.Params.ads.adsterra.sidebarBanner }}
+        <div class="adsterra-sidebar-banner mb-4">
+            <div class="responsive-ad-wrapper" 
+                 style="max-width: {{ .Site.Params.ads.adsterra.sidebarBannerWidth | default 300 }}px; margin: 0 auto;"
+                 data-width="{{ .Site.Params.ads.adsterra.sidebarBannerWidth | default 300 }}"
+                 data-height="{{ .Site.Params.ads.adsterra.sidebarBannerHeight | default 250 }}">
+                 
+                <script type="text/javascript">
+                    atOptions = {
+                        'key' : '{{ .Site.Params.ads.adsterra.sidebarBannerKey }}',
+                        'format' : 'iframe',
+                        'height' : {{ .Site.Params.ads.adsterra.sidebarBannerHeight | default 250 }},
+                        'width' : {{ .Site.Params.ads.adsterra.sidebarBannerWidth | default 300 }},
+                        'params' : {}
+                    };
+                </script>
+                {{ $baseUrl := .Site.Params.ads.adsterra.sidebarBannerBaseUrl | default "//www.highperformanceformat.com" }}
+                {{ $scriptPath := .Site.Params.ads.adsterra.sidebarBannerScript | default "/invoke.js" }}
+                {{ $key := .Site.Params.ads.adsterra.sidebarBannerKey }}
+                <script type="text/javascript" src="{{ $baseUrl }}/{{ $key }}{{ $scriptPath }}"></script>
+            </div>
+        </div>
+    {{ end }}
+    
+    {{ if .Site.Params.ads.adsense.sidebar }}
+        <div class="adsense-sidebar-banner mb-4">
+            <div class="responsive-ad-wrapper" 
+                 style="max-width: {{ .Site.Params.ads.adsense.sidebarWidth | default 300 }}px; margin: 0 auto;"
+                 data-width="{{ .Site.Params.ads.adsense.sidebarWidth | default 300 }}"
+                 data-height="{{ .Site.Params.ads.adsense.sidebarHeight | default 250 }}">
+                 
+                <ins class="adsbygoogle"
+                     style="display:block; width:100%; height:{{ .Site.Params.ads.adsense.sidebarHeight | default 250 }}px;"
+                     data-ad-client="{{ .Site.Params.ads.adsense.client }}"
+                     data-ad-slot="{{ .Site.Params.ads.adsense.sidebarSlot }}"
+                     data-ad-format="rectangle"
+                     data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+        </div>
+    {{ end }}
+    
+    {{ if .Site.Params.ads.adsense.displayAds }}
+        <div class="adsense-display-banner mb-4">
+            <div class="responsive-ad-wrapper"
+                 data-width="728"
+                 data-height="90">
+                 
+                <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-client="{{ .Site.Params.ads.adsense.client }}"
+                     data-ad-slot="{{ .Site.Params.ads.adsense.displaySlot }}"
+                     data-ad-format="auto"
+                     data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+        </div>
+    {{ end }}
+    
+    {{ if .Site.Params.ads.adsterra.nativeAds }}
+        <div class="adsterra-native-ads mb-4">
+            <div class="responsive-ad-wrapper" 
+                 data-width="300" data-height="250">
+                 
+                <script type="text/javascript">
+                    atOptions = {
+                        'key' : '{{ .Site.Params.ads.adsterra.nativeAdsKey }}',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                {{ $nativeBaseUrl := .Site.Params.ads.adsterra.nativeAdsBaseUrl | default "//www.highperformanceformat.com" }}
+                {{ $nativeScriptPath := .Site.Params.ads.adsterra.nativeAdsScript | default "/invoke.js" }}
+                {{ $nativeKey := .Site.Params.ads.adsterra.nativeAdsKey }}
+                <script type="text/javascript" src="{{ $nativeBaseUrl }}/{{ $nativeKey }}{{ $nativeScriptPath }}"></script>
+            </div>
+        </div>
+    {{ end }}
+    
+    {{ if and .Site.Params.ads.custom.enable (eq .Site.Params.ads.custom.customAd1Position "sidebar") }}
+        <div class="custom-ad-1 mb-4">
+            <div class="responsive-ad-wrapper"
+                 data-width="300" data-height="250">
+                <script type="text/javascript" src="{{ .Site.Params.ads.custom.customAd1Script }}"></script>
+            </div>
+        </div>
+    {{ end }}
+    
+    {{ if and .Site.Params.ads.adsterra.smartlink (eq .Site.Params.ads.adsterra.smartlinkPlacement "sidebar") }}
+        <div class="smartlink-banner mb-4">
+            <div class="smartlink-container p-3 bg-blue-50 border border-blue-200 rounded-lg text-center hover:bg-blue-100 transition-colors">
+                <a href="{{ .Site.Params.ads.adsterra.smartlinkUrl }}" 
+                   target="_blank" 
+                   rel="noopener sponsored"
+                   class="block text-blue-600 hover:text-blue-800 font-medium">
+                    {{ .Site.Params.ads.adsterra.smartlinkText | default "Sponsored Content" }}
+                </a>
+            </div>
+        </div>
+    {{ end }}
+    
+    <p class="text-right text-xs mt-2 leading-none text-zinc-500">Advertisement</p>
+</div>
+
+<style>
+.responsive-ad-wrapper {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.responsive-ad-wrapper iframe {
+  display: block;
+  border: none;
+  transform-origin: 0 0;
+}
+</style>
+
+<script>
+(function(){
+  function fitAd(wrapper){
+    var iframe = wrapper.querySelector('iframe');
+    if(!iframe) return;
+
+    var baseW = parseInt(wrapper.dataset.width, 10) || iframe.offsetWidth;
+    var baseH = parseInt(wrapper.dataset.height, 10) || iframe.offsetHeight;
+    if(!baseW || !baseH) return;
+
+    var available = wrapper.clientWidth;
+    var scale = Math.min(1, available / baseW);
+
+    iframe.style.width = baseW + "px";
+    iframe.style.height = baseH + "px";
+    iframe.style.transform = "scale(" + scale + ")";
+    wrapper.style.height = (baseH * scale) + "px";
+  }
+
+  function fitAllAds(){
+    document.querySelectorAll('.responsive-ad-wrapper').forEach(fitAd);
+  }
+
+  window.addEventListener('load', fitAllAds);
+  window.addEventListener('resize', fitAllAds);
+  setInterval(fitAllAds, 1500); // refresh berkala kalau iklan inject ulang
+})();
+</script>
+{{ end }}

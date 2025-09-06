@@ -1,0 +1,71 @@
+{{- $scripts := slice }}
+
+{{- with resources.Get "js/insertoggle.js" }}
+  {{- $scripts = $scripts | append . }}
+{{- end }}
+
+{{- with resources.Get "js/darkmode.js" }}
+  {{- $scripts = $scripts | append . }}
+{{- end }}
+
+{{- if eq hugo.Environment "development" }}
+  {{- with $scripts | resources.Concat "js/bundle.js" | js.Build }}
+    <script src="{{ .RelPermalink }}"></script>
+  {{- end }}
+{{- else }}
+  {{- $opts := dict "minify" true }}
+  {{- with $scripts | resources.Concat "js/bundle.js" | js.Build $opts | fingerprint }}
+    <script defer src="{{ .RelPermalink }}" integrity="{{- .Data.Integrity }}" crossorigin="anonymous"></script>
+  {{- end }}
+{{- end }}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Wrap all tables in responsive containers
+  document.querySelectorAll("table").forEach(function (table) {
+    if (!table.parentElement.classList.contains('table-responsive')) {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'table-responsive';
+      wrapper.style.cssText = `
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin: 1.5rem 0;
+        border-radius: 8px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+      `;
+      
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    }
+  });
+  
+  // Enhanced mobile responsiveness
+  function handleTableResize() {
+    document.querySelectorAll(".table-responsive table").forEach(function (table) {
+      const wrapper = table.parentElement;
+      const containerWidth = wrapper.offsetWidth;
+      const tableWidth = table.scrollWidth;
+      const isMobile = window.innerWidth <= 768;
+      
+      if (isMobile && tableWidth > containerWidth) {
+        // Scale down font size and padding for mobile
+        table.style.fontSize = "14px";
+        table.querySelectorAll("th, td").forEach(function(cell) {
+          cell.style.padding = "8px 6px";
+          cell.style.whiteSpace = "nowrap";
+        });
+      } else {
+        // Reset styles for larger screens
+        table.style.fontSize = "";
+        table.querySelectorAll("th, td").forEach(function(cell) {
+          cell.style.padding = "";
+          cell.style.whiteSpace = "";
+        });
+      }
+    });
+  }
+  
+  handleTableResize();
+  window.addEventListener("resize", handleTableResize);
+});
+</script>

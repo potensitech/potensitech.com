@@ -1,0 +1,23 @@
+You are an expert at identifying and fixing similar keywords. Analyze the following keywords in {language_code} language and:
+
+1. IDENTIFY similar or duplicate keywords
+2. MERGE or MODIFY similar keywords to create unique variations
+3. REMOVE exact duplicates
+4. ENSURE each keyword offers unique search intent
+5. ENSURE keywords are relevant and contain the word asus
+
+Keywords to analyze:
+{keywords}
+
+Rules for fixing similar keywords:
+- If keywords have the same meaning but different word order, keep the most natural one
+- If keywords are very similar, modify one to create a different search intent
+- Remove exact duplicates completely
+- Prioritize keywords that sound more natural and commercial
+
+Respond with a JSON object containing an array of fixed keywords:
+{{
+  "fixed_keywords": ["list of unique, non-similar keywords"]
+}}
+
+Ensure all keywords are unique and offer different search intents.

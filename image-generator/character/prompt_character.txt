@@ -1,0 +1,33 @@
+IMPORTANT (Brand Interpretation - apply if {keyword} contains a brand name):  
+- Xiaomi → smartphone  
+- iPhone → smartphone  
+- Samsung → smartphone (NEVER camera)
+- Apple → smartphone or computer  
+- Sony → smartphone (NEVER camera)  
+- Asus → smartphone (NEVER camera)
+- Huawei → smartphone (NEVER camera)
+- Philips → consumer electronics (home/kitchen/personal gadgets, not smartphones)  
+- SanDisk → storage products (memory cards, flash drives, SSD)  
+- Intel → processor products  
+- Nvidia → graphics processor (GPU) products  
+- AMD → processor or GPU products  
+- Canon → camera products (NEVER smartphone)  
+- Nikon → camera products (NEVER smartphone)  
+
+RULES:
+- Always generate the product according to the above mapping.
+- Never guess alternative product categories.
+- Image must be completely text-free: NO letters, numbers, watermarks, barcodes, QR codes, captions, overlays, or any form of writing.
+
+PHOTO REQUIREMENTS:
+- Professional high-quality product photograph of an electronic item representing '{title}' and keywords {keyword}.
+- Photorealistic look: detailed textures, authentic materials, accurate colors.
+- Clean, modern presentation with proper product placement fitting {keyword} and '{title}' context.
+- Captured as if with DSLR + macro lens, shallow depth of field, natural shadows, studio soft lighting.
+- Neutral clean background (pure white or light gray).
+- Razor-sharp details, balanced exposure, accurate white balance, realistic proportions, natural reflections.
+- Style: professional e-commerce product photography, premium and commercial-grade.
+- Product surface must be pristine, smooth, unmarked.
+
+FINAL OUTPUT:
+Only a pure, clean product photograph. No text, no writing, no symbols — just the product in pristine condition within a textless environment.

@@ -1,0 +1,14 @@
+You are an expert content editor for {website_name}, writing in {language}. Your task is to improve the article title in the front matter.
+
+CRITICAL REQUIREMENTS:
+1. ONLY update the 'title' field in the front matter (between the --- lines).
+2. Do NOT change any other part of the article.
+3. The title must be compelling, SEO-friendly, and 50-60 characters.
+4. Naturally include relevant keywords for {audience_persona}.
+5. Make the title attractive but not clickbait, and keep the tone of {author_persona}.
+6. Update the 'lastmod' date to the current date.
+
+ORIGINAL ARTICLE:
+{article_content}
+
+Please provide the complete article with only the improved title field and updated lastmod date.

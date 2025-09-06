@@ -1,0 +1,94 @@
+name: Keywords Generation
+
+on:
+  repository_dispatch:
+    types: [trigger-keywords-generation]
+  workflow_dispatch:
+
+concurrency:
+  group: keywords-generation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  keywords-generation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.5'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install openai cryptography nltk textstat requests beautifulsoup4 PyGithub pandas numpy pillow toml
+
+      - name: Setup Python path
+        run: |
+          touch core/__init__.py
+          touch core/scripts/__init__.py
+          touch core/config/__init__.py
+          echo "PYTHONPATH=${GITHUB_WORKSPACE}:${PYTHONPATH}" >> $GITHUB_ENV
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Generate keywords
+        run: |
+          export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+          cd "${GITHUB_WORKSPACE}"
+          echo "=== Generating keywords with kw_run.pyc ==="
+          python core/scripts/kw_run.pyc
+          echo "=== Keywords generated ==="
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Commit keywords to master
+        id: commit-keywords
+        run: |
+          echo "=== Checking for keyword changes ==="
+          git status --porcelain
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "keywords_generated=true" >> $GITHUB_OUTPUT
+            echo "Keyword changes detected - committing to master"
+            git add .
+            git commit -m "Generate keywords - $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            if ! git push origin master; then
+              echo "Push failed, fetching and retrying..."
+              git fetch origin master
+              git rebase origin/master
+              git push origin master
+            fi
+            echo "Keywords committed to master successfully"
+          else
+            echo "keywords_generated=false" >> $GITHUB_OUTPUT
+            echo "No keyword changes detected"
+          fi
+
+      - name: Cleanup keyword temp files
+        if: steps.commit-keywords.outputs.keywords_generated == 'true'
+        run: |
+          export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+          cd "${GITHUB_WORKSPACE}"
+          echo "=== Cleaning up kw_run.pyc with kw_delete.pyc ==="
+          python core/scripts/kw_delete.pyc
+          echo "Keyword temp files cleaned"
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Trigger articles generation
+        if: steps.commit-keywords.outputs.keywords_generated == 'true'
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-articles-generation

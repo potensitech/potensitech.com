@@ -1,0 +1,123 @@
+{{/* layouts/partials/toc.html */}}
+{{ $headings := findRE "<h[2-6][^>]*>.*?</h[2-6]>" .Content }}
+{{ $minHeadings := site.Params.toc.minHeadings | default 2 }}
+{{ $tocTitle := site.Params.toc.title | default "Daftar Isi" }}
+{{ $tocEnable := site.Params.toc.enable | default true }}
+
+{{/* Check page-level TOC setting */}}
+{{ if isset .Params "toc" }}
+  {{ if isset .Params.toc "enable" }}
+    {{ $tocEnable = .Params.toc.enable }}
+  {{ end }}
+{{ end }}
+
+{{ if and $tocEnable (gt (len $headings) $minHeadings) }}
+<div class="toc-container">
+  {{/* Custom TOC title from front matter */}}
+  {{ $customTitle := "" }}
+  {{ if isset .Params.toc "title" }}
+    {{ $customTitle = .Params.toc.title }}
+  {{ else }}
+    {{ $customTitle = $tocTitle }}
+  {{ end }}
+  
+  <h3>{{ $customTitle }}</h3>
+  <nav class="toc">
+    {{ .TableOfContents }}
+  </nav>
+</div>
+
+<style>
+.toc-container {
+  background-color: var(--color-secondary);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.toc-container h3 {
+  color: var(--color-text);
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.toc ul ul {
+  padding-left: 0.75rem; /* Reduced from 1rem to make less indented */
+  margin-top: 0.125rem; /* Reduced spacing */
+}
+
+.toc li {
+  margin: 0.0625rem 0; /* Reduced from 0.125rem to make more compact */
+}
+
+.toc a {
+  text-decoration: none;
+  color: var(--color-text);
+  display: block;
+  padding: 0.25rem 0.5rem; /* Reduced vertical padding */
+  border-radius: 0.25rem;
+  transition: all 0.15s ease;
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+
+.toc a:hover {
+  color: var(--color-accent);
+  background-color: var(--color-hover);
+  opacity: 1;
+}
+
+.toc li li a {
+  font-size: 0.85rem;
+  padding: 0.2rem 0.5rem; /* Reduced padding */
+  opacity: 0.75;
+}
+
+.toc li li li a {
+  font-size: 0.8rem;
+  padding: 0.2rem 0.5rem; /* Reduced padding */
+  opacity: 0.65;
+}
+
+/* Dark mode border adjustment */
+.dark .toc-container {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Mobile optimization - more compact spacing */
+@media (max-width: 768px) {
+  .toc-container {
+    padding: 0.75rem;
+  }
+  
+  .toc ul ul {
+    padding-left: 0.5rem; /* Even less indentation on mobile */
+  }
+  
+  .toc a {
+    padding: 0.2rem 0.4rem; /* More compact on mobile */
+    font-size: 0.85rem;
+  }
+  
+  .toc li li a {
+    font-size: 0.8rem;
+    padding: 0.15rem 0.4rem;
+  }
+  
+  .toc li li li a {
+    font-size: 0.75rem;
+    padding: 0.15rem 0.4rem;
+  }
+}
+</style>
+{{ end }}

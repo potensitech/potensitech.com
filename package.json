@@ -1,0 +1,27 @@
+{
+  "name": "gohugo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "echo 'Build preparation complete'",
+    "build": "hugo --minify && npm run compress-sitemap",
+    "start": "hugo server",
+    "compress-sitemap": "node core/tools/compress-sitemap.js",
+    "recycle": "node core/tools/recycle-posts.js",
+    "build:recycle": "npm run recycle && npm run build",
+    "dev": "hugo server -D",
+    "clean": "rm -rf public resources",
+    "build:prod": "npm run clean && npm run build:recycle"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "toml": "^3.0.0"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

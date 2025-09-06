@@ -1,0 +1,289 @@
+name: Recycle Posts with AI
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Daily at 02:00 UTC
+  # push:
+    # branches: [ master, main ]
+  workflow_dispatch:
+    inputs:
+      force_recycle:
+        description: 'Force recycle all posts'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  recycle-posts:
+    runs-on: ubuntu-latest
+    
+    env:
+      FORCE_RECYCLE: ${{ github.event.inputs.force_recycle }}
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: '0.135.0'
+        extended: true
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20.14.0'
+        cache: 'npm'
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12.5'
+
+    - name: Install Dependencies
+      run: |
+        npm ci
+        npm install axios toml
+        pip install openai toml cryptography nltk textstat requests beautifulsoup4 PyGithub pandas numpy pillow
+
+    - name: Setup Python Path
+      run: |
+        touch core/__init__.py
+        touch core/github/__init__.py
+        touch core/scripts/__init__.py
+        touch core/config/__init__.py
+        echo "PYTHONPATH=${GITHUB_WORKSPACE}:${PYTHONPATH}" >> $GITHUB_ENV
+
+    - name: Debug Environment
+      run: |
+        echo "Current directory: $(pwd)"
+        echo "Node version: $(node --version)"
+        echo "Hugo version: $(hugo version)"
+        echo "Python version: $(python --version)"
+        echo "Force recycle: $FORCE_RECYCLE"
+
+    - name: Verify Project Structure
+      run: |
+        echo "=== Project Structure ==="
+        ls -la
+        echo "=== Content Directory ==="
+        ls -la content/ || echo "Content directory not found"
+        echo "=== Core Tools ==="
+        ls -la core/tools/ || echo "Core tools directory not found"
+        echo "=== GitHub Scripts ==="
+        ls -la core/github/ || echo "Core github directory not found"
+
+    - name: Run Article Revision with AI
+      run: |
+        echo "=== Running AI Article Revision ==="
+        export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+        cd "${GITHUB_WORKSPACE}"
+        
+        # Check if article revision script exists
+        if [[ -f "core/github/article_revisi_ai.pyc" ]]; then
+          echo "✓ Found article_revisi_ai.pyc"
+          python core/github/article_revisi_ai.pyc
+        elif [[ -f "core/github/article_revisi_ai.py" ]]; then
+          echo "✓ Found article_revisi_ai.py"
+          python core/github/article_revisi_ai.py
+        else
+          echo "⚠ Article revision script not found, skipping..."
+        fi
+      env:
+        PYTHONPATH: ${{ github.workspace }}
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+    - name: Build Hugo Site
+      run: |
+        echo "=== Building Hugo Site ==="
+        if [ -d "content" ]; then
+          echo "📄 Content files before build: $(find content -name '*.md' | wc -l)"
+        fi
+        
+        # Build site
+        hugo --minify
+        
+        echo "=== Hugo Build Completed ==="
+        if [ -d "public" ]; then
+          echo "✅ Public directory created successfully"
+          echo "📁 Public files: $(find public -type f | wc -l)"
+        else
+          echo "❌ Public directory not created"
+          exit 1
+        fi
+
+    - name: Process Sitemap
+      run: |
+        echo "=== Processing Sitemap ==="
+        if [[ -f "core/tools/compress-sitemap.js" ]]; then
+          node core/tools/compress-sitemap.js
+          echo "✓ Sitemap processed successfully"
+        else
+          echo "⚠ Sitemap processor not found"
+        fi
+
+    - name: Configure Git for Commit
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git config --local pull.rebase false
+
+    - name: Commit Changes to Master
+      run: |
+        echo "=== Committing Changes to Master ==="
+        
+        # Add all changes including content and public
+        git add .
+        
+        # Check if there are changes to commit
+        if ! git diff --quiet --staged; then
+          echo "Changes detected, committing to master..."
+          
+          # Create detailed commit message
+          COMMIT_MSG="🤖 Auto-recycle posts with AI revision"
+          
+          # Add timestamp and details
+          TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S UTC')
+          COMMIT_MSG="$COMMIT_MSG - $TIMESTAMP"
+          
+          # Check for new/modified content
+          if git diff --staged --name-only | grep -q "content/"; then
+            COMMIT_MSG="$COMMIT_MSG\n\n✨ Updated content with AI improvements"
+          fi
+          
+          if git diff --staged --name-only | grep -q "public/"; then
+            COMMIT_MSG="$COMMIT_MSG\n🏗️ Rebuilt static site"
+          fi
+          
+          git commit -m "$COMMIT_MSG"
+          echo "✓ Changes committed successfully to master"
+        else
+          echo "ℹ No changes to commit"
+        fi
+
+    - name: Push Changes to Master
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+
+    - name: Trigger Hugo Deploy Workflow
+      run: |
+        echo "=== Triggering Hugo Deploy Workflow ==="
+        curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          https://api.github.com/repos/${{ github.repository }}/dispatches \
+          --data '{
+            "event_type": "trigger-hugo-deploy",
+            "client_payload": {
+              "triggered_by": "recycle-and-deploy",
+              "timestamp": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",
+              "commit_sha": "${{ github.sha }}"
+            }
+          }'
+        echo "✓ Hugo deploy workflow triggered"
+
+    - name: Generate Recycle Summary
+      run: |
+        echo "=== Generating Recycle Summary ==="
+        
+        cat << 'EOF' > recycle-summary.md
+        # 🔄 Content Recycle Summary
+        
+        ## ✅ Completed Tasks
+        - [x] AI-powered article revision
+        - [x] Hugo site build and minification  
+        - [x] Sitemap generation and compression
+        - [x] Changes committed to master branch
+        - [x] Hugo deploy workflow triggered
+        
+        ## 📊 Statistics
+        EOF
+        
+        # Add content statistics
+        if [[ -d "content" ]]; then
+          CONTENT_FILES=$(find content -name '*.md' | wc -l)
+          echo "- **Content Files:** $CONTENT_FILES" >> recycle-summary.md
+        fi
+        
+        if [[ -d "public" ]]; then
+          PUBLIC_FILES=$(find public -type f | wc -l)
+          PUBLIC_SIZE=$(du -sh public | cut -f1)
+          echo "- **Generated Files:** $PUBLIC_FILES" >> recycle-summary.md
+          echo "- **Total Size:** $PUBLIC_SIZE" >> recycle-summary.md
+        fi
+        
+        if [[ -f "public/sitemap.xml" ]]; then
+          SITEMAP_URLS=$(grep -c '<loc>' public/sitemap.xml || echo "0")
+          echo "- **URLs in Sitemap:** $SITEMAP_URLS" >> recycle-summary.md
+        fi
+        
+        cat << 'EOF' >> recycle-summary.md
+        
+        ## 🎯 Next Steps
+        1. Hugo deploy workflow will handle GitHub Pages deployment
+        2. Index workflow will handle search engine notifications
+        3. Monitor deployment status in Actions tab
+        
+        ---
+        *Generated automatically by Recycle Workflow*
+        EOF
+        
+        echo "📋 Recycle Summary:"
+        cat recycle-summary.md
+
+    - name: Archive Recycle Artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: recycle-artifacts-${{ github.run_number }}
+        path: |
+          recycle-summary.md
+          public/sitemap.xml
+        retention-days: 7
+
+    - name: Cleanup Temporary Files
+      run: |
+        echo "=== Cleaning Up Temporary Files ==="
+        # Clean up any temporary files created during the process
+        find . -name "*.tmp" -type f -delete
+        find . -name "*.log" -type f -delete
+        echo "✓ Cleanup completed"
+
+    - name: Final Status Report
+      if: always()
+      run: |
+        echo "=================================="
+        echo "🔄 RECYCLE PROCESS STATUS"
+        echo "=================================="
+        echo "Workflow: ${{ github.workflow }}"
+        echo "Run ID: ${{ github.run_id }}"
+        echo "Commit: ${{ github.sha }}"
+        echo "Status: ${{ job.status }}"
+        echo "Trigger: ${{ github.event_name }}"
+        echo "=================================="
+        
+        if [[ "${{ job.status }}" == "success" ]]; then
+          echo "🎉 Content recycle completed successfully!"
+          echo "🚀 Hugo deploy workflow has been triggered"
+          echo "📈 Updated content committed to master branch"
+        else
+          echo "⚠️ Recycle process completed with issues"
+          echo "📝 Check the logs and artifacts for details"
+        fi
+        echo "=================================="
+
+    - name: Notify on Failure
+      if: failure()
+      run: |
+        echo "=== Recycle Process Failed ==="
+        echo "❌ The content recycle process encountered an error."
+        echo "📋 Common issues and solutions:"
+        echo "   - AI revision failed: Check OpenAI API key and quota"
+        echo "   - Hugo build failed: Check content syntax and configuration"
+        echo "   - Git commit failed: Check repository permissions"
+        echo "   - Workflow trigger failed: Check GitHub token permissions"

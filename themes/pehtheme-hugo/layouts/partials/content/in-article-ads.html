@@ -1,0 +1,118 @@
+{{ if .Site.Params.ads.enable }}
+<div class="in-article-ad my-6 p-4 bg-zinc-50 rounded-lg text-center border border-zinc-200">
+    
+    <!-- Adsterra In-Article Ad - Dynamic URL System -->
+    {{ if .Site.Params.ads.adsterra.inArticle }}
+        <div class="adsterra-in-article mb-4">
+            <div class="responsive-in-article-wrapper">
+                <script type="text/javascript">
+                    atOptions = {
+                        'key' : '{{ .Site.Params.ads.adsterra.inArticleKey }}',
+                        'format' : 'iframe',
+                        'height' : '{{ .Site.Params.ads.adsterra.inArticleHeight | default 90 }}',
+                        'width' : '{{ .Site.Params.ads.adsterra.inArticleWidth | default 728 }}',
+                        'params' : {}
+                    };
+                </script>
+                <!-- Dynamic script URL -->
+                {{ $baseUrl := .Site.Params.ads.adsterra.inArticleBaseUrl | default "//www.highperformanceformat.com" }}
+                {{ $scriptPath := .Site.Params.ads.adsterra.inArticleScript | default "/invoke.js" }}
+                {{ $key := .Site.Params.ads.adsterra.inArticleKey }}
+                <script type="text/javascript" src="{{ $baseUrl }}/{{ $key }}{{ $scriptPath }}"></script>
+            </div>
+        </div>
+    {{ end }}
+    
+    <!-- Google AdSense In-Article Ad -->
+    {{ if .Site.Params.ads.adsense.inArticle }}
+        <div class="adsense-in-article mb-4">
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center; max-width: 100%;"
+                 data-ad-layout="{{ .Site.Params.ads.adsense.inArticleLayout | default "in-article" }}"
+                 data-ad-format="{{ .Site.Params.ads.adsense.inArticleFormat | default "auto" }}"
+                 data-ad-client="{{ .Site.Params.ads.adsense.client }}"
+                 data-ad-slot="{{ .Site.Params.ads.adsense.inArticleSlot }}"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    {{ end }}
+    
+    <!-- Custom Ad Network Support in artcile -->
+    {{ if and .Site.Params.ads.custom.enable (eq .Site.Params.ads.custom.customAd2Position "content") }}
+        <div class="custom-ad-2 mb-4">
+            <div class="responsive-in-article-wrapper">
+                <script type="text/javascript" src="{{ .Site.Params.ads.custom.customAd2Script }}"></script>
+            </div>
+        </div>
+    {{ end }}
+    
+    <!-- SmartLink in artcile -->
+    {{ if and .Site.Params.ads.adsterra.smartlink (eq .Site.Params.ads.adsterra.smartlinkPlacement "content") }}
+        <div class="smartlink-content mb-4">
+            <div class="smartlink-container p-4 bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-lg">
+                <p class="text-sm text-gray-600 mb-2">{{ .Site.Params.ads.adsterra.smartlinkDescription | default "Sponsored Content" }}</p>
+                <a href="{{ .Site.Params.ads.adsterra.smartlinkUrl }}" 
+                   target="_blank" 
+                   rel="noopener sponsored"
+                   class="inline-block bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md font-medium transition-colors">
+                    {{ .Site.Params.ads.adsterra.smartlinkText | default "Learn More" }}
+                </a>
+            </div>
+        </div>
+    {{ end }}
+    
+    <p class="text-xs text-zinc-500 mt-2">Advertisement</p>
+</div>
+
+<!-- CSS for responsive in-article ads -->
+<style>
+.in-article-ad {}
+
+.responsive-in-article-wrapper{
+  position: relative;
+  width: 100%;
+  max-width: 728px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.responsive-in-article-wrapper iframe{
+  display: block;
+  width: 728px;
+  height: 90px;
+  border: 0;
+  transform-origin: 0 0;
+}
+
+@media (max-width:480px){
+  .in-article-ad{ margin:1rem 0; padding:0.75rem; }
+}
+</style>
+
+<script>
+(function(){
+  var BASE_W = 728, BASE_H = 90;
+
+  function fit(el){
+    var f = el.querySelector('iframe');
+    if(!f) return;
+    var available = el.clientWidth;
+    var scale = Math.min(1, available / BASE_W);
+    f.style.transform = 'scale(' + scale + ')';
+    el.style.height = (BASE_H * scale) + 'px';
+  }
+
+  function fitAll(){
+    document.querySelectorAll('.responsive-in-article-wrapper').forEach(fit);
+  }
+
+  // saat halaman siap + resize + setelah script iklan inject iframe
+  window.addEventListener('load', fitAll);
+  window.addEventListener('resize', fitAll);
+  setTimeout(fitAll, 500);
+  setTimeout(fitAll, 1500);
+})();
+</script>
+{{ end }}

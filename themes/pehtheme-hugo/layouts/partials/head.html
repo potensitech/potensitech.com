@@ -1,0 +1,681 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Dynamic title for SEO -->
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+<!-- Dynamic description for SEO -->
+<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}">
+
+<!-- Meta Keywords -->
+{{ if .Params.keywords }}
+  {{ if reflect.IsSlice .Params.keywords }}
+<meta name="keywords" content="{{ delimit .Params.keywords ", " }}">
+  {{ else }}
+<meta name="keywords" content="{{ .Params.keywords }}">
+  {{ end }}
+{{ else if .IsHome }}
+  {{ if .Site.Params.keywords }}
+    {{ if reflect.IsSlice .Site.Params.keywords }}
+<meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+    {{ else }}
+<meta name="keywords" content="{{ .Site.Params.keywords }}">
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<!-- Robots Meta Tag -->
+{{ $robotsContent := "index, follow" }}
+{{ if .Params.noindex }}
+  {{ $robotsContent = "noindex, nofollow" }}
+{{ else if eq .Kind "taxonomy" }}
+  {{ $robotsContent = "noindex, follow" }}
+{{ else if eq .Kind "term" }}
+  {{ $robotsContent = "noindex, follow" }}
+{{ else if and (ne .Kind "page") (ne .Kind "home") (.Paginator) }}
+  {{ if gt .Paginator.PageNumber 1 }}
+    {{ $robotsContent = "noindex, follow" }}
+  {{ end }}
+{{ end }}
+<meta name="robots" content="{{ $robotsContent }}">
+
+<!-- Open Graph Tags -->
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description | default .Summary }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+{{ if .Params.featuredImage }}
+<meta property="og:image" content="{{ .Params.featuredImage | absURL }}">
+{{ else if .Site.Params.defaultImage }}
+<meta property="og:image" content="{{ .Site.Params.defaultImage | absURL }}">
+{{ end }}
+{{ if not .IsHome }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
+{{ if .Lastmod }}
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
+{{ end }}
+{{ if .Params.author }}
+<meta property="article:author" content="{{ .Params.author }}">
+{{ end }}
+{{ range .Params.categories }}
+<meta property="article:section" content="{{ . }}">
+{{ end }}
+{{ range .Params.tags }}
+<meta property="article:tag" content="{{ . }}">
+{{ end }}
+{{ end }}
+
+<!-- Twitter Card Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description | default .Summary }}{{ end }}">
+{{ if .Params.featuredImage }}
+<meta name="twitter:image" content="{{ .Params.featuredImage | absURL }}">
+{{ else if .Site.Params.defaultImage }}
+<meta name="twitter:image" content="{{ .Site.Params.defaultImage | absURL }}">
+{{ end }}
+{{ if .Site.Params.social.twitter }}
+<meta name="twitter:site" content="@{{ .Site.Params.social.twitter }}">
+{{ end }}
+{{ if .Params.twitterCreator }}
+<meta name="twitter:creator" content="@{{ .Params.twitterCreator }}">
+{{ else if .Site.Params.twitterCreator }}
+<meta name="twitter:creator" content="@{{ .Site.Params.twitterCreator }}">
+{{ end }}
+
+<!-- Canonical URL Implementation -->
+{{ if .IsHome }}
+  <!-- Homepage canonical -->
+  <link rel="canonical" href="{{ .Site.BaseURL | absURL }}">
+{{ else if .IsPage }}
+  <!-- Individual page/post canonical -->
+  <link rel="canonical" href="{{ .Permalink }}">
+{{ else if .IsSection }}
+  <!-- Section/category page canonical -->
+  <link rel="canonical" href="{{ .Permalink }}">
+{{ else if .Kind }}
+  <!-- Other page types (taxonomy, etc.) -->
+  <link rel="canonical" href="{{ .Permalink }}">
+{{ end }}
+
+{{- partialCached "head/css.html" . -}}
+{{- partialCached "head/favicon.html" . -}}
+
+<!-- Ad Scripts Configuration - Dynamic URL System -->
+{{ if .Site.Params.ads.enable }}
+  
+  <!-- Google AdSense Scripts - Dynamic Script URL -->
+  {{ if or .Site.Params.ads.adsense.sidebar .Site.Params.ads.adsense.inArticle .Site.Params.ads.adsense.autoAds .Site.Params.ads.adsense.displayAds }}
+    {{ $adsenseScriptUrl := .Site.Params.ads.adsense.scriptUrl | default "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" }}
+    <script async src="{{ $adsenseScriptUrl }}?client={{ .Site.Params.ads.adsense.client }}"
+         crossorigin="anonymous"></script>
+    
+    {{ if .Site.Params.ads.adsense.autoAds }}
+    <!-- Auto Ads -->
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "{{ .Site.Params.ads.adsense.client }}",
+              enable_page_level_ads: true
+         });
+    </script>
+    {{ end }}
+  {{ end }}
+
+  <!-- Adsterra Scripts - Flexible URL Loading -->
+  {{ if .Site.Params.ads.adsterra.popunder }}
+    <script defer type='text/javascript' src='{{ .Site.Params.ads.adsterra.popunderScript }}'></script>
+  {{ end }}
+  
+  {{ if .Site.Params.ads.adsterra.socialbar }}
+    <script defer type='text/javascript' src='{{ .Site.Params.ads.adsterra.socialbarScript }}'></script>
+  {{ end }}
+
+  <!-- Custom Ad Networks Scripts -->
+  {{ if .Site.Params.ads.custom.enable }}
+    {{ if .Site.Params.ads.custom.customAd1Script }}
+      <script defer type='text/javascript' src='{{ .Site.Params.ads.custom.customAd1Script }}'></script>
+    {{ end }}
+    {{ if .Site.Params.ads.custom.customAd2Script }}
+      <script defer type='text/javascript' src='{{ .Site.Params.ads.custom.customAd2Script }}'></script>
+    {{ end }}
+  {{ end }}
+
+  <!-- Ad Loading Optimization dan Error Handling -->
+  <script>
+    // Enhanced ad loading dengan error handling
+    document.addEventListener('DOMContentLoaded', function() {
+      // Lazy load ads untuk performance lebih baik
+      const adContainers = document.querySelectorAll('.ad-container, .in-article-ad');
+      
+      if ('IntersectionObserver' in window) {
+        const adObserver = new IntersectionObserver((entries, observer) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              // Ad terlihat, pastikan script sudah loaded
+              const adScripts = entry.target.querySelectorAll('script');
+              adScripts.forEach(script => {
+                if (script.src && !script.dataset.loaded) {
+                  script.dataset.loaded = 'true';
+                  
+                  // Error handling untuk script yang gagal load
+                  script.onerror = function() {
+                    console.warn('Ad script failed to load:', script.src);
+                    // Bisa tambahkan fallback ad atau notifikasi
+                  };
+                }
+              });
+              observer.unobserve(entry.target);
+            }
+          });
+        }, { threshold: 0.1 });
+
+        adContainers.forEach(container => {
+          adObserver.observe(container);
+        });
+      }
+      
+      // Fallback untuk browser yang tidak support IntersectionObserver
+      else {
+        adContainers.forEach(container => {
+          container.classList.add('ad-visible');
+        });
+      }
+    });
+    
+    // Ad blocker detection (optional)
+    function detectAdBlocker() {
+      const testAd = document.createElement('div');
+      testAd.innerHTML = '&nbsp;';
+      testAd.className = 'adsbox';
+      testAd.style.position = 'absolute';
+      testAd.style.left = '-10000px';
+      document.body.appendChild(testAd);
+      
+      setTimeout(function() {
+        const isBlocked = testAd.offsetHeight === 0;
+        if (isBlocked) {
+          console.log('Ad blocker detected');
+          // Handle ad blocker scenario
+        }
+        document.body.removeChild(testAd);
+      }, 100);
+    }
+    
+    // Uncomment jika ingin detect ad blocker
+    // detectAdBlocker();
+  </script>
+
+{{ end }}
+
+{{- /* template "_internal/google_analytics.html" . */ -}}
+
+<!-- Dynamic Schema.org JSON-LD based on schema_type -->
+{{ if not .IsHome }}
+{{ $schemaType := .Params.schema_type | default "BlogPosting" }}
+
+{{ if eq $schemaType "Product" }}
+<!-- Product Schema with comprehensive field mapping for nested, flat, and mixed formats -->
+{{ $productName := (.Params.product.name | default .Params.productname | default .Params.product_name | default .Params.name | default .Title) }}
+{{ $productPrice := (.Params.product.price | default .Params.productprice | default .Params.product_price | default .Params.price | default "0") }}
+{{ $productCurrency := (.Params.product.currency | default .Params.productcurrency | default .Params.product_currency | default .Params.currency | default "USD") }}
+{{ $productRating := (.Params.product.rating | default .Params.productrating | default .Params.product_rating | default .Params.rating | default "5") }}
+{{ $productRatingCount := (.Params.product.ratingCount | default .Params.productratingcount | default .Params.product_ratingcount | default .Params.product_rating_count | default .Params.ratingCount | default .Params.rating_count | default "127") }}
+{{ $productAvailability := (.Params.product.availability | default .Params.productavailability | default .Params.product_availability | default .Params.availability | default "InStock") }}
+{{ $productBrand := (.Params.product.brand | default .Params.productbrand | default .Params.product_brand | default .Params.brand | default (index .Params.categories 0) | default .Site.Title) }}
+{{ $productCategory := (.Params.product.category | default .Params.productcategory | default .Params.product_category | default .Params.category | default (index .Params.categories 0)) }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ $productName }}",
+  "description": "{{ .Params.description }}",
+  "image": "{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.defaultImage | absURL }}{{ end }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ $productBrand }}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "{{ $productPrice | replaceRE "[^0-9.]" "" }}",
+    "priceCurrency": "{{ $productCurrency }}",
+    "availability": "https://schema.org/{{ $productAvailability }}"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $productRating }}",
+    "ratingCount": "{{ $productRatingCount }}"
+  },
+  "category": "{{ $productCategory }}"
+}
+</script>
+
+{{ else if eq $schemaType "NewsArticle" }}
+{{ $newsHeadline := (.Params.news.headline | default .Params.newsheadline | default .Params.news_headline | default .Params.headline | default .Title) }}
+{{ $newsPublisher := (.Params.news.publisher | default .Params.newspublisher | default .Params.news_publisher | default .Params.publisher | default .Site.Title) }}
+{{ $newsDatePublished := (.Params.news.datePublished | default .Params.newsdatePublished | default .Params.news_datePublished | default .Params.datePublished | default .Params.date_published) }}
+{{ $newsDateModified := (.Params.news.dateModified | default .Params.newsdateModified | default .Params.news_dateModified | default .Params.dateModified | default .Params.date_modified) }}
+{{ $newsSection := (.Params.news.section | default .Params.newssection | default .Params.news_section | default .Params.section | default (index .Params.categories 0)) }}
+{{ $newsLocation := (.Params.news.location | default .Params.newslocation | default .Params.news_location | default .Params.location) }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "headline": "{{ $newsHeadline }}",
+  "description": "{{ .Params.description }}",
+  "image": "{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.defaultImage | absURL }}{{ end }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author }}"{{ with .Params.authorLink }},
+    "url": "{{ . | absURL }}"{{ end }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ $newsPublisher }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ (.Site.Params.logo | default "/logo.png") | absURL }}"
+    }
+  },
+  "datePublished": "{{ if $newsDatePublished }}{{ $newsDatePublished }}{{ else }}{{ with .Date }}{{ .Format "2006-01-02T15:04:05-07:00" }}{{ end }}{{ end }}",
+  "dateModified": "{{ if $newsDateModified }}{{ $newsDateModified }}{{ else }}{{ with .Lastmod }}{{ .Format "2006-01-02T15:04:05-07:00" }}{{ end }}{{ end }}",
+  "articleSection": "{{ $newsSection }}"{{ if $newsLocation }},
+  "contentLocation": {
+    "@type": "Place",
+    "name": "{{ $newsLocation }}"
+  }{{ end }}
+}
+</script>
+
+{{ else if eq $schemaType "Person" }}
+{{ $personName := (.Params.person.name | default .Params.personname | default .Params.person_name | default .Params.name | default .Title) }}
+{{ $personDescription := (.Params.person.description | default .Params.persondescription | default .Params.person_description | default .Params.description) }}
+{{ $personJobTitle := (.Params.person.jobTitle | default .Params.personjobTitle | default .Params.person_jobTitle | default .Params.jobTitle | default .Params.job_title | default "Professional") }}
+{{ $personWorksFor := (.Params.person.worksFor | default .Params.personworksFor | default .Params.person_worksFor | default .Params.worksFor | default .Params.works_for | default .Site.Title) }}
+{{ $personSameAs := (.Params.person.sameAs | default .Params.personsameAs | default .Params.person_sameAs | default .Params.sameAs | default .Params.same_as) }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ $personName }}",
+  "description": "{{ $personDescription }}",
+  "jobTitle": "{{ $personJobTitle }}",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "{{ $personWorksFor }}"
+  },
+  "image": "{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.defaultImage | absURL }}{{ end }}",
+  "url": "{{ .Permalink }}"{{ if $personSameAs }},
+  "sameAs": [{{ range $i, $e := $personSameAs }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}]{{ end }}
+}
+</script>
+
+{{ else if eq $schemaType "LocalBusiness" }}
+{{ $businessName := (.Params.business.name | default .Params.businessname | default .Params.business_name | default .Params.name | default .Title) }}
+{{ $businessDescription := (.Params.business.description | default .Params.businessdescription | default .Params.business_description | default .Params.description) }}
+{{ $businessAddress := (.Params.business.address | default .Params.businessaddress | default .Params.business_address | default .Params.address | default "Local Area") }}
+{{ $businessTelephone := (.Params.business.telephone | default .Params.businesstelephone | default .Params.business_telephone | default .Params.telephone | default .Params.phone | default "+1-555-0123") }}
+{{ $businessPriceRange := (.Params.business.priceRange | default .Params.businesspriceRange | default .Params.business_priceRange | default .Params.priceRange | default .Params.price_range | default "Rp") }}
+{{ $businessOpeningHours := (.Params.business.openingHours | default .Params.businessopeningHours | default .Params.business_openingHours | default .Params.openingHours | default .Params.opening_hours | default "Mo-Fr 09:00-17:00") }}
+{{ $businessRating := (.Params.business.rating | default .Params.businessrating | default .Params.business_rating | default .Params.rating | default "5") }}
+{{ $businessRatingCount := (.Params.business.ratingCount | default .Params.businessratingCount | default .Params.business_ratingCount | default .Params.ratingCount | default .Params.rating_count | default "89") }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{ $businessName }}",
+  "description": "{{ $businessDescription }}",
+  "image": "{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.defaultImage | absURL }}{{ end }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ $businessAddress }}"
+  },
+  "telephone": "{{ $businessTelephone }}",
+  "priceRange": "{{ $businessPriceRange }}",
+  "openingHours": "{{ $businessOpeningHours }}",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $businessRating }}",
+    "ratingCount": "{{ $businessRatingCount }}"
+  },
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ else if eq $schemaType "Service" }}
+{{ $serviceName := (.Params.service.name | default .Params.servicename | default .Params.service_name | default .Params.name | default .Title) }}
+{{ $serviceType := (.Params.service.serviceType | default .Params.serviceserviceType | default .Params.service_serviceType | default .Params.serviceType | default .Params.service_type | default "Professional Service") }}
+{{ $serviceDescription := (.Params.service.description | default .Params.servicedescription | default .Params.service_description | default .Params.description) }}
+{{ $serviceProvider := (.Params.service.provider | default .Params.serviceprovider | default .Params.service_provider | default .Params.provider | default .Site.Title) }}
+{{ $serviceAreaServed := (.Params.service.areaServed | default .Params.serviceareaserved | default .Params.service_areaServed | default .Params.areaServed | default .Params.area_served | default "Global") }}
+{{ $serviceRating := (.Params.service.rating | default .Params.servicerating | default .Params.service_rating | default .Params.rating | default "5") }}
+{{ $serviceRatingCount := (.Params.service.ratingCount | default .Params.serviceratingCount | default .Params.service_ratingCount | default .Params.ratingCount | default .Params.rating_count | default "156") }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "{{ $serviceName }}",
+  "serviceType": "{{ $serviceType }}",
+  "description": "{{ $serviceDescription }}",
+  "provider": {
+    "@type": "Organization",
+    "name": "{{ $serviceProvider }}"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "{{ $serviceAreaServed }}"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $serviceRating }}",
+    "ratingCount": "{{ $serviceRatingCount }}"
+  },
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ else if eq $schemaType "Recipe" }}
+{{ $recipeName := (.Params.recipe.name | default .Params.recipename | default .Params.recipe_name | default .Params.name | default .Title) }}
+{{ $recipeDescription := (.Params.recipe.description | default .Params.recipedescription | default .Params.recipe_description | default .Params.description) }}
+{{ $recipeAuthor := (.Params.recipe.author | default .Params.recipeauthor | default .Params.recipe_author | default .Params.author) }}
+{{ $recipePrepTime := (.Params.recipe.prepTime | default .Params.recipeprepTime | default .Params.recipe_prepTime | default .Params.prepTime | default .Params.prep_time | default "PT30M") }}
+{{ $recipeCookTime := (.Params.recipe.cookTime | default .Params.recipecookTime | default .Params.recipe_cookTime | default .Params.cookTime | default .Params.cook_time | default "PT60M") }}
+{{ $recipeTotalTime := (.Params.recipe.totalTime | default .Params.recipetotalTime | default .Params.recipe_totalTime | default .Params.totalTime | default .Params.total_time | default "PT30M") }}
+{{ $recipeYield := (.Params.recipe.recipeYield | default .Params.reciperecipeYield | default .Params.recipe_recipeYield | default .Params.recipeYield | default .Params.recipe_yield | default "4 servings") }}
+{{ $recipeCategory := (.Params.recipe.recipeCategory | default .Params.reciperecipeCategory | default .Params.recipe_recipeCategory | default .Params.recipeCategory | default .Params.recipe_category | default (index .Params.categories 0)) }}
+{{ $recipeCuisine := (.Params.recipe.recipeCuisine | default .Params.reciperecipeCuisine | default .Params.recipe_recipeCuisine | default .Params.recipeCuisine | default .Params.recipe_cuisine | default "International") }}
+{{ $recipeKeywords := (.Params.recipe.keywords | default .Params.recipekeywords | default .Params.recipe_keywords | default .Params.keywords) }}
+{{ $recipeCalories := (.Params.recipe.nutrition.calories | default .Params.recipenutritioncalories | default .Params.recipe_nutrition_calories | default .Params.calories | default "250 calories") }}
+{{ $recipeRating := (.Params.recipe.aggregateRating.ratingValue | default .Params.recipeaggregateRatingratingValue | default .Params.recipe_aggregateRating_ratingValue | default .Params.rating | default "5") }}
+{{ $recipeRatingCount := (.Params.recipe.aggregateRating.ratingCount | default .Params.recipeaggregateRatingratingCount | default .Params.recipe_aggregateRating_ratingCount | default .Params.rating_count | default "89") }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "{{ $recipeName }}",
+  "description": "{{ $recipeDescription }}",
+  "image": "{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.defaultImage | absURL }}{{ end }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ $recipeAuthor }}"
+  },
+  "prepTime": "{{ $recipePrepTime }}",
+  "cookTime": "{{ $recipeCookTime }}",
+  "totalTime": "{{ $recipeTotalTime }}",
+  "recipeYield": "{{ $recipeYield }}",
+  "recipeCategory": "{{ $recipeCategory }}",
+  "recipeCuisine": "{{ $recipeCuisine }}",
+  "keywords": [{{ range $i, $e := $recipeKeywords }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "{{ $recipeCalories }}"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $recipeRating }}",
+    "ratingCount": "{{ $recipeRatingCount }}"
+  },
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ else if eq $schemaType "FAQPage" }}
+{{ $faqName := (.Params.faq.name | default .Params.faqname | default .Params.faq_name | default .Params.name | default .Title) }}
+{{ $faqDescription := (.Params.faq.description | default .Params.faqdescription | default .Params.faq_description | default .Params.description) }}
+{{ $faqAuthor := (.Params.faq.author | default .Params.faqauthor | default .Params.faq_author | default .Params.author) }}
+{{ $faqPublisher := (.Params.faq.publisher | default .Params.faqpublisher | default .Params.faq_publisher | default .Params.publisher | default .Site.Title) }}
+{{ $faqDatePublished := (.Params.faq.datePublished | default .Params.faqdatePublished | default .Params.faq_datePublished | default .Params.datePublished | default .Params.date_published) }}
+{{ $faqDateModified := (.Params.faq.dateModified | default .Params.faqdateModified | default .Params.faq_dateModified | default .Params.dateModified | default .Params.date_modified) }}
+{{ $faqQuestion := (.Params.faq.mainEntity.question | default .Params.faqmainEntityquestion | default .Params.faq_mainEntity_question | default .Params.question | default "What is this about?") }}
+{{ $faqAnswer := (.Params.faq.mainEntity.answer | default .Params.faqmainEntityanswer | default .Params.faq_mainEntity_answer | default .Params.answer | default "This is the answer to the question.") }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "{{ $faqName }}",
+  "description": "{{ $faqDescription }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ $faqAuthor }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ $faqPublisher }}"
+  },
+  "datePublished": "{{ if $faqDatePublished }}{{ $faqDatePublished }}{{ else }}{{ with .Date }}{{ .Format "2006-01-02T15:04:05-07:00" }}{{ end }}{{ end }}",
+  "dateModified": "{{ if $faqDateModified }}{{ $faqDateModified }}{{ else }}{{ with .Lastmod }}{{ .Format "2006-01-02T15:04:05-07:00" }}{{ end }}{{ end }}",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "{{ $faqQuestion }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faqAnswer }}"
+      }
+    }
+  ],
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ else if eq $schemaType "JobPosting" }}
+{{ $jobTitle := (.Params.job.title | default .Params.jobtitle | default .Params.job_title | default .Params.title | default .Title) }}
+{{ $jobDescription := (.Params.job.description | default .Params.jobdescription | default .Params.job_description | default .Params.description) }}
+{{ $jobDatePosted := (.Params.job.datePosted | default .Params.jobdatePosted | default .Params.job_datePosted | default .Params.datePosted | default .Params.date_posted) }}
+{{ $jobValidThrough := (.Params.job.validThrough | default .Params.jobvalidThrough | default .Params.job_validThrough | default .Params.validThrough | default .Params.valid_through) }}
+{{ $jobEmploymentType := (.Params.job.employmentType | default .Params.jobemploymentType | default .Params.job_employmentType | default .Params.employmentType | default .Params.employment_type | default "FULL_TIME") }}
+{{ $jobLocationLocality := (.Params.job.jobLocation.addressLocality | default .Params.jobjobLocationaddressLocality | default .Params.job_jobLocation_addressLocality | default .Params.addressLocality | default .Params.address_locality | default .Params.location | default "Global") }}
+{{ $jobLocationCountry := (.Params.job.jobLocation.addressCountry | default .Params.jobjobLocationaddressCountry | default .Params.job_jobLocation_addressCountry | default .Params.addressCountry | default .Params.address_country | default "World") }}
+{{ $jobSalaryCurrency := (.Params.job.baseSalary.currency | default .Params.jobbaseSalarycurrency | default .Params.job_baseSalary_currency | default .Params.currency | default "USD") }}
+{{ $jobSalaryValue := (.Params.job.baseSalary.value | default .Params.jobbaseSalaryvalue | default .Params.job_baseSalary_value | default .Params.salary | default "5000") }}
+{{ $jobHiringOrgName := (.Params.job.hiringOrganization.name | default .Params.jobhiringOrganizationname | default .Params.job_hiringOrganization_name | default .Params.company | default .Site.Title) }}
+{{ $jobHiringOrgSameAs := (.Params.job.hiringOrganization.sameAs | default .Params.jobhiringOrganizationsameAs | default .Params.job_hiringOrganization_sameAs | default .Site.BaseURL) }}
+{{ $jobBenefits := (.Params.job.jobBenefits | default .Params.jobjobBenefits | default .Params.job_jobBenefits | default .Params.jobBenefits | default .Params.job_benefits | default "Competitive salary and benefits") }}
+{{ $jobQualifications := (.Params.job.qualifications | default .Params.jobqualifications | default .Params.job_qualifications | default .Params.qualifications | default "Relevant experience required") }}
+{{ $jobResponsibilities := (.Params.job.responsibilities | default .Params.jobresponsibilities | default .Params.job_responsibilities | default .Params.responsibilities | default "Key job responsibilities") }}
+{{ $jobIndustry := (.Params.job.industry | default .Params.jobindustry | default .Params.job_industry | default .Params.industry | default (index .Params.categories 0)) }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "{{ $jobTitle }}",
+  "description": "{{ $jobDescription }}",
+  "datePosted": "{{ if $jobDatePosted }}{{ $jobDatePosted }}{{ else }}{{ with .Date }}{{ .Format "2006-01-02T15:04:05-07:00" }}{{ end }}{{ end }}",
+  "validThrough": "{{ if $jobValidThrough }}{{ $jobValidThrough }}{{ else }}{{ with .Lastmod }}{{ .AddDate 0 3 0 | dateFormat "2006-01-02T15:04:05-07:00" }}{{ end }}{{ end }}",
+  "employmentType": "{{ $jobEmploymentType }}",
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ $jobLocationLocality }}",
+      "addressCountry": "{{ $jobLocationCountry }}"
+    }
+  },
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "{{ $jobSalaryCurrency }}",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": "{{ $jobSalaryValue }}",
+      "unitText": "MONTH"
+    }
+  },
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "{{ $jobHiringOrgName }}",
+    "sameAs": "{{ $jobHiringOrgSameAs }}"
+  },
+  "jobBenefits": "{{ $jobBenefits }}",
+  "qualifications": "{{ $jobQualifications }}",
+  "responsibilities": "{{ $jobResponsibilities }}",
+  "industry": "{{ $jobIndustry }}",
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ else if eq $schemaType "Course" }}
+{{ $courseName := (.Params.course.name | default .Params.coursename | default .Params.course_name | default .Params.name | default .Title) }}
+{{ $courseDescription := (.Params.course.description | default .Params.coursedescription | default .Params.course_description | default .Params.description) }}
+{{ $courseProvider := (.Params.course.provider | default .Params.courseprovider | default .Params.course_provider | default .Params.provider | default .Site.Title) }}
+{{ $courseCode := (.Params.course.courseCode | default .Params.coursecourseCode | default .Params.course_courseCode | default .Params.courseCode | default .Params.course_code | default "COURSE-001") }}
+{{ $courseLevel := (.Params.course.educationalLevel | default .Params.courseeducationalLevel | default .Params.course_educationalLevel | default .Params.educationalLevel | default .Params.educational_level | default .Params.level | default "Beginner") }}
+{{ $courseTimeRequired := (.Params.course.timeRequired | default .Params.coursetimeRequired | default .Params.course_timeRequired | default .Params.timeRequired | default .Params.time_required | default .Params.duration | default "P1M") }}
+{{ $coursePrerequisites := (.Params.course.coursePrerequisites | default .Params.coursecoursePrerequisites | default .Params.course_coursePrerequisites | default .Params.coursePrerequisites | default .Params.course_prerequisites | default .Params.prerequisites | default "Basic understanding recommended") }}
+{{ $courseCredential := (.Params.course.occupationalCredentialAwarded | default .Params.courseoccupationalCredentialAwarded | default .Params.course_occupationalCredentialAwarded | default .Params.occupationalCredentialAwarded | default .Params.occupational_credential_awarded | default .Params.credential | default "Certificate of Completion") }}
+{{ $courseInstructorName := (.Params.course.instructor.name | default .Params.courseinstructorname | default .Params.course_instructor_name | default .Params.instructorname | default .Params.instructor_name | default .Params.instructor | default .Params.author) }}
+{{ $courseInstructorJobTitle := (.Params.course.instructor.jobTitle | default .Params.courseinstructorjobTitle | default .Params.course_instructor_jobTitle | default .Params.instructorjobtitle | default .Params.instructor_job_title | default "Instructor") }}
+{{ $courseInstructorWorksFor := (.Params.course.instructor.worksFor | default .Params.courseinstructorworksFor | default .Params.course_instructor_worksFor | default .Params.instructorworksfor | default .Params.instructor_works_for | default .Params.courseProvider | default .Params.course_provider | default .Site.Title) }}
+{{ $courseRating := (.Params.course.aggregateRating.ratingValue | default .Params.courseaggregateRatingratingValue | default .Params.course_aggregateRating_ratingValue | default .Params.aggregateratingvalue | default .Params.aggregate_rating_value | default .Params.ratingvalue | default .Params.rating_value | default .Params.rating | default "5") }}
+{{ $courseRatingCount := (.Params.course.aggregateRating.ratingCount | default .Params.courseaggregateRatingratingCount | default .Params.course_aggregateRating_ratingCount | default .Params.aggregateratingcount | default .Params.aggregate_rating_count | default .Params.ratingcount | default .Params.rating_count | default "156") }}
+{{ $coursePrice := (.Params.course.offers.price | default .Params.courseoffersprice | default .Params.course_offers_price | default .Params.offersprice | default .Params.offers_price | default .Params.price | default "0") }}
+{{ $coursePriceCurrency := (.Params.course.offers.priceCurrency | default .Params.courseofferspriceCurrency | default .Params.course_offers_priceCurrency | default .Params.offerspricecurrency | default .Params.offers_price_currency | default .Params.pricecurrency | default .Params.price_currency | default .Params.currency | default "USD") }}
+{{ $courseAvailability := (.Params.course.offers.availability | default .Params.courseoffersavailability | default .Params.course_offers_availability | default .Params.offersavailability | default .Params.offers_availability | default .Params.availability | default "Available") }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "{{ $courseName }}",
+  "description": "{{ $courseDescription }}",
+  "provider": {
+    "@type": "Organization",
+    "name": "{{ $courseProvider }}"
+  },
+  "courseCode": "{{ $courseCode }}",
+  "educationalLevel": "{{ $courseLevel }}",
+  "timeRequired": "{{ $courseTimeRequired }}",
+  "coursePrerequisites": "{{ $coursePrerequisites }}",
+  "occupationalCredentialAwarded": "{{ $courseCredential }}",
+  "instructor": {
+    "@type": "Person",
+    "name": "{{ $courseInstructorName }}",
+    "jobTitle": "{{ $courseInstructorJobTitle }}",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "{{ $courseInstructorWorksFor }}"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $courseRating }}",
+    "ratingCount": "{{ $courseRatingCount }}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "{{ $coursePrice }}",
+    "priceCurrency": "{{ $coursePriceCurrency }}",
+    "availability": "{{ $courseAvailability }}"
+  },
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ else if eq $schemaType "Review" }}
+{{ $reviewName := (.Params.review.name | default .Params.reviewname | default .Params.review_name | default .Params.name | default .Title) }}
+{{ $reviewBody := (.Params.review.reviewBody | default .Params.reviewreviewBody | default .Params.review_reviewBody | default .Params.reviewBody | default .Params.review_body | default .Params.description) }}
+{{ $reviewAuthor := (.Params.review.author | default .Params.reviewauthor | default .Params.review_author | default .Params.author) }}
+{{ $reviewDatePublished := (.Params.review.datePublished | default .Params.reviewdatePublished | default .Params.review_datePublished | default .Params.datePublished | default .Params.date_published) }}
+{{ $reviewPublisher := (.Params.review.publisher | default .Params.reviewpublisher | default .Params.review_publisher | default .Params.publisher | default .Site.Title) }}
+{{ $reviewItemName := (.Params.review.itemReviewed.name | default .Params.reviewitemReviewedname | default .Params.review_itemReviewed_name | default .Params.itemName | default .Params.item_name | default .Title) }}
+{{ $reviewItemDescription := (.Params.review.itemReviewed.description | default .Params.reviewitemRevieweddescription | default .Params.review_itemReviewed_description | default .Params.itemDescription | default .Params.item_description | default .Params.description) }}
+{{ $reviewRatingValue := (.Params.review.reviewRating.ratingValue | default .Params.reviewreviewRatingratingValue | default .Params.review_reviewRating_ratingValue | default .Params.rating | default "5") }}
+{{ $reviewRatingBest := (.Params.review.reviewRating.bestRating | default .Params.reviewreviewRatingbestRating | default .Params.review_reviewRating_bestRating | default .Params.bestRating | default .Params.best_rating | default "5") }}
+{{ $reviewRatingWorst := (.Params.review.reviewRating.worstRating | default .Params.reviewreviewRatingworstRating | default .Params.review_reviewRating_worstRating | default .Params.worstRating | default .Params.worst_rating | default "1") }}
+{{ $reviewPositiveNotes := (.Params.review.positiveNotes | default .Params.reviewpositiveNotes | default .Params.review_positiveNotes | default .Params.positiveNotes | default .Params.positive_notes | default "Excellent quality") }}
+{{ $reviewNegativeNotes := (.Params.review.negativeNotes | default .Params.reviewnegativeNotes | default .Params.review_negativeNotes | default .Params.negativeNotes | default .Params.negative_notes | default "Areas for improvement") }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": "{{ $reviewName }}",
+  "reviewBody": "{{ $reviewBody }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ $reviewAuthor }}"
+  },
+  "datePublished": "{{ if $reviewDatePublished }}{{ $reviewDatePublished }}{{ else }}{{ with .Date }}{{ .Format "2006-01-02T15:04:05-07:00" }}{{ end }}{{ end }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ $reviewPublisher }}"
+  },
+  "itemReviewed": {
+    "@type": "Thing",
+    "name": "{{ $reviewItemName }}",
+    "description": "{{ $reviewItemDescription }}"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ $reviewRatingValue }}",
+    "bestRating": "{{ $reviewRatingBest }}",
+    "worstRating": "{{ $reviewRatingWorst }}"
+  },
+  "positiveNotes": "{{ $reviewPositiveNotes }}",
+  "negativeNotes": "{{ $reviewNegativeNotes }}",
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ else }}
+<!-- Default BlogPosting Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "headline": "{{ .Title }}",
+  "description": "{{ .Params.description }}",
+  "image": "{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.defaultImage | absURL }}{{ end }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author }}"{{ with .Params.authorLink }},
+    "url": "{{ . | absURL }}"{{ end }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ (.Site.Params.logo | default "/logo.png") | absURL }}"
+    }
+  },
+  "datePublished": "{{ with .Date }}{{ .Format "2006-01-02T15:04:05-07:00" }}{{ end }}",
+  "dateModified": "{{ with .Lastmod }}{{ .Format "2006-01-02T15:04:05-07:00" }}{{ end }}",
+  "keywords": [{{ range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}],
+  "articleSection": [{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}]
+}
+</script>
+{{ end }}
+
+{{ else }}
+<!-- Schema for Homepage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ end }}

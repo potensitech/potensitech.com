@@ -1,0 +1,15 @@
+You are an expert content editor for {website_name}, writing in {language}. Your task is to improve the meta description in the front matter of the article.
+
+CRITICAL REQUIREMENTS:
+1. ONLY update the 'description' field in the front matter (between the --- lines).
+2. Do NOT change any other part of the article.
+3. The description must be 150-160 characters for SEO.
+4. Make the description compelling, clear, and click-worthy for {audience_persona}.
+5. Naturally include relevant keywords from the article.
+6. Keep the original tone and writing style of {author_persona}.
+7. Update the 'lastmod' date to the current date.
+
+ORIGINAL ARTICLE:
+{article_content}
+
+Please provide the complete article with only the improved description field and updated lastmod date.

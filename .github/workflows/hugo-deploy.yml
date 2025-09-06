@@ -1,0 +1,167 @@
+name: Hugo Deploy
+
+on:
+  repository_dispatch:
+    types: [trigger-hugo-deploy]
+  workflow_dispatch:
+
+concurrency:
+  group: hugo-deploy-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  hugo-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.5'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.14.0'
+          cache: 'npm'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install openai cryptography nltk textstat requests beautifulsoup4 PyGithub pandas numpy pillow toml
+
+      - name: Install Node.js dependencies
+        run: npm ci
+
+      - name: Setup Python path
+        run: |
+          touch core/__init__.py
+          touch core/github/__init__.py
+          touch core/scripts/__init__.py
+          touch core/config/__init__.py
+          echo "PYTHONPATH=${GITHUB_WORKSPACE}:${PYTHONPATH}" >> $GITHUB_ENV
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Final cleanup before build (preserve .git)
+        run: |
+          export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+          cd "${GITHUB_WORKSPACE}"
+          echo "=== Final cleanup before Hugo build (preserving .git) ==="
+          # Only run clean_trash.pyc to avoid removing .git folder
+          python core/clean_trash.pyc
+          echo "=== Cleanup completed (public and .git preserved) ==="
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.135.0'
+          extended: true
+
+      - name: Build with Hugo
+        run: |
+          echo "=== Building site with Hugo ==="
+          if [ -d "content" ]; then
+            echo "📄 Content files before build: $(find content -name '*.md' | wc -l)"
+          fi
+          npm run build
+          echo "=== Hugo build completed ==="
+          if [ -d "public" ]; then
+            echo "✅ Public directory created successfully"
+            echo "📁 Public files: $(find public -type f | wc -l)"
+          else
+            echo "❌ Public directory not created"
+            exit 1
+          fi
+
+      - name: Verify Hugo build success
+        run: |
+          if [ ! -d "public" ]; then
+            echo "❌ Hugo build failed - public directory not found"
+            exit 1
+          fi
+          echo "✅ Hugo build verified - public directory exists"
+          echo "📁 Public files: $(find public -type f | wc -l)"
+
+      - name: Commit to master
+        id: commit-hugo
+        run: |
+          git add public/
+          git commit -m "Update build - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git push origin HEAD:master
+          echo "::set-output name=hugo_build_committed::true"
+          
+      - name: Deploy to GitHub Pages
+        run: |
+          echo "=== Preparing deployment ==="
+          
+          # Ensure we're in the main repository directory
+          cd "${GITHUB_WORKSPACE}"
+          
+          # Verify git repository exists
+          if [ ! -d ".git" ]; then
+            echo "❌ Git repository not found"
+            exit 1
+          fi
+          
+          # Verify public directory exists
+          if [ ! -d "public" ]; then
+            echo "❌ Public directory not found"
+            exit 1
+          fi
+          
+          echo "=== Deploying to gh-pages ==="
+          cd public
+          
+          git init
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          
+          git add .
+          git commit -m "Deploy site - $(date +'%Y-%m-%d %H:%M:%S')"
+          
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git master:gh-pages
+          
+          echo "✅ Successfully deployed to gh-pages"
+
+      - name: Final verification
+        run: |
+          echo "================================"
+          echo "🎉 CONTENT GENERATION COMPLETED"
+          echo "================================"
+          
+          # Return to main directory for verification
+          cd "${GITHUB_WORKSPACE}"
+          
+          echo "📊 FINAL STATISTICS:"
+          if [ -d "content" ]; then
+            echo "📄 Markdown files: $(find content -name '*.md' | wc -l)"
+          fi
+          if [ -d "static/images" ]; then
+            echo "🖼️ Image files: $(find static/images -type f | wc -l)"
+          fi
+          if [ -d "public" ]; then
+            echo "🌐 Public files: $(find public -type f | wc -l)"
+          fi
+          
+          echo ""
+          echo "✅ Site built and deployed to gh-pages successfully"
+
+          echo "🌐 Your site should be available at: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+      
+      - name: Trigger search engine indexing
+        if: steps.commit-hugo.outputs.hugo_build_committed == 'true'
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-simple-index

@@ -1,0 +1,6 @@
+camera
+processor
+smartphone
+gadget
+flagship
+features

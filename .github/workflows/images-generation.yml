@@ -1,0 +1,185 @@
+name: Images Generation
+
+on:
+  repository_dispatch:
+    types: [trigger-images-generation]
+  workflow_dispatch:
+
+concurrency:
+  group: images-generation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  images-generation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch full history to avoid rebase issues
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.5'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install openai cryptography nltk textstat requests beautifulsoup4 PyGithub pandas numpy pillow toml PyYAML
+
+      - name: Setup Python path
+        run: |
+          touch core/__init__.py
+          touch core/scripts/__init__.py
+          touch core/config/__init__.py
+          echo "PYTHONPATH=${GITHUB_WORKSPACE}:${PYTHONPATH}" >> $GITHUB_ENV
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git config --local pull.rebase false
+          git config --local merge.ours.driver true
+
+      - name: Sync with remote before generation
+        run: |
+          echo "=== Syncing with remote repository ==="
+          git fetch origin master
+          git reset --hard origin/master
+          echo "Successfully synced with remote master"
+
+      - name: Generate images
+        run: |
+          export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+          cd "${GITHUB_WORKSPACE}"
+          echo "=== Generating images with image_run.pyc ==="
+          python core/scripts/image_run.pyc
+          echo "=== Images generated ==="
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Commit images to master with conflict resolution
+        id: commit-images
+        run: |
+          echo "=== Checking for image changes ==="
+          git status --porcelain
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "images_generated=true" >> $GITHUB_OUTPUT
+            echo "Image changes detected - committing to master"
+            
+            # Advanced commit strategy with retry mechanism
+            MAX_RETRIES=5
+            RETRY_COUNT=0
+            
+            while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+              echo "Attempt $((RETRY_COUNT + 1)) of $MAX_RETRIES"
+              
+              # Fetch latest changes
+              git fetch origin master
+              
+              # Check if we're behind
+              if [ "$(git rev-list --count HEAD..origin/master)" -gt 0 ]; then
+                echo "Remote has new commits, syncing..."
+                
+                # Stash current changes
+                git stash push -m "Images generation changes - attempt $((RETRY_COUNT + 1))"
+                
+                # Reset to latest remote
+                git reset --hard origin/master
+                
+                # Regenerate images on latest content
+                echo "Regenerating images on latest content..."
+                export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+                python core/scripts/image_run.pyc || echo "Image generation completed with warnings"
+                
+                # Apply stashed changes with conflict resolution
+                if git stash pop; then
+                  echo "Successfully applied stashed changes"
+                else
+                  echo "Stash pop had conflicts, resolving automatically"
+                  # Resolve conflicts by preferring new generated images
+                  git status --porcelain | grep "^UU\|^AA\|^DD" | cut -c4- | while read file; do
+                    if [[ "$file" == static/images/* ]]; then
+                      git add "$file"  # Accept new images
+                    elif [[ "$file" == *.md ]]; then
+                      # For markdown files, use a merge strategy that preserves both changes
+                      git checkout --ours "$file"
+                      git add "$file"
+                    fi
+                  done
+                  git stash drop 2>/dev/null || true
+                fi
+              fi
+              
+              # Add all changes
+              git add .
+              
+              # Check if there are actually changes to commit
+              if git diff --quiet --staged; then
+                echo "No changes to commit after sync"
+                echo "images_generated=false" >> $GITHUB_OUTPUT
+                break
+              fi
+              
+              # Commit changes
+              TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')
+              git commit -m "Generate images - $TIMESTAMP [attempt $((RETRY_COUNT + 1))]"
+              
+              # Try to push
+              if git push origin master; then
+                echo "Images committed to master successfully"
+                break
+              else
+                echo "Push failed on attempt $((RETRY_COUNT + 1))"
+                RETRY_COUNT=$((RETRY_COUNT + 1))
+                
+                if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+                  echo "Waiting before retry..."
+                  sleep $((RETRY_COUNT * 5))  # Exponential backoff
+                else
+                  echo "Max retries reached, push failed"
+                  echo "Last attempt was: git push origin master"
+                  exit 1
+                fi
+              fi
+            done
+            
+          else
+            echo "images_generated=false" >> $GITHUB_OUTPUT
+            echo "No image changes detected"
+          fi
+
+      - name: Cleanup image temp files
+        if: steps.commit-images.outputs.images_generated == 'true'
+        run: |
+          export PYTHONPATH="${GITHUB_WORKSPACE}:${PYTHONPATH}"
+          cd "${GITHUB_WORKSPACE}"
+          echo "=== Cleaning up image_run.pyc with image_delete.pyc ==="
+          python core/scripts/image_delete.pyc
+          echo "Image temp files cleaned"
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Final verification
+        if: steps.commit-images.outputs.images_generated == 'true'
+        run: |
+          echo "=== Final Verification ==="
+          git log --oneline -3
+          echo "=== Repository Status ==="
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Warning: Uncommitted changes detected"
+            git status
+          else
+            echo "Repository is clean"
+          fi
+
+      - name: Trigger Hugo build and deploy
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-hugo-deploy

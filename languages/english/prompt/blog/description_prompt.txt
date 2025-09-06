@@ -1,0 +1,6 @@
+Create a short SEO meta description for the article about '{keyword}' in {language}.
+Requirements:
+- Must include the exact keyword '{keyword}' at least once.
+- Must be informative, engaging, and encourage the reader to click.
+- Must not exceed 160 characters including spaces.
+- Should highlight value, benefits, or key insights related to the topic.

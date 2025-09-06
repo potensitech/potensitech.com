@@ -1,0 +1,17 @@
+/.env
+/.gitignore.default
+/.vscode/
+/IconManager.pyc
+/README.md
+/RunGOHugoGUI.exe
+/config.default.toml
+/hugo.default.toml
+/install_basictool.ps1
+/install_requirements.bat
+/logo/
+/logs/
+/pre-commit
+/requirements.py
+/requirements.pyc
+/token_manager_repo_admin.py
+/uninstall_requirements.bat

@@ -1,0 +1,18 @@
+{
+    "currency": "USD",
+    "symbol": "$",
+    "format": "symbol_before_space",
+    "decimal_separator": ".",
+    "thousand_separator": ",",
+    "price_ranges": {
+        "software": {"min": 10, "max": 100},
+        "course": {"min": 30, "max": 350},
+        "book": {"min": 3, "max": 20},
+        "general": {"min": 7, "max": 140}
+    },
+    "salary_ranges": {
+        "monthly_min": 350,
+        "monthly_max": 1750,
+        "format": "per_month"
+    }
+}

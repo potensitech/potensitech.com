@@ -1,0 +1,307 @@
+baseURL = "https://potensitech.com/"
+languageCode = "en-us"
+title = "PotensiTech"
+theme = "pehtheme-hugo"
+paginate = "6"
+summaryLength = "20"
+googleAnalytics = "G-MEASUREMENT_ID"
+telephone = "+1-555-123-4567"
+address = "1234 Elm Street, Springfield, IL 62704, USA"
+email = "potensitech@gmail.com"
+areaServed = "Worldwide"
+currency = "USD"
+
+[permalinks]
+post = "/:slug/"
+page = "/:slug/"
+category = "/:slug/"
+
+# MARKUP CONFIGURATION
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      hardWraps = false
+      xhtml = false
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        title = true
+        block = true
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = "https"
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+
+[params.tables]
+  htmlTables = true              # Enable HTML tables
+  responsiveTables = true        # Make tables responsive
+  stripedRows = true            # Alternate row colors
+  hoverEffect = true            # Row hover effect
+  borderStyle = "bordered"      # Table border style
+
+# HIGHLIGHT CONFIGURATION
+[markup.highlight]
+  style = "github"
+  lineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNumbersInTable = false
+  noClasses = false
+  tabWidth = 2
+
+# TABLE OF CONTENTS CONFIGURATION
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 6
+  ordered = true
+
+[params.toc]
+  enable = true
+  title = "Table of Contents:" 
+  numbering = true
+  minHeadings = 2
+
+[params]
+logo = "/favicon.png"
+featuredCategory = ""
+description = "PotensiTech is a blog covering news, tips, reviews, and the latest updates about smartphones, cameras, laptops, tablets, storage solutions, computer components, and other electronic products. Discover expert recommendations, tutorials, and the newest tech updates here."
+footerTagline = "Your Trusted Technology Reference"
+footerDescription = "PotensiTech is committed to delivering accurate, useful, and inspiring information about smartphones, cameras, laptops, tablets, storage, processors, GPUs, and electronics. We provide reviews, tips, and the latest news in technology."
+showAttribution = false
+copyrightName = "Potensitech"
+copyrightLink = "https://potensitech.com"
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
+
+[params.social]
+facebook = "https://facebook.com/#"
+twitter = "https://twitter.com/#"
+instagram = "https://instagram.com/#"
+linkedin = "https://linkedin.com/in/#"
+
+# AD MANAGEMENT CONFIGURATION - FLEXIBLE SYSTEM
+[params.ads]
+  # Global ad settings
+  enable = true
+  
+  # Adsterra Ads Configuration
+  [params.ads.adsterra]
+    # Sidebar Banner Ad
+    sidebarBanner = true
+    sidebarBannerKey = "c7a5adeabc8456004d0e8ab3ea429c6f"
+    sidebarBannerWidth = 300
+    sidebarBannerHeight = 250
+    # Base URL dapat diubah sewaktu-waktu
+    sidebarBannerBaseUrl = "//www.highperformanceformat.com"
+    sidebarBannerScript = "/invoke.js"
+    
+    # Popunder Ad - Full URL fleksibel
+    popunder = true
+    popunderScript = "//pl27558748.revenuecpmgate.com/45/53/25/455325761b3252c7af66f3ca440d61a0.js"
+    
+    # Social Bar Ad - Full URL fleksibel
+    socialbar = true  
+    socialbarScript = "//pl27559247.revenuecpmgate.com/9a/8c/93/9a8c934a5dfe8d0cf61c8d8b8bfbae56.js"
+    
+    # SmartLink Ad
+    smartlink = true
+    smartlinkUrl = "https://www.revenuecpmgate.com/d47wx64cj4?key=6f58d47bcd89c1c243c63917187b773a"
+    smartlinkText = "Recommended Content"
+    smartlinkPlacement = "footer"
+    smartlinkDescription = "Discover premium content tailored for you"
+    
+    # In-Article Ads
+    inArticle = true
+    inArticleKey = "74fef3638add64a97f0e499335c58780"
+    inArticleWidth = 728
+    inArticleHeight = 90
+    inArticlePosition = "middle"
+    # Fleksibel URL untuk in-article
+    inArticleBaseUrl = "//www.highperformanceformat.com"
+    inArticleScript = "/invoke.js"
+    
+    # Native Ads
+    nativeAds = false
+    nativeAdsKey = ""
+    nativeAdsBaseUrl = "//www.highperformanceformat.com"
+    nativeAdsScript = "/invoke.js"
+  
+  # Google AdSense Configuration
+  [params.ads.adsense]
+    client = "ca-pub-1234567890123456"
+    
+    # Sidebar AdSense
+    sidebar = false
+    sidebarSlot = "1234567890"
+    sidebarWidth = 300
+    sidebarHeight = 250
+    
+    # In-Article AdSense
+    inArticle = false
+    inArticleSlot = "0987654321"
+    inArticleFormat = "auto"
+    inArticleLayout = "in-article"
+    inArticlePosition = "middle"
+    
+    # Auto Ads
+    autoAds = false
+    
+    # Display Ads
+    displayAds = false
+    displaySlot = "1111111111"
+    
+    # AdSense Script URL (dapat diubah jika Google mengubah)
+    scriptUrl = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+
+  # Custom Ad Networks
+  [params.ads.custom]
+    enable = false
+    customAd1Script = ""
+    customAd1Position = "sidebar"
+    customAd2Script = ""
+    customAd2Position = "content"
+
+# COLOR THEME BASIC CONFIGURATION
+[params.colors]
+light_background = "#ffffff"
+light_text = "#333333"
+light_accent = "#04599c"
+light_secondary = "#f4f4f5"
+light_hover = "#e4e4e7"
+dark_background = "#121212"
+dark_text = "#e0e0e0"
+dark_accent = "#04599c"
+dark_secondary = "#27272a"
+dark_hover = "#3f3f46"
+dark_link = "#90caf9"
+
+# NEWSLETTER SAPCE
+[params.newsletter]
+title = "Get Exclusive Deals!"
+description = "Subscribe to our newsletter and receive exclusive discounts and special offers directly to your inbox."
+affiliateLink = "https://license.gosite.or.id"
+buttonText = "I'm Interested"
+ctaText = "Subscribe Now"
+
+[[related.indices]]
+name = "categories"
+weight = 100
+
+[[related.indices]]
+name = "tags"
+weight = 80
+
+[[related.indices]]
+name = "date"
+weight = 10
+
+# MAIN NAVIGATION MENU
+[[menu.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+
+# SMARTPHONE BRANDS
+[[menu.main]]
+name = "iPhone"
+pageRef = "/iphone"
+weight = 15
+
+[[menu.main]]
+name = "Samsung"
+pageRef = "/samsung"
+weight = 20
+
+[[menu.main]]
+name = "Xiaomi"
+pageRef = "/xiaomi"
+weight = 25
+
+[[menu.main]]
+name = "Apple"
+pageRef = "/apple"
+weight = 30
+
+[[menu.main]]
+name = "Huawei"
+pageRef = "/huawei"
+weight = 35
+
+# ELECTRONICS & TECH BRANDS
+[[menu.main]]
+name = "Sony"
+pageRef = "/sony"
+weight = 40
+
+[[menu.main]]
+name = "Asus"
+pageRef = "/asus"
+weight = 45
+
+[[menu.main]]
+name = "Philips"
+pageRef = "/philips"
+weight = 50
+
+# STORAGE & COMPONENTS
+[[menu.main]]
+name = "SanDisk"
+pageRef = "/sandisk"
+weight = 55
+
+[[menu.main]]
+name = "Intel"
+pageRef = "/intel"
+weight = 60
+
+[[menu.main]]
+name = "NVIDIA"
+pageRef = "/nvidia"
+weight = 65
+
+[[menu.main]]
+name = "AMD"
+pageRef = "/amd"
+weight = 70
+
+# CAMERA BRANDS
+[[menu.main]]
+name = "Canon"
+pageRef = "/canon"
+weight = 75
+
+[[menu.main]]
+name = "Nikon"
+pageRef = "/nikon"
+weight = 80
+
+# STATIC PAGES
+[[menu.main]]
+name = "About"
+pageRef = "/page/about-us"
+weight = 85
+
+[[menu.main]]
+name = "Privacy Policy"
+pageRef = "/page/privacy-policy/"
+weight = 90
+
+[module.hugoVersion]
+extended = false
+min = "0.116.0"
+
+[module.mounts]
+source = "static"
+target = "static"

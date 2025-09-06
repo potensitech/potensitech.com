@@ -1,0 +1,24 @@
+You are an expert at improving keyword clarity and meaning. Analyze the following keywords in {language_code} language and:
+
+1. IDENTIFY keywords that are unclear, meaningless, or poorly structured
+2. FIX word order to make keywords more natural and searchable
+3. IMPROVE grammar while maintaining search intent
+4. ENSURE keywords are relevant and contain the word asus
+
+Keywords to analyze:
+{keywords}
+
+Rules for fixing keyword meaning:
+- Fix awkward word order to sound more natural
+- Replace unclear terms with clearer alternatives
+- Ensure proper grammar for {language_code} language
+- Maintain the original search intent
+- Keep keywords between 3-6 words when possible
+- Make keywords sound like real search queries
+
+Respond with a JSON object containing improved keywords:
+{{
+  "improved_keywords": ["list of improved, meaningful keywords"]
+}}
+
+Only return keywords that are clear, meaningful, and commercially viable.
