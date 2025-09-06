@@ -10,15 +10,48 @@ Requirements:
 1. LENGTH CHECK: The article should be 1100-1500 words long. Currently it's approximately {word_count} words.
    {length_recommendation}
    
-2. TABLE CHECK: The article should include at least one table (markdown format) with relevant data.
+2. HTML TABLE CHECK: The article should include at least one HTML table (NOT Markdown) with relevant data.
    Types of tables that could be relevant:
    - Price list/comparison table
    - Technical specifications
    - Comparison data
    - Statistical data
    Choose the most appropriate table type for this topic.
-   - **CRITICAL: Ensure tables are valid markdown: each row must start and end with |, column counts must be consistent, and ALL hidden characters (Zero Width Space \u200B, Zero Width Non-Joiner \u200C, Zero Width Joiner \u200D, BOM \uFEFF, Soft Hyphen \u00AD) MUST be removed from headers, separators, and cells.**
    
+   HTML TABLE REQUIREMENTS:
+   - Format: <div class="table-responsive"><table class="html-table">...</table></div>
+   - Complete structure: <table><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+   - Use <th> for column headers (inside <thead>)
+   - Use <td> for data cells (inside <tbody>)
+   - Ensure consistent column count across all rows
+   - Responsive wrapper with class "table-responsive"
+   - DO NOT use Markdown table format (|, ---, etc.)
+   
+   CORRECT HTML TABLE EXAMPLE:
+   <div class="table-responsive">
+   <table class="html-table">
+   <thead>
+   <tr>
+   <th>Product</th>
+   <th>Price</th>
+   <th>Rating</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>Product A</td>
+   <td>$299</td>
+   <td>4.5/5</td>
+   </tr>
+   <tr>
+   <td>Product B</td>
+   <td>$399</td>
+   <td>4.7/5</td>
+   </tr>
+   </tbody>
+   </table>
+   </div>
+
 3. FIRST PARAGRAPH CHECK: The first paragraph should begin with the article title in italics.
    Example format: "*Title Here* - First paragraph content..."
 
@@ -28,51 +61,44 @@ Requirements:
    - Use ### for subsections under main sections
    - NEVER start main content sections with ### (h3) or deeper levels
    - Ensure all headings are properly formatted and never split across multiple lines
-   - Example correct structure:
-     ```
-     *Article Title* - Opening paragraph...
-     
-     ## 1. **Main Product/Topic** – Description
-     
-     Content here...
-     
-     ### Key Features:
-     
-     Sub-content here...
-     
-     ## 2. **Second Main Topic** – Description
-     ```
 
-5. READABILITY CHECK: The article should have a Flesch Reading Ease score between 50-70 (currently {readability_score}).
+5. INTERNAL LINKS CHECK - CRITICAL:
+   - REMOVE all internal links to other pages or articles
+   - DO NOT create [text](link) format for internal site links
+   - DO NOT reference other articles on the same website
+   - External links are allowed with rel="nofollow" only
+   - Make content self-contained and standalone
+
+6. READABILITY CHECK: The article should have a Flesch Reading Ease score between 50-70 (currently {readability_score}).
    - Use more common words where appropriate
    - Break up very long sentences
    - Use active voice more frequently
    
-6. SENTENCE VARIATION CHECK:
+7. SENTENCE VARIATION CHECK:
    - Mix short, medium, and long sentences (currently {sentence_variation})
    - Vary sentence openings instead of repeating similar structures
    - Use a mix of simple, compound, and complex sentences
    
-7. HUMAN EXPRESSION CHECK: Add natural human expressions:
+8. HUMAN EXPRESSION CHECK: Add natural human expressions:
    - Include at least one rhetorical question
    - Add 2-3 personal opinions or subjective statements (like "I believe", "In my view", etc.)
    - Include 1-2 expressions of emotion (excitement, surprise, concern, etc.)
    - Add at least one analogy or metaphor
    - Include 1-2 cultural references or idioms in {language}
    
-8. AI-DETECTION PREVENTION:
+9. AI-DETECTION PREVENTION:
    - Replace common AI phrases with more unique expressions
    - Introduce deliberate but minor inconsistencies in formatting (like occasional use of ellipses... or em dashes – or parentheses)
    - Add a few uncommon word choices or phrasings
    - Occasionally use more informal transitions between paragraphs
 
-9. FORMAT ERROR HANDLING:
-   - Correct any broken or inconsistent markdown formatting in the article.
-   - If text emphasis markers are mismatched (e.g., "__Title:**" or "**Title__"), fix them to proper markdown ("**Title**" or "_Title_").
-   - Apply consistent formatting across the article so no emphasis markers remain unbalanced.
-   - Ensure headings are NEVER split across multiple lines
-   - Fix any merged headings with content
-   - **CRITICAL: Remove hidden characters (ZWSP, soft hyphen, BOM, etc.) from inside tables to prevent rendering issues.**
+10. FORMAT ERROR HANDLING:
+    - Convert any Markdown tables to HTML format
+    - Correct any broken or inconsistent markdown formatting in the article.
+    - If text emphasis markers are mismatched (e.g., "__Title:**" or "**Title__"), fix them to proper markdown ("**Title**" or "_Title_").
+    - Apply consistent formatting across the article so no emphasis markers remain unbalanced.
+    - Ensure headings are NEVER split across multiple lines
+    - Fix any merged headings with content
 
 Please provide the FULL IMPROVED ARTICLE with all these requirements satisfied. For any new content, maintain the same writing style, tone, and language as the original article. 
 
@@ -82,6 +108,8 @@ IMPORTANT:
 - Just output the clean article content in markdown format, ready to be published
 - The article should start directly with content, not with any code block markers
 - ENSURE the first main heading is ## (h2), not ### (h3)
+- ENSURE all tables are in HTML format, not Markdown
+- REMOVE all internal links
 
 Important content requirements:
 - Keep the keyword "{keyword}" well-distributed throughout the text
