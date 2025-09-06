@@ -25,6 +25,47 @@ Requirements:
 - Avoid generic/filler content
 - The first sub heading after the opening paragraph MUST ALWAYS be a H2 (##), NOT H3 (###) or any other heading level. This ensures consistent and SEO-friendly article structure.
 
+TABLE FORMAT REQUIREMENTS:
+- ALWAYS use HTML table format instead of Markdown tables
+- Wrap tables in responsive div: <div class="table-responsive">
+- Use class "html-table" for consistent styling
+- Include proper table headers with <th> tags
+- Use semantic HTML structure: <table>, <thead>, <tbody>
+- Ensure all rows have equal number of columns
+- Never mix HTML and Markdown table syntax
+
+HTML TABLE TEMPLATE:
+<div class="table-responsive">
+<table class="html-table">
+<thead>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+<th>Header 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Data 1</td>
+<td>Data 2</td>
+<td>Data 3</td>
+</tr>
+<tr>
+<td>Data 4</td>
+<td>Data 5</td>
+<td>Data 6</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+LINKING RESTRICTIONS:
+- DO NOT create any internal links to other pages or articles
+- DO NOT use [text](link) format for internal site links
+- DO NOT reference other articles on the same website
+- External links are allowed with rel="nofollow" attribute only
+- Focus on standalone content without cross-references
+
 MANDATORY PERSONA RULES:
 1. ONLY use "{audience_reference}" to refer to readers
 2. ONLY use "{author_reference}" to refer to the writer
@@ -57,4 +98,4 @@ IMPORTANT (Brand Interpretation - apply if {keyword} contains a brand name):
 
 RULES:  
 - Always generate the product according to the above mapping when the brand is present inside {keyword}.  
-- Never guess alternative product categories.  
+- Never guess alternative product categories.
