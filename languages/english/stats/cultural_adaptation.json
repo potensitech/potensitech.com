@@ -1312,5 +1312,18 @@
             "Cultural: Chicago",
             "Cultural: Silicon Valley"
         ]
+    },
+    "sandisk flagship product features": {
+        "date": "2025-09-06T11:25:38",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: New Year's Day",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago"
+        ]
     }
 }
