@@ -108,7 +108,7 @@ linkedin = "https://linkedin.com/in/#"
     sidebarBannerScript = "/invoke.js"
     
     # Popunder Ad - Full URL fleksibel
-    popunder = true
+    popunder = false
     popunderScript = "//pl27558748.revenuecpmgate.com/45/53/25/455325761b3252c7af66f3ca440d61a0.js"
     
     # Social Bar Ad - Full URL fleksibel
