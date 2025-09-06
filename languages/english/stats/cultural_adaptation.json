@@ -1273,5 +1273,18 @@
             "Cultural: Chicago",
             "Cultural: Broadway"
         ]
+    },
+    "affordable nikon photography equipment": {
+        "date": "2025-09-06T04:56:29",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Black Friday",
+            "Cultural: Memorial Day",
+            "Cultural: New York",
+            "Cultural: Wall Street"
+        ]
     }
 }
