@@ -1260,5 +1260,18 @@
             "Cultural: Los Angeles",
             "Cultural: Chicago"
         ]
+    },
+    "budget-friendly nikon camera features": {
+        "date": "2025-09-06T03:41:11",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Broadway"
+        ]
     }
 }
