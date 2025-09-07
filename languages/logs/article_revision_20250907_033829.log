@@ -1,0 +1,7 @@
+2025-09-07 03:38:29,657 - INFO - Active language loaded: english
+2025-09-07 03:38:29,660 - INFO - Loaded AI model: gpt-4.1 -> openai/gpt-4.1
+2025-09-07 03:38:29,660 - INFO - Loaded personas - Author: 'We', Audience: 'The Potensians'
+2025-09-07 03:38:29,661 - INFO - Starting authentication process
+2025-09-07 03:38:29,661 - INFO - ✅ Token is still valid. Skipping re-authentication.
+2025-09-07 03:38:29,663 - INFO - Loaded 4 tokens
+2025-09-07 03:38:29,719 - INFO - Found 0 articles older than 6 months
