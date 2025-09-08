@@ -1,11 +1,29 @@
 Create an engaging, SEO-friendly title for an article about '{keyword}' in {language} language.
-The title MUST:
-- Include the EXACT keyword '{keyword}' (non-negotiable)
-- Be attention-grabbing and interesting
-- Title must be between 40-80 characters, no shorter and no longer
-- Use power words if appropriate
-- NOT be in English unless {language} is English
 
-Example format:
-- For keyword "baterai hp awet berapa jam": "Baterai HP Awet Berapa Jam? Tips Maksimalkan Daya Tahan!"
-- The exact keyword "{keyword}" MUST appear in the title
+CRITICAL REQUIREMENTS:
+- Include the EXACT keyword '{keyword}' (non-negotiable)
+- Title MUST be between 40-60 characters ONLY (strictly enforced)
+- Count every character including spaces and punctuation
+- If title exceeds 60 characters, make it shorter
+- If title is under 40 characters, add relevant words
+- Be attention-grabbing and interesting
+- Use power words if appropriate
+
+CHARACTER COUNT VALIDATION:
+- Count characters before finalizing: "Your Title Here" = X characters
+- NEVER exceed 60 characters
+- NEVER go below 40 characters
+- Include character count in your response for verification
+
+EXAMPLES WITH CHARACTER COUNTS:
+✅ "Best Nikon Flagship Cameras 2025: Pro Guide" (42 chars)
+✅ "Ultimate Nikon Flagship Camera Reviews 2025" (43 chars)
+✅ "Top Nikon Flagship Cameras for Professionals" (45 chars)
+❌ "Discover the Power of Nikon Flagship Cameras for Professional Photography Enthusiasts" (85 chars - TOO LONG)
+
+FORMAT YOUR RESPONSE:
+Title: "[Your title here]"
+Character Count: [X] characters
+Verification: ✅ Within 40-60 character limit
+
+The exact keyword "{keyword}" MUST appear in the title.
