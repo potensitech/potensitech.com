@@ -1364,5 +1364,18 @@
             "Cultural: Los Angeles",
             "Cultural: Times Square"
         ]
+    },
+    "affordable philips battery": {
+        "date": "2025-09-10T11:35:43",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: Wall Street",
+            "Cultural: Hollywood",
+            "Cultural: BBQ"
+        ]
     }
 }
