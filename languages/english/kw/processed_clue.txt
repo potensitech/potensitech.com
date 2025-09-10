@@ -40,3 +40,5 @@ camera
 battery
 camera
 battery
+camera
+battery

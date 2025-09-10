@@ -4,7 +4,7 @@ You are an expert at identifying and fixing similar keywords. Analyze the follow
 2. MERGE or MODIFY similar keywords to create unique variations
 3. REMOVE exact duplicates
 4. ENSURE each keyword offers unique search intent
-5. ENSURE keywords are relevant and contain the word asus
+5. ENSURE keywords are relevant and contain the word philips
 
 Keywords to analyze:
 {keywords}
