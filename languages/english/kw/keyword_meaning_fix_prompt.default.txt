@@ -3,7 +3,7 @@ You are an expert at improving keyword clarity and meaning. Analyze the followin
 1. IDENTIFY keywords that are unclear, meaningless, or poorly structured
 2. FIX word order to make keywords more natural and searchable
 3. IMPROVE grammar while maintaining search intent
-4. ENSURE keywords are relevant and contain the word philips
+4. ENSURE keywords are relevant and contain the word sandisk
 
 Keywords to analyze:
 {keywords}

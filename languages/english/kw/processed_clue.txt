@@ -42,3 +42,5 @@ camera
 battery
 camera
 battery
+camera
+performance
