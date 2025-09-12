@@ -1377,5 +1377,18 @@
             "Cultural: Hollywood",
             "Cultural: BBQ"
         ]
+    },
+    "best budget philips battery": {
+        "date": "2025-09-12T12:53:39",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: BBQ"
+        ]
     }
 }
