@@ -866,5 +866,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "affordable philips camera": {
+        "date": "2025-09-12T14:47:07",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }
