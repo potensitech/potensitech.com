@@ -47,76 +47,37 @@ jobs:
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
             # Manual trigger - use selected option
             WORKFLOW_TYPE="${{ github.event.inputs.workflow_type }}"
-            echo "Manual trigger detected - using workflow type: $WORKFLOW_TYPE"
           else
-            # Scheduled trigger - determine by time with tolerance
+            # Scheduled trigger - determine by time
             CURRENT_HOUR=$(date +%H)
             CURRENT_MINUTE=$(date +%M)
             
-            # Remove leading zeros to avoid octal interpretation issues
-            CURRENT_HOUR=$((10#$CURRENT_HOUR))
-            CURRENT_MINUTE=$((10#$CURRENT_MINUTE))
-            
-            # Convert to total minutes for easier comparison (0-1439 range)
-            CURRENT_TOTAL_MIN=$((CURRENT_HOUR * 60 + CURRENT_MINUTE))
-            
-            echo "Current time: ${CURRENT_HOUR}:$(printf '%02d' $CURRENT_MINUTE) UTC (total minutes: $CURRENT_TOTAL_MIN)"
-            
-            # Define Pattern 1 schedules with ±6 minute tolerance
-            # This accounts for GitHub Actions scheduling delays
-            WORKFLOW_TYPE="articles"  # Default to Pattern 2
-            PATTERN_DETECTED="Pattern 2 (articles only)"
-            
-            # Pattern 1 time windows (with tolerance):
-            # 00:00 UTC (0 min) -> 1434-1440 or 0-6 minutes (handle day rollover)
-            # 04:48 UTC (288 min) -> 282-294 minutes
-            # 09:36 UTC (576 min) -> 570-582 minutes  
-            # 14:24 UTC (864 min) -> 858-870 minutes
-            # 19:12 UTC (1152 min) -> 1146-1158 minutes
-            
-            if [[ ($CURRENT_TOTAL_MIN >= 1434 && $CURRENT_TOTAL_MIN <= 1439) || \
-                  ($CURRENT_TOTAL_MIN >= 0 && $CURRENT_TOTAL_MIN <= 6) ]]; then
+            # Check if this is a keyword schedule (Pattern 1)
+            if [[ ("$CURRENT_HOUR" == "00" && "$CURRENT_MINUTE" == "00") || \
+                  ("$CURRENT_HOUR" == "04" && "$CURRENT_MINUTE" == "48") || \
+                  ("$CURRENT_HOUR" == "09" && "$CURRENT_MINUTE" == "36") || \
+                  ("$CURRENT_HOUR" == "14" && "$CURRENT_MINUTE" == "24") || \
+                  ("$CURRENT_HOUR" == "19" && "$CURRENT_MINUTE" == "12") ]]; then
               WORKFLOW_TYPE="full"
-              PATTERN_DETECTED="Pattern 1 (00:00 UTC window - with keywords)"
-            elif [[ $CURRENT_TOTAL_MIN -ge 282 && $CURRENT_TOTAL_MIN -le 294 ]]; then
-              WORKFLOW_TYPE="full"
-              PATTERN_DETECTED="Pattern 1 (04:48 UTC window - with keywords)"
-            elif [[ $CURRENT_TOTAL_MIN -ge 570 && $CURRENT_TOTAL_MIN -le 582 ]]; then
-              WORKFLOW_TYPE="full"
-              PATTERN_DETECTED="Pattern 1 (09:36 UTC window - with keywords)"
-            elif [[ $CURRENT_TOTAL_MIN -ge 858 && $CURRENT_TOTAL_MIN -le 870 ]]; then
-              WORKFLOW_TYPE="full"
-              PATTERN_DETECTED="Pattern 1 (14:24 UTC window - with keywords)"
-            elif [[ $CURRENT_TOTAL_MIN -ge 1146 && $CURRENT_TOTAL_MIN -le 1158 ]]; then
-              WORKFLOW_TYPE="full"
-              PATTERN_DETECTED="Pattern 1 (19:12 UTC window - with keywords)"
+            else
+              # Pattern 2 - articles only
+              WORKFLOW_TYPE="articles"
             fi
-            
-            echo "Detected: $PATTERN_DETECTED"
           fi
           
-          # Set outputs
           echo "workflow_type=$WORKFLOW_TYPE" >> $GITHUB_OUTPUT
           
           # Determine if keywords should run
           if [[ "$WORKFLOW_TYPE" == "full" || "$WORKFLOW_TYPE" == "keywords" ]]; then
             echo "run_keywords=true" >> $GITHUB_OUTPUT
-            RUN_KEYWORDS_TEXT="true"
           else
             echo "run_keywords=false" >> $GITHUB_OUTPUT
-            RUN_KEYWORDS_TEXT="false"
           fi
           
-          echo ""
-          echo "=== WORKFLOW DETERMINATION SUMMARY ==="
-          echo "Event Type: ${{ github.event_name }}"
+          echo "=== Workflow Determination ==="
+          echo "Event: ${{ github.event_name }}"
           echo "Workflow Type: $WORKFLOW_TYPE"
-          echo "Run Keywords: $RUN_KEYWORDS_TEXT"
-          if [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
-            echo "Current Time: ${CURRENT_HOUR}:$(printf '%02d' $CURRENT_MINUTE) UTC"
-            echo "Detection Logic: Time-based with ±6 minute tolerance"
-          fi
-          echo "========================================"
+          echo "Run Keywords: $(if [[ "$WORKFLOW_TYPE" == "full" || "$WORKFLOW_TYPE" == "keywords" ]]; then echo "true"; else echo "false"; fi)"
 
   trigger-keywords:
     needs: determine-workflow
@@ -133,16 +94,8 @@ jobs:
             {
               "scheduled_trigger": true,
               "workflow_type": "${{ needs.determine-workflow.outputs.workflow_type }}",
-              "source": "schedule",
-              "trigger_time": "${{ github.event.schedule }}",
-              "run_number": "${{ github.run_number }}"
+              "source": "schedule"
             }
-
-      - name: Log keywords trigger
-        run: |
-          echo "Keywords generation triggered successfully"
-          echo "Workflow Type: ${{ needs.determine-workflow.outputs.workflow_type }}"
-          echo "This will start the chain: keywords -> articles -> images -> deploy -> index"
 
   trigger-articles-direct:
     needs: determine-workflow
@@ -159,16 +112,8 @@ jobs:
             {
               "scheduled_trigger": true,
               "workflow_type": "articles",
-              "source": "schedule-direct",
-              "trigger_time": "${{ github.event.schedule }}",
-              "run_number": "${{ github.run_number }}"
+              "source": "schedule-direct"
             }
-
-      - name: Log articles trigger
-        run: |
-          echo "Articles generation triggered successfully"
-          echo "Workflow Type: articles"
-          echo "This will start the chain: articles -> images -> deploy -> index"
 
   trigger-deploy-only:
     needs: determine-workflow
@@ -185,13 +130,5 @@ jobs:
             {
               "scheduled_trigger": true,
               "workflow_type": "deploy",
-              "source": "schedule-direct",
-              "trigger_time": "${{ github.event.schedule }}",
-              "run_number": "${{ github.run_number }}"
+              "source": "schedule-direct"
             }
-
-      - name: Log deploy trigger
-        run: |
-          echo "Hugo deploy triggered successfully"
-          echo "Workflow Type: deploy"
-          echo "This will start the chain: deploy -> index"
