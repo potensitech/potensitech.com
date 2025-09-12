@@ -1403,5 +1403,18 @@
             "Cultural: Hot Dogs",
             "Cultural: Pizza"
         ]
+    },
+    "top budget-friendly philips camera": {
+        "date": "2025-09-12T17:02:56",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Black Friday",
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: Wall Street"
+        ]
     }
 }
