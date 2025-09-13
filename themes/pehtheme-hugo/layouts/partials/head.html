@@ -590,11 +590,9 @@
 {{ $reviewPublisher := (.Params.review.publisher | default .Params.reviewpublisher | default .Params.review_publisher | default .Params.publisher | default .Site.Title) }}
 {{ $reviewItemName := (.Params.review.itemReviewed.name | default .Params.reviewitemReviewedname | default .Params.review_itemReviewed_name | default .Params.itemName | default .Params.item_name | default .Title) }}
 {{ $reviewItemDescription := (.Params.review.itemReviewed.description | default .Params.reviewitemRevieweddescription | default .Params.review_itemReviewed_description | default .Params.itemDescription | default .Params.item_description | default .Params.description) }}
-{{ $reviewRatingValue := (.Params.review.reviewRating.ratingValue | default .Params.reviewreviewRatingratingValue | default .Params.review_reviewRating_ratingValue | default .Params.rating | default "5") }}
+{{ $reviewRatingValue := (.Params.review.reviewRating.ratingValue | default .Params.reviewRating.ratingValue | default .Params.rating | default "4.5") }}
 {{ $reviewRatingBest := (.Params.review.reviewRating.bestRating | default .Params.reviewreviewRatingbestRating | default .Params.review_reviewRating_bestRating | default .Params.bestRating | default .Params.best_rating | default "5") }}
 {{ $reviewRatingWorst := (.Params.review.reviewRating.worstRating | default .Params.reviewreviewRatingworstRating | default .Params.review_reviewRating_worstRating | default .Params.worstRating | default .Params.worst_rating | default "1") }}
-{{ $reviewPositiveNotes := (.Params.review.positiveNotes | default .Params.reviewpositiveNotes | default .Params.review_positiveNotes | default .Params.positiveNotes | default .Params.positive_notes | default "Excellent quality") }}
-{{ $reviewNegativeNotes := (.Params.review.negativeNotes | default .Params.reviewnegativeNotes | default .Params.review_negativeNotes | default .Params.negativeNotes | default .Params.negative_notes | default "Areas for improvement") }}
 
 <script type="application/ld+json">
 {
@@ -622,8 +620,6 @@
     "bestRating": "{{ $reviewRatingBest }}",
     "worstRating": "{{ $reviewRatingWorst }}"
   },
-  "positiveNotes": "{{ $reviewPositiveNotes }}",
-  "negativeNotes": "{{ $reviewNegativeNotes }}",
   "url": "{{ .Permalink }}"
 }
 </script>
