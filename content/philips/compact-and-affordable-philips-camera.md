@@ -209,9 +209,3 @@ Absolutely. The intuitive controls and clear instructions make it ideal for thos
 ### Where can The Potensians purchase the compact and affordable Philips camera?
 
 The camera is available at major electronics retailers and online stores across the US, with prices starting at $179 in 2025.
-
-## References
-
-- Philips Official Product Page (2025) [https://www.philips.com/cameras](https://www.philips.com/cameras) (rel="nofollow")
-- Consumer Reports Camera Ratings (2025) [https://www.consumerreports.org/cameras](https://www.consumerreports.org/cameras) (rel="nofollow")
-- TechRadar Review: Compact Cameras (2025) [https://www.techradar.com/best/compact-cameras](https://www.techradar.com/best/compact-cameras) (rel="nofollow")
