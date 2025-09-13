@@ -40,6 +40,7 @@ Structure: {copywriting_style_name} - {copywriting_style_description}
    - Include "{keyword}"
    - End with {calls_to_action}
    - Close with {closing}
+   - ARTICLE MUST END HERE - No additional sections
 
 ### TABLE REQUIREMENTS
 - ALWAYS use HTML table format instead of Markdown tables
@@ -67,6 +68,22 @@ HTML TABLE TEMPLATE:
 - NO cross-references to other content
 - External links only with rel="nofollow" attribute
 - Create self-contained, standalone articles
+
+### PROHIBITED SECTIONS - DO NOT INCLUDE:
+- References, Sources, Bibliography sections
+- External link lists or recommended readings
+- Image alt text descriptions or suggestions
+- Photo credits or attributions
+- Related articles or "see also" sections
+- Meta descriptions at article end
+- Link directories or resource lists
+- Works cited or further reading
+
+### CONTENT COMPLETION RULES:
+- Article ends with conclusion paragraph
+- No additional content after conclusion
+- Self-contained without external dependencies
+- Complete information within article body
 
 ### OPTIMIZATION
 Keyword "{keyword}":
