@@ -1481,5 +1481,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Times Square"
         ]
+    },
+    "intel affordable processor compatibility guide": {
+        "date": "2025-09-13T05:41:21",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Central Park"
+        ]
     }
 }
