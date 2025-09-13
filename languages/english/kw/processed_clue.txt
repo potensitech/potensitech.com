@@ -48,3 +48,5 @@ processor speed
 chipset compatibility
 core performance
 thermal efficiency
+processor speed
+chipset compatibility
