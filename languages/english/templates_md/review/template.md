@@ -27,8 +27,6 @@ review:
     ratingValue: "{review_rating}"
     bestRating: "5"
     worstRating: "1"
-  positiveNotes: "DYNAMIC_POSITIVE_NOTES_FOR_{keyword}"
-  negativeNotes: "DYNAMIC_NEGATIVE_NOTES_FOR_{keyword}"
 toc:
   enable: true
 ---
