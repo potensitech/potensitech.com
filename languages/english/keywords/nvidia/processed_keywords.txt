@@ -4,3 +4,4 @@ nvidia budget-friendly graphics options
 nvidia affordable performance GPUs
 nvidia flagship GPU technology
 nvidia affordable GPU with core performance
+nvidia affordable GPU with thermal efficiency
