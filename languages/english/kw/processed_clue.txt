@@ -46,3 +46,5 @@ camera
 performance
 processor speed
 chipset compatibility
+core performance
+thermal efficiency

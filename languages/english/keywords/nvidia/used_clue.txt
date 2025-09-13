@@ -1,2 +1,4 @@
 flagship
 features
+core performance
+thermal efficiency

@@ -171,5 +171,9 @@
   "intel gaming processor chipset compatibility": true,
   "intel affordable processor for multitasking tasks": true,
   "intel high-performance build chipset compatibility": true,
-  "intel advanced user chipset compatibility guide": true
+  "intel advanced user chipset compatibility guide": true,
+  "nvidia affordable GPU with core performance": true,
+  "nvidia affordable GPU with thermal efficiency": true,
+  "nvidia cost-effective GPU for core performance": true,
+  "nvidia cost-effective GPU for thermal management": true
 }
