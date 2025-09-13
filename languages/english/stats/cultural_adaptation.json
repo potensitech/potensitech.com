@@ -1468,5 +1468,18 @@
             "Cultural: Broadway",
             "Cultural: Central Park"
         ]
+    },
+    "sandisk camera performance review": {
+        "date": "2025-09-13T04:57:53",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square"
+        ]
     }
 }
