@@ -6,20 +6,38 @@ You are an expert keyword quality analyst. Analyze the following keywords{niche_
    - Keywords that don't make commercial sense
    - Keywords that are incomplete or fragmented
    - Keywords with repeated words unnecessarily
+   - Keywords that violate brand-product mapping rules
 
 2. GOOD QUALITY keywords that should be kept:
    - Clear, meaningful keywords with good structure
    - Keywords that make commercial sense
    - Keywords with proper grammar and word order
    - Keywords that are specific enough to be useful
+   - Keywords that correctly follow brand-product mapping
 
 Keywords to analyze:
 {keywords}
 
+IMPORTANT BRAND-PRODUCT MAPPING (apply when analyzing brand-related keywords):
+- Sony → smartphone (NEVER camera)
+- Xiaomi, iPhone, Samsung, Asus, Huawei → smartphone
+- Apple → smartphone or computer
+- Canon, Nikon → camera (NEVER smartphone)
+- Philips → consumer electronics (home/kitchen/personal gadgets)
+- SanDisk → storage products (memory cards, flash drives, SSD)
+- Intel → processor products
+- Nvidia, AMD → GPU or processor products
+
+QUALITY ASSESSMENT RULES:
+- Remove keywords that suggest wrong product categories for brands
+- Flag keywords that violate brand-product mapping as low quality
+- Prioritize keywords that correctly associate brands with their mapped products
+- Ensure commercial viability within correct product categories
+
 Respond with a JSON object containing:
 {{
-  "good_keywords": ["list of good quality keywords"],
-  "removed_keywords": ["list of low quality keywords with brief reason"]
+  "good_keywords": ["list of good quality keywords with correct brand mapping"],
+  "removed_keywords": ["list of low quality keywords with brief reason including brand mapping violations"]
 }}
 
-Be strict about quality but preserve keywords that are commercially viable and meaningful.
+Be strict about quality and brand-product mapping accuracy, but preserve keywords that are commercially viable and correctly mapped.
