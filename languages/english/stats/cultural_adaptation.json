@@ -1442,5 +1442,18 @@
             "Cultural: New York",
             "Cultural: Los Angeles"
         ]
+    },
+    "affordable sandisk camera": {
+        "date": "2025-09-13T02:45:34",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Central Park",
+            "Cultural: BBQ",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
