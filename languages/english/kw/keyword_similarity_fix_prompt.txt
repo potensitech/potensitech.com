@@ -5,6 +5,7 @@ You are an expert at identifying and fixing similar keywords. Analyze the follow
 3. REMOVE exact duplicates
 4. ENSURE each keyword offers unique search intent
 5. ENSURE keywords are relevant and contain the word {current_niche}
+6. ENSURE all keywords follow correct brand-product mapping
 
 Keywords to analyze:
 {keywords}
@@ -14,10 +15,27 @@ Rules for fixing similar keywords:
 - If keywords are very similar, modify one to create a different search intent
 - Remove exact duplicates completely
 - Prioritize keywords that sound more natural and commercial
+- Ensure all variations respect brand-product mapping rules
+
+IMPORTANT BRAND-PRODUCT MAPPING (apply when {current_niche} contains brand names):
+- Sony → smartphone (NEVER camera)
+- Xiaomi, iPhone, Samsung, Asus, Huawei → smartphone
+- Apple → smartphone or computer
+- Canon, Nikon → camera (NEVER smartphone)
+- Philips → consumer electronics (home/kitchen/personal gadgets)
+- SanDisk → storage products (memory cards, flash drives, SSD)
+- Intel → processor products
+- Nvidia, AMD → GPU or processor products
+
+SIMILARITY FIXING RULES WITH BRAND MAPPING:
+- When creating variations, maintain correct product category for each brand
+- If similar keywords suggest different product types for same brand, correct to proper mapping
+- Generate unique search intents within the correct product category
+- Ensure all fixed keywords align with brand-product associations
 
 Respond with a JSON object containing an array of fixed keywords:
 {{
-  "fixed_keywords": ["list of unique, non-similar keywords"]
+  "fixed_keywords": ["list of unique, non-similar keywords with correct brand mapping"]
 }}
 
-Ensure all keywords are unique and offer different search intents.
+Ensure all keywords are unique, offer different search intents, and correctly follow brand-product mapping rules.
