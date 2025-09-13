@@ -1494,5 +1494,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Central Park"
         ]
+    },
+    "nvidia affordable GPU with core performance": {
+        "date": "2025-09-13T06:36:26",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Times Square"
+        ]
     }
 }
