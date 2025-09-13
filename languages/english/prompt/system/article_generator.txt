@@ -66,6 +66,28 @@ LINKING RESTRICTIONS:
 - External links are allowed with rel="nofollow" attribute only
 - Focus on standalone content without cross-references
 
+PROHIBITED CONTENT - DO NOT INCLUDE:
+- ## References sections or bibliography
+- ## Sources sections
+- External link lists or citations
+- _Image alt text:_ descriptions
+- Alt text suggestions
+- Photo credit lines
+- Source attributions
+- Bibliography or works cited
+- Link recommendations
+- Related articles suggestions
+- Meta descriptions at article end
+- Image suggestions or descriptions
+
+CONTENT RESTRICTIONS:
+- Article should be complete and self-contained
+- No reference sections at the end
+- No image alt text descriptions
+- No external source citations within article body
+- No "see also" or "read more" sections
+- Focus purely on the article content itself
+
 MANDATORY PERSONA RULES:
 1. ONLY use "{audience_reference}" to refer to readers
 2. ONLY use "{author_reference}" to refer to the writer
@@ -99,3 +121,4 @@ IMPORTANT (Brand Interpretation - apply if {keyword} contains a brand name):
 RULES:  
 - Always generate the product according to the above mapping when the brand is present inside {keyword}.  
 - Never guess alternative product categories.
+- Article must end with the conclusion - NO additional sections
