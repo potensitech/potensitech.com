@@ -1,5 +1,5 @@
 ---
-title: "Intel Affordable Processor Compatibility Guide: What You ..."
+title: "Intel Affordable Processor Compatibility Guide"
 date: 2025-09-13T05:38:52
 lastmod: 2025-09-13T05:38:52
 draft: false
