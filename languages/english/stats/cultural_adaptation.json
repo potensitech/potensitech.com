@@ -1533,5 +1533,18 @@
             "Cultural: Wall Street",
             "Cultural: Broadway"
         ]
+    },
+    "buy amd graphics card": {
+        "date": "2025-09-13T10:56:14",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Apple Pie"
+        ]
     }
 }
