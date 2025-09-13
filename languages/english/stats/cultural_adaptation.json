@@ -1568,5 +1568,17 @@
         "matches": [
             "Cultural: Black Friday"
         ]
+    },
+    "nvidia cost-effective GPU for thermal management": {
+        "date": "2025-09-13T19:21:13",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley",
+            "Cultural: Innovation"
+        ]
     }
 }
