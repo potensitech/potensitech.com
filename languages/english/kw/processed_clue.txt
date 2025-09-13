@@ -44,3 +44,5 @@ camera
 battery
 camera
 performance
+processor speed
+chipset compatibility

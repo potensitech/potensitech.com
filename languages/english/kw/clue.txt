@@ -1,3 +1,7 @@
+processor speed
+chipset compatibility
+core performance
+thermal efficiency
 camera
 performance
 android

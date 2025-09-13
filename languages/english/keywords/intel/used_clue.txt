@@ -1,2 +1,4 @@
 flagship
 features
+processor speed
+chipset compatibility

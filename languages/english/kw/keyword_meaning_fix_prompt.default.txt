@@ -3,7 +3,7 @@ You are an expert at improving keyword clarity and meaning. Analyze the followin
 1. IDENTIFY keywords that are unclear, meaningless, or poorly structured
 2. FIX word order to make keywords more natural and searchable
 3. IMPROVE grammar while maintaining search intent
-4. ENSURE keywords are relevant and contain the word sandisk
+4. ENSURE keywords are relevant and contain the word intel
 
 Keywords to analyze:
 {keywords}
@@ -16,9 +16,25 @@ Rules for fixing keyword meaning:
 - Keep keywords between 3-6 words when possible
 - Make keywords sound like real search queries
 
+IMPORTANT BRAND-PRODUCT MAPPING (apply when intel contains brand names):
+- Sony → smartphone (NEVER camera)
+- Xiaomi, iPhone, Samsung, Asus, Huawei → smartphone
+- Apple → smartphone or computer
+- Canon, Nikon → camera (NEVER smartphone)
+- Philips → consumer electronics (home/kitchen/personal gadgets)
+- SanDisk → storage products (memory cards, flash drives, SSD)
+- Intel → processor products
+- Nvidia, AMD → GPU or processor products
+
+KEYWORD GENERATION RULES:
+- Always generate keywords according to the above mapping when brand is present in intel
+- Never create keywords for incorrect product categories
+- Focus on the correct product type based on brand mapping
+- Ensure all improved keywords align with proper brand-product association
+
 Respond with a JSON object containing improved keywords:
 {{
-  "improved_keywords": ["list of improved, meaningful keywords"]
+  "improved_keywords": ["list of improved, meaningful keywords aligned with brand mapping"]
 }}
 
-Only return keywords that are clear, meaningful, and commercially viable.
+Only return keywords that are clear, meaningful, commercially viable, and correctly mapped to the right product category.
