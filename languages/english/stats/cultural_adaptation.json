@@ -1604,5 +1604,15 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "intel affordable processor for multitasking tasks": {
+        "date": "2025-09-14T04:54:32",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
