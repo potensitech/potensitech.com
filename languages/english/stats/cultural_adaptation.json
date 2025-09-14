@@ -1621,5 +1621,14 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "intel advanced user chipset compatibility guide": {
+        "date": "2025-09-14T09:41:44",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Pizza"
+        ]
     }
 }
