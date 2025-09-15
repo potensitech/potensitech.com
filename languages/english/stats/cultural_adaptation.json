@@ -1708,5 +1708,16 @@
             "Cultural: Wall Street",
             "Cultural: Tex-Mex"
         ]
+    },
+    "sony affordable smartphone with fast processor": {
+        "date": "2025-09-15T19:34:01",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
