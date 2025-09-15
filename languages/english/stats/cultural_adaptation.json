@@ -1672,5 +1672,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "best value Huawei smartphone": {
+        "date": "2025-09-15T12:44:29",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
