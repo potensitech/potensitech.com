@@ -6,3 +6,5 @@ gadget
 android
 camera
 battery
+dslr photography
+autofocus precision
