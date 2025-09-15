@@ -1639,5 +1639,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "innovative and affordable Canon mirrorless cameras": {
+        "date": "2025-09-15T05:04:27",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Central Park",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
