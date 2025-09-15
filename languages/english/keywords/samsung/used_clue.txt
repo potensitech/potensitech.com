@@ -4,3 +4,5 @@ smartphone
 gadget
 flagship
 features
+autofocus precision
+processor speed
