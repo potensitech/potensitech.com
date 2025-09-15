@@ -2,3 +2,5 @@ flagship
 features
 camera
 battery
+gaming phone
+long battery

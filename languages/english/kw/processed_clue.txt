@@ -66,3 +66,5 @@ autofocus precision
 processor speed
 autofocus precision
 processor speed
+gaming phone
+long battery
