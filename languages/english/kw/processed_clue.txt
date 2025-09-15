@@ -56,3 +56,5 @@ lens compatibility
 autofocus precision
 dslr photography
 mirrorless innovation
+dslr photography
+mirrorless innovation
