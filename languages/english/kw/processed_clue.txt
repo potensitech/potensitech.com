@@ -50,3 +50,5 @@ core performance
 thermal efficiency
 processor speed
 chipset compatibility
+dslr photography
+mirrorless innovation
