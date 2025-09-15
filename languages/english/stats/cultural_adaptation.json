@@ -1650,5 +1650,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "affordable Huawei smartphone": {
+        "date": "2025-09-15T07:41:34",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Broadway",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
