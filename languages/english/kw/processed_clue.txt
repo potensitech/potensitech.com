@@ -62,3 +62,5 @@ dslr photography
 autofocus precision
 autofocus precision
 processor speed
+autofocus precision
+processor speed

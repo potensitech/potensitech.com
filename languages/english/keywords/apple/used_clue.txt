@@ -1,2 +1,4 @@
 flagship
 features
+autofocus precision
+processor speed
