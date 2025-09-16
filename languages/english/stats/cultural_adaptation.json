@@ -1749,5 +1749,17 @@
             "Cultural: Social Media",
             "Cultural: TV Shows"
         ]
+    },
+    "best sony smartphone with precise autofocus": {
+        "date": "2025-09-16T07:39:55",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Clam Chowder",
+            "Cultural: Innovation"
+        ]
     }
 }
