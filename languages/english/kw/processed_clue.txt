@@ -72,3 +72,5 @@ fast charging
 oled display
 long battery
 fast charging
+long battery
+fast charging
