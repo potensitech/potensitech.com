@@ -8,3 +8,5 @@ camera
 battery
 dslr photography
 autofocus precision
+digital photography
+lens compatibility
