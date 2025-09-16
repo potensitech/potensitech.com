@@ -2,3 +2,5 @@ flagship
 features
 camera
 battery
+fast charging
+oled display

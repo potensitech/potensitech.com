@@ -68,3 +68,5 @@ autofocus precision
 processor speed
 gaming phone
 long battery
+fast charging
+oled display
