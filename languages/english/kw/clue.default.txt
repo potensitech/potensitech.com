@@ -1,3 +1,7 @@
+digital photography
+lens compatibility
+image stabilization
+autofocus speed
 gaming phone
 oled display
 fast charging
@@ -5,7 +9,6 @@ long battery
 autofocus precision
 processor speed
 mirrorless innovation
-lens compatibility
 dslr photography
 chipset compatibility
 core performance

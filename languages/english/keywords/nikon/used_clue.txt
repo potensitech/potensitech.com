@@ -2,3 +2,4 @@ flagship
 features
 lens compatibility
 autofocus precision
+autofocus speed

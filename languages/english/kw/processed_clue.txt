@@ -80,3 +80,4 @@ gaming phone
 oled display
 digital photography
 image stabilization
+autofocus speed
