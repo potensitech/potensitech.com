@@ -81,3 +81,5 @@ oled display
 digital photography
 image stabilization
 autofocus speed
+digital photography
+lens compatibility

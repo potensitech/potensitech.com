@@ -2,3 +2,5 @@ flagship
 features
 dslr photography
 mirrorless innovation
+digital photography
+lens compatibility
