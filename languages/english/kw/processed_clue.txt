@@ -74,3 +74,5 @@ long battery
 fast charging
 long battery
 fast charging
+gaming phone
+oled display

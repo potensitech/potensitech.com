@@ -2,3 +2,5 @@ flagship
 features
 core performance
 thermal efficiency
+gaming phone
+oled display
