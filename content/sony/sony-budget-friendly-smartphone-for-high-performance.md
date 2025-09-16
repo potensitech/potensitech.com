@@ -137,7 +137,7 @@ One of the most attractive aspects of this smartphone is its price. In 2025, it 
 </thead>
 <tbody>
 <tr>
-<td>Sony Budget-Friendly Smartphone</td>
+<td>[Sony Budget-Friendly](/sony/sony-budget-friendly-battery-options) Smartphone</td>
 <td>$399</td>
 <td>6GB RAM, 48MP Camera, 5000mAh Battery</td>
 </tr>
