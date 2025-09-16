@@ -11,11 +11,14 @@ tags: ["affordable", "sony", "smartphone", "autofocus", "photography"]
 categories: ["sony"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/sony/affordable-sony-smartphone-with-excellent-autofocus.jpg"
+featuredImagePreview: "/images/sony/affordable-sony-smartphone-with-excellent-autofocus.jpg"
 ---
+
+![Affordable Sony Smartphone with Excellent Autofocus](/images/sony/affordable-sony-smartphone-with-excellent-autofocus.jpg)
+
 
 *Affordable Sony Smartphone with Excellent Autofocus* - 
 
