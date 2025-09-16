@@ -83,3 +83,5 @@ image stabilization
 autofocus speed
 digital photography
 lens compatibility
+digital photography
+lens compatibility
