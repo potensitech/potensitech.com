@@ -44,7 +44,7 @@ Sony has leveraged its expertise from its Alpha camera series to bring cutting-e
 
 ## The Best Sony Smartphone With Precise Autofocus: Xperia 1 V
 
-In 2025, the **Sony Xperia 1 V** emerges as the best Sony smartphone with precise autofocus. This flagship device combines advanced camera technology with a sleek design and robust performance, making it the ultimate choice for photography enthusiasts and professionals alike.
+In 2025, the **Sony Xperia 1 V** emerges as the [best Sony](/sony/best-sony-flagship-under-budget) smartphone with precise autofocus. This flagship device combines advanced camera technology with a sleek design and robust performance, making it the ultimate choice for photography enthusiasts and professionals alike.
 
 ### Key Features That Set It Apart
 

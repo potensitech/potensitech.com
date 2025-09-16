@@ -137,7 +137,7 @@ This table provides a quick overview of the best options available, helping **Th
 
 ## How to Maximize Battery Life
 
-Even the best battery can benefit from proper care . Here are some tips to extend the lifespan of **The Potensians's** Sony smartphone battery:
+Even the best battery can benefit from proper care . Here are some tips to extend the lifespan of **The Potensians's** [Sony smartphone](/sony/best-sony-smartphone-with-precise-autofocus) battery:
 
 ### Avoid Overcharging
 
