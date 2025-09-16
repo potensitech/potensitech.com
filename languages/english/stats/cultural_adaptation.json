@@ -1770,5 +1770,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "sony smartphone optimized for gaming performance": {
+        "date": "2025-09-16T12:43:18",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
