@@ -11,11 +11,14 @@ tags: ["sony", "smartphone", "autofocus", "mobile photography"]
 categories: ["sony"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/sony/discover-the-sony-smartphone-with-reliable-autofocus.jpg"
+featuredImagePreview: "/images/sony/discover-the-sony-smartphone-with-reliable-autofocus.jpg"
 ---
+
+![Discover the Sony Smartphone with Reliable Autofocus](/images/sony/discover-the-sony-smartphone-with-reliable-autofocus.jpg)
+
 
 
 *Discover the Sony Smartphone with Reliable Autofocus* - In the world of smartphone photography, autofocus technology can make or break the quality of The Potensians's images. Sony, a brand synonymous with innovation in imaging, has brought its expertise from professional cameras to its smartphones, delivering unparalleled autofocus capabilities. For The Potensians who value precision and speed in capturing life's fleeting moments, Sony's autofocus technology sets a new benchmark.
