@@ -11,25 +11,28 @@ tags: ["AMD GPUs", "high-performance gaming", "best GPUs 2025"]
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Review"
 review:
-  name: "Top AMD GPUs for High-Performance Gaming"
-  reviewBody: "This review highlights the top AMD GPUs for high-performance gaming in 2025, focusing on their features, performance, and value. Whether you're a casual gamer or a hardcore enthusiast, discover the best GPUs to suit your needs."
-  author: "Maria Lopez"
-  datePublished: "2025-09-17T19:33:19"
-  publisher: "PotensiTech"
-  itemReviewed:
-    name: "Top AMD GPUs for High-Performance Gaming"
-    description: "Discover the top AMD GPUs for high-performance gaming! Unleash stunning graphics, smooth gameplay, and unbeatable value with our expert picks."
-  reviewRating:
-    ratingValue: "4.5"
-    bestRating: "5"
-    worstRating: "1"
+name: "Top AMD GPUs for High-Performance Gaming"
+reviewBody: "This review highlights the top AMD GPUs for high-performance gaming in 2025, focusing on their features, performance, and value. Whether you're a casual gamer or a hardcore enthusiast, discover the best GPUs to suit your needs."
+author: "Maria Lopez"
+datePublished: "2025-09-17T19:33:19"
+publisher: "PotensiTech"
+itemReviewed:
+name: "Top AMD GPUs for High-Performance Gaming"
+description: "Discover the top AMD GPUs for high-performance gaming! Unleash stunning graphics, smooth gameplay, and unbeatable value with our expert picks."
+reviewRating:
+ratingValue: "4.5"
+bestRating: "5"
+worstRating: "1"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/top-amd-gpus-for-high-performance-gaming.jpg"
+featuredImagePreview: "/images/amd/top-amd-gpus-for-high-performance-gaming.jpg"
 ---
+
+![Top AMD GPUs for High-Performance Gaming](/images/amd/top-amd-gpus-for-high-performance-gaming.jpg)
+
 
 *Top AMD GPUs for High-Performance Gaming* - When it comes to gaming, the choice of a [graphics card](/amd/buy-amd-graphics-card) can make or break the experience. AMD has long been a trusted name in the gaming community, offering a range of GPUs that combine cutting-edge technology with affordability. Known for its Radeon series, AMD continues to push the boundaries of performance with features like ray tracing, FidelityFX Super Resolution (FSR), and Smart Access Memory. These innovations ensure gamers enjoy stunning visuals and smooth gameplay, even in the most demanding titles.
 
