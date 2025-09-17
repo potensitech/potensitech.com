@@ -11,25 +11,28 @@ tags: ["sony", "smartphone", "photography", "2025"]
 categories: ["sony"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Review"
 review:
-  name: "Best Sony Smartphone for Photography Enthusiasts"
-  reviewBody: "Sony's smartphones have redefined mobile photography in 2025. With advanced camera technology and intuitive features, these devices are perfect for capturing professional-grade photos and videos."
-  author: "Sarah Tan"
-  datePublished: "2025-09-17T14:46:28"
-  publisher: "PotensiTech"
-  itemReviewed:
-    name: "Sony Xperia 1 V"
-    description: "The Sony Xperia 1 V is the ultimate smartphone for photography enthusiasts, featuring a triple-lens system, AI-powered enhancements, and a 4K OLED display for unparalleled image quality."
-  reviewRating:
-    ratingValue: "4.8"
-    bestRating: "5"
-    worstRating: "1"
+name: "Best Sony Smartphone for Photography Enthusiasts"
+reviewBody: "Sony's smartphones have redefined mobile photography in 2025. With advanced camera technology and intuitive features, these devices are perfect for capturing professional-grade photos and videos."
+author: "Sarah Tan"
+datePublished: "2025-09-17T14:46:28"
+publisher: "PotensiTech"
+itemReviewed:
+name: "Sony Xperia 1 V"
+description: "The Sony Xperia 1 V is the ultimate smartphone for photography enthusiasts, featuring a triple-lens system, AI-powered enhancements, and a 4K OLED display for unparalleled image quality."
+reviewRating:
+ratingValue: "4.8"
+bestRating: "5"
+worstRating: "1"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/sony/best-sony-smartphone-for-photography-enthusiasts.jpg"
+featuredImagePreview: "/images/sony/best-sony-smartphone-for-photography-enthusiasts.jpg"
 ---
+
+![Best Sony Smartphone for Photography Enthusiasts](/images/sony/best-sony-smartphone-for-photography-enthusiasts.jpg)
+
 
 
 *Best Sony Smartphone for Photography Enthusiasts* - In 2025, Sony continues to dominate the smartphone photography market with its innovative Xperia lineup. Whether The Potensians're a professional photographer or an enthusiast looking to capture life's moments with precision, Sony offers devices that cater to every need. From advanced camera systems to cutting-edge display technology, these smartphones are designed to elevate The Potensians's photography experience. Let’s explore the best Sony smartphones for photography and see what makes them stand out.
