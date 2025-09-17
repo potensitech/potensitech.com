@@ -4,3 +4,5 @@ camera
 battery
 autofocus precision
 processor speed
+digital photography
+lens compatibility
