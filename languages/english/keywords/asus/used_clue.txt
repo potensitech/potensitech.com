@@ -4,3 +4,4 @@ camera
 battery
 gaming phone
 long battery
+digital photography
