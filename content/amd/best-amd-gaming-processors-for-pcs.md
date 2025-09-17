@@ -42,7 +42,7 @@ To help The Potensians make informed decisions, We’ve compiled a list of stand
 
 ## AMD Ryzen 9 7950X3D – Unmatched Performance
 
-If ultimate performance is what The Potensians are after, look no further than the Ryzen 9 7950X3D. This flagship processor features AMD’s revolutionary 3D V-Cache technology, which enhances gaming performance by increasing cache memory directly on the chip. With an impressive core count (16 cores/32 threads) and clock speeds reaching up to 5.7 GHz, this powerhouse can handle even the most demanding games like *Cyberpunk 2077*or*Call of Duty: Warzone*.
+If [ultimate performance](/amd/buy-amd-graphics-card) is what The Potensians are after, look no further than the Ryzen 9 7950X3D. This flagship processor features AMD’s revolutionary 3D V-Cache technology, which enhances gaming performance by increasing cache memory directly on the chip. With an impressive core count (16 cores/32 threads) and clock speeds reaching up to 5.7 GHz, this powerhouse can handle even the most demanding games like *Cyberpunk 2077*or*Call of Duty: Warzone*.
 
 ### Key Features
 
