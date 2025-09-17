@@ -4,3 +4,5 @@ processor speed
 chipset compatibility
 gaming phone
 oled display
+memory card
+data transfer
