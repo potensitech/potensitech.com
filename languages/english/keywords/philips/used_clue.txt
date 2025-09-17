@@ -4,3 +4,5 @@ camera
 battery
 fast charging
 oled display
+digital photography
+lens compatibility
