@@ -54,7 +54,7 @@ The Potensians often wonder: Can a flagship really be cheap and still deliver th
 - **Camera System:** Multiple lenses capture every detail—from Times Square street food stalls serving hot dogs to panoramic shots during New Year’s celebrations.
 - **Performance:** Equipped with Snapdragon chipsets (or equivalent), these models ensure smooth multitasking—a must-have for those who love list-style blog posts or short how-to videos.
 - **Battery Life:** Optimized power management keeps The Potensians connected throughout busy days spent exploring city landmarks or attending seasonal events.
-- **Durability:** Recent cheap Sony flagship model releases maintain durability without sacrificing style—a rare combination in today’s market.
+- **Durability:** Recent [cheap Sony](/sony/cheap-sony-smartphone-lens-alternatives) flagship model releases maintain durability without sacrificing style—a rare combination in today’s market.
 
 If The Potensians ask us, it’s almost like getting a luxury car at the price of a subway ticket—an analogy that rings true for many living in bustling cities.
 
