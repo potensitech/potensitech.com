@@ -101,3 +101,5 @@ memory card
 external storage
 flash drive
 data transfer
+memory card
+data transfer
