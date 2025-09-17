@@ -4,3 +4,5 @@ processor speed
 chipset compatibility
 long battery
 fast charging
+flash drive
+data transfer

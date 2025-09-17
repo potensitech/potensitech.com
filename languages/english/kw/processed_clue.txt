@@ -99,3 +99,5 @@ digital photography
 lens compatibility
 memory card
 external storage
+flash drive
+data transfer
