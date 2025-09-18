@@ -1840,5 +1840,14 @@
             "Cultural: Memorial Day",
             "Cultural: Super Bowl Sunday"
         ]
+    },
+    "best AMD GPUs for 4K gaming": {
+        "date": "2025-09-18T05:05:01",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
