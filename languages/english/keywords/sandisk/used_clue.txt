@@ -6,3 +6,4 @@ long battery
 fast charging
 memory card
 external storage
+data transfer
