@@ -3,3 +3,5 @@ features
 lens compatibility
 autofocus precision
 autofocus speed
+memory card
+data transfer
