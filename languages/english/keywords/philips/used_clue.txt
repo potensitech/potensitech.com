@@ -6,3 +6,5 @@ fast charging
 oled display
 digital photography
 lens compatibility
+memory card
+data transfer

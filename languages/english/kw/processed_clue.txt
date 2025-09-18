@@ -123,3 +123,5 @@ memory card
 data transfer
 memory card
 data transfer
+memory card
+data transfer
