@@ -11,11 +11,14 @@ tags: ["sony", "memory card", "smartphones", "budget-friendly storage", "mobile 
 categories: ["sony"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/sony/sony-budget-friendly-memory-card-for-smartphones.jpg"
+featuredImagePreview: "/images/sony/sony-budget-friendly-memory-card-for-smartphones.jpg"
 ---
+
+![Sony Budget-Friendly Memory Card for Smartphones](/images/sony/sony-budget-friendly-memory-card-for-smartphones.jpg)
+
 
 *Sony Budget-Friendly Memory Card for Smartphones* - 
 
