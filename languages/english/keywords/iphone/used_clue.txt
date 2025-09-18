@@ -10,3 +10,5 @@ dslr photography
 autofocus precision
 digital photography
 lens compatibility
+memory card
+data transfer
