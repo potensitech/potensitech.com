@@ -1943,5 +1943,14 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "amd affordable gpu performance review": {
+        "date": "2025-09-19T21:56:30",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
