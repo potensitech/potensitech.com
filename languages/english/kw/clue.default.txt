@@ -1,6 +1,6 @@
-dslr features
 camera resolution
 autofocus speed
+dslr features
 lens compatibility
 graphics card
 ray tracing
