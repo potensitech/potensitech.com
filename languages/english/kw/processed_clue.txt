@@ -141,3 +141,5 @@ dslr features
 lens compatibility
 dslr features
 camera resolution
+camera resolution
+autofocus speed
