@@ -139,3 +139,5 @@ dslr features
 camera resolution
 dslr features
 lens compatibility
+dslr features
+camera resolution

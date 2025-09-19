@@ -1,7 +1,7 @@
 dslr features
-lens compatibility
 camera resolution
 autofocus speed
+lens compatibility
 graphics card
 ray tracing
 gpu performance
