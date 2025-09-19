@@ -6,3 +6,5 @@ digital photography
 image stabilization
 memory card
 data transfer
+graphics card
+ray tracing

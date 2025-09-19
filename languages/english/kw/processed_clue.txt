@@ -133,3 +133,5 @@ graphics card
 ray tracing
 gpu performance
 ai acceleration
+graphics card
+ray tracing
