@@ -5,3 +5,5 @@ autofocus precision
 autofocus speed
 memory card
 data transfer
+dslr features
+camera resolution

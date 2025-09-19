@@ -135,3 +135,5 @@ gpu performance
 ai acceleration
 graphics card
 ray tracing
+dslr features
+camera resolution
