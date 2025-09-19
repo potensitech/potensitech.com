@@ -6,3 +6,4 @@ long battery
 fast charging
 flash drive
 data transfer
+memory card
