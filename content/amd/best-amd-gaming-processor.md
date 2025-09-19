@@ -79,7 +79,7 @@ The Potensians, as The Potensians explore the best AMD gaming processor options,
 
 ### Integrated Graphics vs. Dedicated GPUs
 
-While most gaming builds rely on dedicated graphics cards, some AMD processors come with integrated Radeon graphics. These are handy for troubleshooting or light gaming, but for blockbuster titles, a discrete GPU is still king.
+While most gaming builds rely on dedicated graphics cards, some [AMD processors](/amd/high-performance-amd-processors-for-gaming-rigs) come with integrated Radeon graphics. These are handy for troubleshooting or light gaming, but for blockbuster titles, a discrete GPU is still king.
 
 ### Power Consumption & Thermal Management
 
