@@ -6,3 +6,5 @@ digital photography
 lens compatibility
 memory card
 data transfer
+camera resolution
+autofocus speed
