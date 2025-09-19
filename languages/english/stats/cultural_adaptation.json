@@ -1936,5 +1936,12 @@
             "Cultural: Apple Pie",
             "Cultural: Innovation"
         ]
+    },
+    "amd high-speed SanDisk memory cards": {
+        "date": "2025-09-19T19:33:44",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
