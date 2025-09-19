@@ -6,3 +6,5 @@ gaming phone
 oled display
 memory card
 data transfer
+gpu performance
+ai acceleration
