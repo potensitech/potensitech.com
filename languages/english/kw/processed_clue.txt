@@ -137,3 +137,5 @@ graphics card
 ray tracing
 dslr features
 camera resolution
+dslr features
+lens compatibility

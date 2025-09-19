@@ -1,3 +1,7 @@
+dslr features
+lens compatibility
+camera resolution
+autofocus speed
 graphics card
 ray tracing
 gpu performance
@@ -5,9 +9,7 @@ ai acceleration
 external storage
 flash drive
 digital photography
-lens compatibility
 image stabilization
-autofocus speed
 gaming phone
 oled display
 fast charging
