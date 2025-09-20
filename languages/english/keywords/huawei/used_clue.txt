@@ -7,3 +7,5 @@ lens compatibility
 memory card
 data transfer
 dslr features
+camera lens
+image stabilization

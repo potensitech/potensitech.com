@@ -163,3 +163,5 @@ core count
 camera lens
 camera lens
 dslr photography
+camera lens
+image stabilization
