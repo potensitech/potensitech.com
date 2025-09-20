@@ -1965,5 +1965,14 @@
             "Cultural: Hollywood",
             "Cultural: Pizza"
         ]
+    },
+    "sony budget smartphone with high-resolution display": {
+        "date": "2025-09-20T03:18:27",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
