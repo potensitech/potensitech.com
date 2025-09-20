@@ -111,7 +111,7 @@ To help The Potensians choose the right camera, here’s ​a quick comparison o
 <tr>
 <td>Sony Alpha a6100</td>
 <td>Under $1000</td>
-<td>24MP sensor, Fast autofocus, Wi-Fi sharing</td>
+<td>24MP sensor, [Fast autofocus](/sony/sony-affordable-smartphone-with-fast-autofocus), Wi-Fi sharing</td>
 <td>Beginners, intermediate users</td>
 </tr>
 <tr>
