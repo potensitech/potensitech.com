@@ -463,5 +463,10 @@
   "power-efficient affordable intel processor": true,
   "budget-friendly high-core-count intel processors": true,
   "budget-friendly power-efficient intel processors": true,
-  "best intel processor for high-core performance": true
+  "best intel processor for high-core performance": true,
+  "nvidia affordable GPU with excellent cooling": true,
+  "nvidia budget-friendly GPUs with reliable cooling": true,
+  "nvidia high-performance GPU with advanced cooling": true,
+  "nvidia GPUs with dependable thermal management": true,
+  "nvidia optimized cooling for gaming GPUs": true
 }

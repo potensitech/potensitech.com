@@ -157,3 +157,4 @@ camera resolution
 autofocus speed
 core count
 power efficiency
+thermal performance
