@@ -11,11 +11,14 @@ tags: ["sony", "smartphone", "photography", "affordable", "autofocus"]
 categories: ["sony"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/sony/sony-affordable-smartphone-with-fast-autofocus-shines.jpg"
+featuredImagePreview: "/images/sony/sony-affordable-smartphone-with-fast-autofocus-shines.jpg"
 ---
+
+![Sony Affordable Smartphone with Fast Autofocus Shines](/images/sony/sony-affordable-smartphone-with-fast-autofocus-shines.jpg)
+
 
 
 *Sony Affordable Smartphone with Fast Autofocus Shines* - In the ever-evolving world of smartphone technology, Sony continues to stand out by offering innovative features at accessible price points. One of its most remarkable achievements is the integration of fast autofocus technology into its affordable smartphones. This feature not only enhances photography but also redefines what users can expect from budget-friendly devices in 2025. Let’s dive deeper into why this technology matters and how it sets Sony apart.
