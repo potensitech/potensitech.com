@@ -151,3 +151,5 @@ camera resolution
 autofocus speed
 camera resolution
 graphics card
+camera resolution
+autofocus speed
