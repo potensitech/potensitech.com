@@ -1994,5 +1994,12 @@
             "Cultural: Chicago",
             "Cultural: Innovation"
         ]
+    },
+    "cheap amd gpu for ai acceleration": {
+        "date": "2025-09-20T12:39:56",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }

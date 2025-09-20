@@ -1272,5 +1272,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "cheap amd gpu for ai acceleration": {
+        "date": "2025-09-20T12:39:56",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }
