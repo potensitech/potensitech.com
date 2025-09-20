@@ -1952,5 +1952,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "sony affordable smartphone with fast autofocus": {
+        "date": "2025-09-20T02:06:06",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Christmas",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Pizza"
+        ]
     }
 }
