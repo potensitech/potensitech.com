@@ -160,3 +160,4 @@ power efficiency
 thermal performance
 processor speed
 core count
+camera lens
