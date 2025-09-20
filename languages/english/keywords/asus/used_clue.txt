@@ -7,3 +7,5 @@ long battery
 digital photography
 memory card
 data transfer
+camera resolution
+graphics card
