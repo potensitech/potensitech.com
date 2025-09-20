@@ -7,3 +7,5 @@ fast charging
 memory card
 external storage
 data transfer
+camera resolution
+autofocus speed

@@ -1,8 +1,8 @@
 camera resolution
-graphics card
 autofocus speed
-dslr features
 lens compatibility
+graphics card
+dslr features
 ray tracing
 gpu performance
 ai acceleration
