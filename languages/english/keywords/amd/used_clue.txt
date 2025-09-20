@@ -8,3 +8,4 @@ memory card
 data transfer
 gpu performance
 ai acceleration
+core count

@@ -158,3 +158,5 @@ autofocus speed
 core count
 power efficiency
 thermal performance
+processor speed
+core count

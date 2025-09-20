@@ -468,5 +468,15 @@
   "nvidia budget-friendly GPUs with reliable cooling": true,
   "nvidia high-performance GPU with advanced cooling": true,
   "nvidia GPUs with dependable thermal management": true,
-  "nvidia optimized cooling for gaming GPUs": true
+  "nvidia optimized cooling for gaming GPUs": true,
+  "amd affordable high-core-count processor": true,
+  "amd budget-friendly multitasking processor": true,
+  "amd affordable gaming performance processor": true,
+  "amd high-speed low-cost processor": true,
+  "amd cost-effective balanced-core processor": true,
+  "amd entry-level processor for everyday computing": true,
+  "amd affordable processor for content creation": true,
+  "amd optimal-core processor for budget builds": true,
+  "amd affordable gaming-speed processor": true,
+  "amd low-cost processor for workstations": true
 }
