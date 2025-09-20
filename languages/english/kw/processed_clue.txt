@@ -147,3 +147,5 @@ camera resolution
 autofocus speed
 camera resolution
 autofocus speed
+camera resolution
+autofocus speed
