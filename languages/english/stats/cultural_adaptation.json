@@ -2001,5 +2001,15 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "best amd gpu for ai workloads": {
+        "date": "2025-09-20T17:02:28",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
