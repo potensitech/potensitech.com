@@ -7,3 +7,5 @@ fast charging
 flash drive
 data transfer
 memory card
+core count
+power efficiency
