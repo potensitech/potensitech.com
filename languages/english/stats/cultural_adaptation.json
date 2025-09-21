@@ -2011,5 +2011,18 @@
             "Cultural: Innovation",
             "Cultural: Remote Work"
         ]
+    },
+    "sony affordable smartphone with stabilization": {
+        "date": "2025-09-21T17:02:59",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Apple Pie",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
