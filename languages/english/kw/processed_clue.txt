@@ -173,3 +173,5 @@ camera lens
 image stabilization
 camera lens
 image stabilization
+camera lens
+image stabilization

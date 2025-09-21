@@ -1,8 +1,8 @@
 camera lens
 image stabilization
-processor speed
 mirrorless innovation
 dslr photography
+processor speed
 core count
 power efficiency
 thermal performance
