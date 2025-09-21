@@ -533,5 +533,14 @@
   "intel affordable processors for mobile performance": true,
   "intel budget-friendly processors for smartphones": true,
   "intel high-performance processors for smartphones": true,
-  "intel processors for budget smartphone performance": true
+  "intel processors for budget smartphone performance": true,
+  "nvidia affordable AI rendering solutions": true,
+  "nvidia budget-friendly gaming GPUs": true,
+  "nvidia cost-effective AI rendering GPUs": true,
+  "nvidia affordable gaming graphics cards": true,
+  "nvidia AI rendering GPUs for professionals": true,
+  "nvidia high-performance gaming GPUs": true,
+  "nvidia entry-level GPUs for AI rendering": true,
+  "nvidia affordable GPUs for creative professionals": true,
+  "nvidia budget GPUs for gaming enthusiasts": true
 }

@@ -9,3 +9,5 @@ data transfer
 graphics card
 ray tracing
 thermal performance
+gaming performance
+ai rendering

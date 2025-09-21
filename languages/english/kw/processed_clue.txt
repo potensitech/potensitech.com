@@ -183,3 +183,5 @@ mobile performance
 memory card
 flash drive
 mobile performance
+gaming performance
+ai rendering
