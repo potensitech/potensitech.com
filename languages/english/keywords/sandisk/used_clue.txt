@@ -9,3 +9,4 @@ external storage
 data transfer
 camera resolution
 autofocus speed
+mobile performance
