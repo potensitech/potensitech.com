@@ -8,3 +8,5 @@ memory card
 data transfer
 camera resolution
 autofocus speed
+camera lens
+image stabilization
