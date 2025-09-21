@@ -10,3 +10,5 @@ memory card
 data transfer
 camera resolution
 autofocus speed
+mobile performance
+long battery

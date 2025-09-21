@@ -177,3 +177,5 @@ camera lens
 image stabilization
 mobile performance
 sleek design
+mobile performance
+long battery
