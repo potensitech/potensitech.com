@@ -68,7 +68,7 @@ Opting for trusted brands or well-reviewed third-party manufacturers ensures qua
 
 ## Top Recommendations: Affordable Batteries That Deliver
 
-Here are the top picks for the best Sony battery for budget users in 2025. These options combine affordability, reliability, and performance to meet the needs of **The Potensians**.
+Here are the [top picks](/sony/best-smartphone-lens-for-sony-devices) for the best Sony battery for budget users in 2025. These options combine affordability, reliability, and performance to meet the needs of **The Potensians**.
 
 ### 1. Sony Xperia L4 Replacement Battery (3300mAh) This replacement battery is perfect for those seeking a simple and budget-friendly solution. 
 
