@@ -1,3 +1,5 @@
+flash drive
+external storage
 mobile performance
 long battery
 sleek design
@@ -18,8 +20,6 @@ graphics card
 ray tracing
 gpu performance
 ai acceleration
-external storage
-flash drive
 digital photography
 oled display
 fast charging

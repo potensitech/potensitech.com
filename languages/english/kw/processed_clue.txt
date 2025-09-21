@@ -181,3 +181,5 @@ mobile performance
 long battery
 mobile performance
 memory card
+flash drive
+mobile performance
