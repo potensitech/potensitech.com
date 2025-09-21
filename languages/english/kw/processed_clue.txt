@@ -175,3 +175,5 @@ camera lens
 image stabilization
 camera lens
 image stabilization
+mobile performance
+sleek design
