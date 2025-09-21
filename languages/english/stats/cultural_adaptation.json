@@ -2024,5 +2024,18 @@
             "Cultural: Apple Pie",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "best smartphone lens for sony devices": {
+        "date": "2025-09-21T19:35:19",
+        "language": "en",
+        "cultural_score": 72,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Broadway"
+        ]
     }
 }
