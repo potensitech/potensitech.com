@@ -113,7 +113,7 @@ To give The Potensians a clearer picture of what this smartphone offers, here’
 
 ## Why This Smartphone Is a Game-Changer in 2025
 
-In 2025, the smartphone market is more competitive than ever, with brands vying to offer the best features at the lowest prices.  Sony’s budget smartphone with high-resolution display stands out by delivering premium features typically reserved for flagship devices.
+In 2025, the smartphone market is more competitive than ever, with brands vying to offer the best features at the lowest prices.  Sony’s [budget smartphone](/sony/sony-budget-smartphone-with-stabilization-features) with high-resolution display stands out by delivering premium features typically reserved for flagship devices.
 
 ### Affordable Pricing
 
