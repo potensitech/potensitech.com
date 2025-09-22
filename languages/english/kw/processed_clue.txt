@@ -197,3 +197,5 @@ graphics card
 ai rendering
 smartphone battery
 smartphone camera
+smartphone display
+smartphone storage
