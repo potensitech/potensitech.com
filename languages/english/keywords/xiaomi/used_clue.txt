@@ -13,3 +13,5 @@ dslr features
 camera resolution
 camera lens
 image stabilization
+graphics card
+ai rendering
