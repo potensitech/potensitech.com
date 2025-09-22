@@ -195,3 +195,5 @@ graphics card
 ai rendering
 graphics card
 ai rendering
+smartphone battery
+smartphone camera

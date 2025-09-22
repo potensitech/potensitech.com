@@ -16,3 +16,5 @@ camera resolution
 autofocus speed
 camera lens
 image stabilization
+smartphone battery
+smartphone camera
