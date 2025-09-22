@@ -9,3 +9,5 @@ data transfer
 dslr features
 camera lens
 image stabilization
+graphics card
+ai rendering
