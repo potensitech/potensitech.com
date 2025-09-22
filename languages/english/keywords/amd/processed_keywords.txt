@@ -24,3 +24,4 @@ amd high-performance gpu for ai tasks
 cheap amd gpu for ai acceleration
 best amd gpu for ai workloads
 affordable amd gpu for deep learning
+amd gpu for cost-effective ai tasks
