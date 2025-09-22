@@ -25,3 +25,4 @@ cheap amd gpu for ai acceleration
 best amd gpu for ai workloads
 affordable amd gpu for deep learning
 amd gpu for cost-effective ai tasks
+amd gpu for entry-level ai applications
