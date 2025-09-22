@@ -199,3 +199,5 @@ smartphone battery
 smartphone camera
 smartphone display
 smartphone storage
+smartphone battery
+smartphone camera
