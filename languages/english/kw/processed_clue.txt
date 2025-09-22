@@ -187,3 +187,5 @@ gaming performance
 ai rendering
 graphics card
 ray tracing
+graphics card
+ray tracing
