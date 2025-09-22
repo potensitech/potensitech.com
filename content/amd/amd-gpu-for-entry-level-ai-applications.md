@@ -60,7 +60,7 @@ To better understand why AMD GPUs shine in this space, let’s break down some k
 <tr>
 <td>High Memory Bandwidth</td>
 <td>Enables faster data transfer between GPU cores.</td>
-<td>Improves training times for machine learning models.</td>
+<td>Improves training times for [machine learning](/amd/amd-gpu-optimized-for-machine-learning) models.</td>
 </tr>
 <tr>
 <td>FP16 Support</td>
