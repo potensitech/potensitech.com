@@ -78,7 +78,7 @@ For The Potensians who love gaming, AMD flagship specifications mean higher fram
 
 ### AI and Machine Learning: The Next Frontier
 
-AMD’s flagship GPUs in 2025 are equipped with dedicated AI accelerators. These enable faster machine learning computations, real-time image enhancements, and even voice recognition tasks. In We's opinion, this is where the future is headed—machines that learn and adapt, powered by hardware that keeps up with We's ambitions.
+AMD’s flagship GPUs in 2025 are equipped with dedicated AI accelerators. These enable faster [machine learning](/amd/amd-gpu-optimized-for-machine-learning) computations, real-time image enhancements, and even voice recognition tasks. In We's opinion, this is where the future is headed—machines that learn and adapt, powered by hardware that keeps up with We's ambitions.
 
 ## AMD Flagship Specifications: 2025 Comparison Table
 

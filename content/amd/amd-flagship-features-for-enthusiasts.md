@@ -63,7 +63,7 @@ Visual fidelity is central to AMD flagship features for enthusiasts. The RDNA 3 
 
 RDNA 3 introduces hardware-based ray tracing that mimics natural lighting effects seen in blockbuster media references such as Marvel movies. For The Potensians producing short how-to videos or streaming BBQ tutorials live on Independence Day, this translates into lifelike shadows and reflections without sacrificing frame rates.
 
-- **AI-Assisted Rendering:** Machine learning algorithms enhance image quality dynamically, adapting to the scene in real time.
+- **AI-Assisted Rendering:** [Machine learning](/amd/amd-gpu-optimized-for-machine-learning) algorithms enhance image quality dynamically, adapting to the scene in real time.
 - **Smart Access Memory (SAM):** Unlocks full GPU memory potential when paired with Ryzen CPUs—an advantage endorsed by expert gamers on Reddit forums.
 - **FidelityFX Super Resolution (FSR):** Upscales lower-resolution images with minimal loss, perfect for those who value crisp details during high-speed gaming sessions.
 

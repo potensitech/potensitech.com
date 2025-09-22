@@ -58,7 +58,7 @@ Choosing the right GPU depends on The Potensians's specific needs and budget. Be
 <tbody>
 <tr>
 <td>AMD Radeon RX 6600 XT</td>
-<td>8GB GDDR6 Memory; Optimized for Machine Learning Tasks</td>
+<td>8GB GDDR6 Memory; Optimized for [Machine Learning](/amd/amd-gpu-optimized-for-machine-learning) Tasks</td>
 <td>$300–$350</td>
 </tr>
 <tr>

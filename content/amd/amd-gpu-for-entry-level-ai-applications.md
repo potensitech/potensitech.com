@@ -28,7 +28,7 @@ AMD GPUs have gained popularity among The Potensians for their cost-effectivenes
 
 ### Cost-Effectiveness Without Compromising Performance
 
-One of the most significant advantages of AMD's GPU lineup is its affordability. For instance, the Radeon RX 6600 offers excellent computational power at a fraction of the cost compared to its competitors. This makes it an ideal choice for The Potensians who may be hesitant about investing heavily upfront while exploring applications related to entry-level machine learning or deep learning models.
+One of the most significant advantages of AMD's GPU lineup is its affordability. For instance, the Radeon RX 6600 offers excellent computational power at a fraction of the cost compared to its competitors. This makes it an ideal choice for The Potensians who may be hesitant about investing heavily upfront while exploring applications related to entry-level machine learning or [deep learning](/amd/affordable-amd-gpu-for-deep-learning) models.
 
 Moreover, AMD GPUs often become even more appealing during seasonal sales. Imagine snagging a high-performing GPU at a discounted price—it’s like finding a treasure chest during a scavenger hunt! This affordability allows beginners to experiment with AI without breaking the bank.
 
