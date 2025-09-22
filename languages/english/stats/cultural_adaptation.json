@@ -2097,5 +2097,15 @@
             "Cultural: Pizza",
             "Cultural: Innovation"
         ]
+    },
+    "amd budget-friendly multitasking processor": {
+        "date": "2025-09-22T17:03:34",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
