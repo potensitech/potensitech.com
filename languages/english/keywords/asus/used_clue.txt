@@ -11,3 +11,5 @@ camera resolution
 graphics card
 mobile performance
 sleek design
+smartphone battery
+smartphone camera
