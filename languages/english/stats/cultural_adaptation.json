@@ -2087,5 +2087,15 @@
             "Cultural: Innovation",
             "Cultural: E-commerce"
         ]
+    },
+    "amd affordable high-core-count processor": {
+        "date": "2025-09-22T14:51:03",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Pizza",
+            "Cultural: Innovation"
+        ]
     }
 }
