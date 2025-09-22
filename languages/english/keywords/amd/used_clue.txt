@@ -9,3 +9,5 @@ data transfer
 gpu performance
 ai acceleration
 core count
+graphics card
+ray tracing

@@ -542,5 +542,14 @@
   "nvidia high-performance gaming GPUs": true,
   "nvidia entry-level GPUs for AI rendering": true,
   "nvidia affordable GPUs for creative professionals": true,
-  "nvidia budget GPUs for gaming enthusiasts": true
+  "nvidia budget GPUs for gaming enthusiasts": true,
+  "amd affordable graphics card for gaming": true,
+  "amd budget-friendly GPU with ray tracing": true,
+  "amd entry-level gaming graphics card": true,
+  "amd affordable GPU supporting ray tracing": true,
+  "amd cost-effective GPU for 1080p gaming": true,
+  "amd mid-range GPU with ray tracing": true,
+  "amd best value GPU for gamers": true,
+  "amd affordable GPU for creative work": true,
+  "amd beginner-friendly GPU with ray tracing": true
 }

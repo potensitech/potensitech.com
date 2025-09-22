@@ -1,3 +1,7 @@
+graphics card
+ray tracing
+gaming performance
+ai rendering
 flash drive
 mobile performance
 long battery
@@ -16,8 +20,6 @@ camera resolution
 autofocus speed
 dslr features
 lens compatibility
-graphics card
-ray tracing
 gpu performance
 ai acceleration
 digital photography
