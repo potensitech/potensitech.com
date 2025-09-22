@@ -9,3 +9,5 @@ dslr features
 camera resolution
 camera lens
 dslr photography
+graphics card
+ray tracing
