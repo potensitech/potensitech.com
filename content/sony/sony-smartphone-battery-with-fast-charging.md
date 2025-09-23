@@ -48,7 +48,7 @@ Sony’s batteries utilize cutting-edge lithium-ion chemistry, designed for high
 
 ### USB Power Delivery (USB-PD) Support
 
-Sony smartphones with fast-charging capabilities are equipped with USB-PD standards, enabling universal compatibility with chargers and cables. This ensures faster power delivery while maintaining device integrity, whether The Potensians are charging at home, in the office, or on the go.
+[Sony smartphones](/sony/cheap-sony-smartphones-with-fast-processors) with fast-charging capabilities are equipped with USB-PD standards, enabling universal compatibility with chargers and cables. This ensures faster power delivery while maintaining device integrity, whether The Potensians are charging at home, in the office, or on the go.
 
 ### Adaptive Charging Algorithms
 
