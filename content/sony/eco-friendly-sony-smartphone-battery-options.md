@@ -11,11 +11,14 @@ tags: ["eco-friendly", "Sony", "smartphone", "battery", "sustainability"]
 categories: ["sony"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/sony/eco-friendly-sony-smartphone-battery-options-unveiled.jpg"
+featuredImagePreview: "/images/sony/eco-friendly-sony-smartphone-battery-options-unveiled.jpg"
 ---
+
+![Eco-Friendly Sony Smartphone Battery Options Unveiled](/images/sony/eco-friendly-sony-smartphone-battery-options-unveiled.jpg)
+
 
 _Eco-Friendly Sony Smartphone Battery Options Unveiled_ - 
 
