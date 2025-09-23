@@ -218,3 +218,5 @@ graphics card
 ray tracing
 ray tracing
 ai rendering
+ai rendering
+graphics card
