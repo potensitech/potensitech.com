@@ -2150,5 +2150,16 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "high-capacity Sony smartphone battery": {
+        "date": "2025-09-23T14:50:04",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Freedom",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
