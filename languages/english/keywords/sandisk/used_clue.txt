@@ -10,3 +10,5 @@ data transfer
 camera resolution
 autofocus speed
 mobile performance
+solid-state
+usb storage

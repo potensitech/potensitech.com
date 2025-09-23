@@ -1,3 +1,6 @@
+flash drive
+solid-state
+usb storage
 smartphone battery
 smartphone camera
 smartphone display
@@ -6,7 +9,6 @@ graphics card
 ai rendering
 gaming performance
 ray tracing
-flash drive
 mobile performance
 long battery
 sleek design

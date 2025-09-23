@@ -207,3 +207,5 @@ smartphone battery
 smartphone camera
 smartphone battery
 smartphone camera
+solid-state
+usb storage
