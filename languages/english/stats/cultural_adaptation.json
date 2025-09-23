@@ -2116,5 +2116,15 @@
         "matches": [
             "Cultural: Social Media"
         ]
+    },
+    "budget-friendly Sony smartphone battery": {
+        "date": "2025-09-23T02:06:00",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
