@@ -222,3 +222,5 @@ ai rendering
 graphics card
 ai rendering
 graphics card
+smartphone features
+camera quality

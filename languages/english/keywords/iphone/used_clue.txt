@@ -18,3 +18,5 @@ camera lens
 image stabilization
 smartphone battery
 smartphone camera
+smartphone features
+camera quality
