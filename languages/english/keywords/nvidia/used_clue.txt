@@ -11,3 +11,4 @@ ray tracing
 thermal performance
 gaming performance
 ai rendering
+cuda cores

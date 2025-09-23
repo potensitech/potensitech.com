@@ -42,4 +42,7 @@ nvidia high-performance gaming GPUs
 nvidia entry-level GPUs for AI rendering
 nvidia affordable GPUs for creative professionals
 nvidia budget GPUs for gaming enthusiasts
+affordable Nvidia GPUs with CUDA cores
+cheap Nvidia GPUs with CUDA cores
+budget-friendly Nvidia GPUs featuring CUDA cores
 

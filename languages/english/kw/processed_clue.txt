@@ -211,3 +211,4 @@ solid-state
 usb storage
 flash drive
 solid-state
+cuda cores
