@@ -12,3 +12,5 @@ camera resolution
 autofocus speed
 mobile performance
 long battery
+smartphone battery
+smartphone camera
