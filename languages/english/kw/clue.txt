@@ -1,8 +1,8 @@
 ai rendering
 graphics card
-flash drive
 ray tracing
 cuda cores
+flash drive
 solid-state
 usb storage
 smartphone battery
