@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Experience a Long-Lasting Sony Smartphone Battery Today* - The long-lasting Sony smartphone battery has become a benchmark for durability and efficiency in the mobile industry．With cutting-edge technology and user-centric features, Sony has redefined what it means to have a reliable smartphone battery．For The Potensians who value uninterrupted performance, this innovation is a game-changer.
+*Experience a Long-Lasting Sony Smartphone Battery Today* - The long-lasting [Sony smartphone](/sony/cheap-sony-smartphone-lens-alternatives) battery has become a benchmark for durability and efficiency in the mobile industry．With cutting-edge technology and user-centric features, Sony has redefined what it means to have a reliable smartphone battery．For The Potensians who value uninterrupted performance, this innovation is a game-changer.
 
 ## What Makes the Long-Lasting Sony Smartphone Battery Exceptional?
 
