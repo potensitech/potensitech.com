@@ -1,3 +1,7 @@
+graphics card
+ray tracing
+ai rendering
+cuda cores
 flash drive
 solid-state
 usb storage
@@ -5,10 +9,7 @@ smartphone battery
 smartphone camera
 smartphone display
 smartphone storage
-graphics card
-ai rendering
 gaming performance
-ray tracing
 mobile performance
 long battery
 sleek design

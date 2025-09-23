@@ -625,5 +625,9 @@
   "intel SSD options for storage needs": true,
   "affordable Nvidia GPUs with CUDA cores": true,
   "cheap Nvidia GPUs with CUDA cores": true,
-  "budget-friendly Nvidia GPUs featuring CUDA cores": true
+  "budget-friendly Nvidia GPUs featuring CUDA cores": true,
+  "amd beginner-friendly ray tracing GPU": true,
+  "amd ray tracing GPU under $300": true,
+  "amd gaming GPU with budget pricing": true,
+  "amd low-cost graphics card for esports": true
 }

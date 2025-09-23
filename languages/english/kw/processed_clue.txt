@@ -212,3 +212,5 @@ usb storage
 flash drive
 solid-state
 cuda cores
+graphics card
+ray tracing
