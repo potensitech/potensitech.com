@@ -2172,5 +2172,15 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Sony smartphone battery with fast charging": {
+        "date": "2025-09-23T19:31:38",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
