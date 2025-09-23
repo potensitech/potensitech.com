@@ -10,3 +10,4 @@ memory card
 core count
 power efficiency
 mobile performance
+solid-state

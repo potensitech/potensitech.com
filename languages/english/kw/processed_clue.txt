@@ -209,3 +209,5 @@ smartphone battery
 smartphone camera
 solid-state
 usb storage
+flash drive
+solid-state
