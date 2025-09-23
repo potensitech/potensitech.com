@@ -1,7 +1,7 @@
-graphics card
 ray tracing
 ai rendering
 cuda cores
+graphics card
 flash drive
 solid-state
 usb storage
