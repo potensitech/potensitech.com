@@ -1,0 +1,37 @@
+2025-09-24 12:32:35,002 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20250924_123235.log
+2025-09-24 12:32:35,003 - INFO - ============================================================
+2025-09-24 12:32:35,003 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-09-24 12:32:35,003 - INFO - ============================================================
+2025-09-24 12:32:35,139 - INFO - ========================================
+2025-09-24 12:32:35,139 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-09-24 12:32:35,139 - INFO - ========================================
+2025-09-24 12:32:35,139 - INFO - Continuing from last processed niche: philips
+2025-09-24 12:32:35,139 - INFO - ========================================
+2025-09-24 12:32:35,139 - INFO - 🎯 PROCESSING NICHE 8/14: 'sandisk'
+2025-09-24 12:32:35,139 - INFO - ========================================
+2025-09-24 12:32:35,139 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/sandisk
+2025-09-24 12:32:35,139 - INFO - Selected region: us
+2025-09-24 12:32:35,140 - INFO - Selected language: en
+2025-09-24 12:32:35,140 - INFO - 🎯 Current niche: sandisk
+2025-09-24 12:32:39,442 - INFO - 🎯 Niche terms for filtering: sandisk, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, sandisk product, sell sandisk, buy sandisk, cheap sandisk, best sandisk, sandisk review, where to buy sandisk, how to choose sandisk, top sandisk, sandisk guide, sandisk for sale, sandisk deals
+2025-09-24 12:32:39,443 - INFO - Generated 50 niche-clue pairs for 'sandisk'.
+2025-09-24 12:32:39,446 - INFO - Expanded 50 seed keywords to 218 variations
+2025-09-24 12:32:39,446 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-09-24 12:37:00,984 - INFO - Original clue keywords: camera quality, smartphone features
+2025-09-24 12:37:00,984 - INFO - Niche-focused seeds: camera quality, smartphone features sandisk, sandisk smartphone features, smartphone features cheap, cheap smartphone features, smartphone features best, best smartphone features, smartphone features latest, latest smartphone features, smartphone features review, review smartphone features, smartphone features price, price smartphone features, smartphone features sell, sell smartphone features, smartphone features buy, buy smartphone features, smartphone features recommendation, recommendation smartphone features, smartphone features tips, tips smartphone features, smartphone features tutorial, tutorial smartphone features, smartphone features guide, guide smartphone features, smartphone features how to, how to smartphone features, smartphone features vs, vs smartphone features, smartphone features versus, versus smartphone features, smartphone features compared to, compared to smartphone features, smartphone features comparison, comparison smartphone features, smartphone features alternatives, alternatives smartphone features, smartphone features which is better, which is better smartphone features, smartphone features expensive, expensive smartphone features, smartphone features discount, discount smartphone features, smartphone features deals, deals smartphone features, smartphone features sale, sale smartphone features, smartphone features affordable, affordable smartphone features, smartphone features cost, cost smartphone features, smartphone features online, online smartphone features, smartphone features offline, offline smartphone features, smartphone features marketplace, marketplace smartphone features, smartphone features store, store smartphone features, smartphone features shop, shop smartphone features, smartphone features retailer, retailer smartphone features, smartphone features where to buy, where to buy smartphone features, smartphone features worst, worst smartphone features, smartphone features quality, quality smartphone features, smartphone features original, original smartphone features, smartphone features genuine, genuine smartphone features, smartphone features fake, fake smartphone features, smartphone features replica, replica smartphone features, smartphone features authentic, authentic smartphone features, smartphone features brand, brand smartphone features, smartphone features manufacturer, manufacturer smartphone features, smartphone features company, company smartphone features, smartphone features product, product smartphone features, smartphone features sandisk product, sandisk product smartphone features, smartphone features sell sandisk, sell sandisk smartphone features, smartphone features buy sandisk, buy sandisk smartphone features, smartphone features cheap sandisk, cheap sandisk smartphone features, smartphone features best sandisk, best sandisk smartphone features, smartphone features sandisk review, sandisk review smartphone features, smartphone features where to buy sandisk, where to buy sandisk smartphone features, smartphone features how to choose sandisk, how to choose sandisk smartphone features, smartphone features top sandisk, top sandisk smartphone features, smartphone features sandisk guide, sandisk guide smartphone features, smartphone features sandisk for sale, sandisk for sale smartphone features, smartphone features sandisk deals, sandisk deals smartphone features
+2025-09-24 12:37:00,987 - INFO - Expanded 111 seed keywords to 276 variations
+2025-09-24 12:37:00,987 - INFO - Language: en
+2025-09-24 12:37:00,987 - INFO - Region: us
+2025-09-24 12:41:34,103 - INFO - 🎯 After all filtering for 'sandisk': 120 relevant keywords
+2025-09-24 12:41:34,116 - INFO - 🎯 Found 5 new keywords for niche 'sandisk': sandisk camera quality, cheap camera quality, best camera quality, how to camera quality, sandisk affordable smartphone features
+2025-09-24 12:41:49,263 - INFO - ✅ Niche 'sandisk' process complete! 53 total keyword results.
+2025-09-24 12:41:49,263 - INFO - ✅ Completed processing niche: 'sandisk'
+2025-09-24 12:41:49,263 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-09-24 12:41:49,263 - INFO -    Total requests: 11379, Blocks: 0
+2025-09-24 12:41:49,264 - INFO - 
+========================================
+2025-09-24 12:41:49,264 - INFO - Process Summary:
+2025-09-24 12:41:49,264 - INFO - - Current niche: 'sandisk'
+2025-09-24 12:41:49,265 - INFO - - Next niche will be: 'intel'
+2025-09-24 12:41:49,265 - INFO - - Keywords saved in: languages/english/keywords/sandisk/
+2025-09-24 12:41:49,265 - INFO - ========================================

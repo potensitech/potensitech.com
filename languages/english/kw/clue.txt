@@ -1,8 +1,8 @@
 camera quality
 smartphone features
+ai rendering
 battery life
 screen resolution
-ai rendering
 graphics card
 ray tracing
 cuda cores

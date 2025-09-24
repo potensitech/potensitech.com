@@ -12,3 +12,5 @@ autofocus speed
 mobile performance
 solid-state
 usb storage
+camera quality
+smartphone features
