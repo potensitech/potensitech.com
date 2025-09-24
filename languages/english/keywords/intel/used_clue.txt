@@ -11,3 +11,5 @@ core count
 power efficiency
 mobile performance
 solid-state
+processor performance
+core speed
