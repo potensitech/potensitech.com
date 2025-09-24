@@ -125,7 +125,7 @@ Sony uses high-quality materials in its affordable smartphones, ensuring durabil
 
 ## Pricing and Value for Money
 
-Sony’s affordable smartphones offer excellent value for money, combining premium features with competitive pricing. In 2025, these devices are expected to remain a top choice for budget-conscious buyers.
+Sony’s affordable smartphones offer excellent value for money, combining premium features with competitive pricing. In 2025, these devices are expected to remain a [top choice](/sony/sony-affordable-memory-card-for-smartphones) for budget-conscious buyers.
 
 <div class="table-responsive">
 <table class="html-table">
