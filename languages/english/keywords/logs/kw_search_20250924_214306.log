@@ -1,0 +1,37 @@
+2025-09-24 21:43:06,159 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20250924_214306.log
+2025-09-24 21:43:06,159 - INFO - ============================================================
+2025-09-24 21:43:06,159 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-09-24 21:43:06,159 - INFO - ============================================================
+2025-09-24 21:43:06,271 - INFO - ========================================
+2025-09-24 21:43:06,271 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-09-24 21:43:06,271 - INFO - ========================================
+2025-09-24 21:43:06,271 - INFO - Continuing from last processed niche: amd
+2025-09-24 21:43:06,272 - INFO - ========================================
+2025-09-24 21:43:06,272 - INFO - 🎯 PROCESSING NICHE 12/14: 'canon'
+2025-09-24 21:43:06,272 - INFO - ========================================
+2025-09-24 21:43:06,272 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/canon
+2025-09-24 21:43:06,272 - INFO - Selected region: us
+2025-09-24 21:43:06,272 - INFO - Selected language: en
+2025-09-24 21:43:06,272 - INFO - 🎯 Current niche: canon
+2025-09-24 21:43:09,921 - INFO - 🎯 Niche terms for filtering: canon, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, canon product, sell canon, buy canon, cheap canon, best canon, canon review, where to buy canon, how to choose canon, top canon, canon guide, canon for sale, canon deals
+2025-09-24 21:43:09,922 - INFO - Generated 50 niche-clue pairs for 'canon'.
+2025-09-24 21:43:09,925 - INFO - Expanded 50 seed keywords to 218 variations
+2025-09-24 21:43:09,925 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-09-24 21:47:34,599 - INFO - Original clue keywords: mirrorless camera
+2025-09-24 21:47:34,599 - INFO - Niche-focused seeds: mirrorless camera canon, canon mirrorless camera, mirrorless camera cheap, cheap mirrorless camera, mirrorless camera best, best mirrorless camera, mirrorless camera latest, latest mirrorless camera, mirrorless camera review, review mirrorless camera, mirrorless camera price, price mirrorless camera, mirrorless camera sell, sell mirrorless camera, mirrorless camera buy, buy mirrorless camera, mirrorless camera recommendation, recommendation mirrorless camera, mirrorless camera tips, tips mirrorless camera, mirrorless camera tutorial, tutorial mirrorless camera, mirrorless camera guide, guide mirrorless camera, mirrorless camera how to, how to mirrorless camera, mirrorless camera vs, vs mirrorless camera, mirrorless camera versus, versus mirrorless camera, mirrorless camera compared to, compared to mirrorless camera, mirrorless camera comparison, comparison mirrorless camera, mirrorless camera alternatives, alternatives mirrorless camera, mirrorless camera which is better, which is better mirrorless camera, mirrorless camera expensive, expensive mirrorless camera, mirrorless camera discount, discount mirrorless camera, mirrorless camera deals, deals mirrorless camera, mirrorless camera sale, sale mirrorless camera, mirrorless camera affordable, affordable mirrorless camera, mirrorless camera cost, cost mirrorless camera, mirrorless camera online, online mirrorless camera, mirrorless camera offline, offline mirrorless camera, mirrorless camera marketplace, marketplace mirrorless camera, mirrorless camera store, store mirrorless camera, mirrorless camera shop, shop mirrorless camera, mirrorless camera retailer, retailer mirrorless camera, mirrorless camera where to buy, where to buy mirrorless camera, mirrorless camera worst, worst mirrorless camera, mirrorless camera quality, quality mirrorless camera, mirrorless camera original, original mirrorless camera, mirrorless camera genuine, genuine mirrorless camera, mirrorless camera fake, fake mirrorless camera, mirrorless camera replica, replica mirrorless camera, mirrorless camera authentic, authentic mirrorless camera, mirrorless camera brand, brand mirrorless camera, mirrorless camera manufacturer, manufacturer mirrorless camera, mirrorless camera company, company mirrorless camera, mirrorless camera product, product mirrorless camera, mirrorless camera canon product, canon product mirrorless camera, mirrorless camera sell canon, sell canon mirrorless camera, mirrorless camera buy canon, buy canon mirrorless camera, mirrorless camera cheap canon, cheap canon mirrorless camera, mirrorless camera best canon, best canon mirrorless camera, mirrorless camera canon review, canon review mirrorless camera, mirrorless camera where to buy canon, where to buy canon mirrorless camera, mirrorless camera how to choose canon, how to choose canon mirrorless camera, mirrorless camera top canon, top canon mirrorless camera, mirrorless camera canon guide, canon guide mirrorless camera, mirrorless camera canon for sale, canon for sale mirrorless camera, mirrorless camera canon deals, canon deals mirrorless camera
+2025-09-24 21:47:34,602 - INFO - Expanded 110 seed keywords to 275 variations
+2025-09-24 21:47:34,603 - INFO - Language: en
+2025-09-24 21:47:34,603 - INFO - Region: us
+2025-09-24 21:52:03,724 - INFO - 🎯 After all filtering for 'canon': 120 relevant keywords
+2025-09-24 21:52:03,821 - INFO - 🎯 Found 1 new keywords for niche 'canon': canon affordable mirrorless camera
+2025-09-24 21:52:20,374 - INFO - ✅ Niche 'canon' process complete! 46 total keyword results.
+2025-09-24 21:52:20,375 - INFO - ✅ Completed processing niche: 'canon'
+2025-09-24 21:52:20,375 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-09-24 21:52:20,375 - INFO -    Total requests: 11745, Blocks: 0
+2025-09-24 21:52:20,376 - INFO - 
+========================================
+2025-09-24 21:52:20,376 - INFO - Process Summary:
+2025-09-24 21:52:20,376 - INFO - - Current niche: 'canon'
+2025-09-24 21:52:20,376 - INFO - - Next niche will be: 'nikon'
+2025-09-24 21:52:20,376 - INFO - - Keywords saved in: languages/english/keywords/canon/
+2025-09-24 21:52:20,376 - INFO - ========================================

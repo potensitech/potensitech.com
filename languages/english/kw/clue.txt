@@ -1,3 +1,7 @@
+mirrorless camera
+dslr photography
+lens compatibility
+autofocus speed
 processor performance
 core speed
 chip architecture
@@ -26,14 +30,11 @@ camera lens
 gaming phone
 image stabilization
 mirrorless innovation
-dslr photography
 processor speed
 core count
 thermal performance
 camera resolution
-autofocus speed
 dslr features
-lens compatibility
 gpu performance
 ai acceleration
 digital photography
