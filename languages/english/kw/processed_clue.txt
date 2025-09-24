@@ -226,3 +226,5 @@ smartphone features
 camera quality
 battery life
 screen resolution
+camera quality
+smartphone features

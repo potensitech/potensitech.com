@@ -1,0 +1,37 @@
+2025-09-24 03:10:21,196 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20250924_031021.log
+2025-09-24 03:10:21,197 - INFO - ============================================================
+2025-09-24 03:10:21,197 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-09-24 03:10:21,197 - INFO - ============================================================
+2025-09-24 03:10:21,403 - INFO - ========================================
+2025-09-24 03:10:21,403 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-09-24 03:10:21,403 - INFO - ========================================
+2025-09-24 03:10:21,403 - INFO - Continuing from last processed niche: samsung
+2025-09-24 03:10:21,403 - INFO - ========================================
+2025-09-24 03:10:21,403 - INFO - 🎯 PROCESSING NICHE 4/14: 'apple'
+2025-09-24 03:10:21,403 - INFO - ========================================
+2025-09-24 03:10:21,403 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/apple
+2025-09-24 03:10:21,404 - INFO - Selected region: us
+2025-09-24 03:10:21,404 - INFO - Selected language: en
+2025-09-24 03:10:21,404 - INFO - 🎯 Current niche: apple
+2025-09-24 03:10:39,890 - INFO - 🎯 Niche terms for filtering: apple, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, apple product, sell apple, buy apple, cheap apple, best apple, apple review, where to buy apple, how to choose apple, top apple, apple guide, apple for sale, apple deals
+2025-09-24 03:10:39,890 - INFO - Generated 50 niche-clue pairs for 'apple'.
+2025-09-24 03:10:39,893 - INFO - Expanded 50 seed keywords to 218 variations
+2025-09-24 03:10:39,894 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-09-24 03:15:08,562 - INFO - Original clue keywords: camera quality, smartphone features
+2025-09-24 03:15:08,562 - INFO - Niche-focused seeds: camera quality, smartphone features apple, apple smartphone features, smartphone features cheap, cheap smartphone features, smartphone features best, best smartphone features, smartphone features latest, latest smartphone features, smartphone features review, review smartphone features, smartphone features price, price smartphone features, smartphone features sell, sell smartphone features, smartphone features buy, buy smartphone features, smartphone features recommendation, recommendation smartphone features, smartphone features tips, tips smartphone features, smartphone features tutorial, tutorial smartphone features, smartphone features guide, guide smartphone features, smartphone features how to, how to smartphone features, smartphone features vs, vs smartphone features, smartphone features versus, versus smartphone features, smartphone features compared to, compared to smartphone features, smartphone features comparison, comparison smartphone features, smartphone features alternatives, alternatives smartphone features, smartphone features which is better, which is better smartphone features, smartphone features expensive, expensive smartphone features, smartphone features discount, discount smartphone features, smartphone features deals, deals smartphone features, smartphone features sale, sale smartphone features, smartphone features affordable, affordable smartphone features, smartphone features cost, cost smartphone features, smartphone features online, online smartphone features, smartphone features offline, offline smartphone features, smartphone features marketplace, marketplace smartphone features, smartphone features store, store smartphone features, smartphone features shop, shop smartphone features, smartphone features retailer, retailer smartphone features, smartphone features where to buy, where to buy smartphone features, smartphone features worst, worst smartphone features, smartphone features quality, quality smartphone features, smartphone features original, original smartphone features, smartphone features genuine, genuine smartphone features, smartphone features fake, fake smartphone features, smartphone features replica, replica smartphone features, smartphone features authentic, authentic smartphone features, smartphone features brand, brand smartphone features, smartphone features manufacturer, manufacturer smartphone features, smartphone features company, company smartphone features, smartphone features product, product smartphone features, smartphone features apple product, apple product smartphone features, smartphone features sell apple, sell apple smartphone features, smartphone features buy apple, buy apple smartphone features, smartphone features cheap apple, cheap apple smartphone features, smartphone features best apple, best apple smartphone features, smartphone features apple review, apple review smartphone features, smartphone features where to buy apple, where to buy apple smartphone features, smartphone features how to choose apple, how to choose apple smartphone features, smartphone features top apple, top apple smartphone features, smartphone features apple guide, apple guide smartphone features, smartphone features apple for sale, apple for sale smartphone features, smartphone features apple deals, apple deals smartphone features
+2025-09-24 03:15:08,565 - INFO - Expanded 111 seed keywords to 276 variations
+2025-09-24 03:15:08,565 - INFO - Language: en
+2025-09-24 03:15:08,565 - INFO - Region: us
+2025-09-24 03:19:39,698 - INFO - 🎯 After all filtering for 'apple': 120 relevant keywords
+2025-09-24 03:19:39,706 - INFO - 🎯 Found 5 new keywords for niche 'apple': apple camera quality, cheap camera quality, best camera quality, how to camera quality, apple affordable smartphone features
+2025-09-24 03:20:32,986 - INFO - ✅ Niche 'apple' process complete! 32 total keyword results.
+2025-09-24 03:20:32,986 - INFO - ✅ Completed processing niche: 'apple'
+2025-09-24 03:20:32,986 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-09-24 03:20:32,986 - INFO -    Total requests: 11016, Blocks: 0
+2025-09-24 03:20:32,987 - INFO - 
+========================================
+2025-09-24 03:20:32,987 - INFO - Process Summary:
+2025-09-24 03:20:32,987 - INFO - - Current niche: 'apple'
+2025-09-24 03:20:32,987 - INFO - - Next niche will be: 'sony'
+2025-09-24 03:20:32,988 - INFO - - Keywords saved in: languages/english/keywords/apple/
+2025-09-24 03:20:32,988 - INFO - ========================================
