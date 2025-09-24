@@ -24,7 +24,7 @@ featuredImagePreview: "/images/sony/sony-smartphone-optimized-for-gaming-perform
 
 ## Why Choose a Sony Smartphone for Gaming?
 
-Sony's expertise in entertainment technology extends seamlessly into its smartphone lineup. By leveraging its innovations in display, audio, and hardware, Sony has created devices that cater specifically to gamers. But what sets Sony smartphones apart from the competition?
+Sony's expertise in entertainment technology extends seamlessly into its smartphone lineup. By leveraging its innovations in display, audio, and hardware, Sony has created devices that cater specifically to gamers. But what sets [Sony smartphones](/sony/best-affordable-sony-smartphones) apart from the competition?
 
 ### Advanced Display Technology
 

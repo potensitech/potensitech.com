@@ -55,7 +55,7 @@ A warranty is a sign of the manufacturer’s confidence in their product. Additi
 
 ## Top Affordable Sony Smartphone Battery Options in 2025
 
-To help The Potensians make an informed decision, We’ve compiled a list of the best affordable Sony smartphone batteries available in 2025. These options balance quality, performance, and price.
+To help The Potensians make an informed decision, We’ve compiled a list of the [best affordable](/sony/best-affordable-sony-smartphones) Sony smartphone batteries available in 2025. These options balance quality, performance, and price.
 
 <div class="table-responsive">
 <table class="html-table">
