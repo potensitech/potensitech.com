@@ -149,7 +149,7 @@ The Potensians's processor and GPU should complement each other. For example, pa
 
 ## AMD Processors in 2025: What’s New?
 
-In 2025, AMD continues to push the boundaries of gaming performance. The introduction of 3D V-Cache technology has been a game-changer, offering significant improvements in frame rates and overall gaming experience. Additionally, AMD’s focus on energy efficiency ensures that even high-performance processors like the Ryzen 9 7950X3D operate within reasonable power limits.
+In 2025, AMD continues to push the boundaries of [gaming performance](/amd/amd-affordable-gaming-performance-processor). The introduction of 3D V-Cache technology has been a game-changer, offering significant improvements in frame rates and overall gaming experience. Additionally, AMD’s focus on energy efficiency ensures that even high-performance processors like the Ryzen 9 7950X3D operate within reasonable power limits.
 
 ## Final Thoughts
 
