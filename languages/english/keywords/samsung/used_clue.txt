@@ -16,3 +16,5 @@ camera lens
 image stabilization
 smartphone display
 smartphone storage
+battery life
+screen resolution

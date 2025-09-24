@@ -224,3 +224,5 @@ ai rendering
 graphics card
 smartphone features
 camera quality
+battery life
+screen resolution
