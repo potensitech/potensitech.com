@@ -2236,5 +2236,15 @@
             "Cultural: Wall Street",
             "Cultural: BBQ"
         ]
+    },
+    "Sony budget smartphone specs": {
+        "date": "2025-09-24T14:47:00",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
