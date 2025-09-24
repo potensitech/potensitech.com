@@ -11,3 +11,5 @@ ai acceleration
 core count
 graphics card
 ray tracing
+processor performance
+core speed

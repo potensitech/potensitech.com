@@ -239,3 +239,5 @@ smartphone features
 processor performance
 core speed
 chip architecture
+processor performance
+core speed
