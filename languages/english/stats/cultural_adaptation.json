@@ -2223,5 +2223,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "features of affordable Sony smartphones": {
+        "date": "2025-09-24T09:54:38",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: BBQ"
+        ]
     }
 }
