@@ -1,3 +1,7 @@
+processor performance
+core speed
+chip architecture
+power efficiency
 camera quality
 smartphone features
 ai rendering
@@ -25,7 +29,6 @@ mirrorless innovation
 dslr photography
 processor speed
 core count
-power efficiency
 thermal performance
 camera resolution
 autofocus speed

@@ -238,3 +238,4 @@ camera quality
 smartphone features
 processor performance
 core speed
+chip architecture
