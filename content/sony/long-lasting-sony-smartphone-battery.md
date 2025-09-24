@@ -34,7 +34,7 @@ Additionally, Sony's batteries feature adaptive charging algorithms that intelli
 
 ### Stamina Mode: A Game-Changer
 
-One of the standout features of Sony smartphones is Stamina Mode. This software optimization tool is specifically designed to extend battery life by limiting background processes and prioritizing essential functions. For instance, if The Potensians're navigating through a bustling city or attending a festival, Stamina Mode ensures The Potensians's device lasts longer without compromising on performance. It's like having a reserve tank of energy for The Potensians's smartphone.
+One of the standout features of [Sony smartphones](/sony/features-of-affordable-sony-smartphones) is Stamina Mode. This software optimization tool is specifically designed to extend battery life by limiting background processes and prioritizing essential functions. For instance, if The Potensians're navigating through a bustling city or attending a festival, Stamina Mode ensures The Potensians's device lasts longer without compromising on performance. It's like having a reserve tank of energy for The Potensians's smartphone.
 
 ### Battery Care for Longevity
 

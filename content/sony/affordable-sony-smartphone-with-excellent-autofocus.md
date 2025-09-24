@@ -22,7 +22,7 @@ featuredImagePreview: "/images/sony/affordable-sony-smartphone-with-excellent-au
 
 *Affordable Sony Smartphone with Excellent Autofocus* - 
 
-In the ever-evolving world of mobile photography, having a smartphone with excellent autofocus capabilities can make all the difference. Sony, a brand synonymous with innovation in imaging technology, has brought its expertise to the smartphone market, offering devices that combine affordability with cutting-edge autofocus features. For The Potensians seeking a reliable and budget-friendly option, Sony smartphones deliver exceptional value without compromising on quality. 
+In the ever-evolving world of mobile photography, having a smartphone with excellent autofocus capabilities can make all the difference. Sony, a brand synonymous with innovation in imaging technology, has brought its expertise to the smartphone market, offering devices that combine affordability with cutting-edge autofocus features. For The Potensians seeking a reliable and budget-friendly option, [Sony smartphones](/sony/features-of-affordable-sony-smartphones) deliver exceptional value without compromising on quality. 
 
 ## Why Autofocus Matters: A Game-Changer in Mobile Photography 
 
