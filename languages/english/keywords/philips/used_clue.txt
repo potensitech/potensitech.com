@@ -14,3 +14,5 @@ mobile performance
 long battery
 smartphone battery
 smartphone camera
+camera quality
+smartphone features
