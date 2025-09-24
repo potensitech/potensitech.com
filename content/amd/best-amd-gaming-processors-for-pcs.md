@@ -121,7 +121,7 @@ AMD gaming processors stand out for several reasons, making them a favorite amon
 
 ### Multi-Core Efficiency
 
-AMD processors are designed with multitasking in mind. Whether The Potensians are gaming, streaming, or editing videos, these CPUs ensure seamless transitions between tasks. Their high core and thread counts make them ideal for gamers who want to do more than just play.
+[AMD processors](/amd/high-performance-amd-processors-for-gaming-rigs) are designed with multitasking in mind. Whether The Potensians are gaming, streaming, or editing videos, these CPUs ensure seamless transitions between tasks. Their high core and thread counts make them ideal for gamers who want to do more than just play.
 
 ### Compatibility Across Platforms
 
