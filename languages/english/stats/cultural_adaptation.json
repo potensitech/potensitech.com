@@ -2213,5 +2213,15 @@
             "Cultural: Black Friday",
             "Cultural: Innovation"
         ]
+    },
+    "affordable Sony smartphone features": {
+        "date": "2025-09-24T05:05:10",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
