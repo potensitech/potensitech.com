@@ -1,0 +1,37 @@
+2025-09-25 04:53:52,629 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20250925_045352.log
+2025-09-25 04:53:52,629 - INFO - ============================================================
+2025-09-25 04:53:52,629 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-09-25 04:53:52,629 - INFO - ============================================================
+2025-09-25 04:53:52,777 - INFO - ========================================
+2025-09-25 04:53:52,777 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-09-25 04:53:52,777 - INFO - ========================================
+2025-09-25 04:53:52,778 - INFO - All niches completed, starting over
+2025-09-25 04:53:52,778 - INFO - ========================================
+2025-09-25 04:53:52,778 - INFO - 🎯 PROCESSING NICHE 1/14: 'xiaomi'
+2025-09-25 04:53:52,778 - INFO - ========================================
+2025-09-25 04:53:52,778 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/xiaomi
+2025-09-25 04:53:52,778 - INFO - Selected region: us
+2025-09-25 04:53:52,778 - INFO - Selected language: en
+2025-09-25 04:53:52,778 - INFO - 🎯 Current niche: xiaomi
+2025-09-25 04:53:55,999 - INFO - 🎯 Niche terms for filtering: xiaomi, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, xiaomi product, sell xiaomi, buy xiaomi, cheap xiaomi, best xiaomi, xiaomi review, where to buy xiaomi, how to choose xiaomi, top xiaomi, xiaomi guide, xiaomi for sale, xiaomi deals
+2025-09-25 04:53:55,999 - INFO - Generated 50 niche-clue pairs for 'xiaomi'.
+2025-09-25 04:53:56,002 - INFO - Expanded 50 seed keywords to 218 variations
+2025-09-25 04:53:56,003 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-09-25 04:58:22,736 - INFO - Original clue keywords: camera quality, autofocus speed
+2025-09-25 04:58:22,736 - INFO - Niche-focused seeds: camera quality, autofocus speed xiaomi, xiaomi autofocus speed, autofocus speed cheap, cheap autofocus speed, autofocus speed best, best autofocus speed, autofocus speed latest, latest autofocus speed, autofocus speed review, review autofocus speed, autofocus speed price, price autofocus speed, autofocus speed sell, sell autofocus speed, autofocus speed buy, buy autofocus speed, autofocus speed recommendation, recommendation autofocus speed, autofocus speed tips, tips autofocus speed, autofocus speed tutorial, tutorial autofocus speed, autofocus speed guide, guide autofocus speed, autofocus speed how to, how to autofocus speed, autofocus speed vs, vs autofocus speed, autofocus speed versus, versus autofocus speed, autofocus speed compared to, compared to autofocus speed, autofocus speed comparison, comparison autofocus speed, autofocus speed alternatives, alternatives autofocus speed, autofocus speed which is better, which is better autofocus speed, autofocus speed expensive, expensive autofocus speed, autofocus speed discount, discount autofocus speed, autofocus speed deals, deals autofocus speed, autofocus speed sale, sale autofocus speed, autofocus speed affordable, affordable autofocus speed, autofocus speed cost, cost autofocus speed, autofocus speed online, online autofocus speed, autofocus speed offline, offline autofocus speed, autofocus speed marketplace, marketplace autofocus speed, autofocus speed store, store autofocus speed, autofocus speed shop, shop autofocus speed, autofocus speed retailer, retailer autofocus speed, autofocus speed where to buy, where to buy autofocus speed, autofocus speed worst, worst autofocus speed, autofocus speed quality, quality autofocus speed, autofocus speed original, original autofocus speed, autofocus speed genuine, genuine autofocus speed, autofocus speed fake, fake autofocus speed, autofocus speed replica, replica autofocus speed, autofocus speed authentic, authentic autofocus speed, autofocus speed brand, brand autofocus speed, autofocus speed manufacturer, manufacturer autofocus speed, autofocus speed company, company autofocus speed, autofocus speed product, product autofocus speed, autofocus speed xiaomi product, xiaomi product autofocus speed, autofocus speed sell xiaomi, sell xiaomi autofocus speed, autofocus speed buy xiaomi, buy xiaomi autofocus speed, autofocus speed cheap xiaomi, cheap xiaomi autofocus speed, autofocus speed best xiaomi, best xiaomi autofocus speed, autofocus speed xiaomi review, xiaomi review autofocus speed, autofocus speed where to buy xiaomi, where to buy xiaomi autofocus speed, autofocus speed how to choose xiaomi, how to choose xiaomi autofocus speed, autofocus speed top xiaomi, top xiaomi autofocus speed, autofocus speed xiaomi guide, xiaomi guide autofocus speed, autofocus speed xiaomi for sale, xiaomi for sale autofocus speed, autofocus speed xiaomi deals, xiaomi deals autofocus speed
+2025-09-25 04:58:22,739 - INFO - Expanded 111 seed keywords to 276 variations
+2025-09-25 04:58:22,739 - INFO - Language: en
+2025-09-25 04:58:22,739 - INFO - Region: us
+2025-09-25 05:02:53,609 - INFO - 🎯 After all filtering for 'xiaomi': 120 relevant keywords
+2025-09-25 05:02:53,623 - INFO - 🎯 Found 5 new keywords for niche 'xiaomi': xiaomi camera quality, cheap camera quality, best camera quality, how to camera quality, xiaomi affordable autofocus speed
+2025-09-25 05:03:04,159 - INFO - ✅ Niche 'xiaomi' process complete! 55 total keyword results.
+2025-09-25 05:03:04,159 - INFO - ✅ Completed processing niche: 'xiaomi'
+2025-09-25 05:03:04,159 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-09-25 05:03:04,159 - INFO -    Total requests: 12016, Blocks: 0
+2025-09-25 05:03:04,160 - INFO - 
+========================================
+2025-09-25 05:03:04,161 - INFO - Process Summary:
+2025-09-25 05:03:04,161 - INFO - - Current niche: 'xiaomi'
+2025-09-25 05:03:04,161 - INFO - - Next niche will be: 'iphone'
+2025-09-25 05:03:04,161 - INFO - - Keywords saved in: languages/english/keywords/xiaomi/
+2025-09-25 05:03:04,161 - INFO - ========================================

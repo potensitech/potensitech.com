@@ -246,3 +246,5 @@ camera quality
 mirrorless camera
 camera quality
 autofocus speed
+camera quality
+autofocus speed
