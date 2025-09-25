@@ -252,3 +252,5 @@ camera quality
 autofocus speed
 camera quality
 autofocus speed
+camera quality
+autofocus speed

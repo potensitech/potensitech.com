@@ -1,0 +1,37 @@
+2025-09-25 12:33:33,215 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20250925_123333.log
+2025-09-25 12:33:33,215 - INFO - ============================================================
+2025-09-25 12:33:33,215 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-09-25 12:33:33,215 - INFO - ============================================================
+2025-09-25 12:33:33,404 - INFO - ========================================
+2025-09-25 12:33:33,404 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-09-25 12:33:33,404 - INFO - ========================================
+2025-09-25 12:33:33,404 - INFO - Continuing from last processed niche: samsung
+2025-09-25 12:33:33,404 - INFO - ========================================
+2025-09-25 12:33:33,404 - INFO - 🎯 PROCESSING NICHE 4/14: 'apple'
+2025-09-25 12:33:33,404 - INFO - ========================================
+2025-09-25 12:33:33,404 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/apple
+2025-09-25 12:33:33,404 - INFO - Selected region: us
+2025-09-25 12:33:33,405 - INFO - Selected language: en
+2025-09-25 12:33:33,405 - INFO - 🎯 Current niche: apple
+2025-09-25 12:33:37,522 - INFO - 🎯 Niche terms for filtering: apple, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, apple product, sell apple, buy apple, cheap apple, best apple, apple review, where to buy apple, how to choose apple, top apple, apple guide, apple for sale, apple deals
+2025-09-25 12:33:37,522 - INFO - Generated 50 niche-clue pairs for 'apple'.
+2025-09-25 12:33:37,525 - INFO - Expanded 50 seed keywords to 218 variations
+2025-09-25 12:33:37,525 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-09-25 12:38:01,940 - INFO - Original clue keywords: camera quality, autofocus speed
+2025-09-25 12:38:01,940 - INFO - Niche-focused seeds: camera quality, autofocus speed apple, apple autofocus speed, autofocus speed cheap, cheap autofocus speed, autofocus speed best, best autofocus speed, autofocus speed latest, latest autofocus speed, autofocus speed review, review autofocus speed, autofocus speed price, price autofocus speed, autofocus speed sell, sell autofocus speed, autofocus speed buy, buy autofocus speed, autofocus speed recommendation, recommendation autofocus speed, autofocus speed tips, tips autofocus speed, autofocus speed tutorial, tutorial autofocus speed, autofocus speed guide, guide autofocus speed, autofocus speed how to, how to autofocus speed, autofocus speed vs, vs autofocus speed, autofocus speed versus, versus autofocus speed, autofocus speed compared to, compared to autofocus speed, autofocus speed comparison, comparison autofocus speed, autofocus speed alternatives, alternatives autofocus speed, autofocus speed which is better, which is better autofocus speed, autofocus speed expensive, expensive autofocus speed, autofocus speed discount, discount autofocus speed, autofocus speed deals, deals autofocus speed, autofocus speed sale, sale autofocus speed, autofocus speed affordable, affordable autofocus speed, autofocus speed cost, cost autofocus speed, autofocus speed online, online autofocus speed, autofocus speed offline, offline autofocus speed, autofocus speed marketplace, marketplace autofocus speed, autofocus speed store, store autofocus speed, autofocus speed shop, shop autofocus speed, autofocus speed retailer, retailer autofocus speed, autofocus speed where to buy, where to buy autofocus speed, autofocus speed worst, worst autofocus speed, autofocus speed quality, quality autofocus speed, autofocus speed original, original autofocus speed, autofocus speed genuine, genuine autofocus speed, autofocus speed fake, fake autofocus speed, autofocus speed replica, replica autofocus speed, autofocus speed authentic, authentic autofocus speed, autofocus speed brand, brand autofocus speed, autofocus speed manufacturer, manufacturer autofocus speed, autofocus speed company, company autofocus speed, autofocus speed product, product autofocus speed, autofocus speed apple product, apple product autofocus speed, autofocus speed sell apple, sell apple autofocus speed, autofocus speed buy apple, buy apple autofocus speed, autofocus speed cheap apple, cheap apple autofocus speed, autofocus speed best apple, best apple autofocus speed, autofocus speed apple review, apple review autofocus speed, autofocus speed where to buy apple, where to buy apple autofocus speed, autofocus speed how to choose apple, how to choose apple autofocus speed, autofocus speed top apple, top apple autofocus speed, autofocus speed apple guide, apple guide autofocus speed, autofocus speed apple for sale, apple for sale autofocus speed, autofocus speed apple deals, apple deals autofocus speed
+2025-09-25 12:38:01,943 - INFO - Expanded 111 seed keywords to 276 variations
+2025-09-25 12:38:01,943 - INFO - Language: en
+2025-09-25 12:38:01,943 - INFO - Region: us
+2025-09-25 12:39:18,766 - INFO - 🎯 After all filtering for 'apple': 118 relevant keywords
+2025-09-25 12:39:18,775 - INFO - 🎯 Found 5 new keywords for niche 'apple': apple camera quality, cheap camera quality, best camera quality, how to camera quality, apple affordable autofocus speed
+2025-09-25 12:39:31,290 - INFO - ✅ Niche 'apple' process complete! 40 total keyword results.
+2025-09-25 12:39:31,290 - INFO - ✅ Completed processing niche: 'apple'
+2025-09-25 12:39:31,290 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-09-25 12:39:31,290 - INFO -    Total requests: 12179, Blocks: 0
+2025-09-25 12:39:31,291 - INFO - 
+========================================
+2025-09-25 12:39:31,291 - INFO - Process Summary:
+2025-09-25 12:39:31,291 - INFO - - Current niche: 'apple'
+2025-09-25 12:39:31,291 - INFO - - Next niche will be: 'sony'
+2025-09-25 12:39:31,291 - INFO - - Keywords saved in: languages/english/keywords/apple/
+2025-09-25 12:39:31,292 - INFO - ========================================
