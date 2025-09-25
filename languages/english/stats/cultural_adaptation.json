@@ -2285,5 +2285,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung affordable smartphone lens options": {
+        "date": "2025-09-25T05:04:55",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Abraham Lincoln",
+            "Cultural: Innovation"
+        ]
     }
 }
