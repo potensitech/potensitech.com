@@ -15,7 +15,7 @@
       "consecutive_blocks": 0
     },
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36": {
-      "requests": 4493,
+      "requests": 4511,
       "blocks": 0,
       "success_rate": 100.0,
       "last_blocked": null,
@@ -85,7 +85,7 @@
       "consecutive_blocks": 0
     },
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36": {
-      "requests": 143,
+      "requests": 159,
       "blocks": 0,
       "success_rate": 100.0,
       "last_blocked": null,
@@ -155,7 +155,7 @@
       "consecutive_blocks": 0
     },
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.188 Safari/537.36": {
-      "requests": 311,
+      "requests": 329,
       "blocks": 0,
       "success_rate": 100.0,
       "last_blocked": null,
@@ -197,9 +197,9 @@
       "consecutive_blocks": 0
     }
   },
-  "last_updated": "2025-09-25T17:04:17.376958",
+  "last_updated": "2025-09-25T19:29:25.184240",
   "global_stats": {
-    "total_requests": 12317,
+    "total_requests": 12369,
     "total_blocks": 0,
     "success_rate": 100.0
   }
