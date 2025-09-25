@@ -97,7 +97,7 @@ Battery life is another area where Sony excels. Affordable models often come wit
 
 ### Fast Charging Support
 
-Many affordable Sony smartphones also include fast charging capabilities, allowing users to quickly top up their battery. This is especially useful for busy individuals who don’t have hours to wait for their device to recharge.
+Many [affordable Sony](/sony/affordable-sony-smartphone-battery) smartphones also include fast charging capabilities, allowing users to quickly top up their battery. This is especially useful for busy individuals who don’t have hours to wait for their device to recharge.
 
 ## Software and User Experience
 
