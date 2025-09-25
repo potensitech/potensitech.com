@@ -244,3 +244,5 @@ core speed
 mirrorless camera
 camera quality
 mirrorless camera
+camera quality
+autofocus speed

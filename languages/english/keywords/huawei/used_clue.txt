@@ -11,3 +11,5 @@ camera lens
 image stabilization
 graphics card
 ai rendering
+camera quality
+autofocus speed
