@@ -242,3 +242,5 @@ chip architecture
 processor performance
 core speed
 mirrorless camera
+camera quality
+mirrorless camera

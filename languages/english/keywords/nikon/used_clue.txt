@@ -12,3 +12,5 @@ dslr photography
 graphics card
 ray tracing
 ai rendering
+camera quality
+mirrorless camera
