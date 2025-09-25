@@ -18,3 +18,4 @@ smartphone display
 smartphone storage
 battery life
 screen resolution
+camera quality
