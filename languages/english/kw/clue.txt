@@ -1,3 +1,8 @@
+graphics performance
+processor efficiency
+gaming optimization
+ray tracing
+overclocking capability
 camera quality
 autofocus speed
 lens compatibility
@@ -12,7 +17,6 @@ ai rendering
 battery life
 screen resolution
 graphics card
-ray tracing
 cuda cores
 flash drive
 solid-state

@@ -266,3 +266,5 @@ camera quality
 autofocus speed
 camera quality
 autofocus speed
+graphics performance
+processor efficiency
