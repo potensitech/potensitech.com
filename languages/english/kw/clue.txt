@@ -1,8 +1,8 @@
 camera quality
 autofocus speed
+lens compatibility
 mirrorless camera
 dslr photography
-lens compatibility
 processor performance
 core speed
 chip architecture

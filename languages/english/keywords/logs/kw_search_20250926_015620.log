@@ -1,0 +1,37 @@
+2025-09-26 01:56:20,528 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20250926_015620.log
+2025-09-26 01:56:20,528 - INFO - ============================================================
+2025-09-26 01:56:20,528 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-09-26 01:56:20,528 - INFO - ============================================================
+2025-09-26 01:56:20,665 - INFO - ========================================
+2025-09-26 01:56:20,665 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-09-26 01:56:20,665 - INFO - ========================================
+2025-09-26 01:56:20,665 - INFO - Continuing from last processed niche: sandisk
+2025-09-26 01:56:20,665 - INFO - ========================================
+2025-09-26 01:56:20,665 - INFO - 🎯 PROCESSING NICHE 9/14: 'intel'
+2025-09-26 01:56:20,665 - INFO - ========================================
+2025-09-26 01:56:20,665 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/intel
+2025-09-26 01:56:20,665 - INFO - Selected region: us
+2025-09-26 01:56:20,665 - INFO - Selected language: en
+2025-09-26 01:56:20,665 - INFO - 🎯 Current niche: intel
+2025-09-26 01:56:24,402 - INFO - 🎯 Niche terms for filtering: intel, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, intel product, sell intel, buy intel, cheap intel, best intel, intel review, where to buy intel, how to choose intel, top intel, intel guide, intel for sale, intel deals
+2025-09-26 01:56:24,403 - INFO - Generated 50 niche-clue pairs for 'intel'.
+2025-09-26 01:56:24,406 - INFO - Expanded 50 seed keywords to 218 variations
+2025-09-26 01:56:24,406 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-09-26 02:00:52,634 - INFO - Original clue keywords: camera quality, autofocus speed
+2025-09-26 02:00:52,634 - INFO - Niche-focused seeds: camera quality, autofocus speed intel, intel autofocus speed, autofocus speed cheap, cheap autofocus speed, autofocus speed best, best autofocus speed, autofocus speed latest, latest autofocus speed, autofocus speed review, review autofocus speed, autofocus speed price, price autofocus speed, autofocus speed sell, sell autofocus speed, autofocus speed buy, buy autofocus speed, autofocus speed recommendation, recommendation autofocus speed, autofocus speed tips, tips autofocus speed, autofocus speed tutorial, tutorial autofocus speed, autofocus speed guide, guide autofocus speed, autofocus speed how to, how to autofocus speed, autofocus speed vs, vs autofocus speed, autofocus speed versus, versus autofocus speed, autofocus speed compared to, compared to autofocus speed, autofocus speed comparison, comparison autofocus speed, autofocus speed alternatives, alternatives autofocus speed, autofocus speed which is better, which is better autofocus speed, autofocus speed expensive, expensive autofocus speed, autofocus speed discount, discount autofocus speed, autofocus speed deals, deals autofocus speed, autofocus speed sale, sale autofocus speed, autofocus speed affordable, affordable autofocus speed, autofocus speed cost, cost autofocus speed, autofocus speed online, online autofocus speed, autofocus speed offline, offline autofocus speed, autofocus speed marketplace, marketplace autofocus speed, autofocus speed store, store autofocus speed, autofocus speed shop, shop autofocus speed, autofocus speed retailer, retailer autofocus speed, autofocus speed where to buy, where to buy autofocus speed, autofocus speed worst, worst autofocus speed, autofocus speed quality, quality autofocus speed, autofocus speed original, original autofocus speed, autofocus speed genuine, genuine autofocus speed, autofocus speed fake, fake autofocus speed, autofocus speed replica, replica autofocus speed, autofocus speed authentic, authentic autofocus speed, autofocus speed brand, brand autofocus speed, autofocus speed manufacturer, manufacturer autofocus speed, autofocus speed company, company autofocus speed, autofocus speed product, product autofocus speed, autofocus speed intel product, intel product autofocus speed, autofocus speed sell intel, sell intel autofocus speed, autofocus speed buy intel, buy intel autofocus speed, autofocus speed cheap intel, cheap intel autofocus speed, autofocus speed best intel, best intel autofocus speed, autofocus speed intel review, intel review autofocus speed, autofocus speed where to buy intel, where to buy intel autofocus speed, autofocus speed how to choose intel, how to choose intel autofocus speed, autofocus speed top intel, top intel autofocus speed, autofocus speed intel guide, intel guide autofocus speed, autofocus speed intel for sale, intel for sale autofocus speed, autofocus speed intel deals, intel deals autofocus speed
+2025-09-26 02:00:52,637 - INFO - Expanded 111 seed keywords to 276 variations
+2025-09-26 02:00:52,637 - INFO - Language: en
+2025-09-26 02:00:52,637 - INFO - Region: us
+2025-09-26 02:05:23,886 - INFO - 🎯 After all filtering for 'intel': 120 relevant keywords
+2025-09-26 02:05:23,902 - INFO - 🎯 Found 5 new keywords for niche 'intel': intel camera quality, cheap camera quality, best camera quality, how to camera quality, intel affordable autofocus speed
+2025-09-26 02:05:32,822 - INFO - ✅ Niche 'intel' process complete! 62 total keyword results.
+2025-09-26 02:05:32,822 - INFO - ✅ Completed processing niche: 'intel'
+2025-09-26 02:05:32,822 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-09-26 02:05:32,822 - INFO -    Total requests: 12511, Blocks: 0
+2025-09-26 02:05:32,823 - INFO - 
+========================================
+2025-09-26 02:05:32,823 - INFO - Process Summary:
+2025-09-26 02:05:32,823 - INFO - - Current niche: 'intel'
+2025-09-26 02:05:32,823 - INFO - - Next niche will be: 'nvidia'
+2025-09-26 02:05:32,824 - INFO - - Keywords saved in: languages/english/keywords/intel/
+2025-09-26 02:05:32,824 - INFO - ========================================
