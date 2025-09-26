@@ -1,7 +1,7 @@
 camera quality
-dslr settings
 image stabilization
 autofocus speed
+dslr settings
 lens compatibility
 graphics performance
 processor efficiency
