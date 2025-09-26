@@ -277,3 +277,5 @@ camera quality
 image stabilization
 camera quality
 image stabilization
+camera quality
+image stabilization
