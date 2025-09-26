@@ -14,3 +14,4 @@ ray tracing
 ai rendering
 camera quality
 mirrorless camera
+dslr settings

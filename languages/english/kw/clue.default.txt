@@ -1,11 +1,13 @@
+dslr settings
+lens compatibility
+image stabilization
+autofocus speed
 graphics performance
 processor efficiency
 gaming optimization
 ray tracing
 overclocking capability
 camera quality
-autofocus speed
-lens compatibility
 mirrorless camera
 dslr photography
 processor performance
@@ -32,7 +34,6 @@ sleek design
 external storage
 camera lens
 gaming phone
-image stabilization
 mirrorless innovation
 processor speed
 core count

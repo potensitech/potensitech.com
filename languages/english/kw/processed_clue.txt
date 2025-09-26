@@ -269,3 +269,5 @@ autofocus speed
 graphics performance
 processor efficiency
 dslr settings
+camera quality
+dslr settings
