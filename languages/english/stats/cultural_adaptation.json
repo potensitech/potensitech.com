@@ -2407,5 +2407,16 @@
             "Cultural: New York",
             "Cultural: TV Shows"
         ]
+    },
+    "samsung microSD card for affordable storage": {
+        "date": "2025-09-26T21:50:01",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Apple Pie",
+            "Cultural: Innovation"
+        ]
     }
 }
