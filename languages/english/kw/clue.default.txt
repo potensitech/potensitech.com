@@ -1,8 +1,8 @@
 camera quality
 dslr settings
-lens compatibility
 image stabilization
 autofocus speed
+lens compatibility
 graphics performance
 processor efficiency
 gaming optimization
