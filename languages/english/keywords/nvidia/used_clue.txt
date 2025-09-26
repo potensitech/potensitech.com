@@ -13,3 +13,5 @@ gaming performance
 ai rendering
 cuda cores
 chip architecture
+camera quality
+autofocus speed
