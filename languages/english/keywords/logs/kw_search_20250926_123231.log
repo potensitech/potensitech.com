@@ -1,0 +1,37 @@
+2025-09-26 12:32:31,951 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20250926_123231.log
+2025-09-26 12:32:31,951 - INFO - ============================================================
+2025-09-26 12:32:31,951 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-09-26 12:32:31,951 - INFO - ============================================================
+2025-09-26 12:32:32,079 - INFO - ========================================
+2025-09-26 12:32:32,079 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-09-26 12:32:32,079 - INFO - ========================================
+2025-09-26 12:32:32,080 - INFO - Continuing from last processed niche: nikon
+2025-09-26 12:32:32,080 - INFO - ========================================
+2025-09-26 12:32:32,080 - INFO - 🎯 PROCESSING NICHE 14/14: 'huawei'
+2025-09-26 12:32:32,080 - INFO - ========================================
+2025-09-26 12:32:32,080 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/huawei
+2025-09-26 12:32:32,080 - INFO - Selected region: us
+2025-09-26 12:32:32,080 - INFO - Selected language: en
+2025-09-26 12:32:32,080 - INFO - 🎯 Current niche: huawei
+2025-09-26 12:32:35,314 - INFO - 🎯 Niche terms for filtering: huawei, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, huawei product, sell huawei, buy huawei, cheap huawei, best huawei, huawei review, where to buy huawei, how to choose huawei, top huawei, huawei guide, huawei for sale, huawei deals
+2025-09-26 12:32:35,314 - INFO - Generated 50 niche-clue pairs for 'huawei'.
+2025-09-26 12:32:35,317 - INFO - Expanded 50 seed keywords to 218 variations
+2025-09-26 12:32:35,318 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-09-26 12:37:01,654 - INFO - Original clue keywords: camera quality, dslr settings
+2025-09-26 12:37:01,654 - INFO - Niche-focused seeds: camera quality, dslr settings huawei, huawei dslr settings, dslr settings cheap, cheap dslr settings, dslr settings best, best dslr settings, dslr settings latest, latest dslr settings, dslr settings review, review dslr settings, dslr settings price, price dslr settings, dslr settings sell, sell dslr settings, dslr settings buy, buy dslr settings, dslr settings recommendation, recommendation dslr settings, dslr settings tips, tips dslr settings, dslr settings tutorial, tutorial dslr settings, dslr settings guide, guide dslr settings, dslr settings how to, how to dslr settings, dslr settings vs, vs dslr settings, dslr settings versus, versus dslr settings, dslr settings compared to, compared to dslr settings, dslr settings comparison, comparison dslr settings, dslr settings alternatives, alternatives dslr settings, dslr settings which is better, which is better dslr settings, dslr settings expensive, expensive dslr settings, dslr settings discount, discount dslr settings, dslr settings deals, deals dslr settings, dslr settings sale, sale dslr settings, dslr settings affordable, affordable dslr settings, dslr settings cost, cost dslr settings, dslr settings online, online dslr settings, dslr settings offline, offline dslr settings, dslr settings marketplace, marketplace dslr settings, dslr settings store, store dslr settings, dslr settings shop, shop dslr settings, dslr settings retailer, retailer dslr settings, dslr settings where to buy, where to buy dslr settings, dslr settings worst, worst dslr settings, dslr settings quality, quality dslr settings, dslr settings original, original dslr settings, dslr settings genuine, genuine dslr settings, dslr settings fake, fake dslr settings, dslr settings replica, replica dslr settings, dslr settings authentic, authentic dslr settings, dslr settings brand, brand dslr settings, dslr settings manufacturer, manufacturer dslr settings, dslr settings company, company dslr settings, dslr settings product, product dslr settings, dslr settings huawei product, huawei product dslr settings, dslr settings sell huawei, sell huawei dslr settings, dslr settings buy huawei, buy huawei dslr settings, dslr settings cheap huawei, cheap huawei dslr settings, dslr settings best huawei, best huawei dslr settings, dslr settings huawei review, huawei review dslr settings, dslr settings where to buy huawei, where to buy huawei dslr settings, dslr settings how to choose huawei, how to choose huawei dslr settings, dslr settings top huawei, top huawei dslr settings, dslr settings huawei guide, huawei guide dslr settings, dslr settings huawei for sale, huawei for sale dslr settings, dslr settings huawei deals, huawei deals dslr settings
+2025-09-26 12:37:01,657 - INFO - Expanded 111 seed keywords to 276 variations
+2025-09-26 12:37:01,657 - INFO - Language: en
+2025-09-26 12:37:01,657 - INFO - Region: us
+2025-09-26 12:41:16,652 - INFO - 🎯 After all filtering for 'huawei': 120 relevant keywords
+2025-09-26 12:41:16,666 - INFO - 🎯 Found 5 new keywords for niche 'huawei': huawei camera quality, cheap camera quality, best camera quality, how to camera quality, huawei affordable dslr settings
+2025-09-26 12:41:26,077 - INFO - ✅ Niche 'huawei' process complete! 52 total keyword results.
+2025-09-26 12:41:26,077 - INFO - ✅ Completed processing niche: 'huawei'
+2025-09-26 12:41:26,077 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-09-26 12:41:26,077 - INFO -    Total requests: 12938, Blocks: 0
+2025-09-26 12:41:26,078 - INFO - 
+========================================
+2025-09-26 12:41:26,078 - INFO - Process Summary:
+2025-09-26 12:41:26,078 - INFO - - Current niche: 'huawei'
+2025-09-26 12:41:26,079 - INFO - - Next niche will be: 'xiaomi'
+2025-09-26 12:41:26,079 - INFO - - Keywords saved in: languages/english/keywords/huawei/
+2025-09-26 12:41:26,079 - INFO - ========================================

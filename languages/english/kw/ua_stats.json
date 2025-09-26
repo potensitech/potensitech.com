@@ -15,7 +15,7 @@
       "consecutive_blocks": 0
     },
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36": {
-      "requests": 4734,
+      "requests": 4755,
       "blocks": 0,
       "success_rate": 100.0,
       "last_blocked": null,
@@ -127,7 +127,7 @@
       "consecutive_blocks": 0
     },
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.89 Safari/537.36": {
-      "requests": 213,
+      "requests": 280,
       "blocks": 0,
       "success_rate": 100.0,
       "last_blocked": null,
@@ -204,9 +204,9 @@
       "consecutive_blocks": 0
     }
   },
-  "last_updated": "2025-09-26T09:49:24.893195",
+  "last_updated": "2025-09-26T12:41:15.168166",
   "global_stats": {
-    "total_requests": 12850,
+    "total_requests": 12938,
     "total_blocks": 0,
     "success_rate": 100.0
   }

@@ -271,3 +271,5 @@ processor efficiency
 dslr settings
 camera quality
 dslr settings
+camera quality
+dslr settings

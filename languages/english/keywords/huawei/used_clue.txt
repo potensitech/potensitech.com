@@ -13,3 +13,4 @@ graphics card
 ai rendering
 camera quality
 autofocus speed
+dslr settings
