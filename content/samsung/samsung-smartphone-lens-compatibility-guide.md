@@ -46,7 +46,7 @@ With these benefits in mind, let’s explore the types of lenses that work seaml
 
 ## Types of Lenses Compatible with Samsung Smartphones
 
-Samsung smartphones, from flagship Galaxy S series models to budget-friendly A-series devices, support a wide range of external lenses. These lenses are typically clip-on or magnetic, making them easy to attach and use. Below is an overview of popular lens types and their ideal applications.
+[Samsung smartphones](/samsung/affordable-samsung-smartphones), from flagship Galaxy S series models to budget-friendly A-series devices, support a wide range of external lenses. These lenses are typically clip-on or magnetic, making them easy to attach and use. Below is an overview of popular lens types and their ideal applications.
 
 <div class="table-responsive">
 <table class="html-table">
