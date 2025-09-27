@@ -15,3 +15,4 @@ processor performance
 core speed
 camera quality
 autofocus speed
+image stabilization
