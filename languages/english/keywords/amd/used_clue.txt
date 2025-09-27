@@ -15,3 +15,5 @@ processor performance
 core speed
 graphics performance
 processor efficiency
+camera quality
+image stabilization

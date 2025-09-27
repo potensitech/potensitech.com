@@ -893,5 +893,12 @@
   "nvidia affordable GPU with image stabilization": true,
   "nvidia entry-level GPU for image stabilization": true,
   "nvidia GPU with advanced image stabilization": true,
-  "nvidia affordable graphics card for creatives": true
+  "nvidia affordable graphics card for creatives": true,
+  "amd affordable gpu with image stabilization": true,
+  "amd processor with advanced image stabilization": true,
+  "amd gpu optimized for image stabilization": true,
+  "amd affordable processor for image stabilization": true,
+  "amd high-performance gpu for image stabilization": true,
+  "amd budget-friendly gpu with image stabilization": true,
+  "amd processor for image stabilization workflows": true
 }
