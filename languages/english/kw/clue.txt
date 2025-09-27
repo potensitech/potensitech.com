@@ -1,8 +1,7 @@
-image stabilization
 autofocus speed
 dslr settings
-lens compatibility
 graphics performance
+lens compatibility
 processor efficiency
 gaming optimization
 ray tracing
