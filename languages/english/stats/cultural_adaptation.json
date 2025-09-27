@@ -2438,5 +2438,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "best Samsung smartphone with fast autofocus": {
+        "date": "2025-09-27T09:50:19",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex",
+            "Cultural: Thomas Edison",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
