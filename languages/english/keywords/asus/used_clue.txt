@@ -16,3 +16,4 @@ smartphone camera
 camera quality
 smartphone features
 autofocus speed
+image stabilization
