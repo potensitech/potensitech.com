@@ -2451,5 +2451,15 @@
             "Cultural: Thomas Edison",
             "Cultural: Benjamin Franklin"
         ]
+    },
+    "Samsung smartphone with advanced autofocus technology": {
+        "date": "2025-09-27T12:38:25",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }

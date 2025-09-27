@@ -1587,5 +1587,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "Samsung smartphone with advanced autofocus technology": {
+        "date": "2025-09-27T12:38:25",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }
