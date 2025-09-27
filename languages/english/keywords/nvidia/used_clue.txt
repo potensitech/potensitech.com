@@ -15,3 +15,4 @@ cuda cores
 chip architecture
 camera quality
 autofocus speed
+image stabilization

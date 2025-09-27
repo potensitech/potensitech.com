@@ -889,5 +889,9 @@
   "intel affordable processor with image stabilization": true,
   "intel processor for budget-friendly laptops": true,
   "intel high-performance processor for gaming laptops": true,
-  "Apple smartphone with intel-powered performance": true
+  "Apple smartphone with intel-powered performance": true,
+  "nvidia affordable GPU with image stabilization": true,
+  "nvidia entry-level GPU for image stabilization": true,
+  "nvidia GPU with advanced image stabilization": true,
+  "nvidia affordable graphics card for creatives": true
 }
