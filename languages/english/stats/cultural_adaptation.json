@@ -2427,5 +2427,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "affordable Samsung smartphone with high-resolution camera": {
+        "date": "2025-09-27T03:15:15",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
