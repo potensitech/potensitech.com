@@ -42,7 +42,7 @@ When it comes to smartphone cameras, Samsung stands out for its relentless innov
 
 ### Advanced Camera Hardware
 
-Samsung smartphones are equipped with some of the most advanced camera hardware in the industry. Features like large image sensors, periscope zoom lenses, and optical image stabilization ensure that every shot is sharp, vibrant, and professional-grade. For instance, capturing iconic landmarks like the Eiffel Tower or the Grand Canyon becomes effortless with Samsung's high-resolution sensors and zoom capabilities.
+[Samsung smartphones](/samsung/affordable-samsung-smartphones) are equipped with some of the most advanced camera hardware in the industry. Features like large image sensors, periscope zoom lenses, and optical image stabilization ensure that every shot is sharp, vibrant, and professional-grade. For instance, capturing iconic landmarks like the Eiffel Tower or the Grand Canyon becomes effortless with Samsung's high-resolution sensors and zoom capabilities.
 
 ### Intelligent Software Features
 
