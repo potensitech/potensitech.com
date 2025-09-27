@@ -2461,5 +2461,15 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "best Samsung smartphone for photography lovers": {
+        "date": "2025-09-27T19:30:47",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Innovation"
+        ]
     }
 }
