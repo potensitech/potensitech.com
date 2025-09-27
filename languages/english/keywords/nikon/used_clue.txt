@@ -15,3 +15,4 @@ ai rendering
 camera quality
 mirrorless camera
 dslr settings
+image stabilization

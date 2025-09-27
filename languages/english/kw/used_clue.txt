@@ -21,3 +21,6 @@ data transfer
 
 --- Moved on 2025-09-23 03:09:44 ---
 memory card
+
+--- Moved on 2025-09-27 19:21:29 ---
+camera quality
