@@ -11,11 +11,14 @@ tags: ["affordable", "Samsung", "smartphone", "high-resolution", "camera", "budg
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/affordable-samsung-smartphone-with-high-resolution-camera.jpg"
+featuredImagePreview: "/images/samsung/affordable-samsung-smartphone-with-high-resolution-camera.jpg"
 ---
+
+![Affordable Samsung Smartphone with High-Resolution Camera](/images/samsung/affordable-samsung-smartphone-with-high-resolution-camera.jpg)
+
 
 *Affordable Samsung Smartphone with High-Resolution Camera* - 
 
