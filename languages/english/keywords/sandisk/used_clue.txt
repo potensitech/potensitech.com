@@ -14,3 +14,4 @@ solid-state
 usb storage
 camera quality
 smartphone features
+image stabilization
