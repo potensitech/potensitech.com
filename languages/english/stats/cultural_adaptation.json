@@ -2562,5 +2562,15 @@
             "Cultural: Soul Food",
             "Cultural: Elon Musk"
         ]
+    },
+    "samsung affordable smartphone for daily use": {
+        "date": "2025-09-28T21:54:31",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Social Media"
+        ]
     }
 }
