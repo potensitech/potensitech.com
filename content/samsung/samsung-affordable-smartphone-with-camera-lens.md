@@ -71,7 +71,7 @@ In a market crowded with options, how does Samsung stack up against competitors 
 
 ### Samsung vs. Xiaomi
 
-Xiaomi is known for its aggressive pricing, but Samsung’s affordable smartphones often provide better build quality and more reliable software updates. Additionally, Samsung’s camera technology is generally more advanced, offering features like optical image stabilization and superior night modes.
+Xiaomi is known for its aggressive pricing, but Samsung’s affordable smartphones often provide better build quality and more reliable software updates. Additionally, Samsung’s camera technology is generally more advanced, offering features like optical [image stabilization](/samsung/samsung-budget-friendly-smartphone-with-image-stabilization) and superior night modes.
 
 ### Samsung vs. Apple
 
