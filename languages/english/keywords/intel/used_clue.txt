@@ -16,3 +16,5 @@ core speed
 camera quality
 autofocus speed
 image stabilization
+ssd storage
+portable ssd

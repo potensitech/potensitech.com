@@ -1,3 +1,6 @@
+flash drive
+ssd storage
+portable ssd
 graphics performance
 processor efficiency
 autofocus speed
@@ -18,7 +21,6 @@ battery life
 screen resolution
 graphics card
 cuda cores
-flash drive
 solid-state
 usb storage
 smartphone battery
