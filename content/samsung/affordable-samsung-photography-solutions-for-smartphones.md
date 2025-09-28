@@ -40,7 +40,7 @@ If night photography is The Potensians' passion but their wallet disagrees with 
 
 ## Tips & Tricks: Maximizing The Potensians' Smartphone’s Potential
 
-To truly unlock the potential of affordable Samsung photography solutions for smartphones, knowing how to utilize these devices effectively is key. Here are some tips to help The Potensians elevate their photography game:
+To truly unlock the potential of [affordable Samsung](/samsung/affordable-samsung-smartphone-stabilization-options) photography solutions for smartphones, knowing how to utilize these devices effectively is key. Here are some tips to help The Potensians elevate their photography game:
 
 ### Experiment with Pro Mode
 
