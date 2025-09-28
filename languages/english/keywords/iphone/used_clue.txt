@@ -20,3 +20,4 @@ smartphone battery
 smartphone camera
 smartphone features
 camera quality
+graphics performance

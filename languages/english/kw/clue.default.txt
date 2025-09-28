@@ -1,8 +1,8 @@
 autofocus speed
-dslr settings
 graphics performance
-lens compatibility
 processor efficiency
+dslr settings
+lens compatibility
 gaming optimization
 ray tracing
 overclocking capability

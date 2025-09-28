@@ -303,3 +303,5 @@ image stabilization
 autofocus speed
 autofocus speed
 graphics performance
+autofocus speed
+graphics performance
