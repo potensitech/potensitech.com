@@ -16,3 +16,5 @@ chip architecture
 camera quality
 autofocus speed
 image stabilization
+graphics performance
+processor efficiency
