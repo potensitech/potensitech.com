@@ -17,3 +17,5 @@ smartphone camera
 camera quality
 smartphone features
 image stabilization
+graphics performance
+processor efficiency

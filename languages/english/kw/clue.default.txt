@@ -1,6 +1,6 @@
-autofocus speed
 graphics performance
 processor efficiency
+autofocus speed
 lens compatibility
 dslr settings
 gaming optimization

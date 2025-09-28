@@ -313,3 +313,5 @@ autofocus speed
 graphics performance
 graphics performance
 processor efficiency
+graphics performance
+processor efficiency
