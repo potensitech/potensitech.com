@@ -2514,5 +2514,18 @@
         "matches": [
             "Cultural: Times Square"
         ]
+    },
+    "affordable Samsung smartphone with high-quality display": {
+        "date": "2025-09-28T07:33:29",
+        "language": "en",
+        "cultural_score": 96,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Chicago",
+            "Cultural: Apple Pie",
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }
