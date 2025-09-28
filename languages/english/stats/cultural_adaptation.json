@@ -2527,5 +2527,17 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "Samsung smartphone with large storage capacity": {
+        "date": "2025-09-28T09:48:40",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: BBQ",
+            "Cultural: Mark Zuckerberg",
+            "Cultural: Innovation"
+        ]
     }
 }
