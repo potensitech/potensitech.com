@@ -2539,5 +2539,15 @@
             "Cultural: Mark Zuckerberg",
             "Cultural: Innovation"
         ]
+    },
+    "samsung affordable smartphone with long-lasting battery": {
+        "date": "2025-09-28T17:02:04",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
