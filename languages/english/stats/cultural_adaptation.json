@@ -2505,5 +2505,14 @@
             "Cultural: New York",
             "Cultural: Hollywood"
         ]
+    },
+    "affordable samsung smartphone stabilization options": {
+        "date": "2025-09-28T05:00:50",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Times Square"
+        ]
     }
 }
