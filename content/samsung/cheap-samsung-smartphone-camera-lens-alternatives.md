@@ -11,11 +11,14 @@ tags: ["cheap", "samsung", "smartphone", "camera", "lens", "budget photography"]
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/cheap-samsung-smartphone-camera-lens-alternatives.jpg"
+featuredImagePreview: "/images/samsung/cheap-samsung-smartphone-camera-lens-alternatives.jpg"
 ---
+
+![Cheap Samsung Smartphone Camera Lens Alternatives](/images/samsung/cheap-samsung-smartphone-camera-lens-alternatives.jpg)
+
 
 *Cheap Samsung Smartphone Camera Lens Alternatives* - 
 
