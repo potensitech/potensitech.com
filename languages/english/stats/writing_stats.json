@@ -1650,5 +1650,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "samsung budget smartphone with high-resolution screen": {
+        "date": "2025-09-28T19:32:13",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }
