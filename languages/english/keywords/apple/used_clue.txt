@@ -14,3 +14,4 @@ smartphone battery
 smartphone camera
 camera quality
 smartphone features
+graphics performance
