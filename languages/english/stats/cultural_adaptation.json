@@ -2482,5 +2482,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung budget-friendly smartphone with image stabilization": {
+        "date": "2025-09-28T02:13:19",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Pizza"
+        ]
     }
 }
