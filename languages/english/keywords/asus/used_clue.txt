@@ -17,3 +17,5 @@ camera quality
 smartphone features
 autofocus speed
 image stabilization
+graphics performance
+processor efficiency
