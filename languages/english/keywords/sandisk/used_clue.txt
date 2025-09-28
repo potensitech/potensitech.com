@@ -15,3 +15,5 @@ usb storage
 camera quality
 smartphone features
 image stabilization
+ssd storage
+portable ssd
