@@ -19,3 +19,4 @@ smartphone storage
 battery life
 screen resolution
 camera quality
+graphics performance

@@ -305,3 +305,5 @@ autofocus speed
 graphics performance
 autofocus speed
 graphics performance
+autofocus speed
+graphics performance
