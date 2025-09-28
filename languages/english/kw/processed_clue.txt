@@ -301,3 +301,5 @@ camera quality
 image stabilization
 image stabilization
 autofocus speed
+autofocus speed
+graphics performance
