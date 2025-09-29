@@ -2585,5 +2585,14 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "best samsung smartphone for photography": {
+        "date": "2025-09-29T03:27:52",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
