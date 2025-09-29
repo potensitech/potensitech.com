@@ -325,3 +325,5 @@ graphics performance
 processor efficiency
 graphics performance
 portable ssd
+graphics performance
+portable ssd
