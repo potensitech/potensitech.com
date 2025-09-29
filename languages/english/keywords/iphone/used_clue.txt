@@ -21,3 +21,4 @@ smartphone camera
 smartphone features
 camera quality
 graphics performance
+ssd storage
