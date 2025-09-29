@@ -32,7 +32,7 @@ One of the most impressive aspects of Samsung's autofocus technology is its abil
 
 ### Enhanced Low-Light Performance
 
-Low-light photography has always been a challenge for smartphones, but Samsung's advanced autofocus technology addresses this issue head-on. With improved sensors and intelligent processing, the camera can focus quickly and accurately even in dim conditions. This makes it ideal for capturing nighttime cityscapes or indoor events.
+[Low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) has always been a challenge for smartphones, but Samsung's advanced autofocus technology addresses this issue head-on. With improved sensors and intelligent processing, the camera can focus quickly and accurately even in dim conditions. This makes it ideal for capturing nighttime cityscapes or indoor events.
 
 ### Adaptive Autofocus Modes
 

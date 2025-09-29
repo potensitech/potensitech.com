@@ -42,7 +42,7 @@ Samsung’s affordable smartphones are equipped with cameras that rival those of
 
 - **High Megapixel Counts:** Many models boast primary cameras with 50MP or higher, ensuring crisp details even when zooming in . 
 - **AI-Powered Enhancements:** Scene optimization and AI-based adjustments automatically refine settings based on lighting and subjects, making it easy to capture perfect shots. 
-- **Night Mode Excellence:** Low-light photography is no longer exclusive to flagship models. Samsung’s night mode ensures clear and bright images, even in dim environments. 
+- **Night Mode Excellence:** [Low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) is no longer exclusive to flagship models. Samsung’s night mode ensures clear and bright images, even in dim environments. 
 
 ### Example: Samsung Galaxy A54 5G
 

@@ -34,7 +34,7 @@ Here are some examples of Samsung's affordable smartphones with impressive camer
 
 - **Galaxy A14 5G**: This model boasts a triple-camera system with a 50MP main sensor, ensuring sharp details and vibrant colors in every shot. 
 - **Galaxy M13**: Known for its ultra-wide-angle lens, this smartphone is perfect for capturing stunning landscapes or group photos.
-- **Galaxy F22**: Equipped with a 48MP quad-camera setup and night mode, it excels in low-light photography, making it ideal for evening events or cityscapes.
+- **Galaxy F22**: Equipped with a 48MP quad-camera setup and night mode, it excels in [low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography), making it ideal for evening events or cityscapes.
 
 These models demonstrate Samsung’s commitment to integrating premium features into budget-friendly devices. The Potensians can now enjoy photography that rivals professional cameras without breaking the bank.
 

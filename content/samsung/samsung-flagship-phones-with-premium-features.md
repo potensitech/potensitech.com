@@ -86,7 +86,7 @@ The Galaxy S23 Ultra takes zooming capabilities to new heights with its 100x Spa
 
 ### AI-Powered Enhancements
 
-Samsung’s AI-powered camera features are a game-changer. From real-time scene optimization to advanced portrait modes, these tools make it easy for The Potensians to capture stunning images without needing professional photography​ skills. In We's view, the AI enhancements are particularly usefu​l for low-light photography, where they bring out details that would otherwise be lost.
+Samsung’s AI-powered camera features are a game-changer. From real-time scene optimization to advanced portrait modes, these tools make it easy for The Potensians to capture stunning images without needing professional photography​ skills. In We's view, the AI enhancements are particularly usefu​l for [low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography), where they bring out details that would otherwise be lost.
 
 ## Performance That Keeps Up With Modern Trends
 
