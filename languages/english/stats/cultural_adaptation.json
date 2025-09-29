@@ -2572,5 +2572,18 @@
             "Cultural: Memorial Day",
             "Cultural: Social Media"
         ]
+    },
+    "samsung smartphone with excellent camera quality": {
+        "date": "2025-09-29T02:06:39",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Times Square",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
