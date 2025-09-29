@@ -970,5 +970,14 @@
   "nvidia affordable GPU for beginners": true,
   "nvidia optimized GPU for AI workloads": true,
   "nvidia entry-level GPU for casual gaming": true,
-  "nvidia advanced GPU for video editing": true
+  "nvidia advanced GPU for video editing": true,
+  "amd affordable graphics for gaming performance": true,
+  "amd budget-friendly processors for multitasking efficiency": true,
+  "amd high-performance GPUs for creative professionals": true,
+  "amd energy-efficient processors for laptops": true,
+  "amd entry-level GPU solutions for gaming": true,
+  "amd optimized processors for desktop performance": true,
+  "amd reliable GPUs for video editing": true,
+  "amd advanced GPUs for 3D rendering": true,
+  "amd affordable processors for casual computing": true
 }
