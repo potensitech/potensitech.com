@@ -2668,5 +2668,15 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung smartphone with high-resolution camera": {
+        "date": "2025-09-29T21:51:40",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
