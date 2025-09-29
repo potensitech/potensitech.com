@@ -41,7 +41,7 @@ Imagine walking along a sunny street and effortlessly navigating The Potensians'
 
 ### Cameras That Capture Every Moment
 
-Photography The Potensians among The Potensians will appreciate how these phones excel in capturing memories. Many models feature multi-lens setups combining wide-angle sensors with ultra-wide or telephoto capabilities. For instance, the Galaxy A54 5G is equipped with a versatile triple-camera system, including optical image stabilization (OIS), ensuring sharp images even in low-light settings—a feature typically reserved for higher-end devices.
+Photography The Potensians among The Potensians will appreciate how these phones excel in capturing memories. Many models feature multi-lens setups combining wide-angle sensors with ultra-wide or telephoto capabilities. For instance, the Galaxy A54 5G is equipped with a versatile triple-camera system, including optical [image stabilization](/samsung/affordable-samsung-smartphone-with-image-stabilization) (OIS), ensuring sharp images even in low-light settings—a feature typically reserved for higher-end devices.
 
 From family gatherings to scenic vacations, Samsung’s budget-friendly flagships ensure The Potensians never miss a moment.  In We's opinion, the camera quality on these devices rivals that of much more expensive models, making them a fantastic choice for [photography lovers](/samsung/best-samsung-smartphone-for-photography-lovers).
 
