@@ -2636,5 +2636,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone with professional camera settings": {
+        "date": "2025-09-29T14:49:08",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
