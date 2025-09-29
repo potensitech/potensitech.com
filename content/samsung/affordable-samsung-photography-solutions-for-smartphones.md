@@ -48,7 +48,7 @@ Many Samsung phones include a Pro ​Mode that gives The Potensians manual contr
 
 ### Utilize Gridlines
 
-Enable gridlines within the camera settings to follow the rule of thirds—a composition technique used by professionals worldwide. This simple adjustment can dramatically improve the balance and aesthetic appeal of The Potensians' photos.
+Enable gridlines within the [camera settings](/samsung/samsung-smartphone-with-professional-camera-settings) to follow the rule of thirds—a composition technique used by professionals worldwide. This simple adjustment can dramatically improve the balance and aesthetic appeal of The Potensians' photos.
 
 ### Leverage AI Scene Optimizer
 

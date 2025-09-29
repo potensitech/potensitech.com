@@ -46,7 +46,7 @@ Unfortunately, traditional smartphone cameras often struggle in such conditions,
 
 ## Top Features That Define Samsung's Low-Light Photography Excellence
 
-Samsung smartphones are packed with features that make them ideal for low-light photography. Let’s dive into the key technologies that set them apart.
+[Samsung smartphones](/samsung/top-samsung-smartphones-for-budget-buyers) are packed with features that make them ideal for low-light photography. Let’s dive into the key technologies that set them apart.
 
 ### Advanced Sensor Technology
 
@@ -70,7 +70,7 @@ Samsung’s multi-frame processing technology captures several images in quick s
 
 ## The Best Samsung Smartphone for Low-Light Photography: Galaxy S23 Ultra
 
-After extensiv​e research and testing, the **Samsung Galaxy S23 Ultra__ emerges as the best Samsung smartphone for low-light photography in 2025. This flagship device is a powerhouse of innovation, offering features that cater specifically to low-light scenarios. Let’s take a closer look at what makes it stand out.
+After extensiv​e research and testing, the **Samsung Galaxy S23 Ultra__ emerges as the [best Samsung](/samsung/best-samsung-smartphone-with-fast-autofocus) smartphone for low-light photography in 2025. This flagship device is a powerhouse of innovation, offering features that cater specifically to low-light scenarios. Let’s take a closer look at what makes it stand out.
 
 <div class="table-responsive">
 <table class="html-table">
