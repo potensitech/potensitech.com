@@ -15,3 +15,4 @@ smartphone camera
 camera quality
 smartphone features
 graphics performance
+ssd storage
