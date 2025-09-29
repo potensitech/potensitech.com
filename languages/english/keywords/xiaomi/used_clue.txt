@@ -18,3 +18,4 @@ ai rendering
 camera quality
 autofocus speed
 graphics performance
+portable ssd
