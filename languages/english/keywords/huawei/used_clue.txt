@@ -14,3 +14,5 @@ ai rendering
 camera quality
 autofocus speed
 dslr settings
+graphics performance
+portable ssd
