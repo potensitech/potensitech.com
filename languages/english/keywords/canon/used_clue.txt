@@ -12,3 +12,5 @@ camera lens
 mirrorless camera
 dslr settings
 camera quality
+graphics performance
+portable ssd
