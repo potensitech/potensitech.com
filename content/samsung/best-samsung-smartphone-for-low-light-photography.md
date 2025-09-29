@@ -11,25 +11,28 @@ tags: ["samsung", "smartphone", "low-light photography", "camera phone"]
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Review"
 review:
-  name: "Best Samsung Smartphone for Low-Light Photography"
-  reviewBody: "Find out which Samsung smartphone excels in low-light photography with innovative features like advanced sensors, AI-powered Night Mode, and exceptional image stabilization."
-  author: "Sarah Tan"
-  datePublished: "2025-09-29T12:43:22"
-  publisher: "PotensiTech"
-  itemReviewed:
-    name: "Samsung Galaxy S23 Ultra"
-    description: "The Samsung Galaxy S23 Ultra is a flagship smartphone designed for exceptional low-light photography, featuring a 200MP camera, advanced Nightography mode, and superior image stabilization."
-  reviewRating:
-    ratingValue: "4.8"
-    bestRating: "5"
-    worstRating: "1"
+name: "Best Samsung Smartphone for Low-Light Photography"
+reviewBody: "Find out which Samsung smartphone excels in low-light photography with innovative features like advanced sensors, AI-powered Night Mode, and exceptional image stabilization."
+author: "Sarah Tan"
+datePublished: "2025-09-29T12:43:22"
+publisher: "PotensiTech"
+itemReviewed:
+name: "Samsung Galaxy S23 Ultra"
+description: "The Samsung Galaxy S23 Ultra is a flagship smartphone designed for exceptional low-light photography, featuring a 200MP camera, advanced Nightography mode, and superior image stabilization."
+reviewRating:
+ratingValue: "4.8"
+bestRating: "5"
+worstRating: "1"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/best-samsung-smartphone-for-low-light-photography.jpg"
+featuredImagePreview: "/images/samsung/best-samsung-smartphone-for-low-light-photography.jpg"
 ---
+
+![Best Samsung Smartphone for Low-Light Photography](/images/samsung/best-samsung-smartphone-for-low-light-photography.jpg)
+
 
 _Best Samsung Smartphone for Low-Light Photography_ - Capturing stunning photos in low-light conditions has always been a challenge for photography enthusiasts. Whether it’s a romantic dinner under dim lights, a vibrant cityscape at night, or a cozy indoor gathering, low-light photography allows us to preserve moments that are often missed by the naked eye. However, without the right tools, these moments can turn into blurry or grainy images. 
 
