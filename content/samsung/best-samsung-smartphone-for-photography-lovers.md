@@ -54,7 +54,7 @@ Whether The Potensians’re shooting wide-angle landscapes, detailed macro shots
 
 ## The Star Performer: Galaxy S23 Ultra
 
-Among Samsung’s impressive lineup in 2025, the __Galaxy S23 Ultra__ emerges as the best Samsung smartphone for photography lovers. This flagship device redefines mobile imaging with groundbreaking features designed for those who demand perfection in every shot.
+Among Samsung’s impressive lineup in 2025, the __Galaxy S23 Ultra__ emerges as the best [Samsung smartphone](/samsung/samsung-smartphone-for-photography-lovers) for photography lovers. This flagship device redefines mobile imaging with groundbreaking features designed for those who demand perfection in every shot.
 
 <div class="table-responsive">
 <table class="html-table">
