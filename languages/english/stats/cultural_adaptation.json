@@ -2627,5 +2627,14 @@
             "Cultural: Wall Street",
             "Cultural: Soul Food"
         ]
+    },
+    "best samsung smartphone for low-light photography": {
+        "date": "2025-09-29T12:44:09",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
