@@ -34,7 +34,7 @@ Additionally, these alternatives often specialize in areas where built-in smartp
 
 ## Top Cheap Samsung Smartphone Camera Lens Alternatives 
 
-In 2025, several brands have emerged as leaders in the market for affordable smartphone camera lenses. Below is a detailed comparison of some of the best options available: 
+In 2025, several brands have emerged as leaders in the market for [affordable smartphone](/samsung/samsung-affordable-smartphone-lens-options) camera lenses. Below is a detailed comparison of some of the best options available: 
 
 <div class="table-responsive">
 <table class="html-table">
