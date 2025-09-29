@@ -2594,5 +2594,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone with reliable autofocus performance": {
+        "date": "2025-09-29T05:04:27",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
