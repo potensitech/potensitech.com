@@ -2614,5 +2614,18 @@
             "Cultural: New York",
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone for photography lovers": {
+        "date": "2025-09-29T09:54:26",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Soul Food"
+        ]
     }
 }
