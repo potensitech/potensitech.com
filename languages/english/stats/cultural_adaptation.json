@@ -2604,5 +2604,15 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung smartphone with premium camera features": {
+        "date": "2025-09-29T07:41:51",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Innovation"
+        ]
     }
 }
