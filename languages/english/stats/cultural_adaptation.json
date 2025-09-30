@@ -2745,5 +2745,14 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "cheap samsung smartphone with great graphics": {
+        "date": "2025-09-30T17:00:26",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
