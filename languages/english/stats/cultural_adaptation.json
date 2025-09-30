@@ -2700,5 +2700,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone with advanced image stabilization": {
+        "date": "2025-09-30T05:00:35",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Broadway"
+        ]
     }
 }
