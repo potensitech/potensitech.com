@@ -56,7 +56,7 @@ To help The Potensians choose the right device, here’s a detailed comparison o
 <thead>
 <tr>
 <th>Model</th>
-<th>Camera Features</th>
+<th>[Camera Features](/samsung/samsung-smartphone-with-premium-camera-features)</th>
 <th>Battery Capacity</th>
 <th>Price Range (USD)</th>
 </tr>
