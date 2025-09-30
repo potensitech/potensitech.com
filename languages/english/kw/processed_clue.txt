@@ -345,3 +345,5 @@ graphics performance
 ssd storage
 ssd storage
 portable ssd
+ssd storage
+portable ssd
