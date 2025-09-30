@@ -58,7 +58,7 @@ Whether documenting Thomas Edison-inspired DIY projects or sharing modern trends
 
 ### Enhanced Low-Light Performance
 
-Low-light photography has always been a challenge for smartphone cameras. Samsung’s advanced image stabilization system addresses this issue by combining OIS and AI to deliver clear, vibrant images even in dim settings. This feature is perfect for capturing Christmas tree lighting ceremonies or nighttime cityscapes.
+[Low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) has always been a challenge for smartphone cameras. Samsung’s advanced image stabilization system addresses this issue by combining OIS and AI to deliver clear, vibrant images even in dim settings. This feature is perfect for capturing Christmas tree lighting ceremonies or nighttime cityscapes.
 
 ## Comparing Samsung’s Image Stabilization with Competitors
 
