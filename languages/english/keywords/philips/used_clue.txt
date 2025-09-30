@@ -19,3 +19,4 @@ smartphone features
 image stabilization
 graphics performance
 processor efficiency
+ssd storage
