@@ -2691,5 +2691,14 @@
             "Cultural: Chicago",
             "Cultural: Burgers"
         ]
+    },
+    "samsung smartphone camera specifications and reviews": {
+        "date": "2025-09-30T03:16:32",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
