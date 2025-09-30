@@ -2726,5 +2726,15 @@
             "Cultural: Central Park",
             "Cultural: BBQ"
         ]
+    },
+    "budget-friendly samsung smartphone for gaming": {
+        "date": "2025-09-30T12:41:32",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Innovation"
+        ]
     }
 }
