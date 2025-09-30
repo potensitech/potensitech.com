@@ -53,7 +53,7 @@ When it comes to finding affordable smartphones with excellent camera features, 
 </tr>
 <tr>
 <td>Moto G Stylus 5G (2025)</td>
-<td>50MP dual-camera system with optical image stabilization (OIS)</td>
+<td>50MP dual-camera system with optical [image stabilization](/samsung/samsung-smartphone-with-advanced-image-stabilization) (OIS)</td>
 <td>$249</td>
 </tr>
 </tbody>
