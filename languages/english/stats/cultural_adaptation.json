@@ -2754,5 +2754,18 @@
         "matches": [
             "Cultural: Social Media"
         ]
+    },
+    "samsung smartphone with reliable autofocus speed": {
+        "date": "2025-09-30T19:30:14",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Memorial Day",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Central Park"
+        ]
     }
 }
