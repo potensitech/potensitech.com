@@ -1055,5 +1055,14 @@
   "nvidia efficient GPU for multitasking": true,
   "nvidia cutting-edge graphics card technology": true,
   "nvidia affordable GPU for video editing": true,
-  "nvidia top-rated GPU for gamers": true
+  "nvidia top-rated GPU for gamers": true,
+  "amd affordable graphics card for performance": true,
+  "amd efficient processor for multitasking": true,
+  "amd affordable CPU for home computing": true,
+  "amd high-performance graphics card for creators": true,
+  "amd cost-effective GPU for video editing": true,
+  "amd energy-efficient processor for laptops": true,
+  "amd entry-level graphics card for beginners": true,
+  "amd affordable gaming processor for desktops": true,
+  "amd reliable GPU for professional workloads": true
 }
