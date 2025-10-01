@@ -16,3 +16,4 @@ camera quality
 smartphone features
 graphics performance
 ssd storage
+portable ssd
