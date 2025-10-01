@@ -377,3 +377,5 @@ portable ssd
 ssd storage
 graphics performance
 processor efficiency
+graphics performance
+processor efficiency
