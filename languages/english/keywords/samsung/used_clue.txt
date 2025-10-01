@@ -21,3 +21,4 @@ screen resolution
 camera quality
 graphics performance
 ssd storage
+portable ssd
