@@ -2836,5 +2836,18 @@
             "Cultural: BBQ",
             "Cultural: Innovation"
         ]
+    },
+    "samsung portable SSD for professionals": {
+        "date": "2025-10-01T17:01:05",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
