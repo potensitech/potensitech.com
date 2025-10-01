@@ -379,3 +379,5 @@ graphics performance
 processor efficiency
 graphics performance
 processor efficiency
+graphics performance
+ssd storage
