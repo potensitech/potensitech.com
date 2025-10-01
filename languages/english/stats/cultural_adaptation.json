@@ -2810,5 +2810,18 @@
             "Cultural: New York",
             "Cultural: Los Angeles"
         ]
+    },
+    "samsung high-performance SSD for gaming": {
+        "date": "2025-10-01T07:38:28",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
