@@ -2798,5 +2798,17 @@
             "Cultural: Central Park",
             "Cultural: BBQ"
         ]
+    },
+    "best samsung SSD for graphic design": {
+        "date": "2025-10-01T05:02:31",
+        "language": "en",
+        "cultural_score": 48,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Los Angeles"
+        ]
     }
 }
