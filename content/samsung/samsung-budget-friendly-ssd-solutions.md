@@ -58,7 +58,7 @@ Samsung offers a variety of SSD models that cater to different needs and budgets
 <td>Everyday use, gaming</td>
 </tr>
 <tr>
-<td>Samsung T7 Portable SSD</td>
+<td>Samsung T7 [Portable SSD](/samsung/samsung-portable-ssd-for-professionals)</td>
 <td>500GB - 2TB</td>
 <td>$70 - $250</td>
 <td>Portable storage, travel</td>

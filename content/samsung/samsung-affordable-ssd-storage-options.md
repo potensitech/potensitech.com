@@ -130,7 +130,7 @@ Choosing the right SSD depends on The Potensians's specific needs and budget. He
 </tr>
 <tr>
 <td>Professional Work</td>
-<td>Samsung T7 Portable SSD</td>
+<td>Samsung T7 [Portable SSD](/samsung/samsung-portable-ssd-for-professionals)</td>
 <td>Portable, fast, and reliable for multitasking.</td>
 </tr>
 <tr>
