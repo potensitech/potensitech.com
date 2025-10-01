@@ -2849,5 +2849,18 @@
             "Cultural: Central Park",
             "Cultural: Benjamin Franklin"
         ]
+    },
+    "samsung durable SSD for heavy workloads": {
+        "date": "2025-10-01T19:30:15",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Central Park"
+        ]
     }
 }
