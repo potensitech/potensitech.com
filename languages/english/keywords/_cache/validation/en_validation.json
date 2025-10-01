@@ -1119,5 +1119,12 @@
   "intel high-speed processor for portable SSDs": true,
   "intel compact processor for SSD storage": true,
   "intel lightweight processor for portable SSDs": true,
-  "intel cost-effective processor for SSD storage": true
+  "intel cost-effective processor for SSD storage": true,
+  "nvidia efficient and affordable GPU": true,
+  "nvidia high-performance GPU for budget-conscious users": true,
+  "nvidia affordable GPU for creative work": true,
+  "nvidia graphics card optimized for multitasking": true,
+  "nvidia budget-friendly GPU for video editing": true,
+  "nvidia top-rated GPU for gaming performance": true,
+  "nvidia affordable high-performance GPU for designers": true
 }
