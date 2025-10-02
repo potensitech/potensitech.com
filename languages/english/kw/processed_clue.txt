@@ -387,3 +387,5 @@ image quality
 camera lens
 image quality
 camera lens
+image quality
+camera lens
