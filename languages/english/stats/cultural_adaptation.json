@@ -2945,5 +2945,18 @@
             "Cultural: Soul Food",
             "Cultural: Clam Chowder"
         ]
+    },
+    "nikon affordable autofocus lenses": {
+        "date": "2025-10-02T19:32:28",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
