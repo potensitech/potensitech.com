@@ -2919,5 +2919,18 @@
             "Cultural: Tex-Mex",
             "Cultural: Benjamin Franklin"
         ]
+    },
+    "samsung smartphone with excellent quality image": {
+        "date": "2025-10-02T14:44:44",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Pizza"
+        ]
     }
 }
