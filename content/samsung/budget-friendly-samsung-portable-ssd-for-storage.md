@@ -68,7 +68,7 @@ Samsung understands the importance of affordability without sacrificing quality.
 <td>Everyday use</td>
 </tr>
 <tr>
-<td>Samsung T5 Portable SSD</td>
+<td>Samsung T5 [Portable SSD](/samsung/samsung-portable-ssd-with-budget-friendly-price)</td>
 <td>250GB / 500GB / 1TB</td>
 <td>$69 - $169</td>
 <td>Budget-conscious buyers</td>
