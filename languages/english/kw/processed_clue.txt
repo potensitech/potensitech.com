@@ -381,3 +381,5 @@ graphics performance
 processor efficiency
 graphics performance
 ssd storage
+image quality
+autofocus system

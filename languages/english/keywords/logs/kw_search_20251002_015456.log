@@ -1,0 +1,37 @@
+2025-10-02 01:54:56,929 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251002_015456.log
+2025-10-02 01:54:56,929 - INFO - ============================================================
+2025-10-02 01:54:56,929 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-02 01:54:56,929 - INFO - ============================================================
+2025-10-02 01:54:57,089 - INFO - ========================================
+2025-10-02 01:54:57,089 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-02 01:54:57,089 - INFO - ========================================
+2025-10-02 01:54:57,089 - INFO - Continuing from last processed niche: canon
+2025-10-02 01:54:57,089 - INFO - ========================================
+2025-10-02 01:54:57,089 - INFO - 🎯 PROCESSING NICHE 13/14: 'nikon'
+2025-10-02 01:54:57,089 - INFO - ========================================
+2025-10-02 01:54:57,089 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/nikon
+2025-10-02 01:54:57,089 - INFO - Selected region: us
+2025-10-02 01:54:57,089 - INFO - Selected language: en
+2025-10-02 01:54:57,089 - INFO - 🎯 Current niche: nikon
+2025-10-02 01:55:02,107 - INFO - 🎯 Niche terms for filtering: nikon, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, nikon product, sell nikon, buy nikon, cheap nikon, best nikon, nikon review, where to buy nikon, how to choose nikon, top nikon, nikon guide, nikon for sale, nikon deals
+2025-10-02 01:55:02,107 - INFO - Generated 50 niche-clue pairs for 'nikon'.
+2025-10-02 01:55:02,110 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-02 01:55:02,111 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-02 01:59:29,128 - INFO - Original clue keywords: image quality, autofocus system
+2025-10-02 01:59:29,128 - INFO - Niche-focused seeds: image quality, autofocus system nikon, nikon autofocus system, autofocus system cheap, cheap autofocus system, autofocus system best, best autofocus system, autofocus system latest, latest autofocus system, autofocus system review, review autofocus system, autofocus system price, price autofocus system, autofocus system sell, sell autofocus system, autofocus system buy, buy autofocus system, autofocus system recommendation, recommendation autofocus system, autofocus system tips, tips autofocus system, autofocus system tutorial, tutorial autofocus system, autofocus system guide, guide autofocus system, autofocus system how to, how to autofocus system, autofocus system vs, vs autofocus system, autofocus system versus, versus autofocus system, autofocus system compared to, compared to autofocus system, autofocus system comparison, comparison autofocus system, autofocus system alternatives, alternatives autofocus system, autofocus system which is better, which is better autofocus system, autofocus system expensive, expensive autofocus system, autofocus system discount, discount autofocus system, autofocus system deals, deals autofocus system, autofocus system sale, sale autofocus system, autofocus system affordable, affordable autofocus system, autofocus system cost, cost autofocus system, autofocus system online, online autofocus system, autofocus system offline, offline autofocus system, autofocus system marketplace, marketplace autofocus system, autofocus system store, store autofocus system, autofocus system shop, shop autofocus system, autofocus system retailer, retailer autofocus system, autofocus system where to buy, where to buy autofocus system, autofocus system worst, worst autofocus system, autofocus system quality, quality autofocus system, autofocus system original, original autofocus system, autofocus system genuine, genuine autofocus system, autofocus system fake, fake autofocus system, autofocus system replica, replica autofocus system, autofocus system authentic, authentic autofocus system, autofocus system brand, brand autofocus system, autofocus system manufacturer, manufacturer autofocus system, autofocus system company, company autofocus system, autofocus system product, product autofocus system, autofocus system nikon product, nikon product autofocus system, autofocus system sell nikon, sell nikon autofocus system, autofocus system buy nikon, buy nikon autofocus system, autofocus system cheap nikon, cheap nikon autofocus system, autofocus system best nikon, best nikon autofocus system, autofocus system nikon review, nikon review autofocus system, autofocus system where to buy nikon, where to buy nikon autofocus system, autofocus system how to choose nikon, how to choose nikon autofocus system, autofocus system top nikon, top nikon autofocus system, autofocus system nikon guide, nikon guide autofocus system, autofocus system nikon for sale, nikon for sale autofocus system, autofocus system nikon deals, nikon deals autofocus system
+2025-10-02 01:59:29,131 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-02 01:59:29,131 - INFO - Language: en
+2025-10-02 01:59:29,131 - INFO - Region: us
+2025-10-02 02:03:55,887 - INFO - 🎯 After all filtering for 'nikon': 120 relevant keywords
+2025-10-02 02:03:55,910 - INFO - 🎯 Found 5 new keywords for niche 'nikon': nikon image quality, cheap image quality, best image quality, how to image quality, nikon affordable autofocus system
+2025-10-02 02:04:04,630 - INFO - ✅ Niche 'nikon' process complete! 86 total keyword results.
+2025-10-02 02:04:04,630 - INFO - ✅ Completed processing niche: 'nikon'
+2025-10-02 02:04:04,630 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-02 02:04:04,630 - INFO -    Total requests: 16593, Blocks: 0
+2025-10-02 02:04:04,631 - INFO - 
+========================================
+2025-10-02 02:04:04,631 - INFO - Process Summary:
+2025-10-02 02:04:04,632 - INFO - - Current niche: 'nikon'
+2025-10-02 02:04:04,632 - INFO - - Next niche will be: 'huawei'
+2025-10-02 02:04:04,632 - INFO - - Keywords saved in: languages/english/keywords/nikon/
+2025-10-02 02:04:04,632 - INFO - ========================================

@@ -18,3 +18,5 @@ dslr settings
 image stabilization
 graphics performance
 portable ssd
+image quality
+autofocus system
