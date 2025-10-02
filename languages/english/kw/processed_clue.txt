@@ -399,3 +399,4 @@ image quality
 graphics performance
 smart lighting
 audio systems
+portable storage

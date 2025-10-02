@@ -17,3 +17,4 @@ smartphone features
 image stabilization
 ssd storage
 portable ssd
+portable storage
