@@ -2906,5 +2906,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "compact and budget-friendly samsung portable ssd": {
+        "date": "2025-10-02T12:39:31",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Black Friday",
+            "Cultural: Times Square",
+            "Cultural: Tex-Mex",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
