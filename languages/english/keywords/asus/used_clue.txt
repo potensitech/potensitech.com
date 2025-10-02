@@ -21,3 +21,4 @@ graphics performance
 processor efficiency
 ssd storage
 portable ssd
+image quality
