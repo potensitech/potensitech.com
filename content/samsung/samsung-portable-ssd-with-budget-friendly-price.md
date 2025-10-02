@@ -126,7 +126,7 @@ To help The Potensians make an informed decision, here’s a comparison of some 
 <thead>
 <tr>
 <th>Model</th>
-<th>Storage Capacity</th>
+<th>[Storage Capacity](/samsung/samsung-smartphone-with-large-storage-capacity)</th>
 <th>Read/Write Speed</th>
 <th>Price (2025)</th>
 </tr>
