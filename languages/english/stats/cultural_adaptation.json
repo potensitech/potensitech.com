@@ -2932,5 +2932,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Pizza"
         ]
+    },
+    "samsung smartphone ideal for photography enthusiasts": {
+        "date": "2025-10-02T17:03:57",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Soul Food",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
