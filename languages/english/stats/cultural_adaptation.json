@@ -2875,5 +2875,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Clam Chowder"
         ]
+    },
+    "samsung portable ssd for budget-friendly storage": {
+        "date": "2025-10-02T03:17:19",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Fourth of July",
+            "Cultural: Wall Street",
+            "Cultural: Broadway",
+            "Cultural: Pizza"
+        ]
     }
 }
