@@ -2958,5 +2958,18 @@
             "Cultural: Broadway",
             "Cultural: Tex-Mex"
         ]
+    },
+    "nikon precision autofocus cameras": {
+        "date": "2025-10-02T21:54:28",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Burgers"
+        ]
     }
 }
