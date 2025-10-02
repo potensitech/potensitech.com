@@ -1,0 +1,37 @@
+2025-10-02 14:36:20,748 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251002_143620.log
+2025-10-02 14:36:20,749 - INFO - ============================================================
+2025-10-02 14:36:20,749 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-02 14:36:20,749 - INFO - ============================================================
+2025-10-02 14:36:20,907 - INFO - ========================================
+2025-10-02 14:36:20,907 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-02 14:36:20,907 - INFO - ========================================
+2025-10-02 14:36:20,908 - INFO - Continuing from last processed niche: apple
+2025-10-02 14:36:20,908 - INFO - ========================================
+2025-10-02 14:36:20,908 - INFO - 🎯 PROCESSING NICHE 5/14: 'sony'
+2025-10-02 14:36:20,908 - INFO - ========================================
+2025-10-02 14:36:20,908 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/sony
+2025-10-02 14:36:20,908 - INFO - Selected region: us
+2025-10-02 14:36:20,908 - INFO - Selected language: en
+2025-10-02 14:36:20,908 - INFO - 🎯 Current niche: sony
+2025-10-02 14:36:23,206 - INFO - 🎯 Niche terms for filtering: sony, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, sony product, sell sony, buy sony, cheap sony, best sony, sony review, where to buy sony, how to choose sony, top sony, sony guide, sony for sale, sony deals
+2025-10-02 14:36:23,207 - INFO - Generated 50 niche-clue pairs for 'sony'.
+2025-10-02 14:36:23,209 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-02 14:36:23,210 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-02 14:40:45,282 - INFO - Original clue keywords: image quality, camera lens
+2025-10-02 14:40:45,282 - INFO - Niche-focused seeds: image quality, camera lens sony, sony camera lens, camera lens cheap, cheap camera lens, camera lens best, best camera lens, camera lens latest, latest camera lens, camera lens review, review camera lens, camera lens price, price camera lens, camera lens sell, sell camera lens, camera lens buy, buy camera lens, camera lens recommendation, recommendation camera lens, camera lens tips, tips camera lens, camera lens tutorial, tutorial camera lens, camera lens guide, guide camera lens, camera lens how to, how to camera lens, camera lens vs, vs camera lens, camera lens versus, versus camera lens, camera lens compared to, compared to camera lens, camera lens comparison, comparison camera lens, camera lens alternatives, alternatives camera lens, camera lens which is better, which is better camera lens, camera lens expensive, expensive camera lens, camera lens discount, discount camera lens, camera lens deals, deals camera lens, camera lens sale, sale camera lens, camera lens affordable, affordable camera lens, camera lens cost, cost camera lens, camera lens online, online camera lens, camera lens offline, offline camera lens, camera lens marketplace, marketplace camera lens, camera lens store, store camera lens, camera lens shop, shop camera lens, camera lens retailer, retailer camera lens, camera lens where to buy, where to buy camera lens, camera lens worst, worst camera lens, camera lens quality, quality camera lens, camera lens original, original camera lens, camera lens genuine, genuine camera lens, camera lens fake, fake camera lens, camera lens replica, replica camera lens, camera lens authentic, authentic camera lens, camera lens brand, brand camera lens, camera lens manufacturer, manufacturer camera lens, camera lens company, company camera lens, camera lens product, product camera lens, camera lens sony product, sony product camera lens, camera lens sell sony, sell sony camera lens, camera lens buy sony, buy sony camera lens, camera lens cheap sony, cheap sony camera lens, camera lens best sony, best sony camera lens, camera lens sony review, sony review camera lens, camera lens where to buy sony, where to buy sony camera lens, camera lens how to choose sony, how to choose sony camera lens, camera lens top sony, top sony camera lens, camera lens sony guide, sony guide camera lens, camera lens sony for sale, sony for sale camera lens, camera lens sony deals, sony deals camera lens
+2025-10-02 14:40:45,285 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-02 14:40:45,285 - INFO - Language: en
+2025-10-02 14:40:45,285 - INFO - Region: us
+2025-10-02 14:42:51,913 - INFO - 🎯 After all filtering for 'sony': 119 relevant keywords
+2025-10-02 14:42:51,935 - INFO - 🎯 Found 5 new keywords for niche 'sony': sony image quality, cheap image quality, best image quality, how to image quality, sony affordable camera lens
+2025-10-02 14:42:59,476 - INFO - ✅ Niche 'sony' process complete! 89 total keyword results.
+2025-10-02 14:42:59,476 - INFO - ✅ Completed processing niche: 'sony'
+2025-10-02 14:42:59,476 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-02 14:42:59,476 - INFO -    Total requests: 16978, Blocks: 0
+2025-10-02 14:42:59,477 - INFO - 
+========================================
+2025-10-02 14:42:59,477 - INFO - Process Summary:
+2025-10-02 14:42:59,477 - INFO - - Current niche: 'sony'
+2025-10-02 14:42:59,478 - INFO - - Next niche will be: 'asus'
+2025-10-02 14:42:59,478 - INFO - - Keywords saved in: languages/english/keywords/sony/
+2025-10-02 14:42:59,478 - INFO - ========================================
