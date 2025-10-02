@@ -78,7 +78,7 @@ Such performance enhancements mean faster boot times, quicker file transfers, an
 <td>$199.99</td>
 </tr>
 <tr>
-<td>Samsung T7 Portable SSD</td>
+<td>Samsung T7 [Portable SSD](/samsung/samsung-portable-ssd-for-budget-friendly-storage)</td>
 <td>Up to 1,050 MB/s</td>
 <td>N/A (Portable)</td>
 <td>Laptop backups & travel-friendly storage</td>
