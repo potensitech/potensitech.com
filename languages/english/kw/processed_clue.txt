@@ -385,3 +385,5 @@ image quality
 autofocus system
 image quality
 camera lens
+image quality
+camera lens

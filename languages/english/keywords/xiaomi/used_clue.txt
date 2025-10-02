@@ -19,3 +19,4 @@ camera quality
 autofocus speed
 graphics performance
 portable ssd
+image quality
