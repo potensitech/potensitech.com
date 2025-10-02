@@ -383,3 +383,5 @@ graphics performance
 ssd storage
 image quality
 autofocus system
+image quality
+camera lens

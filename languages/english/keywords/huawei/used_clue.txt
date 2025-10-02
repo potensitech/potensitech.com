@@ -16,3 +16,4 @@ autofocus speed
 dslr settings
 graphics performance
 portable ssd
+image quality

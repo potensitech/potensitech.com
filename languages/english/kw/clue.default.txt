@@ -1,3 +1,7 @@
+camera lens
+dslr photography
+image quality
+autofocus system
 graphics performance
 ssd storage
 portable ssd
@@ -10,7 +14,6 @@ gaming optimization
 ray tracing
 overclocking capability
 mirrorless camera
-dslr photography
 processor performance
 core speed
 chip architecture
@@ -32,7 +35,6 @@ mobile performance
 long battery
 sleek design
 external storage
-camera lens
 gaming phone
 mirrorless innovation
 processor speed
