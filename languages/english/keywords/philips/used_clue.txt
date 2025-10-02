@@ -21,3 +21,5 @@ graphics performance
 processor efficiency
 ssd storage
 portable ssd
+smart lighting
+audio systems

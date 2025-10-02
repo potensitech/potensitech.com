@@ -397,3 +397,5 @@ image quality
 camera lens
 image quality
 graphics performance
+smart lighting
+audio systems
