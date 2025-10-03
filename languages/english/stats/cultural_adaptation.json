@@ -2971,5 +2971,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Burgers"
         ]
+    },
+    "nikon beginner-friendly affordable lenses": {
+        "date": "2025-10-03T02:03:09",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Central Park"
+        ]
     }
 }
