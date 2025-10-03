@@ -3028,5 +3028,18 @@
             "Cultural: New York",
             "Cultural: Innovation"
         ]
+    },
+    "nikon affordable camera lens options": {
+        "date": "2025-10-03T14:45:51",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Burgers"
+        ]
     }
 }
