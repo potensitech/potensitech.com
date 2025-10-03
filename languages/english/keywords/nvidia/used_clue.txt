@@ -18,3 +18,4 @@ autofocus speed
 image stabilization
 graphics performance
 processor efficiency
+dlss technology

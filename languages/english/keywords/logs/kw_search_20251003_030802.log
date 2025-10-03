@@ -1,0 +1,37 @@
+2025-10-03 03:08:02,729 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251003_030802.log
+2025-10-03 03:08:02,729 - INFO - ============================================================
+2025-10-03 03:08:02,729 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-03 03:08:02,729 - INFO - ============================================================
+2025-10-03 03:08:02,853 - INFO - ========================================
+2025-10-03 03:08:02,853 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-03 03:08:02,853 - INFO - ========================================
+2025-10-03 03:08:02,853 - INFO - Continuing from last processed niche: intel
+2025-10-03 03:08:02,853 - INFO - ========================================
+2025-10-03 03:08:02,853 - INFO - 🎯 PROCESSING NICHE 10/14: 'nvidia'
+2025-10-03 03:08:02,853 - INFO - ========================================
+2025-10-03 03:08:02,853 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/nvidia
+2025-10-03 03:08:02,853 - INFO - Selected region: us
+2025-10-03 03:08:02,853 - INFO - Selected language: en
+2025-10-03 03:08:02,853 - INFO - 🎯 Current niche: nvidia
+2025-10-03 03:08:05,910 - INFO - 🎯 Niche terms for filtering: nvidia, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, nvidia product, sell nvidia, buy nvidia, cheap nvidia, best nvidia, nvidia review, where to buy nvidia, how to choose nvidia, top nvidia, nvidia guide, nvidia for sale, nvidia deals
+2025-10-03 03:08:05,910 - INFO - Generated 50 niche-clue pairs for 'nvidia'.
+2025-10-03 03:08:05,913 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-03 03:08:05,914 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-03 03:12:28,876 - INFO - Original clue keywords: dlss technology
+2025-10-03 03:12:28,876 - INFO - Niche-focused seeds: dlss technology nvidia, nvidia dlss technology, dlss technology cheap, cheap dlss technology, dlss technology best, best dlss technology, dlss technology latest, latest dlss technology, dlss technology review, review dlss technology, dlss technology price, price dlss technology, dlss technology sell, sell dlss technology, dlss technology buy, buy dlss technology, dlss technology recommendation, recommendation dlss technology, dlss technology tips, tips dlss technology, dlss technology tutorial, tutorial dlss technology, dlss technology guide, guide dlss technology, dlss technology how to, how to dlss technology, dlss technology vs, vs dlss technology, dlss technology versus, versus dlss technology, dlss technology compared to, compared to dlss technology, dlss technology comparison, comparison dlss technology, dlss technology alternatives, alternatives dlss technology, dlss technology which is better, which is better dlss technology, dlss technology expensive, expensive dlss technology, dlss technology discount, discount dlss technology, dlss technology deals, deals dlss technology, dlss technology sale, sale dlss technology, dlss technology affordable, affordable dlss technology, dlss technology cost, cost dlss technology, dlss technology online, online dlss technology, dlss technology offline, offline dlss technology, dlss technology marketplace, marketplace dlss technology, dlss technology store, store dlss technology, dlss technology shop, shop dlss technology, dlss technology retailer, retailer dlss technology, dlss technology where to buy, where to buy dlss technology, dlss technology worst, worst dlss technology, dlss technology quality, quality dlss technology, dlss technology original, original dlss technology, dlss technology genuine, genuine dlss technology, dlss technology fake, fake dlss technology, dlss technology replica, replica dlss technology, dlss technology authentic, authentic dlss technology, dlss technology brand, brand dlss technology, dlss technology manufacturer, manufacturer dlss technology, dlss technology company, company dlss technology, dlss technology product, product dlss technology, dlss technology nvidia product, nvidia product dlss technology, dlss technology sell nvidia, sell nvidia dlss technology, dlss technology buy nvidia, buy nvidia dlss technology, dlss technology cheap nvidia, cheap nvidia dlss technology, dlss technology best nvidia, best nvidia dlss technology, dlss technology nvidia review, nvidia review dlss technology, dlss technology where to buy nvidia, where to buy nvidia dlss technology, dlss technology how to choose nvidia, how to choose nvidia dlss technology, dlss technology top nvidia, top nvidia dlss technology, dlss technology nvidia guide, nvidia guide dlss technology, dlss technology nvidia for sale, nvidia for sale dlss technology, dlss technology nvidia deals, nvidia deals dlss technology
+2025-10-03 03:12:28,879 - INFO - Expanded 110 seed keywords to 275 variations
+2025-10-03 03:12:28,879 - INFO - Language: en
+2025-10-03 03:12:28,879 - INFO - Region: us
+2025-10-03 03:17:00,043 - INFO - 🎯 After all filtering for 'nvidia': 120 relevant keywords
+2025-10-03 03:17:00,520 - INFO - 🎯 Found 4 new keywords for niche 'nvidia': nvidia affordable dlss technology, cheap alternatives dlss technology, best authentic dlss technology, how to brand dlss technology
+2025-10-03 03:17:09,119 - INFO - ✅ Niche 'nvidia' process complete! 98 total keyword results.
+2025-10-03 03:17:09,119 - INFO - ✅ Completed processing niche: 'nvidia'
+2025-10-03 03:17:09,119 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-03 03:17:09,119 - INFO -    Total requests: 17385, Blocks: 0
+2025-10-03 03:17:09,120 - INFO - 
+========================================
+2025-10-03 03:17:09,121 - INFO - Process Summary:
+2025-10-03 03:17:09,121 - INFO - - Current niche: 'nvidia'
+2025-10-03 03:17:09,121 - INFO - - Next niche will be: 'amd'
+2025-10-03 03:17:09,121 - INFO - - Keywords saved in: languages/english/keywords/nvidia/
+2025-10-03 03:17:09,121 - INFO - ========================================

@@ -1,3 +1,7 @@
+graphics card
+ray tracing
+dlss technology
+cuda cores
 image quality
 flash drive
 portable storage
@@ -16,7 +20,6 @@ autofocus speed
 lens compatibility
 dslr settings
 gaming optimization
-ray tracing
 overclocking capability
 mirrorless camera
 processor performance
@@ -27,8 +30,6 @@ smartphone features
 ai rendering
 battery life
 screen resolution
-graphics card
-cuda cores
 solid-state
 usb storage
 smartphone battery
