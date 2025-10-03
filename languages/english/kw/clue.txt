@@ -1,8 +1,8 @@
+image quality
 graphics card
 ray tracing
 dlss technology
 cuda cores
-image quality
 flash drive
 portable storage
 audio systems

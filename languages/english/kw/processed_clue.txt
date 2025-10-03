@@ -403,3 +403,5 @@ portable storage
 image quality
 flash drive
 dlss technology
+image quality
+graphics card

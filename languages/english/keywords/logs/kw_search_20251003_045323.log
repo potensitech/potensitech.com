@@ -1,0 +1,37 @@
+2025-10-03 04:53:23,502 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251003_045323.log
+2025-10-03 04:53:23,502 - INFO - ============================================================
+2025-10-03 04:53:23,502 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-03 04:53:23,503 - INFO - ============================================================
+2025-10-03 04:53:23,640 - INFO - ========================================
+2025-10-03 04:53:23,640 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-03 04:53:23,640 - INFO - ========================================
+2025-10-03 04:53:23,640 - INFO - Continuing from last processed niche: nvidia
+2025-10-03 04:53:23,640 - INFO - ========================================
+2025-10-03 04:53:23,640 - INFO - 🎯 PROCESSING NICHE 11/14: 'amd'
+2025-10-03 04:53:23,641 - INFO - ========================================
+2025-10-03 04:53:23,641 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/amd
+2025-10-03 04:53:23,641 - INFO - Selected region: us
+2025-10-03 04:53:23,641 - INFO - Selected language: en
+2025-10-03 04:53:23,641 - INFO - 🎯 Current niche: amd
+2025-10-03 04:53:26,043 - INFO - 🎯 Niche terms for filtering: amd, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, amd product, sell amd, buy amd, cheap amd, best amd, amd review, where to buy amd, how to choose amd, top amd, amd guide, amd for sale, amd deals
+2025-10-03 04:53:26,043 - INFO - Generated 50 niche-clue pairs for 'amd'.
+2025-10-03 04:53:26,046 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-03 04:53:26,046 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-03 04:57:51,089 - INFO - Original clue keywords: image quality, graphics card
+2025-10-03 04:57:51,089 - INFO - Niche-focused seeds: image quality, graphics card amd, amd graphics card, graphics card cheap, cheap graphics card, graphics card best, best graphics card, graphics card latest, latest graphics card, graphics card review, review graphics card, graphics card price, price graphics card, graphics card sell, sell graphics card, graphics card buy, buy graphics card, graphics card recommendation, recommendation graphics card, graphics card tips, tips graphics card, graphics card tutorial, tutorial graphics card, graphics card guide, guide graphics card, graphics card how to, how to graphics card, graphics card vs, vs graphics card, graphics card versus, versus graphics card, graphics card compared to, compared to graphics card, graphics card comparison, comparison graphics card, graphics card alternatives, alternatives graphics card, graphics card which is better, which is better graphics card, graphics card expensive, expensive graphics card, graphics card discount, discount graphics card, graphics card deals, deals graphics card, graphics card sale, sale graphics card, graphics card affordable, affordable graphics card, graphics card cost, cost graphics card, graphics card online, online graphics card, graphics card offline, offline graphics card, graphics card marketplace, marketplace graphics card, graphics card store, store graphics card, graphics card shop, shop graphics card, graphics card retailer, retailer graphics card, graphics card where to buy, where to buy graphics card, graphics card worst, worst graphics card, graphics card quality, quality graphics card, graphics card original, original graphics card, graphics card genuine, genuine graphics card, graphics card fake, fake graphics card, graphics card replica, replica graphics card, graphics card authentic, authentic graphics card, graphics card brand, brand graphics card, graphics card manufacturer, manufacturer graphics card, graphics card company, company graphics card, graphics card product, product graphics card, graphics card amd product, amd product graphics card, graphics card sell amd, sell amd graphics card, graphics card buy amd, buy amd graphics card, graphics card cheap amd, cheap amd graphics card, graphics card best amd, best amd graphics card, graphics card amd review, amd review graphics card, graphics card where to buy amd, where to buy amd graphics card, graphics card how to choose amd, how to choose amd graphics card, graphics card top amd, top amd graphics card, graphics card amd guide, amd guide graphics card, graphics card amd for sale, amd for sale graphics card, graphics card amd deals, amd deals graphics card
+2025-10-03 04:57:51,092 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-03 04:57:51,092 - INFO - Language: en
+2025-10-03 04:57:51,092 - INFO - Region: us
+2025-10-03 05:00:10,821 - INFO - 🎯 After all filtering for 'amd': 120 relevant keywords
+2025-10-03 05:00:10,849 - INFO - 🎯 Found 5 new keywords for niche 'amd': amd image quality, cheap image quality, best image quality, how to image quality, amd affordable graphics card
+2025-10-03 05:00:18,620 - INFO - ✅ Niche 'amd' process complete! 109 total keyword results.
+2025-10-03 05:00:18,620 - INFO - ✅ Completed processing niche: 'amd'
+2025-10-03 05:00:18,620 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-03 05:00:18,620 - INFO -    Total requests: 17450, Blocks: 0
+2025-10-03 05:00:18,621 - INFO - 
+========================================
+2025-10-03 05:00:18,622 - INFO - Process Summary:
+2025-10-03 05:00:18,622 - INFO - - Current niche: 'amd'
+2025-10-03 05:00:18,622 - INFO - - Next niche will be: 'canon'
+2025-10-03 05:00:18,622 - INFO - - Keywords saved in: languages/english/keywords/amd/
+2025-10-03 05:00:18,622 - INFO - ========================================
