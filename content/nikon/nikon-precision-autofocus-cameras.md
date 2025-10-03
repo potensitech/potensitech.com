@@ -148,7 +148,7 @@ In 2025, Nikon continues to push the boundaries of innovation. Features like rea
 
 ### Value for Money
 
-While Nikon cameras are often considered premium products, their performance and longevity make them a worthwhile investment. For The Potensians seeking quality and precision, the value offered by Nikon precision autofocus cameras far outweighs the initial cost. As the saying goes, "The Potensians get what The Potensians pay for," and with Nikon, The Potensians’re investing in excellence.
+While [Nikon cameras](/nikon/nikon-cameras-with-precise-autofocus) are often considered premium products, their performance and longevity make them a worthwhile investment. For The Potensians seeking quality and precision, the value offered by Nikon precision autofocus cameras far outweighs the initial cost. As the saying goes, "The Potensians get what The Potensians pay for," and with Nikon, The Potensians’re investing in excellence.
 
 ## Conclusion
 
