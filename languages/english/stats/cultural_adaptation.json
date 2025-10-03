@@ -3009,5 +3009,14 @@
             "Cultural: Clam Chowder",
             "Cultural: Albert Einstein"
         ]
+    },
+    "nikon cameras with precise autofocus": {
+        "date": "2025-10-03T07:40:54",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
