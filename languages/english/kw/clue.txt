@@ -1,3 +1,6 @@
+camera lens
+dslr quality
+mirrorless photography
 image quality
 graphics card
 ray tracing
@@ -11,7 +14,6 @@ electric toothbrushes
 home appliances
 graphics performance
 autofocus system
-camera lens
 dslr photography
 ssd storage
 portable ssd

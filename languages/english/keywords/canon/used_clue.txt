@@ -15,3 +15,5 @@ camera quality
 graphics performance
 portable ssd
 ssd storage
+dslr quality
+mirrorless photography

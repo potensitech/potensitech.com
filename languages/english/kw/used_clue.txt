@@ -34,3 +34,6 @@ memory card
 --- Moved on 2025-10-02 21:43:38 ---
 memory card
 data transfer
+
+--- Moved on 2025-10-03 07:28:48 ---
+image stabilization

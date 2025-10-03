@@ -405,3 +405,5 @@ flash drive
 dlss technology
 image quality
 graphics card
+dslr quality
+mirrorless photography
