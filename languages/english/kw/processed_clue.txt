@@ -407,3 +407,5 @@ image quality
 graphics card
 dslr quality
 mirrorless photography
+dslr quality
+image quality
