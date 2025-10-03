@@ -3041,5 +3041,18 @@
             "Cultural: Broadway",
             "Cultural: Burgers"
         ]
+    },
+    "nikon high-precision autofocus systems": {
+        "date": "2025-10-03T17:02:50",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
