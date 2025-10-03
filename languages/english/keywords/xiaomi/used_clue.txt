@@ -20,3 +20,4 @@ autofocus speed
 graphics performance
 portable ssd
 image quality
+dslr quality
