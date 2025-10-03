@@ -1261,5 +1261,15 @@
   "iphone advanced photography features": true,
   "iphone photography for professional users": true,
   "iphone cinematic photography quality": true,
-  "iphone camera performance for professional photography": true
+  "iphone camera performance for professional photography": true,
+  "samsung smartphone image quality": true,
+  "samsung smartphone camera quality": true,
+  "samsung smartphone display clarity": true,
+  "samsung smartphone photo quality": true,
+  "samsung smartphone screen resolution": true,
+  "samsung smartphone camera performance": true,
+  "samsung smartphone video quality": true,
+  "samsung smartphone picture quality": true,
+  "samsung smartphone screen sharpness": true,
+  "samsung smartphone display performance": true
 }
