@@ -2997,5 +2997,17 @@
             "Cultural: Chicago",
             "Cultural: Times Square"
         ]
+    },
+    "nikon DSLR lens compatibility guide": {
+        "date": "2025-10-03T05:01:44",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Pizza",
+            "Cultural: Clam Chowder",
+            "Cultural: Albert Einstein"
+        ]
     }
 }
