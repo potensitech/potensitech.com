@@ -1,3 +1,5 @@
+flash drive
+portable storage
 smart lighting
 audio systems
 electric toothbrushes
@@ -9,7 +11,6 @@ camera lens
 dslr photography
 ssd storage
 portable ssd
-flash drive
 processor efficiency
 autofocus speed
 lens compatibility

@@ -400,3 +400,5 @@ graphics performance
 smart lighting
 audio systems
 portable storage
+image quality
+flash drive

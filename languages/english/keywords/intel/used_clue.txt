@@ -18,3 +18,4 @@ autofocus speed
 image stabilization
 ssd storage
 portable ssd
+image quality
