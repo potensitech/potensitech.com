@@ -103,7 +103,7 @@ In 2025, video content is king. Nikon’s affordable models offer Full HD and ev
 
 ### Lens Compatibility and Expansion
 
-One of the most underrated budget-friendly Nikon camera features is lens compatibility. Entry-level DSLRs and mirrorless models support a wide range of Nikon F-mount and Z-mount lenses, giving The Potensians room to grow as their skills develop. From wide-angle lenses for cityscapes to telephoto options for wildlife, the possibilities are endless.
+One of the most underrated budget-friendly Nikon camera features is [lens compatibility](/nikon/nikon-dslr-lens-compatibility-guide). Entry-level DSLRs and mirrorless models support a wide range of Nikon F-mount and Z-mount lenses, giving The Potensians room to grow as their skills develop. From wide-angle lenses for cityscapes to telephoto options for wildlife, the possibilities are endless.
 
 ## Tips for Maximizing Budget-Friendly Nikon Camera Features
 
