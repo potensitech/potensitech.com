@@ -3067,5 +3067,18 @@
             "Cultural: Broadway",
             "Cultural: Apple Pie"
         ]
+    },
+    "samsung smartphone camera quality": {
+        "date": "2025-10-03T21:52:49",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie"
+        ]
     }
 }
