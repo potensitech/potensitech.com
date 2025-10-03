@@ -2984,5 +2984,18 @@
             "Cultural: Hollywood",
             "Cultural: Central Park"
         ]
+    },
+    "nikon advanced autofocus technology": {
+        "date": "2025-10-03T03:18:28",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Times Square"
+        ]
     }
 }
