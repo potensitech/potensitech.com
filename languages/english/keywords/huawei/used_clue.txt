@@ -18,3 +18,4 @@ graphics performance
 portable ssd
 image quality
 dslr quality
+cpu benchmark

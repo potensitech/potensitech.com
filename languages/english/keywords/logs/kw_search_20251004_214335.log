@@ -1,0 +1,37 @@
+2025-10-04 21:43:35,049 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251004_214335.log
+2025-10-04 21:43:35,049 - INFO - ============================================================
+2025-10-04 21:43:35,049 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-04 21:43:35,049 - INFO - ============================================================
+2025-10-04 21:43:35,190 - INFO - ========================================
+2025-10-04 21:43:35,190 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-04 21:43:35,190 - INFO - ========================================
+2025-10-04 21:43:35,190 - INFO - Continuing from last processed niche: nikon
+2025-10-04 21:43:35,190 - INFO - ========================================
+2025-10-04 21:43:35,190 - INFO - 🎯 PROCESSING NICHE 14/14: 'huawei'
+2025-10-04 21:43:35,190 - INFO - ========================================
+2025-10-04 21:43:35,191 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/huawei
+2025-10-04 21:43:35,191 - INFO - Selected region: us
+2025-10-04 21:43:35,191 - INFO - Selected language: en
+2025-10-04 21:43:35,191 - INFO - 🎯 Current niche: huawei
+2025-10-04 21:43:37,716 - INFO - 🎯 Niche terms for filtering: huawei, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, huawei product, sell huawei, buy huawei, cheap huawei, best huawei, huawei review, where to buy huawei, how to choose huawei, top huawei, huawei guide, huawei for sale, huawei deals
+2025-10-04 21:43:37,717 - INFO - Generated 50 niche-clue pairs for 'huawei'.
+2025-10-04 21:43:37,720 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-04 21:43:37,720 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-04 21:48:03,338 - INFO - Original clue keywords: cpu benchmark
+2025-10-04 21:48:03,338 - INFO - Niche-focused seeds: cpu benchmark huawei, huawei cpu benchmark, cpu benchmark cheap, cheap cpu benchmark, cpu benchmark best, best cpu benchmark, cpu benchmark latest, latest cpu benchmark, cpu benchmark review, review cpu benchmark, cpu benchmark price, price cpu benchmark, cpu benchmark sell, sell cpu benchmark, cpu benchmark buy, buy cpu benchmark, cpu benchmark recommendation, recommendation cpu benchmark, cpu benchmark tips, tips cpu benchmark, cpu benchmark tutorial, tutorial cpu benchmark, cpu benchmark guide, guide cpu benchmark, cpu benchmark how to, how to cpu benchmark, cpu benchmark vs, vs cpu benchmark, cpu benchmark versus, versus cpu benchmark, cpu benchmark compared to, compared to cpu benchmark, cpu benchmark comparison, comparison cpu benchmark, cpu benchmark alternatives, alternatives cpu benchmark, cpu benchmark which is better, which is better cpu benchmark, cpu benchmark expensive, expensive cpu benchmark, cpu benchmark discount, discount cpu benchmark, cpu benchmark deals, deals cpu benchmark, cpu benchmark sale, sale cpu benchmark, cpu benchmark affordable, affordable cpu benchmark, cpu benchmark cost, cost cpu benchmark, cpu benchmark online, online cpu benchmark, cpu benchmark offline, offline cpu benchmark, cpu benchmark marketplace, marketplace cpu benchmark, cpu benchmark store, store cpu benchmark, cpu benchmark shop, shop cpu benchmark, cpu benchmark retailer, retailer cpu benchmark, cpu benchmark where to buy, where to buy cpu benchmark, cpu benchmark worst, worst cpu benchmark, cpu benchmark quality, quality cpu benchmark, cpu benchmark original, original cpu benchmark, cpu benchmark genuine, genuine cpu benchmark, cpu benchmark fake, fake cpu benchmark, cpu benchmark replica, replica cpu benchmark, cpu benchmark authentic, authentic cpu benchmark, cpu benchmark brand, brand cpu benchmark, cpu benchmark manufacturer, manufacturer cpu benchmark, cpu benchmark company, company cpu benchmark, cpu benchmark product, product cpu benchmark, cpu benchmark huawei product, huawei product cpu benchmark, cpu benchmark sell huawei, sell huawei cpu benchmark, cpu benchmark buy huawei, buy huawei cpu benchmark, cpu benchmark cheap huawei, cheap huawei cpu benchmark, cpu benchmark best huawei, best huawei cpu benchmark, cpu benchmark huawei review, huawei review cpu benchmark, cpu benchmark where to buy huawei, where to buy huawei cpu benchmark, cpu benchmark how to choose huawei, how to choose huawei cpu benchmark, cpu benchmark top huawei, top huawei cpu benchmark, cpu benchmark huawei guide, huawei guide cpu benchmark, cpu benchmark huawei for sale, huawei for sale cpu benchmark, cpu benchmark huawei deals, huawei deals cpu benchmark
+2025-10-04 21:48:03,341 - INFO - Expanded 110 seed keywords to 275 variations
+2025-10-04 21:48:03,341 - INFO - Language: en
+2025-10-04 21:48:03,341 - INFO - Region: us
+2025-10-04 21:52:39,817 - INFO - 🎯 After all filtering for 'huawei': 120 relevant keywords
+2025-10-04 21:52:40,238 - INFO - 🎯 Found 4 new keywords for niche 'huawei': huawei affordable cpu benchmark, cheap alternatives cpu benchmark, best authentic cpu benchmark, how to brand cpu benchmark
+2025-10-04 21:52:45,658 - INFO - ✅ Niche 'huawei' process complete! 84 total keyword results.
+2025-10-04 21:52:45,658 - INFO - ✅ Completed processing niche: 'huawei'
+2025-10-04 21:52:45,658 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-04 21:52:45,659 - INFO -    Total requests: 18880, Blocks: 0
+2025-10-04 21:52:45,660 - INFO - 
+========================================
+2025-10-04 21:52:45,660 - INFO - Process Summary:
+2025-10-04 21:52:45,660 - INFO - - Current niche: 'huawei'
+2025-10-04 21:52:45,660 - INFO - - Next niche will be: 'xiaomi'
+2025-10-04 21:52:45,660 - INFO - - Keywords saved in: languages/english/keywords/huawei/
+2025-10-04 21:52:45,660 - INFO - ========================================
