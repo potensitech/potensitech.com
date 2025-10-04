@@ -3093,5 +3093,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung smartphone photo quality": {
+        "date": "2025-10-04T03:14:06",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood",
+            "Cultural: Pizza"
+        ]
     }
 }
