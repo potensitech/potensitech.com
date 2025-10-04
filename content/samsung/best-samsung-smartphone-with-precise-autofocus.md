@@ -97,7 +97,7 @@ While the Galaxy S23 Ultra is the pinnacle of Samsung's autofocus technology, ot
 
 ### Samsung Galaxy Z Fold 5 – A Foldable Marvel
 
-The **Samsung Galaxy Z Fold 5** combines innovation with practicality, making it an excellent choice for those who want versatility without compromising on camera performance. Its triple-camera setup includes an advanced laser-guided autofocus system that excels at tracking subjects across multiple focal planes. 
+The **Samsung Galaxy Z Fold 5** combines innovation with practicality, making it an excellent choice for those who want versatility without compromising on [camera performance](/samsung/samsung-smartphone-camera-performance). Its triple-camera setup includes an advanced laser-guided autofocus system that excels at tracking subjects across multiple focal planes. 
 
 This feature is particularly useful for capturing dynamic scenes, such as bustling cityscapes or family gatherings. Imagine photographing a lively barbecue where kids are running around, and the grill is sizzling—this phone ensures every detail is in focus. 
 
