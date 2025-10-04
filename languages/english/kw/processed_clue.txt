@@ -431,3 +431,5 @@ chipset upgrade
 core technology
 image quality
 processor performance
+processor performance
+chipset upgrade

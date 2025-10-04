@@ -18,3 +18,4 @@ processor efficiency
 camera quality
 image stabilization
 image quality
+chipset upgrade
