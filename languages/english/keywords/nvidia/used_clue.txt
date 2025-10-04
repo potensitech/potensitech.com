@@ -19,3 +19,5 @@ image stabilization
 graphics performance
 processor efficiency
 dlss technology
+image quality
+processor performance

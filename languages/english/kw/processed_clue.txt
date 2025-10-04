@@ -429,3 +429,5 @@ dslr quality
 image quality
 chipset upgrade
 core technology
+image quality
+processor performance
