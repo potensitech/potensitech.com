@@ -433,3 +433,5 @@ image quality
 processor performance
 processor performance
 chipset upgrade
+image quality
+dslr quality

@@ -17,3 +17,4 @@ portable ssd
 ssd storage
 dslr quality
 mirrorless photography
+image quality
