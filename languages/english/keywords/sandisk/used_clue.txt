@@ -18,3 +18,5 @@ image stabilization
 ssd storage
 portable ssd
 portable storage
+dslr quality
+image quality

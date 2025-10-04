@@ -1,0 +1,37 @@
+2025-10-04 07:25:51,055 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251004_072551.log
+2025-10-04 07:25:51,055 - INFO - ============================================================
+2025-10-04 07:25:51,055 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-04 07:25:51,055 - INFO - ============================================================
+2025-10-04 07:25:51,259 - INFO - ========================================
+2025-10-04 07:25:51,259 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-04 07:25:51,259 - INFO - ========================================
+2025-10-04 07:25:51,259 - INFO - Continuing from last processed niche: philips
+2025-10-04 07:25:51,259 - INFO - ========================================
+2025-10-04 07:25:51,259 - INFO - 🎯 PROCESSING NICHE 8/14: 'sandisk'
+2025-10-04 07:25:51,259 - INFO - ========================================
+2025-10-04 07:25:51,260 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/sandisk
+2025-10-04 07:25:51,260 - INFO - Selected region: us
+2025-10-04 07:25:51,260 - INFO - Selected language: en
+2025-10-04 07:25:51,260 - INFO - 🎯 Current niche: sandisk
+2025-10-04 07:25:53,869 - INFO - 🎯 Niche terms for filtering: sandisk, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, sandisk product, sell sandisk, buy sandisk, cheap sandisk, best sandisk, sandisk review, where to buy sandisk, how to choose sandisk, top sandisk, sandisk guide, sandisk for sale, sandisk deals
+2025-10-04 07:25:53,869 - INFO - Generated 50 niche-clue pairs for 'sandisk'.
+2025-10-04 07:25:53,872 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-04 07:25:53,873 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-04 07:30:14,025 - INFO - Original clue keywords: dslr quality, image quality
+2025-10-04 07:30:14,025 - INFO - Niche-focused seeds: dslr quality, image quality
+2025-10-04 07:30:14,028 - INFO - Expanded 2 seed keywords to 32 variations
+2025-10-04 07:30:14,028 - INFO - Language: en
+2025-10-04 07:30:14,028 - INFO - Region: us
+2025-10-04 07:34:48,082 - INFO - 🎯 After all filtering for 'sandisk': 120 relevant keywords
+2025-10-04 07:34:48,103 - INFO - 🎯 Found 5 new keywords for niche 'sandisk': sandisk dslr quality, cheap dslr quality, best dslr quality, how to dslr quality, sandisk image quality
+2025-10-04 07:34:58,128 - INFO - ✅ Niche 'sandisk' process complete! 81 total keyword results.
+2025-10-04 07:34:58,129 - INFO - ✅ Completed processing niche: 'sandisk'
+2025-10-04 07:34:58,129 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-04 07:34:58,129 - INFO -    Total requests: 18407, Blocks: 0
+2025-10-04 07:34:58,130 - INFO - 
+========================================
+2025-10-04 07:34:58,130 - INFO - Process Summary:
+2025-10-04 07:34:58,130 - INFO - - Current niche: 'sandisk'
+2025-10-04 07:34:58,130 - INFO - - Next niche will be: 'intel'
+2025-10-04 07:34:58,130 - INFO - - Keywords saved in: languages/english/keywords/sandisk/
+2025-10-04 07:34:58,130 - INFO - ========================================
