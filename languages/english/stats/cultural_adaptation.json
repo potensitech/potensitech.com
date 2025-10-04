@@ -3158,5 +3158,15 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone screen sharpness": {
+        "date": "2025-10-04T14:39:20",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
