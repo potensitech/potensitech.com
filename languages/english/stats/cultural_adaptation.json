@@ -3145,5 +3145,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Wall Street"
         ]
+    },
+    "samsung smartphone picture quality": {
+        "date": "2025-10-04T12:38:51",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Black Friday",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
