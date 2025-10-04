@@ -23,3 +23,5 @@ ssd storage
 portable ssd
 smart lighting
 audio systems
+dslr quality
+image quality

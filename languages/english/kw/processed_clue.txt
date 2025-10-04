@@ -423,3 +423,5 @@ dslr quality
 image quality
 smartphone performance
 mobile processor
+dslr quality
+image quality

@@ -1,0 +1,37 @@
+2025-10-04 04:53:49,389 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251004_045349.log
+2025-10-04 04:53:49,389 - INFO - ============================================================
+2025-10-04 04:53:49,389 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-04 04:53:49,389 - INFO - ============================================================
+2025-10-04 04:53:49,554 - INFO - ========================================
+2025-10-04 04:53:49,554 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-04 04:53:49,554 - INFO - ========================================
+2025-10-04 04:53:49,554 - INFO - Continuing from last processed niche: asus
+2025-10-04 04:53:49,554 - INFO - ========================================
+2025-10-04 04:53:49,554 - INFO - 🎯 PROCESSING NICHE 7/14: 'philips'
+2025-10-04 04:53:49,554 - INFO - ========================================
+2025-10-04 04:53:49,554 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/philips
+2025-10-04 04:53:49,554 - INFO - Selected region: us
+2025-10-04 04:53:49,554 - INFO - Selected language: en
+2025-10-04 04:53:49,554 - INFO - 🎯 Current niche: philips
+2025-10-04 04:53:53,572 - INFO - 🎯 Niche terms for filtering: philips, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, philips product, sell philips, buy philips, cheap philips, best philips, philips review, where to buy philips, how to choose philips, top philips, philips guide, philips for sale, philips deals
+2025-10-04 04:53:53,573 - INFO - Generated 50 niche-clue pairs for 'philips'.
+2025-10-04 04:53:53,576 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-04 04:53:53,576 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-04 04:58:22,390 - INFO - Original clue keywords: dslr quality, image quality
+2025-10-04 04:58:22,390 - INFO - Niche-focused seeds: dslr quality, image quality
+2025-10-04 04:58:22,392 - INFO - Expanded 2 seed keywords to 32 variations
+2025-10-04 04:58:22,393 - INFO - Language: en
+2025-10-04 04:58:22,393 - INFO - Region: us
+2025-10-04 05:02:53,823 - INFO - 🎯 After all filtering for 'philips': 120 relevant keywords
+2025-10-04 05:02:53,848 - INFO - 🎯 Found 5 new keywords for niche 'philips': philips dslr quality, cheap dslr quality, best dslr quality, how to dslr quality, philips image quality
+2025-10-04 05:03:01,007 - INFO - ✅ Niche 'philips' process complete! 91 total keyword results.
+2025-10-04 05:03:01,007 - INFO - ✅ Completed processing niche: 'philips'
+2025-10-04 05:03:01,007 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-04 05:03:01,007 - INFO -    Total requests: 18317, Blocks: 0
+2025-10-04 05:03:01,008 - INFO - 
+========================================
+2025-10-04 05:03:01,008 - INFO - Process Summary:
+2025-10-04 05:03:01,008 - INFO - - Current niche: 'philips'
+2025-10-04 05:03:01,008 - INFO - - Next niche will be: 'sandisk'
+2025-10-04 05:03:01,009 - INFO - - Keywords saved in: languages/english/keywords/philips/
+2025-10-04 05:03:01,009 - INFO - ========================================
