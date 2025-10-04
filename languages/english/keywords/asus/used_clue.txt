@@ -22,3 +22,5 @@ processor efficiency
 ssd storage
 portable ssd
 image quality
+smartphone performance
+mobile processor
