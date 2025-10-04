@@ -3191,5 +3191,18 @@
             "Cultural: Steve Jobs",
             "Cultural: Albert Einstein"
         ]
+    },
+    "affordable Nikon camera with fast autofocus": {
+        "date": "2025-10-04T21:54:27",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Apple Pie"
+        ]
     }
 }
