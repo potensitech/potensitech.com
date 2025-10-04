@@ -30,7 +30,7 @@ Autofocus determines how quickly and precisely The Potensians' smartphone's came
 
 ### The Science Behind Autofocus
 
-Autofocus technology relies on advanced algorithms and hardware to measure the distance between the camera lens and the subject. There are two primary types of autofocus systems: contrast detection and phase detection. Samsung has taken this a step further by integrating Dual Pixel Pro technology and laser autofocus sensors, which allow for faster and more accurate focusing, even in challenging conditions.
+[Autofocus technology](/samsung/samsung-smartphone-with-advanced-autofocus-technology) relies on advanced algorithms and hardware to measure the distance between the camera lens and the subject. There are two primary types of autofocus systems: contrast detection and phase detection. Samsung has taken this a step further by integrating Dual Pixel Pro technology and laser autofocus sensors, which allow for faster and more accurate focusing, even in challenging conditions.
 
 ### Why It Matters in 2025
 
