@@ -3168,5 +3168,17 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung smartphone display performance": {
+        "date": "2025-10-04T17:01:25",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Innovation"
+        ]
     }
 }
