@@ -3106,5 +3106,18 @@
             "Cultural: Hollywood",
             "Cultural: Pizza"
         ]
+    },
+    "samsung smartphone screen resolution": {
+        "date": "2025-10-04T05:04:27",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Buffalo Wings",
+            "Cultural: Innovation"
+        ]
     }
 }
