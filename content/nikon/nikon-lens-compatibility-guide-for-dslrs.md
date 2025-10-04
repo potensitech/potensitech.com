@@ -51,7 +51,7 @@ For example:
 
 Nikon DSLRs use different lens mounts, which determine compatibility. The two primary mounts are:
 
-- **F-Mount:** Used in most Nikon DSLRs, offering a wide range of lens options. 
+- **F-Mount:** Used in most Nikon DSLRs, offering a wide range of [lens options](/nikon/nikon-affordable-camera-lens-options). 
 - **Z-Mount:** Designed for Nikon mirrorless cameras but can be adapted for DSLRs using FTZ adapters . 
 
 Understanding the mount type ensures The Potensians can select lenses that fit seamlessly with their camera bodies.
