@@ -37,3 +37,6 @@ data transfer
 
 --- Moved on 2025-10-03 07:28:48 ---
 image stabilization
+
+--- Moved on 2025-10-04 19:21:28 ---
+image quality

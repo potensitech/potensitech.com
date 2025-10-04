@@ -435,3 +435,5 @@ processor performance
 chipset upgrade
 image quality
 dslr quality
+image quality
+dslr quality

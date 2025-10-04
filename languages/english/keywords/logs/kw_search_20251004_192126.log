@@ -1,0 +1,37 @@
+2025-10-04 19:21:26,280 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251004_192126.log
+2025-10-04 19:21:26,280 - INFO - ============================================================
+2025-10-04 19:21:26,280 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-04 19:21:26,280 - INFO - ============================================================
+2025-10-04 19:21:26,420 - INFO - ========================================
+2025-10-04 19:21:26,420 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-04 19:21:26,420 - INFO - ========================================
+2025-10-04 19:21:26,420 - INFO - Continuing from last processed niche: canon
+2025-10-04 19:21:26,421 - INFO - ========================================
+2025-10-04 19:21:26,421 - INFO - 🎯 PROCESSING NICHE 13/14: 'nikon'
+2025-10-04 19:21:26,421 - INFO - ========================================
+2025-10-04 19:21:26,421 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/nikon
+2025-10-04 19:21:26,421 - INFO - Selected region: us
+2025-10-04 19:21:26,421 - INFO - Selected language: en
+2025-10-04 19:21:26,421 - INFO - 🎯 Current niche: nikon
+2025-10-04 19:21:28,717 - INFO - 🎯 Niche terms for filtering: nikon, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, nikon product, sell nikon, buy nikon, cheap nikon, best nikon, nikon review, where to buy nikon, how to choose nikon, top nikon, nikon guide, nikon for sale, nikon deals
+2025-10-04 19:21:28,718 - INFO - Generated 50 niche-clue pairs for 'nikon'.
+2025-10-04 19:21:28,721 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-04 19:21:28,721 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-04 19:25:55,296 - INFO - Original clue keywords: image quality, dslr quality
+2025-10-04 19:25:55,296 - INFO - Niche-focused seeds: image quality, dslr quality
+2025-10-04 19:25:55,299 - INFO - Expanded 2 seed keywords to 32 variations
+2025-10-04 19:25:55,299 - INFO - Language: en
+2025-10-04 19:25:55,299 - INFO - Region: us
+2025-10-04 19:26:28,482 - INFO - 🎯 After all filtering for 'nikon': 120 relevant keywords
+2025-10-04 19:26:28,507 - INFO - 🎯 Found 5 new keywords for niche 'nikon': nikon dslr quality, cheap dslr quality, best dslr quality, how to dslr quality, nikon image quality
+2025-10-04 19:26:35,285 - INFO - ✅ Niche 'nikon' process complete! 105 total keyword results.
+2025-10-04 19:26:35,285 - INFO - ✅ Completed processing niche: 'nikon'
+2025-10-04 19:26:35,286 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-04 19:26:35,286 - INFO -    Total requests: 18790, Blocks: 0
+2025-10-04 19:26:35,287 - INFO - 
+========================================
+2025-10-04 19:26:35,287 - INFO - Process Summary:
+2025-10-04 19:26:35,287 - INFO - - Current niche: 'nikon'
+2025-10-04 19:26:35,287 - INFO - - Next niche will be: 'huawei'
+2025-10-04 19:26:35,287 - INFO - - Keywords saved in: languages/english/keywords/nikon/
+2025-10-04 19:26:35,287 - INFO - ========================================
