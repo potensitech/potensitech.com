@@ -3080,5 +3080,18 @@
             "Cultural: Broadway",
             "Cultural: Apple Pie"
         ]
+    },
+    "samsung smartphone display clarity": {
+        "date": "2025-10-04T01:59:50",
+        "language": "en",
+        "cultural_score": 96,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Silicon Valley",
+            "Cultural: Buffalo Wings",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
