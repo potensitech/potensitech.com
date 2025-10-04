@@ -3119,5 +3119,18 @@
             "Cultural: Buffalo Wings",
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone camera performance": {
+        "date": "2025-10-04T07:37:24",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Hollywood"
+        ]
     }
 }
