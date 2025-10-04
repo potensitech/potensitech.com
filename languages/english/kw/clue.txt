@@ -1,3 +1,7 @@
+processor performance
+chipset upgrade
+core technology
+cpu benchmark
 dslr quality
 image quality
 smartphone performance
@@ -28,7 +32,6 @@ dslr settings
 gaming optimization
 overclocking capability
 mirrorless camera
-processor performance
 core speed
 chip architecture
 power efficiency

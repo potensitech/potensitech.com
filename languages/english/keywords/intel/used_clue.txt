@@ -19,3 +19,5 @@ image stabilization
 ssd storage
 portable ssd
 image quality
+chipset upgrade
+core technology
