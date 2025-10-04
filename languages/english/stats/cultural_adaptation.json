@@ -3132,5 +3132,18 @@
             "Cultural: Times Square",
             "Cultural: Hollywood"
         ]
+    },
+    "samsung smartphone video quality": {
+        "date": "2025-10-04T09:50:19",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: New Year's Day",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street"
+        ]
     }
 }
