@@ -438,3 +438,5 @@ dslr quality
 image quality
 dslr quality
 cpu benchmark
+dslr quality
+processor performance
