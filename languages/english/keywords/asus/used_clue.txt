@@ -24,3 +24,5 @@ portable ssd
 image quality
 smartphone performance
 mobile processor
+processor performance
+chipset upgrade

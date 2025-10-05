@@ -448,3 +448,5 @@ dslr quality
 processor performance
 dslr quality
 processor performance
+processor performance
+chipset upgrade
