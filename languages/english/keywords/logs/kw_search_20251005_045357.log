@@ -1,0 +1,37 @@
+2025-10-05 04:53:57,254 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251005_045357.log
+2025-10-05 04:53:57,254 - INFO - ============================================================
+2025-10-05 04:53:57,254 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-05 04:53:57,254 - INFO - ============================================================
+2025-10-05 04:53:57,398 - INFO - ========================================
+2025-10-05 04:53:57,398 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-05 04:53:57,398 - INFO - ========================================
+2025-10-05 04:53:57,398 - INFO - Continuing from last processed niche: iphone
+2025-10-05 04:53:57,398 - INFO - ========================================
+2025-10-05 04:53:57,398 - INFO - 🎯 PROCESSING NICHE 3/14: 'samsung'
+2025-10-05 04:53:57,398 - INFO - ========================================
+2025-10-05 04:53:57,398 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/samsung
+2025-10-05 04:53:57,398 - INFO - Selected region: us
+2025-10-05 04:53:57,398 - INFO - Selected language: en
+2025-10-05 04:53:57,398 - INFO - 🎯 Current niche: samsung
+2025-10-05 04:53:59,641 - INFO - 🎯 Niche terms for filtering: samsung, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, samsung product, sell samsung, buy samsung, cheap samsung, best samsung, samsung review, where to buy samsung, how to choose samsung, top samsung, samsung guide, samsung for sale, samsung deals
+2025-10-05 04:53:59,641 - INFO - Generated 50 niche-clue pairs for 'samsung'.
+2025-10-05 04:53:59,644 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-05 04:53:59,645 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-05 04:58:29,471 - INFO - Original clue keywords: dslr quality, processor performance
+2025-10-05 04:58:29,471 - INFO - Niche-focused seeds: dslr quality, processor performance samsung, samsung processor performance, processor performance cheap, cheap processor performance, processor performance best, best processor performance, processor performance latest, latest processor performance, processor performance review, review processor performance, processor performance price, price processor performance, processor performance sell, sell processor performance, processor performance buy, buy processor performance, processor performance recommendation, recommendation processor performance, processor performance tips, tips processor performance, processor performance tutorial, tutorial processor performance, processor performance guide, guide processor performance, processor performance how to, how to processor performance, processor performance vs, vs processor performance, processor performance versus, versus processor performance, processor performance compared to, compared to processor performance, processor performance comparison, comparison processor performance, processor performance alternatives, alternatives processor performance, processor performance which is better, which is better processor performance, processor performance expensive, expensive processor performance, processor performance discount, discount processor performance, processor performance deals, deals processor performance, processor performance sale, sale processor performance, processor performance affordable, affordable processor performance, processor performance cost, cost processor performance, processor performance online, online processor performance, processor performance offline, offline processor performance, processor performance marketplace, marketplace processor performance, processor performance store, store processor performance, processor performance shop, shop processor performance, processor performance retailer, retailer processor performance, processor performance where to buy, where to buy processor performance, processor performance worst, worst processor performance, processor performance quality, quality processor performance, processor performance original, original processor performance, processor performance genuine, genuine processor performance, processor performance fake, fake processor performance, processor performance replica, replica processor performance, processor performance authentic, authentic processor performance, processor performance brand, brand processor performance, processor performance manufacturer, manufacturer processor performance, processor performance company, company processor performance, processor performance product, product processor performance, processor performance samsung product, samsung product processor performance, processor performance sell samsung, sell samsung processor performance, processor performance buy samsung, buy samsung processor performance, processor performance cheap samsung, cheap samsung processor performance, processor performance best samsung, best samsung processor performance, processor performance samsung review, samsung review processor performance, processor performance where to buy samsung, where to buy samsung processor performance, processor performance how to choose samsung, how to choose samsung processor performance, processor performance top samsung, top samsung processor performance, processor performance samsung guide, samsung guide processor performance, processor performance samsung for sale, samsung for sale processor performance, processor performance samsung deals, samsung deals processor performance
+2025-10-05 04:58:29,474 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-05 04:58:29,475 - INFO - Language: en
+2025-10-05 04:58:29,475 - INFO - Region: us
+2025-10-05 05:02:07,066 - INFO - 🎯 After all filtering for 'samsung': 120 relevant keywords
+2025-10-05 05:02:07,090 - INFO - 🎯 Found 5 new keywords for niche 'samsung': samsung dslr quality, cheap dslr quality, best dslr quality, how to dslr quality, samsung affordable processor performance
+2025-10-05 05:02:14,952 - INFO - ✅ Niche 'samsung' process complete! 95 total keyword results.
+2025-10-05 05:02:14,953 - INFO - ✅ Completed processing niche: 'samsung'
+2025-10-05 05:02:14,953 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-05 05:02:14,953 - INFO -    Total requests: 19126, Blocks: 0
+2025-10-05 05:02:14,954 - INFO - 
+========================================
+2025-10-05 05:02:14,954 - INFO - Process Summary:
+2025-10-05 05:02:14,954 - INFO - - Current niche: 'samsung'
+2025-10-05 05:02:14,954 - INFO - - Next niche will be: 'apple'
+2025-10-05 05:02:14,954 - INFO - - Keywords saved in: languages/english/keywords/samsung/
+2025-10-05 05:02:14,954 - INFO - ========================================

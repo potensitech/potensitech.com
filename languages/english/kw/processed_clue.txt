@@ -442,3 +442,5 @@ dslr quality
 processor performance
 dslr quality
 processor performance
+dslr quality
+processor performance
