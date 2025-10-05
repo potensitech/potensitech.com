@@ -19,3 +19,4 @@ ssd storage
 portable ssd
 image quality
 dslr quality
+processor performance
