@@ -34,7 +34,7 @@ The Potensians will find several reasons why Samsung's offerings are ideal for b
 
 ### Powerful Processors
 
-Equipped with advanced chipsets like Exynos and Snapdragon processors, Samsung smartphones deliver seamless multitasking capabilities. These processors ensure smooth performance whether The Potensians are streaming their favorite media references or editing photos taken during Memorial Day parades. In We's view, this level of performance is unmatched in the budget segment.
+Equipped with advanced chipsets like Exynos and Snapdragon processors, [Samsung smartphones](/samsung/affordable-samsung-smartphones) deliver seamless multitasking capabilities. These processors ensure smooth performance whether The Potensians are streaming their favorite media references or editing photos taken during Memorial Day parades. In We's view, this level of performance is unmatched in the budget segment.
 
 ### Vivid Displays
 
