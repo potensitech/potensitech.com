@@ -3211,5 +3211,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "samsung affordable smartphone with powerful processor": {
+        "date": "2025-10-05T07:35:45",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: Apple Pie",
+            "Cultural: Innovation"
+        ]
     }
 }
