@@ -450,3 +450,5 @@ dslr quality
 processor performance
 processor performance
 chipset upgrade
+dslr quality
+core technology

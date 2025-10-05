@@ -1,0 +1,37 @@
+2025-10-05 14:30:53,803 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251005_143053.log
+2025-10-05 14:30:53,803 - INFO - ============================================================
+2025-10-05 14:30:53,803 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-05 14:30:53,803 - INFO - ============================================================
+2025-10-05 14:30:53,944 - INFO - ========================================
+2025-10-05 14:30:53,944 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-05 14:30:53,944 - INFO - ========================================
+2025-10-05 14:30:53,944 - INFO - Continuing from last processed niche: asus
+2025-10-05 14:30:53,944 - INFO - ========================================
+2025-10-05 14:30:53,944 - INFO - 🎯 PROCESSING NICHE 7/14: 'philips'
+2025-10-05 14:30:53,944 - INFO - ========================================
+2025-10-05 14:30:53,944 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/philips
+2025-10-05 14:30:53,944 - INFO - Selected region: us
+2025-10-05 14:30:53,944 - INFO - Selected language: en
+2025-10-05 14:30:53,944 - INFO - 🎯 Current niche: philips
+2025-10-05 14:30:57,364 - INFO - 🎯 Niche terms for filtering: philips, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, philips product, sell philips, buy philips, cheap philips, best philips, philips review, where to buy philips, how to choose philips, top philips, philips guide, philips for sale, philips deals
+2025-10-05 14:30:57,364 - INFO - Generated 50 niche-clue pairs for 'philips'.
+2025-10-05 14:30:57,367 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-05 14:30:57,367 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-05 14:35:21,526 - INFO - Original clue keywords: dslr quality, core technology
+2025-10-05 14:35:21,527 - INFO - Niche-focused seeds: dslr quality, core technology philips, philips core technology, core technology cheap, cheap core technology, core technology best, best core technology, core technology latest, latest core technology, core technology review, review core technology, core technology price, price core technology, core technology sell, sell core technology, core technology buy, buy core technology, core technology recommendation, recommendation core technology, core technology tips, tips core technology, core technology tutorial, tutorial core technology, core technology guide, guide core technology, core technology how to, how to core technology, core technology vs, vs core technology, core technology versus, versus core technology, core technology compared to, compared to core technology, core technology comparison, comparison core technology, core technology alternatives, alternatives core technology, core technology which is better, which is better core technology, core technology expensive, expensive core technology, core technology discount, discount core technology, core technology deals, deals core technology, core technology sale, sale core technology, core technology affordable, affordable core technology, core technology cost, cost core technology, core technology online, online core technology, core technology offline, offline core technology, core technology marketplace, marketplace core technology, core technology store, store core technology, core technology shop, shop core technology, core technology retailer, retailer core technology, core technology where to buy, where to buy core technology, core technology worst, worst core technology, core technology quality, quality core technology, core technology original, original core technology, core technology genuine, genuine core technology, core technology fake, fake core technology, core technology replica, replica core technology, core technology authentic, authentic core technology, core technology brand, brand core technology, core technology manufacturer, manufacturer core technology, core technology company, company core technology, core technology product, product core technology, core technology philips product, philips product core technology, core technology sell philips, sell philips core technology, core technology buy philips, buy philips core technology, core technology cheap philips, cheap philips core technology, core technology best philips, best philips core technology, core technology philips review, philips review core technology, core technology where to buy philips, where to buy philips core technology, core technology how to choose philips, how to choose philips core technology, core technology top philips, top philips core technology, core technology philips guide, philips guide core technology, core technology philips for sale, philips for sale core technology, core technology philips deals, philips deals core technology
+2025-10-05 14:35:21,530 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-05 14:35:21,530 - INFO - Language: en
+2025-10-05 14:35:21,530 - INFO - Region: us
+2025-10-05 14:39:17,472 - INFO - 🎯 After all filtering for 'philips': 120 relevant keywords
+2025-10-05 14:39:17,496 - INFO - 🎯 Found 5 new keywords for niche 'philips': philips dslr quality, cheap dslr quality, best dslr quality, how to dslr quality, philips affordable core technology
+2025-10-05 14:39:23,826 - INFO - ✅ Niche 'philips' process complete! 99 total keyword results.
+2025-10-05 14:39:23,826 - INFO - ✅ Completed processing niche: 'philips'
+2025-10-05 14:39:23,826 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-05 14:39:23,826 - INFO -    Total requests: 19468, Blocks: 0
+2025-10-05 14:39:23,827 - INFO - 
+========================================
+2025-10-05 14:39:23,827 - INFO - Process Summary:
+2025-10-05 14:39:23,828 - INFO - - Current niche: 'philips'
+2025-10-05 14:39:23,828 - INFO - - Next niche will be: 'sandisk'
+2025-10-05 14:39:23,828 - INFO - - Keywords saved in: languages/english/keywords/philips/
+2025-10-05 14:39:23,828 - INFO - ========================================
