@@ -3224,5 +3224,18 @@
             "Cultural: Apple Pie",
             "Cultural: Innovation"
         ]
+    },
+    "samsung budget-friendly smartphone with high-performance processor": {
+        "date": "2025-10-05T09:50:10",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley"
+        ]
     }
 }
