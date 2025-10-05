@@ -21,3 +21,4 @@ processor efficiency
 dlss technology
 image quality
 processor performance
+ai computing

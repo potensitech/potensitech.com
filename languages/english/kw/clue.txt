@@ -1,3 +1,7 @@
+gpu performance
+ray tracing
+graphics card
+ai computing
 data storage
 usb performance
 core technology
@@ -12,8 +16,6 @@ gaming phone
 long battery
 camera lens
 mirrorless photography
-graphics card
-ray tracing
 dlss technology
 cuda cores
 portable storage
@@ -56,7 +58,6 @@ core count
 thermal performance
 camera resolution
 dslr features
-gpu performance
 ai acceleration
 digital photography
 oled display
