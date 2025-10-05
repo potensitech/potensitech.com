@@ -3250,5 +3250,18 @@
             "Cultural: Chicago",
             "Cultural: Apple Pie"
         ]
+    },
+    "samsung affordable smartphone with optimized processor": {
+        "date": "2025-10-05T14:40:58",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Central Park"
+        ]
     }
 }
