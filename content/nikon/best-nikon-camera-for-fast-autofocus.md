@@ -55,7 +55,7 @@ Nikon offers a range of cameras with exceptional autofocus capabilities. Here ar
 
 ### Nikon Z9
 
-The Nikon Z9 is a flagship mirrorless camera that boasts cutting-edge autofocus technology. With a 493-point autofocus system and advanced subject detection capabilities, the Z9 is perfect for sports and wildlife photography. Its real-time tracking ensures precision even in challenging conditions.
+The Nikon Z9 is a flagship mirrorless camera that boasts cutting-edge [autofocus technology](/nikon/nikon-advanced-autofocus-technology). With a 493-point autofocus system and advanced subject detection capabilities, the Z9 is perfect for sports and wildlife photography. Its real-time tracking ensures precision even in challenging conditions.
 
 ### Nikon D850
 
