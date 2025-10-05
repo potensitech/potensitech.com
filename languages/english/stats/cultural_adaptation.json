@@ -3237,5 +3237,18 @@
             "Cultural: Los Angeles",
             "Cultural: Silicon Valley"
         ]
+    },
+    "samsung high-performance smartphone for budget buyers": {
+        "date": "2025-10-05T12:39:11",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Memorial Day",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Apple Pie"
+        ]
     }
 }
