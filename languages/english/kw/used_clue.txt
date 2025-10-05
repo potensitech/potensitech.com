@@ -40,3 +40,6 @@ image stabilization
 
 --- Moved on 2025-10-04 19:21:28 ---
 image quality
+
+--- Moved on 2025-10-05 16:51:44 ---
+memory card

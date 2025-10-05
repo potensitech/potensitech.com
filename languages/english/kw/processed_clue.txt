@@ -452,3 +452,5 @@ processor performance
 chipset upgrade
 dslr quality
 core technology
+data storage
+usb performance

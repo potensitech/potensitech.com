@@ -20,3 +20,5 @@ portable ssd
 portable storage
 dslr quality
 image quality
+data storage
+usb performance
