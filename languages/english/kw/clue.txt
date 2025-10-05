@@ -1,8 +1,8 @@
-flash drive
 data storage
 usb performance
-dslr quality
 core technology
+flash drive
+dslr quality
 processor performance
 chipset upgrade
 cpu benchmark

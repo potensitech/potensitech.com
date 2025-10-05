@@ -454,3 +454,5 @@ dslr quality
 core technology
 data storage
 usb performance
+data storage
+usb performance

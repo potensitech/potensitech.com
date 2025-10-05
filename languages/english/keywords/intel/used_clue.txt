@@ -21,3 +21,5 @@ portable ssd
 image quality
 chipset upgrade
 core technology
+data storage
+usb performance
