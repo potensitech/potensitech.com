@@ -3284,5 +3284,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung cost-effective smartphone with advanced processor": {
+        "date": "2025-10-06T07:36:36",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Tex-Mex",
+            "Cultural: Innovation"
+        ]
     }
 }
