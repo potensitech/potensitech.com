@@ -461,3 +461,5 @@ gpu performance
 ray tracing
 dslr quality
 camera lens
+dslr quality
+camera lens

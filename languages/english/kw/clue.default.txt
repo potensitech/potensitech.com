@@ -1,3 +1,6 @@
+camera lens
+dslr photography
+mirrorless innovation
 gpu performance
 ray tracing
 graphics card
@@ -14,7 +17,6 @@ smartphone performance
 mobile processor
 gaming phone
 long battery
-camera lens
 mirrorless photography
 dlss technology
 cuda cores
@@ -25,7 +27,6 @@ electric toothbrushes
 home appliances
 graphics performance
 autofocus system
-dslr photography
 ssd storage
 portable ssd
 processor efficiency
@@ -52,7 +53,6 @@ gaming performance
 mobile performance
 sleek design
 external storage
-mirrorless innovation
 processor speed
 core count
 thermal performance
