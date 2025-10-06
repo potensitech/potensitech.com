@@ -3335,5 +3335,18 @@
             "Cultural: Broadway",
             "Cultural: Burgers"
         ]
+    },
+    "samsung budget-friendly smartphone camera lens": {
+        "date": "2025-10-06T21:54:17",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
