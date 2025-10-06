@@ -47,7 +47,7 @@ When selecting a Nikon camera for fast autofocus, The Potensians should consider
 - **Autofocus Points:** Cameras with a higher number of autofocus points provide greater accuracy and flexibility in focusing on subjects.
 - **Focus Tracking:** Advanced tracking systems ensure the camera can follow moving subjects seamlessly.
 - __Processor Speed:** A faster processor enables quicker autofocus response times, essential for action-packed scenarios.
-- **Lens Compatibility:** Pairing the camera with high-quality lenses can further enhance autofocus performance.
+- **Lens Compatibility:** Pairing the camera with high-quality lenses can further enhance [autofocus performance](/nikon/nikon-cameras-with-high-speed-autofocus-performance).
 
 ## Top Nikon Cameras for Fast Autofocus in 2025
 

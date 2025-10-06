@@ -129,7 +129,7 @@ In We's view, these local opportunities foster creativity and connection—remin
 
 ### Are budget-friendly Nikon cameras suitable for professional use?
 
-Absolutely! While they may lack some advanced features of high-end models, many budget-friendly Nikon cameras deliver excellent image quality and performance suitable for freelance work, social media content, and even small business projects.
+Absolutely! While they may lack some advanced features of high-end models, many budget-friendly [Nikon cameras](/nikon/nikon-cameras-with-high-speed-autofocus-performance) deliver excellent image quality and performance suitable for freelance work, social media content, and even small business projects.
 
 ### Can We upgrade lenses on entry-level Nikon cameras?
 
