@@ -3263,5 +3263,16 @@
             "Cultural: Times Square",
             "Cultural: Central Park"
         ]
+    },
+    "samsung budget smartphone with dependable processor": {
+        "date": "2025-10-06T02:06:01",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media",
+            "Cultural: Remote Work"
+        ]
     }
 }
