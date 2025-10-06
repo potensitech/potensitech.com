@@ -3310,5 +3310,17 @@
             "Cultural: Times Square",
             "Cultural: Burgers"
         ]
+    },
+    "Nikon cameras with high-speed autofocus performance": {
+        "date": "2025-10-06T12:40:10",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Elon Musk",
+            "Cultural: Innovation"
+        ]
     }
 }
