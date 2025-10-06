@@ -3297,5 +3297,18 @@
             "Cultural: Tex-Mex",
             "Cultural: Innovation"
         ]
+    },
+    "budget-friendly Nikon camera with reliable autofocus": {
+        "date": "2025-10-06T09:50:25",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Burgers"
+        ]
     }
 }
