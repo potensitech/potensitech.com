@@ -26,3 +26,5 @@ smartphone performance
 mobile processor
 processor performance
 chipset upgrade
+gaming
+laptop

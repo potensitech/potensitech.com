@@ -1,0 +1,37 @@
+2025-10-06 21:43:39,590 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251006_214339.log
+2025-10-06 21:43:39,590 - INFO - ============================================================
+2025-10-06 21:43:39,590 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-06 21:43:39,590 - INFO - ============================================================
+2025-10-06 21:43:39,762 - INFO - ========================================
+2025-10-06 21:43:39,762 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-06 21:43:39,762 - INFO - ========================================
+2025-10-06 21:43:39,762 - INFO - Continuing from last processed niche: sony
+2025-10-06 21:43:39,762 - INFO - ========================================
+2025-10-06 21:43:39,762 - INFO - 🎯 PROCESSING NICHE 6/14: 'asus'
+2025-10-06 21:43:39,762 - INFO - ========================================
+2025-10-06 21:43:39,762 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/asus
+2025-10-06 21:43:39,762 - INFO - Selected region: us
+2025-10-06 21:43:39,762 - INFO - Selected language: en
+2025-10-06 21:43:39,762 - INFO - 🎯 Current niche: asus
+2025-10-06 21:43:43,612 - INFO - 🎯 Niche terms for filtering: asus, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, asus product, sell asus, buy asus, cheap asus, best asus, asus review, where to buy asus, how to choose asus, top asus, asus guide, asus for sale, asus deals
+2025-10-06 21:43:43,613 - INFO - Generated 50 niche-clue pairs for 'asus'.
+2025-10-06 21:43:43,615 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-06 21:43:43,616 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-06 21:48:09,735 - INFO - Original clue keywords: gaming, laptop
+2025-10-06 21:48:09,735 - INFO - Niche-focused seeds: gaming asus, asus gaming, gaming cheap, cheap gaming, gaming best, best gaming, gaming latest, latest gaming, gaming review, review gaming, gaming price, price gaming, gaming sell, sell gaming, gaming buy, buy gaming, gaming recommendation, recommendation gaming, gaming tips, tips gaming, gaming tutorial, tutorial gaming, gaming guide, guide gaming, gaming how to, how to gaming, gaming vs, vs gaming, gaming versus, versus gaming, gaming compared to, compared to gaming, gaming comparison, comparison gaming, gaming alternatives, alternatives gaming, gaming which is better, which is better gaming, gaming expensive, expensive gaming, gaming discount, discount gaming, gaming deals, deals gaming, gaming sale, sale gaming, gaming affordable, affordable gaming, gaming cost, cost gaming, gaming online, online gaming, gaming offline, offline gaming, gaming marketplace, marketplace gaming, gaming store, store gaming, gaming shop, shop gaming, gaming retailer, retailer gaming, gaming where to buy, where to buy gaming, gaming worst, worst gaming, gaming quality, quality gaming, gaming original, original gaming, gaming genuine, genuine gaming, gaming fake, fake gaming, gaming replica, replica gaming, gaming authentic, authentic gaming, gaming brand, brand gaming, gaming manufacturer, manufacturer gaming, gaming company, company gaming, gaming product, product gaming, gaming asus product, asus product gaming, gaming sell asus, sell asus gaming, gaming buy asus, buy asus gaming, gaming cheap asus, cheap asus gaming, gaming best asus, best asus gaming, gaming asus review, asus review gaming, gaming where to buy asus, where to buy asus gaming, gaming how to choose asus, how to choose asus gaming, gaming top asus, top asus gaming, gaming asus guide, asus guide gaming, gaming asus for sale, asus for sale gaming, gaming asus deals, asus deals gaming, laptop asus, asus laptop, laptop cheap, cheap laptop, laptop best, best laptop, laptop latest, latest laptop, laptop review, review laptop, laptop price, price laptop, laptop sell, sell laptop, laptop buy, buy laptop, laptop recommendation, recommendation laptop, laptop tips, tips laptop, laptop tutorial, tutorial laptop, laptop guide, guide laptop, laptop how to, how to laptop, laptop vs, vs laptop, laptop versus, versus laptop, laptop compared to, compared to laptop, laptop comparison, comparison laptop, laptop alternatives, alternatives laptop, laptop which is better, which is better laptop, laptop expensive, expensive laptop, laptop discount, discount laptop, laptop deals, deals laptop, laptop sale, sale laptop, laptop affordable, affordable laptop, laptop cost, cost laptop, laptop online, online laptop, laptop offline, offline laptop, laptop marketplace, marketplace laptop, laptop store, store laptop, laptop shop, shop laptop, laptop retailer, retailer laptop, laptop where to buy, where to buy laptop, laptop worst, worst laptop, laptop quality, quality laptop, laptop original, original laptop, laptop genuine, genuine laptop, laptop fake, fake laptop, laptop replica, replica laptop, laptop authentic, authentic laptop, laptop brand, brand laptop, laptop manufacturer, manufacturer laptop, laptop company, company laptop, laptop product, product laptop, laptop asus product, asus product laptop, laptop sell asus, sell asus laptop, laptop buy asus, buy asus laptop, laptop cheap asus, cheap asus laptop, laptop best asus, best asus laptop, laptop asus review, asus review laptop, laptop where to buy asus, where to buy asus laptop, laptop how to choose asus, how to choose asus laptop, laptop top asus, top asus laptop, laptop asus guide, asus guide laptop, laptop asus for sale, asus for sale laptop, laptop asus deals, asus deals laptop
+2025-10-06 21:48:09,738 - INFO - Expanded 220 seed keywords to 385 variations
+2025-10-06 21:48:09,738 - INFO - Language: en
+2025-10-06 21:48:09,738 - INFO - Region: us
+2025-10-06 21:52:41,770 - INFO - 🎯 After all filtering for 'asus': 120 relevant keywords
+2025-10-06 21:52:41,799 - INFO - 🎯 Found 5 new keywords for niche 'asus': asus affordable gaming, cheap affordable gaming, best affordable gaming, how to affordable gaming, asus affordable laptop
+2025-10-06 21:52:47,560 - INFO - ✅ Niche 'asus' process complete! 105 total keyword results.
+2025-10-06 21:52:47,561 - INFO - ✅ Completed processing niche: 'asus'
+2025-10-06 21:52:47,561 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-06 21:52:47,561 - INFO -    Total requests: 20276, Blocks: 0
+2025-10-06 21:52:47,562 - INFO - 
+========================================
+2025-10-06 21:52:47,562 - INFO - Process Summary:
+2025-10-06 21:52:47,562 - INFO - - Current niche: 'asus'
+2025-10-06 21:52:47,562 - INFO - - Next niche will be: 'philips'
+2025-10-06 21:52:47,562 - INFO - - Keywords saved in: languages/english/keywords/asus/
+2025-10-06 21:52:47,562 - INFO - ========================================
