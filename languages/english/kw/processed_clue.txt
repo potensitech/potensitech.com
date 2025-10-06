@@ -457,3 +457,5 @@ usb performance
 data storage
 usb performance
 ai computing
+gpu performance
+ray tracing
