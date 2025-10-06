@@ -24,7 +24,7 @@ _[Nikon Cameras](/nikon/nikon-cameras-with-precise-autofocus) with High-Speed Au
 
 ## The Evolution of High-Speed Autofocus Technology
 
-Autofocus technology has come a long way since its inception, transforming from rudimentary systems into sophisticated mechanisms powered by advanced algorithms. Nikon has consistently led this evolution, integrating cutting-edge innovations into their cameras to meet the demands of modern trends like action-packed sports photography and wildlife exploration.
+[Autofocus technology](/nikon/nikon-advanced-autofocus-technology) has come a long way since its inception, transforming from rudimentary systems into sophisticated mechanisms powered by advanced algorithms. Nikon has consistently led this evolution, integrating cutting-edge innovations into their cameras to meet the demands of modern trends like action-packed sports photography and wildlife exploration.
 
 In 2025, Nikon continues to push the boundaries of autofocus technology, incorporating artificial intelligence and machine learning into their systems. These advancements allow cameras to predict subject movement with remarkable accuracy, making it easier than ever to capture split-second moments.
 
