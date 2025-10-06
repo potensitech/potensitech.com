@@ -3322,5 +3322,18 @@
             "Cultural: Elon Musk",
             "Cultural: Innovation"
         ]
+    },
+    "samsung affordable smartphone camera lens": {
+        "date": "2025-10-06T17:01:53",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Burgers"
+        ]
     }
 }
