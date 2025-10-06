@@ -459,3 +459,5 @@ usb performance
 ai computing
 gpu performance
 ray tracing
+dslr quality
+camera lens
