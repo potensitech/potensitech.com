@@ -44,7 +44,7 @@ Samsung offers a variety of smartphones that combine affordability with gaming p
 <tr>
 <td>Samsung Galaxy M14</td>
 <td>Exynos 1330</td>
-<td>Game Booster Support, Long Battery Life (6000mAh), Smooth Performance on Medium Settings</td>
+<td>Game Booster Support, Long Battery Life (6000mAh), [Smooth Performance](/samsung/samsung-affordable-smartphone-for-smooth-performance) on Medium Settings</td>
 </tr>
 <tr>
 <td>Samsung Galaxy A23</td>
