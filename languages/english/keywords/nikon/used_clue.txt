@@ -21,3 +21,4 @@ portable ssd
 image quality
 autofocus system
 dslr quality
+smart-lighting
