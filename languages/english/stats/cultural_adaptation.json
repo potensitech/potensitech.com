@@ -3361,5 +3361,18 @@
             "Cultural: Hollywood",
             "Cultural: Clam Chowder"
         ]
+    },
+    "samsung affordable wide-angle smartphone camera lens": {
+        "date": "2025-10-07T05:04:14",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Central Park"
+        ]
     }
 }
