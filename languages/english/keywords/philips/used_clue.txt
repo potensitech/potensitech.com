@@ -26,3 +26,5 @@ audio systems
 dslr quality
 image quality
 core technology
+durability
+smart-lighting

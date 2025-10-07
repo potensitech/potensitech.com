@@ -477,3 +477,5 @@ dslr quality
 camera lens
 gaming
 laptop
+durability
+smart-lighting

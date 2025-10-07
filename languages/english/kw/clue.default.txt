@@ -1,3 +1,7 @@
+gaming
+laptop
+performance
+durability
 dslr quality
 camera lens
 dslr photography
@@ -67,7 +71,6 @@ chipset compatibility
 core performance
 thermal efficiency
 camera
-performance
 android
 battery
 display
