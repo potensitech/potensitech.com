@@ -3387,5 +3387,17 @@
             "Cultural: Apple Pie",
             "Cultural: Elon Musk"
         ]
+    },
+    "best Nikon camera for fast-moving subjects": {
+        "date": "2025-10-07T12:44:49",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Innovation"
+        ]
     }
 }
