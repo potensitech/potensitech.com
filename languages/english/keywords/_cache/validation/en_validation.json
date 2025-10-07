@@ -1459,5 +1459,13 @@
   "intel cost-effective processors for storage applications": true,
   "intel processors optimized for storage performance": true,
   "intel entry-level processors for storage-focused setups": true,
-  "intel budget processors for storage-intensive tasks": true
+  "intel budget processors for storage-intensive tasks": true,
+  "nvidia affordable GPU storage solutions": true,
+  "nvidia budget-friendly GPU storage options": true,
+  "nvidia high-capacity GPU storage systems": true,
+  "nvidia affordable storage for graphics processing": true,
+  "nvidia cost-effective GPU storage upgrades": true,
+  "nvidia optimized storage solutions for GPUs": true,
+  "nvidia reliable GPU storage capacity": true,
+  "nvidia efficient storage solutions for GPUs": true
 }

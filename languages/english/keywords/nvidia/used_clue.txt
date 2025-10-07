@@ -22,3 +22,5 @@ dlss technology
 image quality
 processor performance
 ai computing
+dslr quality
+storage capacity

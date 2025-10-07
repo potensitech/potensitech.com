@@ -1,0 +1,37 @@
+2025-10-07 07:29:03,597 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251007_072903.log
+2025-10-07 07:29:03,597 - INFO - ============================================================
+2025-10-07 07:29:03,597 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-07 07:29:03,597 - INFO - ============================================================
+2025-10-07 07:29:03,741 - INFO - ========================================
+2025-10-07 07:29:03,742 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-07 07:29:03,742 - INFO - ========================================
+2025-10-07 07:29:03,742 - INFO - Continuing from last processed niche: intel
+2025-10-07 07:29:03,742 - INFO - ========================================
+2025-10-07 07:29:03,742 - INFO - 🎯 PROCESSING NICHE 10/14: 'nvidia'
+2025-10-07 07:29:03,742 - INFO - ========================================
+2025-10-07 07:29:03,742 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/nvidia
+2025-10-07 07:29:03,742 - INFO - Selected region: us
+2025-10-07 07:29:03,742 - INFO - Selected language: en
+2025-10-07 07:29:03,742 - INFO - 🎯 Current niche: nvidia
+2025-10-07 07:29:06,719 - INFO - 🎯 Niche terms for filtering: nvidia, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, nvidia product, sell nvidia, buy nvidia, cheap nvidia, best nvidia, nvidia review, where to buy nvidia, how to choose nvidia, top nvidia, nvidia guide, nvidia for sale, nvidia deals
+2025-10-07 07:29:06,719 - INFO - Generated 50 niche-clue pairs for 'nvidia'.
+2025-10-07 07:29:06,722 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-07 07:29:06,723 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-07 07:33:31,359 - INFO - Original clue keywords: dslr quality, storage capacity
+2025-10-07 07:33:31,359 - INFO - Niche-focused seeds: dslr quality, storage capacity nvidia, nvidia storage capacity, storage capacity cheap, cheap storage capacity, storage capacity best, best storage capacity, storage capacity latest, latest storage capacity, storage capacity review, review storage capacity, storage capacity price, price storage capacity, storage capacity sell, sell storage capacity, storage capacity buy, buy storage capacity, storage capacity recommendation, recommendation storage capacity, storage capacity tips, tips storage capacity, storage capacity tutorial, tutorial storage capacity, storage capacity guide, guide storage capacity, storage capacity how to, how to storage capacity, storage capacity vs, vs storage capacity, storage capacity versus, versus storage capacity, storage capacity compared to, compared to storage capacity, storage capacity comparison, comparison storage capacity, storage capacity alternatives, alternatives storage capacity, storage capacity which is better, which is better storage capacity, storage capacity expensive, expensive storage capacity, storage capacity discount, discount storage capacity, storage capacity deals, deals storage capacity, storage capacity sale, sale storage capacity, storage capacity affordable, affordable storage capacity, storage capacity cost, cost storage capacity, storage capacity online, online storage capacity, storage capacity offline, offline storage capacity, storage capacity marketplace, marketplace storage capacity, storage capacity store, store storage capacity, storage capacity shop, shop storage capacity, storage capacity retailer, retailer storage capacity, storage capacity where to buy, where to buy storage capacity, storage capacity worst, worst storage capacity, storage capacity quality, quality storage capacity, storage capacity original, original storage capacity, storage capacity genuine, genuine storage capacity, storage capacity fake, fake storage capacity, storage capacity replica, replica storage capacity, storage capacity authentic, authentic storage capacity, storage capacity brand, brand storage capacity, storage capacity manufacturer, manufacturer storage capacity, storage capacity company, company storage capacity, storage capacity product, product storage capacity, storage capacity nvidia product, nvidia product storage capacity, storage capacity sell nvidia, sell nvidia storage capacity, storage capacity buy nvidia, buy nvidia storage capacity, storage capacity cheap nvidia, cheap nvidia storage capacity, storage capacity best nvidia, best nvidia storage capacity, storage capacity nvidia review, nvidia review storage capacity, storage capacity where to buy nvidia, where to buy nvidia storage capacity, storage capacity how to choose nvidia, how to choose nvidia storage capacity, storage capacity top nvidia, top nvidia storage capacity, storage capacity nvidia guide, nvidia guide storage capacity, storage capacity nvidia for sale, nvidia for sale storage capacity, storage capacity nvidia deals, nvidia deals storage capacity
+2025-10-07 07:33:31,362 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-07 07:33:31,362 - INFO - Language: en
+2025-10-07 07:33:31,362 - INFO - Region: us
+2025-10-07 07:38:03,693 - INFO - 🎯 After all filtering for 'nvidia': 120 relevant keywords
+2025-10-07 07:38:03,724 - INFO - 🎯 Found 5 new keywords for niche 'nvidia': nvidia dslr quality, cheap dslr quality, best dslr quality, how to dslr quality, nvidia affordable storage capacity
+2025-10-07 07:38:14,847 - INFO - ✅ Niche 'nvidia' process complete! 123 total keyword results.
+2025-10-07 07:38:14,847 - INFO - ✅ Completed processing niche: 'nvidia'
+2025-10-07 07:38:14,847 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-07 07:38:14,847 - INFO -    Total requests: 20639, Blocks: 0
+2025-10-07 07:38:14,848 - INFO - 
+========================================
+2025-10-07 07:38:14,849 - INFO - Process Summary:
+2025-10-07 07:38:14,849 - INFO - - Current niche: 'nvidia'
+2025-10-07 07:38:14,849 - INFO - - Next niche will be: 'amd'
+2025-10-07 07:38:14,849 - INFO - - Keywords saved in: languages/english/keywords/nvidia/
+2025-10-07 07:38:14,849 - INFO - ========================================
