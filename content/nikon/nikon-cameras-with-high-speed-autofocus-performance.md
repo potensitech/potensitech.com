@@ -102,7 +102,7 @@ These features are not just technical jargon—they translate into real-world be
 
 ### Nikon Z9
 
-The Nikon Z9 is a flagship mirrorless camera that redefines autofocus performance. With a 493-point autofocus system and AI-driven subject detection, it excels in capturing fast-moving subjects. Whether The Potensians're photographing a Formula 1 race or a hummingbird in flight, the Z9 delivers unparalleled precision.
+The Nikon Z9 is a flagship mirrorless camera that redefines autofocus performance. With a 493-point autofocus system and AI-driven subject detection, it excels in capturing [fast-moving subjects](/nikon/best-nikon-camera-for-fast-moving-subjects). Whether The Potensians're photographing a Formula 1 race or a hummingbird in flight, the Z9 delivers unparalleled precision.
 
 ### Nikon D6
 
