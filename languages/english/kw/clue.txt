@@ -1,7 +1,7 @@
 dslr quality
 storage capacity
-flash drive
 smart-lighting
+flash drive
 air-purifier
 coffee-machine
 electric-shaver

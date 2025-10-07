@@ -1,0 +1,37 @@
+2025-10-07 12:33:30,360 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251007_123330.log
+2025-10-07 12:33:30,360 - INFO - ============================================================
+2025-10-07 12:33:30,360 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-07 12:33:30,360 - INFO - ============================================================
+2025-10-07 12:33:30,511 - INFO - ========================================
+2025-10-07 12:33:30,511 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-07 12:33:30,511 - INFO - ========================================
+2025-10-07 12:33:30,511 - INFO - Continuing from last processed niche: amd
+2025-10-07 12:33:30,511 - INFO - ========================================
+2025-10-07 12:33:30,511 - INFO - 🎯 PROCESSING NICHE 12/14: 'canon'
+2025-10-07 12:33:30,511 - INFO - ========================================
+2025-10-07 12:33:30,511 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/canon
+2025-10-07 12:33:30,512 - INFO - Selected region: us
+2025-10-07 12:33:30,512 - INFO - Selected language: en
+2025-10-07 12:33:30,512 - INFO - 🎯 Current niche: canon
+2025-10-07 12:33:34,122 - INFO - 🎯 Niche terms for filtering: canon, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, canon product, sell canon, buy canon, cheap canon, best canon, canon review, where to buy canon, how to choose canon, top canon, canon guide, canon for sale, canon deals
+2025-10-07 12:33:34,122 - INFO - Generated 50 niche-clue pairs for 'canon'.
+2025-10-07 12:33:34,125 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-07 12:33:34,125 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-07 12:37:58,557 - INFO - Original clue keywords: dslr quality, storage capacity
+2025-10-07 12:37:58,557 - INFO - Niche-focused seeds: dslr quality, storage capacity canon, canon storage capacity, storage capacity cheap, cheap storage capacity, storage capacity best, best storage capacity, storage capacity latest, latest storage capacity, storage capacity review, review storage capacity, storage capacity price, price storage capacity, storage capacity sell, sell storage capacity, storage capacity buy, buy storage capacity, storage capacity recommendation, recommendation storage capacity, storage capacity tips, tips storage capacity, storage capacity tutorial, tutorial storage capacity, storage capacity guide, guide storage capacity, storage capacity how to, how to storage capacity, storage capacity vs, vs storage capacity, storage capacity versus, versus storage capacity, storage capacity compared to, compared to storage capacity, storage capacity comparison, comparison storage capacity, storage capacity alternatives, alternatives storage capacity, storage capacity which is better, which is better storage capacity, storage capacity expensive, expensive storage capacity, storage capacity discount, discount storage capacity, storage capacity deals, deals storage capacity, storage capacity sale, sale storage capacity, storage capacity affordable, affordable storage capacity, storage capacity cost, cost storage capacity, storage capacity online, online storage capacity, storage capacity offline, offline storage capacity, storage capacity marketplace, marketplace storage capacity, storage capacity store, store storage capacity, storage capacity shop, shop storage capacity, storage capacity retailer, retailer storage capacity, storage capacity where to buy, where to buy storage capacity, storage capacity worst, worst storage capacity, storage capacity quality, quality storage capacity, storage capacity original, original storage capacity, storage capacity genuine, genuine storage capacity, storage capacity fake, fake storage capacity, storage capacity replica, replica storage capacity, storage capacity authentic, authentic storage capacity, storage capacity brand, brand storage capacity, storage capacity manufacturer, manufacturer storage capacity, storage capacity company, company storage capacity, storage capacity product, product storage capacity, storage capacity canon product, canon product storage capacity, storage capacity sell canon, sell canon storage capacity, storage capacity buy canon, buy canon storage capacity, storage capacity cheap canon, cheap canon storage capacity, storage capacity best canon, best canon storage capacity, storage capacity canon review, canon review storage capacity, storage capacity where to buy canon, where to buy canon storage capacity, storage capacity how to choose canon, how to choose canon storage capacity, storage capacity top canon, top canon storage capacity, storage capacity canon guide, canon guide storage capacity, storage capacity canon for sale, canon for sale storage capacity, storage capacity canon deals, canon deals storage capacity
+2025-10-07 12:37:58,560 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-07 12:37:58,560 - INFO - Language: en
+2025-10-07 12:37:58,560 - INFO - Region: us
+2025-10-07 12:41:55,238 - INFO - 🎯 After all filtering for 'canon': 120 relevant keywords
+2025-10-07 12:41:55,263 - INFO - 🎯 Found 5 new keywords for niche 'canon': canon dslr quality, cheap dslr quality, best dslr quality, how to dslr quality, canon affordable storage capacity
+2025-10-07 12:42:24,851 - INFO - ✅ Niche 'canon' process complete! 93 total keyword results.
+2025-10-07 12:42:24,851 - INFO - ✅ Completed processing niche: 'canon'
+2025-10-07 12:42:24,851 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-07 12:42:24,851 - INFO -    Total requests: 20814, Blocks: 0
+2025-10-07 12:42:24,852 - INFO - 
+========================================
+2025-10-07 12:42:24,852 - INFO - Process Summary:
+2025-10-07 12:42:24,852 - INFO - - Current niche: 'canon'
+2025-10-07 12:42:24,852 - INFO - - Next niche will be: 'nikon'
+2025-10-07 12:42:24,852 - INFO - - Keywords saved in: languages/english/keywords/canon/
+2025-10-07 12:42:24,853 - INFO - ========================================

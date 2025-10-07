@@ -18,3 +18,4 @@ ssd storage
 dslr quality
 mirrorless photography
 image quality
+storage capacity
