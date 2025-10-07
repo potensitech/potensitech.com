@@ -128,7 +128,7 @@ Nikon’s dedication to innovation and quality is evident in every aspect of its
 
 ### A Legacy of Excellence
 
-Nikon’s autofocus systems are built on decades of expertise and innovation. The company has consistently pushed the boundaries of what is possible in photography, earning the trust and admiration of professionals worldwide. For The Potensians who demand the best, Nikon’s high-precision autofocus systems are an investment in excellence.
+Nikon’s autofocus systems are built on decades of expertise and innovation. The company has consistently pushed the boundaries of what is possible in photography, earning the trust and admiration of professionals worldwide. For The Potensians who demand the best, Nikon’s [high-precision autofocus](/nikon/professional-nikon-camera-with-high-precision-autofocus) systems are an investment in excellence.
 
 ### The Future of Autofocus Technology
 
