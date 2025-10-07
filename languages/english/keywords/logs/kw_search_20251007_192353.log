@@ -1,0 +1,37 @@
+2025-10-07 19:23:53,654 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251007_192353.log
+2025-10-07 19:23:53,654 - INFO - ============================================================
+2025-10-07 19:23:53,654 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-07 19:23:53,654 - INFO - ============================================================
+2025-10-07 19:23:53,860 - INFO - ========================================
+2025-10-07 19:23:53,860 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-07 19:23:53,860 - INFO - ========================================
+2025-10-07 19:23:53,861 - INFO - All niches completed, starting over
+2025-10-07 19:23:53,861 - INFO - ========================================
+2025-10-07 19:23:53,861 - INFO - 🎯 PROCESSING NICHE 1/14: 'xiaomi'
+2025-10-07 19:23:53,861 - INFO - ========================================
+2025-10-07 19:23:53,861 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/xiaomi
+2025-10-07 19:23:53,861 - INFO - Selected region: us
+2025-10-07 19:23:53,861 - INFO - Selected language: en
+2025-10-07 19:23:53,861 - INFO - 🎯 Current niche: xiaomi
+2025-10-07 19:24:00,156 - INFO - 🎯 Niche terms for filtering: xiaomi, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, xiaomi product, sell xiaomi, buy xiaomi, cheap xiaomi, best xiaomi, xiaomi review, where to buy xiaomi, how to choose xiaomi, top xiaomi, xiaomi guide, xiaomi for sale, xiaomi deals
+2025-10-07 19:24:00,156 - INFO - Generated 50 niche-clue pairs for 'xiaomi'.
+2025-10-07 19:24:00,159 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-07 19:24:00,159 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-07 19:28:23,407 - INFO - Original clue keywords: air-purifier
+2025-10-07 19:28:23,407 - INFO - Niche-focused seeds: air-purifier xiaomi, xiaomi air-purifier, air-purifier cheap, cheap air-purifier, air-purifier best, best air-purifier, air-purifier latest, latest air-purifier, air-purifier review, review air-purifier, air-purifier price, price air-purifier, air-purifier sell, sell air-purifier, air-purifier buy, buy air-purifier, air-purifier recommendation, recommendation air-purifier, air-purifier tips, tips air-purifier, air-purifier tutorial, tutorial air-purifier, air-purifier guide, guide air-purifier, air-purifier how to, how to air-purifier, air-purifier vs, vs air-purifier, air-purifier versus, versus air-purifier, air-purifier compared to, compared to air-purifier, air-purifier comparison, comparison air-purifier, air-purifier alternatives, alternatives air-purifier, air-purifier which is better, which is better air-purifier, air-purifier expensive, expensive air-purifier, air-purifier discount, discount air-purifier, air-purifier deals, deals air-purifier, air-purifier sale, sale air-purifier, air-purifier affordable, affordable air-purifier, air-purifier cost, cost air-purifier, air-purifier online, online air-purifier, air-purifier offline, offline air-purifier, air-purifier marketplace, marketplace air-purifier, air-purifier store, store air-purifier, air-purifier shop, shop air-purifier, air-purifier retailer, retailer air-purifier, air-purifier where to buy, where to buy air-purifier, air-purifier worst, worst air-purifier, air-purifier quality, quality air-purifier, air-purifier original, original air-purifier, air-purifier genuine, genuine air-purifier, air-purifier fake, fake air-purifier, air-purifier replica, replica air-purifier, air-purifier authentic, authentic air-purifier, air-purifier brand, brand air-purifier, air-purifier manufacturer, manufacturer air-purifier, air-purifier company, company air-purifier, air-purifier product, product air-purifier, air-purifier xiaomi product, xiaomi product air-purifier, air-purifier sell xiaomi, sell xiaomi air-purifier, air-purifier buy xiaomi, buy xiaomi air-purifier, air-purifier cheap xiaomi, cheap xiaomi air-purifier, air-purifier best xiaomi, best xiaomi air-purifier, air-purifier xiaomi review, xiaomi review air-purifier, air-purifier where to buy xiaomi, where to buy xiaomi air-purifier, air-purifier how to choose xiaomi, how to choose xiaomi air-purifier, air-purifier top xiaomi, top xiaomi air-purifier, air-purifier xiaomi guide, xiaomi guide air-purifier, air-purifier xiaomi for sale, xiaomi for sale air-purifier, air-purifier xiaomi deals, xiaomi deals air-purifier
+2025-10-07 19:28:23,410 - INFO - Expanded 110 seed keywords to 275 variations
+2025-10-07 19:28:23,410 - INFO - Language: en
+2025-10-07 19:28:23,410 - INFO - Region: us
+2025-10-07 19:32:55,825 - INFO - 🎯 After all filtering for 'xiaomi': 120 relevant keywords
+2025-10-07 19:32:55,894 - INFO - 🎯 Found 5 new keywords for niche 'xiaomi': xiaomi affordable air-purifier, cheap affordable air-purifier, best affordable air-purifier, how to affordable air-purifier, xiaomi air-purifier alternatives
+2025-10-07 19:33:06,620 - INFO - ✅ Niche 'xiaomi' process complete! 102 total keyword results.
+2025-10-07 19:33:06,620 - INFO - ✅ Completed processing niche: 'xiaomi'
+2025-10-07 19:33:06,621 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-07 19:33:06,621 - INFO -    Total requests: 21079, Blocks: 0
+2025-10-07 19:33:06,622 - INFO - 
+========================================
+2025-10-07 19:33:06,622 - INFO - Process Summary:
+2025-10-07 19:33:06,622 - INFO - - Current niche: 'xiaomi'
+2025-10-07 19:33:06,622 - INFO - - Next niche will be: 'iphone'
+2025-10-07 19:33:06,622 - INFO - - Keywords saved in: languages/english/keywords/xiaomi/
+2025-10-07 19:33:06,622 - INFO - ========================================

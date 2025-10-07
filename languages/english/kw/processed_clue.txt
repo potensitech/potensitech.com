@@ -492,3 +492,4 @@ dslr quality
 smart-lighting
 dslr quality
 smart-lighting
+air-purifier
