@@ -490,3 +490,5 @@ dslr quality
 storage capacity
 dslr quality
 smart-lighting
+dslr quality
+smart-lighting
