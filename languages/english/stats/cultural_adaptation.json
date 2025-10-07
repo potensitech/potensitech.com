@@ -3399,5 +3399,18 @@
             "Cultural: Broadway",
             "Cultural: Innovation"
         ]
+    },
+    "entry-level Nikon camera with excellent autofocus": {
+        "date": "2025-10-07T14:50:09",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: Social Media"
+        ]
     }
 }
