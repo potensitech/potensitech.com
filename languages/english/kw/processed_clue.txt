@@ -484,3 +484,5 @@ dslr quality
 storage capacity
 dslr quality
 storage capacity
+dslr quality
+storage capacity

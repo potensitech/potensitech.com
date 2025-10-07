@@ -19,3 +19,5 @@ camera quality
 image stabilization
 image quality
 chipset upgrade
+dslr quality
+storage capacity
