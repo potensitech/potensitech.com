@@ -3425,5 +3425,17 @@
             "Cultural: Soul Food",
             "Cultural: Abraham Lincoln"
         ]
+    },
+    "affordable nikon memory card": {
+        "date": "2025-10-07T21:54:57",
+        "language": "en",
+        "cultural_score": 48,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood"
+        ]
     }
 }
