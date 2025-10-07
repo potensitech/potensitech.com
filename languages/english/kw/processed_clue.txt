@@ -479,3 +479,4 @@ gaming
 laptop
 durability
 smart-lighting
+storage capacity

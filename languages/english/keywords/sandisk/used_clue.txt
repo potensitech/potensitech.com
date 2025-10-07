@@ -22,3 +22,4 @@ dslr quality
 image quality
 data storage
 usb performance
+storage capacity
