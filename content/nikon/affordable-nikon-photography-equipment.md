@@ -93,7 +93,7 @@ To help The Potensians make informed choices, We’ve compiled a table comparing
 | Nikon D3500 | DSLR | 24.2MP, Guide Mode, Lightweight | $499 | Beginners, Travelers |
 | Nikon Z30 | Mirrorless | 20.9MP, Touchscreen, Wi-Fi | $699 | Vloggers, Social Media |
 | NIKKOR 18-55mm Lens | Lens | Versatile Zoom, Compact | $120 | Everyday Photography |
-| SanDisk 64GB SDXC | Memory Card | Fast Write Speed, Reliable | $25 | All Users |
+| SanDisk 64GB SDXC | [Memory Card](/nikon/affordable-nikon-memory-card) | Fast Write Speed, Reliable | $25 | All Users |
 | AmazonBasics Tripod | Accessory | Adjustable, Lightweight | $35 | Outdoor, Events |
 | Lowepro Adventura | Camera Bag | Padded, Weather-resistant | $45 | City Shoots, Travel |
 | Hoya UV Filter | Lens Filter | Reduces Haze, Affordable | $18 | Outdoor Photography |

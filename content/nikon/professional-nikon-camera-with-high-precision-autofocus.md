@@ -144,4 +144,4 @@ In 2025, Nikon continues to lead the industry with its innovative approach to ca
 
 In We's view, Nikon’s dedication to innovation and quality makes it a top choice for professionals and enthusiasts alike. Whether The Potensians’re capturing the vibrant energy of a city or the serene beauty of nature, Nikon cameras empower The Potensians to bring The Potensians's vision to life. Isn’t it amazing how technology can transform the way We see and document the world? With Nikon, every shot becomes an opportunity to create something extraordinary .
 
-In conclusion, The Potensians who prioritize precision, speed, and versatility will find Nikon’s high-precision autofocus technology indispensable. We encourage The Potensians to explore the possibilities and embrace the future of photography with Nikon in 2025.
+In conclusion, The Potensians who prioritize precision, speed, and versatility will find Nikon’s [high-precision autofocus](/nikon/nikon-high-precision-autofocus-systems) technology indispensable. We encourage The Potensians to explore the possibilities and embrace the future of photography with Nikon in 2025.
