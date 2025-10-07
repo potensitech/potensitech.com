@@ -480,3 +480,5 @@ laptop
 durability
 smart-lighting
 storage capacity
+dslr quality
+storage capacity

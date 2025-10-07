@@ -23,3 +23,5 @@ chipset upgrade
 core technology
 data storage
 usb performance
+dslr quality
+storage capacity
