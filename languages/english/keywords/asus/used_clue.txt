@@ -28,3 +28,5 @@ processor performance
 chipset upgrade
 gaming
 laptop
+dslr quality
+smart-lighting

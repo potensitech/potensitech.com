@@ -1,0 +1,37 @@
+2025-10-08 07:28:51,299 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251008_072851.log
+2025-10-08 07:28:51,299 - INFO - ============================================================
+2025-10-08 07:28:51,299 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-08 07:28:51,299 - INFO - ============================================================
+2025-10-08 07:28:51,458 - INFO - ========================================
+2025-10-08 07:28:51,458 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-08 07:28:51,458 - INFO - ========================================
+2025-10-08 07:28:51,458 - INFO - Continuing from last processed niche: sony
+2025-10-08 07:28:51,458 - INFO - ========================================
+2025-10-08 07:28:51,458 - INFO - 🎯 PROCESSING NICHE 6/14: 'asus'
+2025-10-08 07:28:51,458 - INFO - ========================================
+2025-10-08 07:28:51,459 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/asus
+2025-10-08 07:28:51,459 - INFO - Selected region: us
+2025-10-08 07:28:51,459 - INFO - Selected language: en
+2025-10-08 07:28:51,459 - INFO - 🎯 Current niche: asus
+2025-10-08 07:28:54,517 - INFO - 🎯 Niche terms for filtering: asus, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, asus product, sell asus, buy asus, cheap asus, best asus, asus review, where to buy asus, how to choose asus, top asus, asus guide, asus for sale, asus deals
+2025-10-08 07:28:54,517 - INFO - Generated 50 niche-clue pairs for 'asus'.
+2025-10-08 07:28:54,520 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-08 07:28:54,521 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-08 07:33:18,553 - INFO - Original clue keywords: dslr quality, smart-lighting
+2025-10-08 07:33:18,553 - INFO - Niche-focused seeds: dslr quality, smart-lighting asus, asus smart-lighting, smart-lighting cheap, cheap smart-lighting, smart-lighting best, best smart-lighting, smart-lighting latest, latest smart-lighting, smart-lighting review, review smart-lighting, smart-lighting price, price smart-lighting, smart-lighting sell, sell smart-lighting, smart-lighting buy, buy smart-lighting, smart-lighting recommendation, recommendation smart-lighting, smart-lighting tips, tips smart-lighting, smart-lighting tutorial, tutorial smart-lighting, smart-lighting guide, guide smart-lighting, smart-lighting how to, how to smart-lighting, smart-lighting vs, vs smart-lighting, smart-lighting versus, versus smart-lighting, smart-lighting compared to, compared to smart-lighting, smart-lighting comparison, comparison smart-lighting, smart-lighting alternatives, alternatives smart-lighting, smart-lighting which is better, which is better smart-lighting, smart-lighting expensive, expensive smart-lighting, smart-lighting discount, discount smart-lighting, smart-lighting deals, deals smart-lighting, smart-lighting sale, sale smart-lighting, smart-lighting affordable, affordable smart-lighting, smart-lighting cost, cost smart-lighting, smart-lighting online, online smart-lighting, smart-lighting offline, offline smart-lighting, smart-lighting marketplace, marketplace smart-lighting, smart-lighting store, store smart-lighting, smart-lighting shop, shop smart-lighting, smart-lighting retailer, retailer smart-lighting, smart-lighting where to buy, where to buy smart-lighting, smart-lighting worst, worst smart-lighting, smart-lighting quality, quality smart-lighting, smart-lighting original, original smart-lighting, smart-lighting genuine, genuine smart-lighting, smart-lighting fake, fake smart-lighting, smart-lighting replica, replica smart-lighting, smart-lighting authentic, authentic smart-lighting, smart-lighting brand, brand smart-lighting, smart-lighting manufacturer, manufacturer smart-lighting, smart-lighting company, company smart-lighting, smart-lighting product, product smart-lighting, smart-lighting asus product, asus product smart-lighting, smart-lighting sell asus, sell asus smart-lighting, smart-lighting buy asus, buy asus smart-lighting, smart-lighting cheap asus, cheap asus smart-lighting, smart-lighting best asus, best asus smart-lighting, smart-lighting asus review, asus review smart-lighting, smart-lighting where to buy asus, where to buy asus smart-lighting, smart-lighting how to choose asus, how to choose asus smart-lighting, smart-lighting top asus, top asus smart-lighting, smart-lighting asus guide, asus guide smart-lighting, smart-lighting asus for sale, asus for sale smart-lighting, smart-lighting asus deals, asus deals smart-lighting
+2025-10-08 07:33:18,557 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-08 07:33:18,557 - INFO - Language: en
+2025-10-08 07:33:18,557 - INFO - Region: us
+2025-10-08 07:37:48,342 - INFO - 🎯 After all filtering for 'asus': 120 relevant keywords
+2025-10-08 07:37:48,378 - INFO - 🎯 Found 5 new keywords for niche 'asus': asus affordable smart-lighting, cheap affordable smart-lighting, best affordable smart-lighting, how to affordable smart-lighting, asus alternatives smart-lighting
+2025-10-08 07:38:00,047 - INFO - ✅ Niche 'asus' process complete! 113 total keyword results.
+2025-10-08 07:38:00,047 - INFO - ✅ Completed processing niche: 'asus'
+2025-10-08 07:38:00,047 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-08 07:38:00,047 - INFO -    Total requests: 21519, Blocks: 0
+2025-10-08 07:38:00,048 - INFO - 
+========================================
+2025-10-08 07:38:00,048 - INFO - Process Summary:
+2025-10-08 07:38:00,048 - INFO - - Current niche: 'asus'
+2025-10-08 07:38:00,048 - INFO - - Next niche will be: 'philips'
+2025-10-08 07:38:00,048 - INFO - - Keywords saved in: languages/english/keywords/asus/
+2025-10-08 07:38:00,049 - INFO - ========================================
