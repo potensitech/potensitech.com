@@ -3437,5 +3437,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Hollywood"
         ]
+    },
+    "samsung affordable smartphone lighting solutions": {
+        "date": "2025-10-08T02:05:58",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie"
+        ]
     }
 }
