@@ -3522,5 +3522,18 @@
             "Cultural: Bill Gates",
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone lighting for modern homes": {
+        "date": "2025-10-08T19:30:13",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Broadway",
+            "Cultural: Pizza",
+            "Cultural: Innovation"
+        ]
     }
 }
