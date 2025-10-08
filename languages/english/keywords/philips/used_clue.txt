@@ -28,3 +28,4 @@ image quality
 core technology
 durability
 smart-lighting
+air-purifier
