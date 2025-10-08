@@ -509,3 +509,4 @@ storage capacity
 flash drive
 storage capacity
 flash drive
+performance boost

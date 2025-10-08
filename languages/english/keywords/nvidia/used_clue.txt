@@ -24,3 +24,4 @@ processor performance
 ai computing
 dslr quality
 storage capacity
+performance boost

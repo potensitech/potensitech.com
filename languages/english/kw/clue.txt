@@ -1,3 +1,7 @@
+graphics card
+ray tracing
+ai rendering
+performance boost
 storage capacity
 flash drive
 smart-lighting
@@ -12,8 +16,6 @@ camera lens
 dslr photography
 mirrorless innovation
 gpu performance
-ray tracing
-graphics card
 ai computing
 data storage
 usb performance
@@ -48,7 +50,6 @@ core speed
 chip architecture
 power efficiency
 smartphone features
-ai rendering
 battery life
 screen resolution
 solid-state
