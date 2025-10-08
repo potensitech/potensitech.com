@@ -3463,5 +3463,15 @@
             "Cultural: Hollywood",
             "Cultural: Tex-Mex"
         ]
+    },
+    "samsung smartphone lighting for home automation": {
+        "date": "2025-10-08T07:39:56",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Innovation"
+        ]
     }
 }
