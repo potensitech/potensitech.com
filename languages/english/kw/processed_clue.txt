@@ -507,3 +507,5 @@ smart-lighting
 air-purifier
 storage capacity
 flash drive
+storage capacity
+flash drive
