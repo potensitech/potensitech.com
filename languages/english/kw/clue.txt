@@ -1,7 +1,7 @@
-smart-lighting
-air-purifier
 storage capacity
 flash drive
+smart-lighting
+air-purifier
 coffee-machine
 electric-shaver
 gaming

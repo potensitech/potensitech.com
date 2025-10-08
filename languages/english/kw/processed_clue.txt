@@ -505,3 +505,5 @@ dslr quality
 smart-lighting
 smart-lighting
 air-purifier
+storage capacity
+flash drive
