@@ -510,3 +510,5 @@ flash drive
 storage capacity
 flash drive
 performance boost
+graphics card
+ray tracing

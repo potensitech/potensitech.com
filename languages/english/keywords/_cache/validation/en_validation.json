@@ -1566,5 +1566,9 @@
   "nvidia reliable GPU optimization": true,
   "nvidia affordable gaming GPU upgrade": true,
   "nvidia professional GPU performance upgrade": true,
-  "nvidia entry-level GPU with enhanced performance": true
+  "nvidia entry-level GPU with enhanced performance": true,
+  "amd low-cost gaming graphics card": true,
+  "amd entry-level GPU for ray tracing": true,
+  "amd cheap high-performance gaming GPU": true,
+  "amd wallet-friendly gaming GPU": true
 }

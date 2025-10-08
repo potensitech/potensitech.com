@@ -123,4 +123,8 @@ top-rated AMD GPU for 4K gaming
 cheap AMD processor for office tasks
 best AMD processor for professional workloads
 AMD processor for budget-friendly PC builds
+amd low-cost gaming graphics card
+amd entry-level GPU for ray tracing
+amd cheap high-performance gaming GPU
+amd wallet-friendly gaming GPU
 
