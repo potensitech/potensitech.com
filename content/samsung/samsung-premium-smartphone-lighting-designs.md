@@ -30,7 +30,7 @@ Lighting in smartphones has transcended its traditional role as a mere functiona
 
 Samsung integrates lighting into its smartphones for more than just aesthetic reasons. Consider the edge lighting feature found on models like the Galaxy S series. This feature provides a soft glow around the screen edges when notifications arrive—an elegant way to keep users informed without being intrusive. Moreover, adaptive brightness technology ensures that screens adjust seamlessly based on ambient light conditions, offering optimal visibility whether The Potensians are enjoying BBQ outdoors or working late under dim lights.
 
-Another remarkable example is Samsung’s use of LED flash modules in cameras. These flashes are designed not only for capturing well-lit photos but also for enhancing video quality during low-light scenarios—a blessing in disguise for content creators aiming for perfection.
+Another remarkable example is Samsung’s use of LED flash modules in cameras. These flashes are designed not only for capturing well-lit photos but also for enhancing [video quality](/samsung/samsung-smartphone-video-quality) during low-light scenarios—a blessing in disguise for content creators aiming for perfection.
 
 <div class="table-responsive">
 <table class="html-table">
