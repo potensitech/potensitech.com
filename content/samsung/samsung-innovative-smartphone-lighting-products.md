@@ -99,7 +99,7 @@ To better understand the value of Samsung’s innovative smartphone lighting pro
 </tr>
 <tr>
 <td>Advanced Night Mode</td>
-<td>Enhances low-light photography with AI and multi-frame processing</td>
+<td>Enhances [low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) with AI and multi-frame processing</td>
 <td>Capturing stunning cityscapes during nighttime strolls</td>
 </tr>
 <tr>
