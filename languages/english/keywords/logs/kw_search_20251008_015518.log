@@ -1,0 +1,37 @@
+2025-10-08 01:55:18,169 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251008_015518.log
+2025-10-08 01:55:18,169 - INFO - ============================================================
+2025-10-08 01:55:18,169 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-08 01:55:18,169 - INFO - ============================================================
+2025-10-08 01:55:18,324 - INFO - ========================================
+2025-10-08 01:55:18,324 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-08 01:55:18,324 - INFO - ========================================
+2025-10-08 01:55:18,324 - INFO - Continuing from last processed niche: iphone
+2025-10-08 01:55:18,324 - INFO - ========================================
+2025-10-08 01:55:18,324 - INFO - 🎯 PROCESSING NICHE 3/14: 'samsung'
+2025-10-08 01:55:18,324 - INFO - ========================================
+2025-10-08 01:55:18,324 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/samsung
+2025-10-08 01:55:18,324 - INFO - Selected region: us
+2025-10-08 01:55:18,324 - INFO - Selected language: en
+2025-10-08 01:55:18,324 - INFO - 🎯 Current niche: samsung
+2025-10-08 01:55:22,224 - INFO - 🎯 Niche terms for filtering: samsung, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, samsung product, sell samsung, buy samsung, cheap samsung, best samsung, samsung review, where to buy samsung, how to choose samsung, top samsung, samsung guide, samsung for sale, samsung deals
+2025-10-08 01:55:22,225 - INFO - Generated 50 niche-clue pairs for 'samsung'.
+2025-10-08 01:55:22,227 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-08 01:55:22,227 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-08 01:59:44,700 - INFO - Original clue keywords: dslr quality, smart-lighting
+2025-10-08 01:59:44,700 - INFO - Niche-focused seeds: dslr quality, smart-lighting samsung, samsung smart-lighting, smart-lighting cheap, cheap smart-lighting, smart-lighting best, best smart-lighting, smart-lighting latest, latest smart-lighting, smart-lighting review, review smart-lighting, smart-lighting price, price smart-lighting, smart-lighting sell, sell smart-lighting, smart-lighting buy, buy smart-lighting, smart-lighting recommendation, recommendation smart-lighting, smart-lighting tips, tips smart-lighting, smart-lighting tutorial, tutorial smart-lighting, smart-lighting guide, guide smart-lighting, smart-lighting how to, how to smart-lighting, smart-lighting vs, vs smart-lighting, smart-lighting versus, versus smart-lighting, smart-lighting compared to, compared to smart-lighting, smart-lighting comparison, comparison smart-lighting, smart-lighting alternatives, alternatives smart-lighting, smart-lighting which is better, which is better smart-lighting, smart-lighting expensive, expensive smart-lighting, smart-lighting discount, discount smart-lighting, smart-lighting deals, deals smart-lighting, smart-lighting sale, sale smart-lighting, smart-lighting affordable, affordable smart-lighting, smart-lighting cost, cost smart-lighting, smart-lighting online, online smart-lighting, smart-lighting offline, offline smart-lighting, smart-lighting marketplace, marketplace smart-lighting, smart-lighting store, store smart-lighting, smart-lighting shop, shop smart-lighting, smart-lighting retailer, retailer smart-lighting, smart-lighting where to buy, where to buy smart-lighting, smart-lighting worst, worst smart-lighting, smart-lighting quality, quality smart-lighting, smart-lighting original, original smart-lighting, smart-lighting genuine, genuine smart-lighting, smart-lighting fake, fake smart-lighting, smart-lighting replica, replica smart-lighting, smart-lighting authentic, authentic smart-lighting, smart-lighting brand, brand smart-lighting, smart-lighting manufacturer, manufacturer smart-lighting, smart-lighting company, company smart-lighting, smart-lighting product, product smart-lighting, smart-lighting samsung product, samsung product smart-lighting, smart-lighting sell samsung, sell samsung smart-lighting, smart-lighting buy samsung, buy samsung smart-lighting, smart-lighting cheap samsung, cheap samsung smart-lighting, smart-lighting best samsung, best samsung smart-lighting, smart-lighting samsung review, samsung review smart-lighting, smart-lighting where to buy samsung, where to buy samsung smart-lighting, smart-lighting how to choose samsung, how to choose samsung smart-lighting, smart-lighting top samsung, top samsung smart-lighting, smart-lighting samsung guide, samsung guide smart-lighting, smart-lighting samsung for sale, samsung for sale smart-lighting, smart-lighting samsung deals, samsung deals smart-lighting
+2025-10-08 01:59:44,702 - INFO - Expanded 111 seed keywords to 276 variations
+2025-10-08 01:59:44,702 - INFO - Language: en
+2025-10-08 01:59:44,702 - INFO - Region: us
+2025-10-08 02:03:58,316 - INFO - 🎯 After all filtering for 'samsung': 120 relevant keywords
+2025-10-08 02:03:58,348 - INFO - 🎯 Found 5 new keywords for niche 'samsung': samsung affordable smart-lighting, cheap affordable smart-lighting, best affordable smart-lighting, how to affordable smart-lighting, samsung alternatives smart-lighting
+2025-10-08 02:04:07,552 - INFO - ✅ Niche 'samsung' process complete! 109 total keyword results.
+2025-10-08 02:04:07,552 - INFO - ✅ Completed processing niche: 'samsung'
+2025-10-08 02:04:07,552 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-08 02:04:07,552 - INFO -    Total requests: 21253, Blocks: 0
+2025-10-08 02:04:07,553 - INFO - 
+========================================
+2025-10-08 02:04:07,553 - INFO - Process Summary:
+2025-10-08 02:04:07,553 - INFO - - Current niche: 'samsung'
+2025-10-08 02:04:07,553 - INFO - - Next niche will be: 'apple'
+2025-10-08 02:04:07,553 - INFO - - Keywords saved in: languages/english/keywords/samsung/
+2025-10-08 02:04:07,553 - INFO - ========================================
