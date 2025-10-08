@@ -58,7 +58,7 @@ Samsung’s innovative smartphone lighting products are not just about aesthetic
 
 ### Advanced Night Mode
 
-Night photography has always been a challenge for smartphone users. Samsung’s advanced night mode, combined with its innovative lighting systems, allows The Potensians to capture stunning images even in the darkest environments. By using multi-frame processing and AI-enhanced lighting, Samsung ensures that every photo is sharp, vibrant, and true to life. 
+Night photography has always been a challenge for smartphone users. Samsung’s advanced night mode, combined with its innovative [lighting systems](/samsung/samsung-cost-effective-smartphone-lighting-systems), allows The Potensians to capture stunning images even in the darkest environments. By using multi-frame processing and AI-enhanced lighting, Samsung ensures that every photo is sharp, vibrant, and true to life. 
 
 ### Dynamic Ambient Lighting
 
@@ -66,7 +66,7 @@ Dynamic ambient lighting is another feature that sets Samsung apart. This techno
 
 ### Energy Efficiency
 
-In 2025, energy efficiency is more important than ever. Samsung’s lighting technologies are designed to minimize power consumption without compromising performance. Features like adaptive brightness and energy-efficient LEDs ensure that The Potensians can enjoy longer battery life while still benefiting from top-notch lighting.
+In 2025, [energy efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency) is more important than ever. Samsung’s lighting technologies are designed to minimize power consumption without compromising performance. Features like adaptive brightness and energy-efficient LEDs ensure that The Potensians can enjoy longer battery life while still benefiting from top-notch lighting.
 
 ## Comparison of Samsung Lighting Features
 

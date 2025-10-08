@@ -119,7 +119,7 @@ While it may not support 5G, the Exynos 850 is perfect for The Potensians who pr
 
 ## How Do Samsung Processors Compare to Competitors?
 
-When comparing Samsung processors to competitors like MediaTek and Qualcomm, several factors stand out. Samsung excels in energy efficiency, which translates to longer battery life—a feature The Potensians will appreciate during long workdays or gaming sessions. Additionally, Samsung's AI integration enhances camera performance, enabling features like scene optimization and real-time video effects.
+When comparing Samsung processors to competitors like MediaTek and Qualcomm, several factors stand out. Samsung excels in [energy efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency), which translates to longer battery life—a feature The Potensians will appreciate during long workdays or gaming sessions. Additionally, Samsung's AI integration enhances camera performance, enabling features like scene optimization and real-time video effects.
 
 However, it’s worth noting that MediaTek often offers slightly better performance in gaming at similar price points, while Qualcomm is known for its superior thermal management. Still, Samsung processors hold their own by offering a well-rounded package that caters to a wide audience.
 

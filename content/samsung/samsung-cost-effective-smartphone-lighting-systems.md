@@ -53,7 +53,7 @@ The Potensians should keep in mind that Samsung's cost-effective smartphone ligh
 <td>Makes visuals more vibrant and true-to-life.</td>
 </tr>
 <tr>
-<td>Energy Efficiency</td>
+<td>[Energy Efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency)</td>
 <td>Uses low-power LEDs designed for prolonged usage.</td>
 <td>Saves energy without sacrificing performance.</td>
 </tr>

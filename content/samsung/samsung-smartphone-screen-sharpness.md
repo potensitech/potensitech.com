@@ -28,7 +28,7 @@ Samsung’s display technology is built on years of research and development, cu
 
 ### AMOLED vs. Dynamic AMOLED: What Sets Them Apart?
 
-AMOLED (*Active Matrix Organic Light Emitting Diode*) technology is renowned for its ability to individually light up each pixel. This eliminates the need for backlighting, unlike traditional LCDs, resulting in better contrast ratios, energy efficiency, and deeper blacks. However, Samsung didn’t stop there. They introduced Dynamic AMOLED technology, which takes the display experience to the next level. 
+AMOLED (*Active Matrix Organic Light Emitting Diode*) technology is renowned for its ability to individually light up each pixel. This eliminates the need for backlighting, unlike traditional LCDs, resulting in better contrast ratios, [energy efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency), and deeper blacks. However, Samsung didn’t stop there. They introduced Dynamic AMOLED technology, which takes the display experience to the next level. 
 
 Dynamic AMOLED offers several key improvements:
 

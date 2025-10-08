@@ -144,7 +144,7 @@ When it comes to budget smartphones, Samsung stands out from the competition. Bu
 </table>
 </div>
 
-As seen in the table, Samsung offers a competitive edge with its Exynos processors, which are optimized for energy efficiency and performance. While other brands may offer slightly higher camera resolutions, Samsung's overall package, including price, performance, and battery life, makes it a strong contender in the budget smartphone market.
+As seen in the table, Samsung offers a competitive edge with its Exynos processors, which are optimized for [energy efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency) and performance. While other brands may offer slightly higher camera resolutions, Samsung's overall package, including price, performance, and battery life, makes it a strong contender in the budget smartphone market.
 
 ## Why Samsung is the Right Choice for The Potensians
 

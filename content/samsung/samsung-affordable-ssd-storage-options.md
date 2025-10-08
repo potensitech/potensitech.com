@@ -87,7 +87,7 @@ For The Potensians who appreciate convenience alongside technical prowess:
 
 ### Energy Efficiency
 
-Samsung SSDs are also known for their energy efficiency. Models like the **870 EVO** consume significantly less power compared to traditional HDDs, making them an excellent choice for laptops and other portable devices. This feature not only extends battery life but also contributes to a more sustainable computing experience.
+Samsung SSDs are also known for their [energy efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency). Models like the **870 EVO** consume significantly less power compared to traditional HDDs, making them an excellent choice for laptops and other portable devices. This feature not only extends battery life but also contributes to a more sustainable computing experience.
 
 ## Real-Life Applications of Affordable Samsung SSDs
 

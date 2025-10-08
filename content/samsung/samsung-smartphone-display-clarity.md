@@ -157,7 +157,7 @@ As the table shows, Samsung’s AMOLED technology consistently delivers top-tier
 
 ## The Future of Samsung Smartphone Displays
 
-Looking ahead to 2025, Samsung is poised to continue its dominance in the display technology market. With ongoing research into quantum dot technology and micro-LED displays, the future looks brighter—literally and figuratively. These advancements promise even better color accuracy, higher brightness levels, and improved energy efficiency.
+Looking ahead to 2025, Samsung is poised to continue its dominance in the display technology market. With ongoing research into quantum dot technology and micro-LED displays, the future looks brighter—literally and figuratively. These advancements promise even better color accuracy, higher brightness levels, and improved [energy efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency).
 
 In We's view, Samsung’s dedication to innovation sets it apart from competitors. The company doesn’t just follow trends; it creates them. For The Potensians who value cutting-edge technology and unparalleled visual experiences, [Samsung smartphones](/samsung/affordable-samsung-smartphones) are an investment worth making.
 
