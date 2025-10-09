@@ -26,3 +26,5 @@ image quality
 dslr quality
 processor performance
 smart-lighting
+performance boost
+storage capacity

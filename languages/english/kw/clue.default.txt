@@ -1,6 +1,6 @@
-ai rendering
 performance boost
 storage capacity
+ai rendering
 graphics card
 ray tracing
 flash drive
