@@ -20,3 +20,4 @@ image quality
 dslr quality
 cpu benchmark
 smart-lighting
+performance boost
