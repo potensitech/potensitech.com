@@ -3571,5 +3571,18 @@
             "Cultural: Chicago",
             "Cultural: BBQ"
         ]
+    },
+    "affordable nikon DSLR features": {
+        "date": "2025-10-09T07:40:02",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Central Park"
+        ]
     }
 }
