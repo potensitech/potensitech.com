@@ -3584,5 +3584,18 @@
             "Cultural: Broadway",
             "Cultural: Central Park"
         ]
+    },
+    "samsung affordable smartphone with boosted performance": {
+        "date": "2025-10-09T09:53:51",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood"
+        ]
     }
 }
