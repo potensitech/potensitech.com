@@ -518,3 +518,5 @@ graphics card
 ray tracing
 ai rendering
 performance boost
+ai rendering
+performance boost
