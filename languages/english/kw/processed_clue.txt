@@ -520,3 +520,5 @@ ai rendering
 performance boost
 ai rendering
 performance boost
+performance boost
+storage capacity
