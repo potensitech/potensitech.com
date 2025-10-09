@@ -3644,5 +3644,18 @@
             "Cultural: Hollywood",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung affordable smartphone with optimized performance": {
+        "date": "2025-10-09T21:52:03",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Pizza"
+        ]
     }
 }
