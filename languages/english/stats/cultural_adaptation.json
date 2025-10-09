@@ -3597,5 +3597,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Hollywood"
         ]
+    },
+    "samsung budget-friendly smartphone with enhanced storage": {
+        "date": "2025-10-09T12:45:44",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Soul Food"
+        ]
     }
 }
