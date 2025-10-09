@@ -28,7 +28,7 @@ Here’s a detailed analysis of some standout brands offering budget-friendly op
 
 ## Crucial MX500
 
-The Crucial MX500 is one of the most popular choices among The Potensians seeking cost-effective storage solutions.
+The Crucial MX500 is one of the most popular choices among The Potensians seeking [cost-effective storage](/samsung/samsung-smartphone-with-cost-effective-storage-options) solutions.
 
 ### Performance
 
