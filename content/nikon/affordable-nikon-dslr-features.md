@@ -41,7 +41,7 @@ Keep in mind that these benefits align perfectly with modern trends emphasizing 
 
 ## Essential Features That Define Affordable Nikon DSLRs
 
-Affordable Nikon DSLR features combine technical precision with practical usability, ensuring every shot captures perfection. Let’s delve deeper into some key aspects:
+Affordable Nikon DSLR features combine technical precision with practical usability, ensuring [every shot](/nikon/nikon-affordable-autofocus-lenses) captures perfection. Let’s delve deeper into some key aspects:
 
 ### High-Resolution Image Sensors
 
