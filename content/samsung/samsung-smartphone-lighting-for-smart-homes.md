@@ -11,11 +11,14 @@ tags: ["samsung", "smartphone", "smart homes", "lighting", "technology"]
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-smartphone-lighting-for-smart-homes-made-easy.jpg"
+featuredImagePreview: "/images/samsung/samsung-smartphone-lighting-for-smart-homes-made-easy.jpg"
 ---
+
+![Samsung Smartphone Lighting for Smart Homes Made Easy](/images/samsung/samsung-smartphone-lighting-for-smart-homes-made-easy.jpg)
+
 
 *Samsung Smartphone Lighting for Smart Homes Made Easy* - 
 
