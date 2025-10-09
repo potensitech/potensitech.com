@@ -24,3 +24,4 @@ data storage
 usb performance
 storage capacity
 flash drive
+performance boost
