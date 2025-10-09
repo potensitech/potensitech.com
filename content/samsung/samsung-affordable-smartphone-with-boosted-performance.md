@@ -71,7 +71,7 @@ Samsung has meticulously designed its affordable smartphone to cater to modern t
 </table>
 </div>
 
-These features highlight how Samsung balances affordability and functionality seamlessly. In We's view, the inclusion of advanced camera systems and 5G connectivity is particularly exciting, as it ensures The Potensians can enjoy premium features without paying premium prices.
+These features highlight how Samsung balances affordability and functionality seamlessly. In We's view, the inclusion of advanced camera systems and 5G connectivity is particularly exciting, as it ensures The Potensians can enjoy [premium features](/samsung/samsung-flagship-phones-with-premium-features) without paying premium prices.
 
 ## Performance That Rivals Premium Models
 
@@ -115,7 +115,7 @@ To further illustrate the affordability of Samsung’s smartphone, here’s a co
 </thead>
 <tbody>
 <tr>
-<td>Samsung Affordable Smartphone</td>
+<td>[Samsung Affordable](/samsung/samsung-affordable-smartphone-with-optimized-processor) Smartphone</td>
 <td>$299</td>
 <td>Enhanced Processor, AMOLED Display, AI Camera</td>
 </tr>
