@@ -3548,5 +3548,15 @@
             "Cultural: Silicon Valley",
             "Cultural: Pizza"
         ]
+    },
+    "samsung smartphone lighting for smart homes": {
+        "date": "2025-10-09T03:18:44",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Innovation"
+        ]
     }
 }
