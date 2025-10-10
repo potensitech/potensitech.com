@@ -25,3 +25,4 @@ data storage
 usb performance
 dslr quality
 storage capacity
+performance boost
