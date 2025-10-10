@@ -3690,5 +3690,14 @@
             "Cultural: Los Angeles",
             "Cultural: Wall Street"
         ]
+    },
+    "best Nikon DSLR for professional photography": {
+        "date": "2025-10-10T07:37:52",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
