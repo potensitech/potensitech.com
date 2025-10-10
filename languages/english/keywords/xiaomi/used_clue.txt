@@ -24,3 +24,4 @@ dslr quality
 processor performance
 air-purifier
 performance boost
+storage capacity
