@@ -549,3 +549,5 @@ ai rendering
 ai rendering
 storage capacity
 wireless charging
+smartphone camera
+battery life

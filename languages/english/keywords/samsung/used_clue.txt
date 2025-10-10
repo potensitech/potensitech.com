@@ -28,3 +28,4 @@ processor performance
 smart-lighting
 performance boost
 storage capacity
+smartphone camera
