@@ -50,7 +50,7 @@ Not all memory cards are created equal, and not all are compatible with every Ni
 
 ## Best Affordable Options Compatible with Nikon Cameras
 
-Finding an affordable yet reliable memory card doesn’t mean compromising quality. Here are some top picks tailored specifically for Nikon users:
+Finding an affordable yet reliable memory card doesn’t mean compromising quality. Here are some [top picks](/nikon/affordable-nikon-camera-lens) tailored specifically for Nikon users:
 
 <div class="table-responsive">
 <table class="html-table">
