@@ -3677,5 +3677,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "affordable Nikon DSLR for beginner photographers": {
+        "date": "2025-10-10T05:02:31",
+        "language": "en",
+        "cultural_score": 53,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Wall Street"
+        ]
     }
 }
