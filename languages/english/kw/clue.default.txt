@@ -1,8 +1,8 @@
 performance boost
-storage capacity
 ai rendering
 graphics card
 ray tracing
+storage capacity
 flash drive
 smart-lighting
 air-purifier

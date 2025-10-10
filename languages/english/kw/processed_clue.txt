@@ -538,3 +538,5 @@ performance boost
 storage capacity
 performance boost
 ai rendering
+performance boost
+graphics card

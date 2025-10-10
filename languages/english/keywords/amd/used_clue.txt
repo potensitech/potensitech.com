@@ -21,3 +21,4 @@ image quality
 chipset upgrade
 dslr quality
 storage capacity
+performance boost
