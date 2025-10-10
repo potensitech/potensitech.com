@@ -1,7 +1,6 @@
-performance boost
-graphics card
 ai rendering
 storage capacity
+graphics card
 ray tracing
 flash drive
 smart-lighting
