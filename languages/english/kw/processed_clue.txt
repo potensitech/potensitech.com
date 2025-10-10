@@ -540,3 +540,5 @@ performance boost
 ai rendering
 performance boost
 graphics card
+performance boost
+graphics card
