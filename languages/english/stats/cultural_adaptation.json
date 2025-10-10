@@ -3657,5 +3657,18 @@
             "Cultural: Times Square",
             "Cultural: Pizza"
         ]
+    },
+    "affordable Nikon camera lens": {
+        "date": "2025-10-10T02:06:40",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New Year's Day",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Central Park"
+        ]
     }
 }
