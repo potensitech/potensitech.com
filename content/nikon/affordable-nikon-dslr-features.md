@@ -135,7 +135,7 @@ To make the most of The Potensians's affordable Nikon DSLR, consider these tips:
 
 ### Invest in Quality Lenses
 
-While the camera body is important, lenses play a crucial role in determining image quality. Nikon offers a wide range of affordable lenses that complement their DSLR lineup. For instance, the 50mm f/1.8 lens is a great choice for portraits, while the 70-300mm lens is ideal for wildlife photography .
+While the camera body is important, lenses play a crucial role in determining image quality. Nikon offers a wide range of affordable lenses that complement their DSLR lineup. For instance, the 50mm f/1.8 lens is a great choice for portraits, while the 70-300mm lens is ideal for [wildlife photography](/nikon/affordable-nikon-lens-for-wildlife-photography) .
 
 ### Learn the Basics of Manual Mode
 

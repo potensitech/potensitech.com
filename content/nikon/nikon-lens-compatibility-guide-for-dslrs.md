@@ -39,7 +39,7 @@ Selecting a compatible lens isn’t just about fitting it onto The Potensians' c
 
 Autofocus technology varies significantly between lens types:
 
-1. **AF-S Lenses:** Feature Silent Wave Motors (SWM) for smooth focusing—ideal for wildlife photography. 
+1. **AF-S Lenses:** Feature Silent Wave Motors (SWM) for smooth focusing—ideal for [wildlife photography](/nikon/affordable-nikon-lens-for-wildlife-photography). 
 2. **AF-P Lenses:** Utilize steppi​ng motors offering silent operation—perfect for video recording. 
 3. **Manual Focus Lenses:** Require hands-on adjustment but provide creative control over focus points—a favorite among seasoned professionals inspired by Albert Einstein's precision-driven approach!
 

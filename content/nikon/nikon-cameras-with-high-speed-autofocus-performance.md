@@ -80,7 +80,7 @@ From portraiture to wildlife photography, Nikon caters to diverse needs:
 <tr>
 <td>Animal Eye AF</td>
 <td>Tracks animals' eyes even in motion.</td>
-<td>Wildlife photography during safaris.</td>
+<td>[Wildlife photography](/nikon/affordable-nikon-lens-for-wildlife-photography) during safaris.</td>
 </tr>
 <tr>
 <td>Low-Light AF</td>
