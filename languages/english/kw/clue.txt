@@ -1,3 +1,7 @@
+smartphone camera
+battery life
+wireless charging
+screen resolution
 ai rendering
 storage capacity
 graphics card
@@ -49,12 +53,9 @@ core speed
 chip architecture
 power efficiency
 smartphone features
-battery life
-screen resolution
 solid-state
 usb storage
 smartphone battery
-smartphone camera
 smartphone display
 smartphone storage
 gaming performance

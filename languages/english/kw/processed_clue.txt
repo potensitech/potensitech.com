@@ -548,3 +548,4 @@ performance boost
 ai rendering
 ai rendering
 storage capacity
+wireless charging
