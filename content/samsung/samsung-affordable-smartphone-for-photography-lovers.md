@@ -79,14 +79,14 @@ In 2025, several models within Samsung’s lineup have gained popularity among T
 
 ### Galaxy A Series
 
-The Galaxy A series stands out as one of Samsung’s most budget-friendly options while still delivering impressive camera quality. Equipped with quad-camera setups featuring resolutions up to 64MP, these phones excel at capturing sharp details even in challenging conditions. For instance:
+The Galaxy A series stands out as one of Samsung’s most budget-friendly options while still delivering impressive [camera quality](/samsung/samsung-smartphone-camera-quality). Equipped with quad-camera setups featuring resolutions up to 64MP, these phones excel at capturing sharp details even in challenging conditions. For instance:
 
 - **Galaxy A54**: Perfect for snapping Buffalo Wings during game nights thanks to its macro lens capability.
 - **Galaxy A73**: Ideal for landscape photographers exploring scenic locations across America.
 
 ### Galaxy M Series
 
-Another gem from Samsung is the Galaxy M series—a range designed specifically for those seeking long battery life alongside excellent camera performance. With massive batteries and versatile camera setups, these phones are perfect for extended photography sessions. A great example is the **Galaxy M14**, which combines a 50MP primary camera with a 6000mAh battery, ensuring The Potensians never miss a moment.
+Another gem from Samsung is the Galaxy M series—a range designed specifically for those seeking long battery life alongside excellent [camera performance](/samsung/samsung-smartphone-camera-performance). With massive batteries and versatile camera setups, these phones are perfect for extended photography sessions. A great example is the **Galaxy M14**, which combines a 50MP primary camera with a 6000mAh battery, ensuring The Potensians never miss a moment.
 
 ### Galaxy S Series Lite Models
 
