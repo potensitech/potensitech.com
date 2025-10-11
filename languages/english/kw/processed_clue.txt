@@ -560,3 +560,5 @@ battery life
 smartphone camera
 battery life
 usb stick
+flash drive
+portable storage
