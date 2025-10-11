@@ -1,3 +1,6 @@
+flash drive
+portable storage
+usb stick
 smartphone camera
 battery life
 wireless charging
@@ -6,7 +9,6 @@ ai rendering
 storage capacity
 graphics card
 ray tracing
-flash drive
 smart-lighting
 air-purifier
 coffee-machine
@@ -33,7 +35,6 @@ long battery
 mirrorless photography
 dlss technology
 cuda cores
-portable storage
 audio systems
 smart lighting
 electric toothbrushes

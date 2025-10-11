@@ -25,3 +25,4 @@ usb performance
 storage capacity
 flash drive
 performance boost
+usb stick
