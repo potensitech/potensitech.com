@@ -3784,5 +3784,18 @@
             "Cultural: Chicago",
             "Cultural: Hot Dogs"
         ]
+    },
+    "budget-friendly Nikon DSLR cameras": {
+        "date": "2025-10-11T21:53:44",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Silicon Valley",
+            "Cultural: Soul Food",
+            "Cultural: Martin Luther King Jr.",
+            "Cultural: Bill Gates"
+        ]
     }
 }
