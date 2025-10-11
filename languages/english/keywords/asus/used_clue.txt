@@ -32,3 +32,4 @@ dslr quality
 smart-lighting
 performance boost
 storage capacity
+battery life
