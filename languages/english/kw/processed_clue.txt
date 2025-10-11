@@ -562,3 +562,5 @@ battery life
 usb stick
 flash drive
 portable storage
+flash drive
+portable storage
