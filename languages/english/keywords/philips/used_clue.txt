@@ -31,3 +31,4 @@ smart-lighting
 air-purifier
 performance boost
 storage capacity
+battery life
