@@ -21,3 +21,5 @@ dslr quality
 cpu benchmark
 smart-lighting
 performance boost
+smartphone camera
+battery life

@@ -570,3 +570,5 @@ flash drive
 portable storage
 smartphone camera
 battery life
+smartphone camera
+battery life
