@@ -3726,5 +3726,18 @@
             "Cultural: Soul Food",
             "Cultural: Abraham Lincoln"
         ]
+    },
+    "samsung affordable smartphone for photography lovers": {
+        "date": "2025-10-11T02:01:51",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
