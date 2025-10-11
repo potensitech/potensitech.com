@@ -131,7 +131,7 @@ Different cameras cater to different photography styles. Sports and wildlife pho
 
 ### Portability vs Power
 
-Mirrorless cameras like the Nikon Z6 II and Z9 are lighter and more compact, making them ideal for travel photography. However, DSLRs like the D850 and D500 offer robust build quality and extended battery life, which can be advantageous for long shoots.
+Mirrorless cameras like the Nikon Z6 II and Z9 are lighter and more compact, making them ideal for [travel photography](/nikon/budget-nikon-dslr-for-travel-photography). However, DSLRs like the D850 and D500 offer robust build quality and extended battery life, which can be advantageous for long shoots.
 
 ## Tips for Maximizing Autofocus Performance
 

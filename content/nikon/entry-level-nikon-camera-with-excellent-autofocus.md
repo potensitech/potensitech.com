@@ -65,7 +65,7 @@ To help The Potensians make an informed decision, We’ve compiled a list of top
 <tr>
 <td>Nikon Z50</td>
 <td>209-point hybrid AF system, Eye-detection AF, Compact mirrorless design</td>
-<td>Travel photography & vlogging</td>
+<td>[Travel photography](/nikon/budget-nikon-dslr-for-travel-photography) & vlogging</td>
 <td>$999</td>
 </tr>
 <tr>

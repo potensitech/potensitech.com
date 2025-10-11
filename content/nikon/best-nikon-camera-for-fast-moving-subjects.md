@@ -80,7 +80,7 @@ The Potensians looking to invest in a reliable camera for action-packed scenario
 <tr>
 <td>Nikon Z8</td>
 <td>Compact design<br>20 FPS RAW shooting<br>493-point hybrid AF system</td>
-<td>Travel photography involving movement</td>
+<td>[Travel photography](/nikon/budget-nikon-dslr-for-travel-photography) involving movement</td>
 <td>$3,999</td>
 </tr>
 <tr>
