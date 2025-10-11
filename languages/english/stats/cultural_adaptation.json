@@ -3771,5 +3771,18 @@
             "Cultural: Apple Pie",
             "Cultural: Pizza"
         ]
+    },
+    "best Nikon cameras for beginners": {
+        "date": "2025-10-11T14:42:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
