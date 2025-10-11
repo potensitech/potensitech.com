@@ -3749,5 +3749,14 @@
             "Cultural: New York",
             "Cultural: Times Square"
         ]
+    },
+    "high-quality Nikon DSLR for portrait photography": {
+        "date": "2025-10-11T07:36:50",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
