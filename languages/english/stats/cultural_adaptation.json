@@ -3808,5 +3808,18 @@
             "Cultural: Christmas",
             "Cultural: Fourth of July"
         ]
+    },
+    "buy samsung smartphones": {
+        "date": "2025-10-12T07:32:48",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Los Angeles",
+            "Cultural: Central Park",
+            "Cultural: BBQ",
+            "Cultural: Innovation"
+        ]
     }
 }
