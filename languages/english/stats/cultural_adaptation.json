@@ -3845,5 +3845,16 @@
             "Cultural: Black Friday",
             "Cultural: Innovation"
         ]
+    },
+    "Nikon cameras for wildlife photography": {
+        "date": "2025-10-12T19:30:09",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
