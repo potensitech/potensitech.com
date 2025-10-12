@@ -590,3 +590,5 @@ flash drive
 usb stick
 flash drive
 usb stick
+flash drive
+usb stick
