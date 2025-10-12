@@ -3821,5 +3821,18 @@
             "Cultural: BBQ",
             "Cultural: Innovation"
         ]
+    },
+    "samsung tvs for sale": {
+        "date": "2025-10-12T09:46:39",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
