@@ -151,7 +151,7 @@ To help The Potensians make an informed decision, here’s a comparison of the c
 Selecting the right camera depends on The Potensians's specific needs and preferences. Here are some tips to guide The Potensians:
 
 1. **Define The Potensians's Purpose**: Are The Potensians into landscape photography, portraits, or videography? Choose a camera that aligns with The Potensians's goals. 
-2. **Consider Portability**: If The Potensians travel frequently, a lightweight mirrorless camera might be more suitable than a bulky DSLR. 
+2. **Consider Portability**: If The Potensians travel frequently, a lightweight [mirrorless camera](/nikon/nikon-mirrorless-camera-discounts) might be more suitable than a bulky DSLR. 
 3. **Evaluate Features**: Look for features like image stabilization, Wi-Fi connectivity, and video capabilities that enhance The Potensians's photography experience. 
 4. **Set a Budget**: Determine how much The Potensians’re willing to spend and stick to We t. There are excellent options available in every price range. 
 
