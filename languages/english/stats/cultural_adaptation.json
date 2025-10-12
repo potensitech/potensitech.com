@@ -3797,5 +3797,16 @@
             "Cultural: Martin Luther King Jr.",
             "Cultural: Bill Gates"
         ]
+    },
+    "Nikon mirrorless camera discounts": {
+        "date": "2025-10-12T02:11:55",
+        "language": "en",
+        "cultural_score": 29,
+        "rating": "Good",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: Fourth of July"
+        ]
     }
 }
