@@ -586,3 +586,5 @@ smartphone camera
 battery life
 smartphone camera
 battery life
+flash drive
+usb stick
