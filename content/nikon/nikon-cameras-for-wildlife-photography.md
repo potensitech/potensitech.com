@@ -65,7 +65,7 @@ __Key Features:**
 
 ### Nikon Z9: The Mirrorless Marvel
 
-The Nikon Z9 is a flagship mirrorless camera that combines speed, precision, and cutting-edge technology. Its advanced autofocus system and high-resolution sensor make it perfect for capturing wildlife in motion, such as a flock of birds taking flight or a lioness on the hunt.
+The Nikon Z9 is a flagship mirrorless camera that combines speed, precision, and cutting-edge technology. Its [advanced autofocus](/nikon/nikon-advanced-autofocus-technology) system and high-resolution sensor make it perfect for capturing wildlife in motion, such as a flock of birds taking flight or a lioness on the hunt.
 
 **Key Features:**
 - 45.7 MP full-frame sensor
