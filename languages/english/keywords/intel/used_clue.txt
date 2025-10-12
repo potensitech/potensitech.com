@@ -27,3 +27,4 @@ dslr quality
 storage capacity
 performance boost
 portable storage
+usb stick
