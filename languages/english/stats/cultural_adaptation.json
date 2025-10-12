@@ -3834,5 +3834,16 @@
             "Cultural: Broadway",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "best samsung laptop deals": {
+        "date": "2025-10-12T14:38:20",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: Innovation"
+        ]
     }
 }
