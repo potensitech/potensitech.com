@@ -3918,5 +3918,18 @@
             "Cultural: Central Park",
             "Cultural: Innovation"
         ]
+    },
+    "budget-friendly Samsung smartphone for photography": {
+        "date": "2025-10-13T17:00:57",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: BBQ",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
