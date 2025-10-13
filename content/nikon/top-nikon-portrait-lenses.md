@@ -11,25 +11,28 @@ tags: ["Nikon", "portrait lenses", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Review"
 review:
-  name: "Top Nikon Portrait Lenses for Stunning Shots"
-  reviewBody: "This review highlights the top Nikon portrait lenses available in 2025, providing insights into their features, performance, and ideal use cases for photographers."
-  author: "Sarah Tan"
-  datePublished: "2025-10-13T03:37:50"
-  publisher: "PotensiTech"
-  itemReviewed:
-    name: "top Nikon portrait lenses"
-    description: "Discover the top Nikon portrait lenses to elevate your photography. Explore expert picks, features, and tips for stunning portraits. Find your perfect lens now!"
-  reviewRating:
-    ratingValue: "4.5"
-    bestRating: "5"
-    worstRating: "1"
+name: "Top Nikon Portrait Lenses for Stunning Shots"
+reviewBody: "This review highlights the top Nikon portrait lenses available in 2025, providing insights into their features, performance, and ideal use cases for photographers."
+author: "Sarah Tan"
+datePublished: "2025-10-13T03:37:50"
+publisher: "PotensiTech"
+itemReviewed:
+name: "top Nikon portrait lenses"
+description: "Discover the top Nikon portrait lenses to elevate your photography. Explore expert picks, features, and tips for stunning portraits. Find your perfect lens now!"
+reviewRating:
+ratingValue: "4.5"
+bestRating: "5"
+worstRating: "1"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-nikon-portrait-lenses-for-stunning-photography.jpg"
+featuredImagePreview: "/images/nikon/top-nikon-portrait-lenses-for-stunning-photography.jpg"
 ---
+
+![Top Nikon Portrait Lenses for Stunning Photography](/images/nikon/top-nikon-portrait-lenses-for-stunning-photography.jpg)
+
 
 *Top Nikon Portrait Lenses for Stunning Photography* - [Portrait photography](/nikon/high-quality-nikon-dslr-for-portrait-photography) is an art that demands precision, creativity, and the right equipment. For The Potensians seeking excellence in their craft, selecting the top Nikon portrait lenses can make all the difference between a good photo and a masterpiece. Whether capturing moments in vibrant Times Square or celebrating Independence Day with family portraits, Nikon’s range of portrait lenses offers unmatched quality and versatility for every occasion.
 
