@@ -3905,5 +3905,18 @@
             "Cultural: Pizza",
             "Cultural: Tex-Mex"
         ]
+    },
+    "affordable Samsung smartphone with great camera": {
+        "date": "2025-10-13T14:48:41",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New Year's Day",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: Innovation"
+        ]
     }
 }
