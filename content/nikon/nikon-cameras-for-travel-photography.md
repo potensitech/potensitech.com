@@ -71,7 +71,7 @@ Nikon cameras are equipped with [advanced autofocus](/nikon/nikon-advanced-autof
 
 ### Compact and Lightweight Designs
 
-For The Potensians who prioritize portability, Nikon offers compact models like the Nikon Z50. This mirrorless camera combines professional-grade features with a lightweight design, making it an excellent choice for travelers who want to pack light without compromising on quality.
+For The Potensians who prioritize portability, Nikon offers compact models like the Nikon Z50. This [mirrorless camera](/nikon/nikon-mirrorless-camera-discounts) combines professional-grade features with a lightweight design, making it an excellent choice for travelers who want to pack light without compromising on quality.
 
 ## Real-World Examples: How Travelers Benefit from Using Nikon Cameras
 
