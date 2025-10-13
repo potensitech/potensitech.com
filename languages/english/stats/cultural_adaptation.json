@@ -3856,5 +3856,18 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "top Nikon portrait lenses": {
+        "date": "2025-10-13T03:38:12",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: Central Park"
+        ]
     }
 }
