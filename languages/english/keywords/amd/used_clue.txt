@@ -24,3 +24,4 @@ storage capacity
 performance boost
 flash drive
 portable storage
+usb stick
