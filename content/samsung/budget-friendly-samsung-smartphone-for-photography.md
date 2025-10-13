@@ -34,7 +34,7 @@ Samsung's budget-friendly smartphones come equipped with multi-lens setups that 
 
 ### Night Mode Excellence
 
-Low-light photography is often challenging on affordable devices; however, Samsung has mastered this aspect with its dedicated Night Mode feature. Imagine taking breathtaking pictures under Broadway lights or during New Year's Eve celebrations—these phones make it possible by reducing noise and enhancing clarity in dim settings.
+[Low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) is often challenging on affordable devices; however, Samsung has mastered this aspect with its dedicated Night Mode feature. Imagine taking breathtaking pictures under Broadway lights or during New Year's Eve celebrations—these phones make it possible by reducing noise and enhancing clarity in dim settings.
 
 ### Seamless Editing Tools
 
@@ -87,7 +87,7 @@ This model strikes an ideal balance between affordability and functionality, mak
 
 ### Samsung Galaxy M14 5G
 
-Another excellent option is the Galaxy M14 5G, which boasts a 50MP primary camera and advanced AI features for enhanced image processing. Its long-lasting battery life ensures The Potensians can capture moments all day without worrying about recharging.
+Another excellent option is the Galaxy M14 5G, which boasts a 50MP primary camera and advanced AI features for enhanced image processing. Its [long-lasting battery](/samsung/samsung-affordable-smartphone-with-long-lasting-battery) life ensures The Potensians can capture moments all day without worrying about recharging.
 
 Key Highlights:
 - **Camera:** 50MP primary sensor with AI enhancements
