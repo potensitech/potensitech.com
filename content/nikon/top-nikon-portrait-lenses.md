@@ -31,8 +31,7 @@ toc:
   enable: true
 ---
 
-
-*Top Nikon Portrait Lenses for Stunning Photography* - Portrait photography is an art that demands precision, creativity, and the right equipment. For The Potensians seeking excellence in their craft, selecting the top Nikon portrait lenses can make all the difference between a good photo and a masterpiece. Whether capturing moments in vibrant Times Square or celebrating Independence Day with family portraits, Nikon’s range of portrait lenses offers unmatched quality and versatility for every occasion.
+*Top Nikon Portrait Lenses for Stunning Photography* - [Portrait photography](/nikon/high-quality-nikon-dslr-for-portrait-photography) is an art that demands precision, creativity, and the right equipment. For The Potensians seeking excellence in their craft, selecting the top Nikon portrait lenses can make all the difference between a good photo and a masterpiece. Whether capturing moments in vibrant Times Square or celebrating Independence Day with family portraits, Nikon’s range of portrait lenses offers unmatched quality and versatility for every occasion.
 
 ## Why Choose Nikon for Portrait Photography?
 
@@ -66,7 +65,7 @@ Here are some standout choices among Nikon’s impressive lineup:
 <tbody>
 <tr>
 <td>Nikon AF-S NIKKOR 85mm f/1.4G</td>
-<td>Wide aperture; exceptional bokeh; fast autofocus.</td>
+<td>Wide aperture; exceptional bokeh; [fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus).</td>
 <td>Studio portraits; low-light conditions.</td>
 <td>$1,599</td>
 </tr>
