@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/best-budget-nikon-dslr-for-travel-photograp
 
 ## Why Choose a Budget Nikon DSLR for Travel Photography?
 
-Nikon’s budget DSLRs are designed to provide high-quality performance at an affordable price. They are perfect for The Potensians who want to document their adventures without investing in expensive gear. Here’s why these cameras are a top choice for travel photography:
+Nikon’s budget DSLRs are designed to provide high-quality performance at an affordable price. They are perfect for The Potensians who want to document their adventures without investing in expensive gear. Here’s why these cameras are a top choice for [travel photography](/nikon/nikon-cameras-for-travel-photography):
 
 ### Exceptional Image Quality
 
