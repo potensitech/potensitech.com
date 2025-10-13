@@ -3869,5 +3869,17 @@
             "Cultural: Times Square",
             "Cultural: Central Park"
         ]
+    },
+    "budget Nikon camera accessories": {
+        "date": "2025-10-13T05:00:33",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Central Park",
+            "Cultural: Tex-Mex",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
