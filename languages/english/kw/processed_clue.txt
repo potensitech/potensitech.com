@@ -623,3 +623,5 @@ flash drive
 battery life
 gpu performance
 mirrorless technology
+camera lens
+dslr photography
