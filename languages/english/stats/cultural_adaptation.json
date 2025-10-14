@@ -3979,5 +3979,18 @@
             "Cultural: Broadway",
             "Cultural: Central Park"
         ]
+    },
+    "nikon camera quality review": {
+        "date": "2025-10-14T19:35:20",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
