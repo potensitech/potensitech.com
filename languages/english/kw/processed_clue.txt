@@ -620,3 +620,5 @@ portable storage
 flash drive
 portable storage
 flash drive
+battery life
+gpu performance

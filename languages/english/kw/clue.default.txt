@@ -1,8 +1,8 @@
 portable storage
 flash drive
 usb stick
-smartphone camera
 battery life
+smartphone camera
 wireless charging
 screen resolution
 ai rendering

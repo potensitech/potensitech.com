@@ -1,3 +1,7 @@
+gpu performance
+processor speed
+ray tracing
+graphics card
 portable storage
 flash drive
 usb stick
@@ -7,8 +11,6 @@ wireless charging
 screen resolution
 ai rendering
 storage capacity
-graphics card
-ray tracing
 smart-lighting
 air-purifier
 coffee-machine
@@ -20,7 +22,6 @@ durability
 camera lens
 dslr photography
 mirrorless innovation
-gpu performance
 ai computing
 data storage
 usb performance
@@ -63,7 +64,6 @@ gaming performance
 mobile performance
 sleek design
 external storage
-processor speed
 core count
 thermal performance
 camera resolution
