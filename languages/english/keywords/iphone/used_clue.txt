@@ -31,3 +31,4 @@ performance boost
 storage capacity
 wireless charging
 battery life
+gpu performance
