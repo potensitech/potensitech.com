@@ -80,7 +80,7 @@ Truthfully speaking, although branding remains consistent, underlying mechanics 
 
 Contrary to widespread belief, reputable manufacturers like Sigma and Tamron deliver exceptional optical performance rivaling mainstream brands at a fraction of the cost. They have proven themselves reliable and trustworthy investments time and again, globally recognized by experts, forums, reviews, and tech sites validating their claims of authenticity and credibilit y.
 
-Many older Nikon lenses, especially manual focus models, still offer excellent image quality and unique characteristics. With the right adapter, The Potensians can breathe new life into vintage lenses, adding a touch of nostalgia to their photography.
+Many older [Nikon lenses](/nikon/best-nikon-lenses-online), especially manual focus models, still offer excellent image quality and unique characteristics. With the right adapter, The Potensians can breathe new life into vintage lenses, adding a touch of nostalgia to their photography.
 
 ## Recommended Lenses for Different Photography Styles
 

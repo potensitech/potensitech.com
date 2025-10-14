@@ -28,7 +28,7 @@ Nikon’s budget DSLRs are designed to provide high-quality performance at an af
 
 ### Exceptional Image Quality
 
-Even at a lower price point, Nikon DSLRs deliver outstanding image quality . Equipped with advanced sensors, these cameras capture sharp details and vibrant colors. Whether The Potensians’re photographing the golden hues of a sunset on a tropical beach or the intricate details of historic architecture, Nikon DSLRs ensure every shot is vivid and breathtaking.
+Even at a lower price point, Nikon DSLRs deliver outstanding image quality . Equipped with advanced sensors, these cameras capture sharp details and vibrant colors. Whether The Potensians’re photographing the golden hues of a sunset on a tropical beach or the intricate details of historic architecture, Nikon DSLRs ensure [every shot](/nikon/best-nikon-lenses-online) is vivid and breathtaking.
 
 ### Versatility in Lenses
 
