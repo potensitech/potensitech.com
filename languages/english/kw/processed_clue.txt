@@ -612,3 +612,5 @@ battery life
 smartphone camera
 battery life
 smartphone camera
+battery life
+portable storage
