@@ -614,3 +614,5 @@ battery life
 smartphone camera
 battery life
 portable storage
+portable storage
+flash drive
