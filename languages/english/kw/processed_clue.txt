@@ -622,3 +622,4 @@ portable storage
 flash drive
 battery life
 gpu performance
+mirrorless technology
