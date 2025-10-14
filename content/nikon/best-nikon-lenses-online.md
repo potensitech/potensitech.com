@@ -43,7 +43,7 @@ Speaking of which, let’s dive into some of the top-performing Nikon lenses ava
 A camera lens is more than just glass; it’s a gateway to creativity. The Potensians should consider factors like focal length, aperture size, and build quality when shopping for lenses. Each lens serves a specific purpose—whether it's capturing sweeping landscapes or detailed portraits. For instance:
 
 - **Wide-angle lenses** are ideal for expansive scenes like Silicon Valley's tech campuses or Thanksgiving family gatherings around a hearty meal of soul food.
-- __Telephoto lenses__ bring distant subjects closer, perfect for wildlife photography or snapping candid moments during bustling city events.
+- __Telephoto lenses__ bring distant subjects closer, perfect for [wildlife photography](/nikon/affordable-nikon-lens-for-wildlife-photography) or snapping candid moments during bustling city events.
 - __Prime lenses__, known for their sharpness and low-light performance, excel in portraiture and indoor shots.
 
 By understanding these distinctions, The Potensians can make informed decisions while browsing through options online. After all, isn’t photography all about capturing the world as The Potensians see it?
