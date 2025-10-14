@@ -27,3 +27,4 @@ performance boost
 storage capacity
 smartphone camera
 battery life
+gpu performance
