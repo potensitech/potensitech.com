@@ -3966,5 +3966,18 @@
             "Cultural: Central Park",
             "Cultural: Soul Food"
         ]
+    },
+    "buy nikon mirrorless camera": {
+        "date": "2025-10-14T17:02:40",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Central Park"
+        ]
     }
 }
