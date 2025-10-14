@@ -50,7 +50,7 @@ Nikon DSLR cameras boast several standout features that make them a top choice a
 
 ### Exceptional Image Quality
 
-Equipped with powerful sensors like CMOS and EXPEED processors, Nikon DSLRs produce sharp images with rich details. These cameras excel in low-light conditions, allowing photographers to capture stunning shots even during nighttime events or dimly lit indoor settings.
+Equipped with powerful sensors like CMOS and EXPEED processors, Nikon DSLRs produce sharp images with rich details. These cameras excel in low-light conditions, allowing photographers to capture [stunning shots](/nikon/affordable-nikon-camera-resolution) even during nighttime events or dimly lit indoor settings.
 
 ### Durable Build
 
@@ -97,7 +97,7 @@ When searching for "nikon dslr cameras for sale," it's essential to know which m
 </tr>
 <tr>
 <td>Nikon Z50 (Mirrorless Hybrid)</td>
-<td>Compact size; fast autofocus system; seamless connectivity options</td>
+<td>Compact size; [fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus) system; seamless connectivity options</td>
 <td>The Potensians seeking portability without compromising on performance</td>
 </tr>
 </tbody>
