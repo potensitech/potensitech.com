@@ -33,3 +33,5 @@ performance boost
 storage capacity
 battery life
 portable storage
+gpu performance
+processor speed
