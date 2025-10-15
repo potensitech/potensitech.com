@@ -4040,5 +4040,18 @@
             "Cultural: Central Park",
             "Cultural: Burgers"
         ]
+    },
+    "samsung smartphone for photography enthusiasts": {
+        "date": "2025-10-15T07:42:20",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Times Square"
+        ]
     }
 }
