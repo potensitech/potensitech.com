@@ -4027,5 +4027,18 @@
             "Cultural: Fourth of July",
             "Cultural: Wall Street"
         ]
+    },
+    "samsung smartphone with advanced camera lens": {
+        "date": "2025-10-15T05:02:27",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Burgers"
+        ]
     }
 }
