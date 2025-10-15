@@ -28,3 +28,5 @@ performance boost
 flash drive
 portable storage
 usb stick
+gpu performance
+processor speed

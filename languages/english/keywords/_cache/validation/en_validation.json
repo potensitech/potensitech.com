@@ -1906,5 +1906,8 @@
   "intel budget-friendly processor with performance": true,
   "intel processor for affordable faster computing": true,
   "intel processor optimized for multitasking": true,
-  "intel processor with reliable performance": true
+  "intel processor with reliable performance": true,
+  "nvidia affordable GPU for gaming performance": true,
+  "nvidia budget-friendly GPU for high performance": true,
+  "nvidia processor for affordable computing speed": true
 }
