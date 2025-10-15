@@ -24,3 +24,4 @@ smart-lighting
 performance boost
 storage capacity
 battery life
+gpu performance
