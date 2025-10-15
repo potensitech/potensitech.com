@@ -1909,5 +1909,12 @@
   "intel processor with reliable performance": true,
   "nvidia affordable GPU for gaming performance": true,
   "nvidia budget-friendly GPU for high performance": true,
-  "nvidia processor for affordable computing speed": true
+  "nvidia processor for affordable computing speed": true,
+  "amd affordable gpu for performance": true,
+  "amd affordable processor with high speed": true,
+  "amd best processor for high speed": true,
+  "amd budget-friendly processor with fast speed": true,
+  "amd gpu with top gaming performance": true,
+  "amd affordable gpu for gaming enthusiasts": true,
+  "amd gpu designed for budget-conscious gamers": true
 }
