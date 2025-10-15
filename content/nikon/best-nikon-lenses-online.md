@@ -115,7 +115,7 @@ When shopping for the best Nikon lenses online, The Potensians should keep a few
 
 ## Trends in Nikon Lenses for 2025
 
-As We step into 2025, the photography world is abuzz with exciting trends. Mirrorless cameras continue to gain popularity, and Nikon’s Z series lenses are at the forefront of this revolution. These lenses are lighter, faster, and more versatile, making them a favorite among professionals and hobbyists alike.
+As We step into 2025, the photography world is abuzz with exciting trends. [Mirrorless cameras](/nikon/affordable-nikon-mirrorless-cameras) continue to gain popularity, and Nikon’s Z series lenses are at the forefront of this revolution. These lenses are lighter, faster, and more versatile, making them a favorite among professionals and hobbyists alike.
 
 Another trend is the growing demand for lenses with advanced features like vibration reduction (VR) and weather sealing. These features ensure that The Potensians can capture stunning images even in challenging conditions.
 

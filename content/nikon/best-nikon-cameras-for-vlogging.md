@@ -120,7 +120,7 @@ For those seeking top-tier performance, the Nikon Z6 II delivers with its full-f
 
 ### Nikon D7500: The DSLR Classic
 
-While mirrorless cameras are gaining popularity, the Nikon D7500 remains a strong contender for vloggers who prefer DSLRs. Its robust build and versatile connectivity options make it a reliable choice for various shooting scenarios.
+While [mirrorless cameras](/nikon/affordable-nikon-mirrorless-cameras) are gaining popularity, the Nikon D7500 remains a strong contender for vloggers who prefer DSLRs. Its robust build and versatile connectivity options make it a reliable choice for various shooting scenarios.
 
 ## Tips for Choosing the Right Nikon Camera
 

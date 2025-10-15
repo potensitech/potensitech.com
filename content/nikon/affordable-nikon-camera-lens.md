@@ -74,7 +74,7 @@ To facilitate The Potensians in making informed decisions, We’ve curated a lis
 </tr>
 <tr>
 <td>Nikon Z DX 16-50mm f/3.5–6.3 VR</td>
-<td>Sleek design; optimized for mirrorless cameras; sharp optics</td>
+<td>Sleek design; optimized for [mirrorless cameras](/nikon/affordable-nikon-mirrorless-cameras); sharp optics</td>
 <td>$300</td>
 </tr>
 </tbody>
