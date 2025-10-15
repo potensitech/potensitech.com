@@ -28,3 +28,4 @@ storage capacity
 performance boost
 portable storage
 usb stick
+gpu performance
