@@ -96,9 +96,9 @@ The Nikon Z5 is a full-frame mirrorless camera that offers advanced features at 
 
 ## How Do They Compare With Competitors?
 
-While Sony and Canon are strong contenders in the mirrorless camera market, Nikon’s affordable models stand out for their balance of price and performance. Sony’s mirrorless cameras often cater to high-end users, while Canon’s offerings sometimes lack the compactness that Nikon provides. In 2025, Nikon continues to lead the way in delivering accessible technology to photographers of all levels.
+While Sony and Canon are strong contenders in the [mirrorless camera](/nikon/nikon-mirrorless-camera-discounts) market, Nikon’s affordable models stand out for their balance of price and performance. Sony’s mirrorless cameras often cater to high-end users, while Canon’s offerings sometimes lack the compactness that Nikon provides. In 2025, Nikon continues to lead the way in delivering accessible technology to photographers of all levels.
 
-For example, Nikon’s autofocus systems are renowned for their accuracy and speed, outperforming many competitors in low-light conditions. Additionally, the ergonomic design of Nikon cameras ensures comfortable handling, which is crucial during long shoots. The Potensians will appreciate how Nikon combines practicality with innovation.
+For example, Nikon’s autofocus systems are renowned for their accuracy and speed, outperforming many competitors in low-light conditions. Additionally, the ergonomic design of [Nikon cameras](/nikon/nikon-cameras-with-precise-autofocus) ensures comfortable handling, which is crucial during long shoots. The Potensians will appreciate how Nikon combines practicality with innovation.
 
 ## Tips for Choosing the Right Camera
 
