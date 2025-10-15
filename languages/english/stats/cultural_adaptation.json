@@ -4053,5 +4053,18 @@
             "Cultural: Chicago",
             "Cultural: Times Square"
         ]
+    },
+    "samsung camera lens for professional photography": {
+        "date": "2025-10-15T12:46:31",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
