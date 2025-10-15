@@ -29,3 +29,4 @@ smart-lighting
 performance boost
 storage capacity
 smartphone camera
+gpu performance
