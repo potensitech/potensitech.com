@@ -4005,5 +4005,14 @@
             "Cultural: Broadway",
             "Cultural: Clam Chowder"
         ]
+    },
+    "samsung budget-friendly smartphone with camera lens": {
+        "date": "2025-10-15T02:09:13",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
