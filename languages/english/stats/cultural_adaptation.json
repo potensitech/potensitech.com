@@ -4014,5 +4014,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung high-quality smartphone with camera lens": {
+        "date": "2025-10-15T03:24:59",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: Wall Street"
+        ]
     }
 }
