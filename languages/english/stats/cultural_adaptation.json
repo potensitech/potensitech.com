@@ -4116,5 +4116,18 @@
             "Cultural: Times Square",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung galaxy s23 deals": {
+        "date": "2025-10-16T09:52:24",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: Hollywood",
+            "Cultural: Central Park"
+        ]
     }
 }
