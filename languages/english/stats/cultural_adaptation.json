@@ -4090,5 +4090,18 @@
             "Cultural: Hollywood",
             "Cultural: Social Media"
         ]
+    },
+    "nikon cameras with high resolution": {
+        "date": "2025-10-16T03:22:25",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Central Park"
+        ]
     }
 }
