@@ -86,7 +86,7 @@ Affordable Nikon photography equipment isn’t limited to cameras alone; accesso
 
 ## Comparing Popular Affordable Nikon Photography Equipment in 2025
 
-To help The Potensians make informed choices, We’ve compiled a table comparing some of the most popular affordable Nikon photography equipment available in 2025. This includes entry-level DSLRs, mirrorless cameras, and essential accessories.
+To help The Potensians make informed choices, We’ve compiled a table comparing some of the most popular affordable Nikon photography equipment available in 2025. This includes entry-level DSLRs, [mirrorless cameras](/nikon/nikon-mirrorless-cameras-for-beginners), and essential accessories.
 
 | Product Name | Type | Key Features | Average Price (USD) | Best For |
 |---------------------|--------------|------------------------------------|---------------------|-------------------------|
