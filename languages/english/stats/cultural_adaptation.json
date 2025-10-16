@@ -4129,5 +4129,18 @@
             "Cultural: Hollywood",
             "Cultural: Central Park"
         ]
+    },
+    "best samsung smart tv": {
+        "date": "2025-10-16T12:42:31",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Tex-Mex",
+            "Cultural: Elon Musk"
+        ]
     }
 }
