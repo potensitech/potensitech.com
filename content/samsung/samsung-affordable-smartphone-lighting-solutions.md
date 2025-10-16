@@ -68,7 +68,7 @@ To better understand the value Samsung offers, let’s compare some of their aff
 </thead>
 <tbody>
 <tr>
-<td>Samsung Galaxy A14</td>
+<td>[Samsung Galaxy](/samsung/samsung-galaxy-s23-deals) A14</td>
 <td>Adaptive Brightness, Night Mode</td>
 <td>$199</td>
 <td>4.3/5</td>

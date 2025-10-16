@@ -76,7 +76,7 @@ To better understand the impact of Samsung's innovations, let’s compare some k
 <thead>
 <tr>
 <th>Feature</th>
-<th>Samsung Galaxy S Series</th>
+<th>[Samsung Galaxy](/samsung/samsung-galaxy-s23-deals) S Series</th>
 <th>Competitor X</th>
 <th>Competitor Y</th>
 </tr>

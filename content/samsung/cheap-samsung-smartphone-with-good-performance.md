@@ -28,7 +28,7 @@ Samsung has consistently delivered smartphones that cater to a wide range of use
 
 ## Samsung Galaxy A14 5G: Affordable 5G Excellence
 
-The Samsung Galaxy A14 5G is a testament to how far budget smartphones have come. It offers modern features like 5G connectivity, a large display, and a reliable processor, all at an affordable price point.
+The [Samsung Galaxy](/samsung/samsung-galaxy-s23-deals) A14 5G is a testament to how far budget smartphones have come. It offers modern features like 5G connectivity, a large display, and a reliable processor, all at an affordable price point.
 
 ### Key Features of the Galaxy A14 5G
 

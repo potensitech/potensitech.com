@@ -67,7 +67,7 @@ To help The Potensians make informed decisions, here’s a comparison of some po
 </thead>
 <tbody>
 <tr>
-<td>Samsung Galaxy A14</td>
+<td>[Samsung Galaxy](/samsung/samsung-galaxy-s23-deals) A14</td>
 <td>$199</td>
 <td>6.5" HD+</td>
 <td>50MP + 2MP</td>

@@ -160,7 +160,7 @@ Blurring the lines between a camera and a smartphone, the Galaxy Camera 2 is per
 <td>$300</td>
 </tr>
 <tr>
-<td>Samsung Galaxy Camera 2</td>
+<td>[Samsung Galaxy](/samsung/samsung-galaxy-s23-deals) Camera 2</td>
 <td>BSI CMOS</td>
 <td>16.3</td>
 <td>21x Optical</td>

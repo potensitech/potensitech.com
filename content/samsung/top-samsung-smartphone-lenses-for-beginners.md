@@ -67,7 +67,7 @@ Wide-angle lenses are particularly useful for travel photography, group photos, 
 </thead>
 <tbody>
 <tr>
-<td>Samsung Galaxy S23 Ultra</td>
+<td>[Samsung Galaxy](/samsung/samsung-galaxy-s23-deals) S23 Ultra</td>
 <td>Ultra-Wide 12MP Lens</td>
 <td>120° Field of View</td>
 <td>$1,199</td>
