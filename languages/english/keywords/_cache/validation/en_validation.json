@@ -1984,5 +1984,12 @@
   "nvidia gaming GPU with budget pricing": true,
   "nvidia GPU optimized for creative professionals": true,
   "nvidia affordable graphics card for streaming": true,
-  "nvidia budget GPU for casual gaming": true
+  "nvidia budget GPU for casual gaming": true,
+  "amd affordable GPU for gaming": true,
+  "amd budget-friendly GPU with high performance": true,
+  "amd affordable processor for multitasking": true,
+  "amd budget processor with optimized performance": true,
+  "amd high-performance GPU for graphics tasks": true,
+  "amd GPU for entry-level gaming": true,
+  "amd processor for cost-effective computing": true
 }
