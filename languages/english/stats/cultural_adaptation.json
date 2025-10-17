@@ -4228,5 +4228,18 @@
             "Cultural: Burgers",
             "Cultural: Pizza"
         ]
+    },
+    "nikon mirrorless cameras with 4k video": {
+        "date": "2025-10-17T14:47:25",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Apple Pie",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
