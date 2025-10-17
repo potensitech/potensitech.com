@@ -30,7 +30,7 @@ Nikon has established itself as a trusted name in the world of photography, reno
 
 Budget-friendly Nikon DSLR camera lenses offer a harmonious blend of affordability and performance. One standout example is the Nikon AF-S DX NIKKOR 35mm f/1.8G, a compact lens that delivers sharp images and excels in low-light conditions. Imagine capturing the vibrant hues of a cityscape at dusk or the intricate details of a flower in dim lighting—this lens makes it possible without stretching The Potensians's budget. 
 
-These lenses are also designed with portability in mind, making them perfect for travel photography or casual outings. Many professionals recommend starting with versatile lenses, such as zooms or primes, which adapt seamlessly to various scenarios. For instance, the Nikon AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR is a versatile zoom lens that covers a wide range of focal lengths, ideal for everything from landscapes to portraits.
+These lenses are also designed with portability in mind, making them perfect for [travel photography](/nikon/nikon-mirrorless-cameras-for-travel-photography) or casual outings. Many professionals recommend starting with versatile lenses, such as zooms or primes, which adapt seamlessly to various scenarios. For instance, the Nikon AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR is a versatile zoom lens that covers a wide range of focal lengths, ideal for everything from landscapes to portraits.
 
 ### Advantages of Budget-Friendly Lenses
 
