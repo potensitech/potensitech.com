@@ -30,7 +30,7 @@ The uniqueness of AMD high-speed [SanDisk memory](/amd/amd-affordable-sandisk-me
 
 ### Blazing-Fast Transfer Rates
 
-One of the most imp​ressive features of AMD high-speed SanDisk memory cards is their exceptional read and write speeds. With transfer rates exceeding 300 MB/s on select models, these cards are perfect for tasks that demand high-speed data handling. Whether The Potensians're recording 4K video, transferring large files, or running applications directly from the card, the performance is seamless.
+One of the most imp​ressive features of [AMD high-speed](/amd/amd-high-speed-low-cost-processor) SanDisk memory cards is their exceptional read and write speeds. With transfer rates exceeding 300 MB/s on select models, these cards are perfect for tasks that demand high-speed data handling. Whether The Potensians're recording 4K video, transferring large files, or running applications directly from the card, the performance is seamless.
 
 For instance:
 

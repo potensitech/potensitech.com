@@ -87,7 +87,7 @@ Nikon cameras are not just for still photography; they also excel in video recor
 
 ### Low-Light Performance for Night Photography
 
-Travel often involves capturing moments in low-light conditions, such as cityscapes at night or the northern lights. Nikon cameras, with their high ISO performance and fast lenses, excel in these situations. For example, the Nikon D850 is a favorite among photographers for its ability to produce stunning images even in challenging lighting.
+Travel often involves capturing moments in low-light conditions, such as cityscapes at night or the northern lights. [Nikon cameras](/nikon/nikon-cameras-with-high-speed-autofocus-performance), with their high ISO performance and fast lenses, excel in these situations. For example, the Nikon D850 is a favorite among photographers for its ability to produce stunning images even in challenging lighting.
 
 ## Tips for Choosing The Potensians' Next Travel Companion Camera
 

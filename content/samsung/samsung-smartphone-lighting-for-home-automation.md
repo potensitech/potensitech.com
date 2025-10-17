@@ -26,7 +26,7 @@ featuredImagePreview: "/images/samsung/samsung-smartphone-lighting-for-home-auto
 
 The brilliance behind **Samsung smartphone lighting for home automation** lies in its intuitive operation. Here’s how it functions:
 
-1. **Smart Bulbs:** These LED bulbs are equipped with Wi-Fi capabilities and can be controlled via apps installed on Samsung smartphones.
+1. **Smart Bulbs:** These LED bulbs are equipped with Wi-Fi capabilities and can be controlled via apps installed on [Samsung smartphones](/samsung/affordable-samsung-smartphones).
 2. **Mobile App:** The SmartThings app acts as the command center where users can manage all connected devices.
 3. **Connectivity:** Lights communicate through Wi-Fi or Zigbee protocols, ensuring reliable performance.
 4. **Integration:** Syncing with other smart gadgets like motion sensors allows automated responses—for instance, hallway lights turning on when movement is detected at night.
