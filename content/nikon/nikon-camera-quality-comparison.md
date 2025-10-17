@@ -81,7 +81,7 @@ For those venturing into the mirrorless realm, the **Nikon Z9** is a game-change
 
 ### Autofocus Performance
 
-Autofocus is a critical feature for many photographers, especially those capturing fast-moving subjects. The **Nikon Z6 II** excels in this area with its 273-point hybrid autofocus system. This ensures accurate tracking of moving subjects, making it perfect for events like parades or sports games.
+Autofocus is a critical feature for many photographers, especially those capturing [fast-moving subjects](/nikon/best-nikon-camera-for-fast-moving-subjects). The **Nikon Z6 II** excels in this area with its 273-point hybrid autofocus system. This ensures accurate tracking of moving subjects, making it perfect for events like parades or sports games.
 
 On the DSLR front, the **Nikon D780** offers a robust phase-detection autofocus system. This ensures reliable performance even in challenging lighting conditions, such as dimly lit indoor settings or nighttime photography.
 

@@ -40,7 +40,7 @@ Samsung’s smart lighting solutions come packed with features that enhance conv
 - **Voice Control:** Compatible with voice assistants like Bixby, Alexa, and Google Assistant, allowing hands-free operation.
 - **Customizable Scenes:** Create personalized lighting scenes for different moods or activities, such as reading, dining, or relaxing.
 - **Energy Efficiency:** Smart bulbs consume less energy compared to traditional lighting, promoting eco-conscious living.
-- **Remote Access:** Control The Potensians's home lighting from anywhere in the world using The Potensians's Samsung smartphone.
+- **Remote Access:** Control The Potensians's home lighting from anywhere in the world using The Potensians's [Samsung smartphone](/samsung/authentic-samsung-smartphone-photography-gear).
 
 These features make Samsung’s smart lighting system a game-changer for home automation enthusiasts.
 
