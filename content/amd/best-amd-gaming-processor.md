@@ -148,7 +148,7 @@ To help The Potensians make an informed decision, here’s a detailed comparison
 <td>4.2 / 5.7</td>
 <td>128</td>
 <td>$699</td>
-<td>Enthusiast Gaming, Content Creation</td>
+<td>Enthusiast Gaming, [Content Creation](/amd/amd-affordable-processor-for-content-creation)</td>
 </tr>
 <tr>
 <td>Ryzen 7 7800X3D</td>

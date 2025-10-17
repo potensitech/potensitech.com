@@ -28,7 +28,7 @@ When it comes to processors tailored for day-to-day tasks, AMD has carved out a 
 
 ### Affordable Yet Powerful Performance
 
-AMD's entry-level processor for everyday computing strikes the perfect balance between price and performan​ce. Unlike premium options designed for gaming or high-end content creation, these processors focus on delivering smooth performance for common activities such as web browsing, video conferencing on platforms like Zoom, and enjoying media-rich experiences like streaming New Year's Day celebrations live from Los Angeles.
+AMD's entry-level processor for everyday computing strikes the perfect balance between price and performan​ce. Unlike premium options designed for gaming or high-end [content creation](/amd/amd-affordable-processor-for-content-creation), these processors focus on delivering smooth performance for common activities such as web browsing, video conferencing on platforms like Zoom, and enjoying media-rich experiences like streaming New Year's Day celebrations live from Los Angeles.
 
 For instance:
 
