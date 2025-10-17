@@ -4202,5 +4202,18 @@
             "Cultural: Times Square",
             "Cultural: Apple Pie"
         ]
+    },
+    "amd cost-effective balanced-core processor": {
+        "date": "2025-10-17T09:52:23",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: Chicago",
+            "Cultural: Times Square"
+        ]
     }
 }
