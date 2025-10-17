@@ -4163,5 +4163,18 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "amd high-speed low-cost processor": {
+        "date": "2025-10-17T02:05:44",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Silicon Valley",
+            "Cultural: Albert Einstein",
+            "Cultural: Thomas Edison"
+        ]
     }
 }

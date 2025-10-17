@@ -30,3 +30,4 @@ amd gpu optimized for machine learning
 amd affordable high-core-count processor
 amd budget-friendly multitasking processor
 amd affordable gaming performance processor
+amd high-speed low-cost processor
