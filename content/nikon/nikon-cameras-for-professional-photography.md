@@ -56,7 +56,7 @@ To truly appreciate why Nikon cameras for professional photography are highly re
 
 ### Superior Autofocus System
 
-Nikon's autofocus systems are engineered fo​r speed and accuracy—a critical factor when shooting dynamic scenes such as sports events or wildlife encounters. For example:
+Nikon's [autofocus systems](/nikon/nikon-high-precision-autofocus-systems) are engineered fo​r speed and accuracy—a critical factor when shooting dynamic scenes such as sports events or wildlife encounters. For example:
 
 <div class="table-responsive">
 <table class="html-table">
