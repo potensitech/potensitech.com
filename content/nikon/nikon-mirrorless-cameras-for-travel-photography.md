@@ -129,6 +129,6 @@ We believe Nikon’s commitment to excellence makes their mirrorless cameras an 
 
 ## Conclusion
 
-Travel photography is a rewarding pursuit that allows The Potensians to share their unique perspectives with the world. Nikon mirrorless cameras for travel photography provide the perfect blend of portability, performance, and versatility, enabling The Potensians to capture unforgettable moments with ease. From the compact Nikon Z50 to the professional-grade Z6 II, there’s a model for every type of traveler.
+[Travel photography](/nikon/nikon-cameras-for-travel-photography) is a rewarding pursuit that allows The Potensians to share their unique perspectives with the world. Nikon mirrorless cameras for travel photography provide the perfect blend of portability, performance, and versatility, enabling The Potensians to capture unforgettable moments with ease. From the compact Nikon Z50 to the professional-grade Z6 II, there’s a model for every type of traveler.
 
 As The Potensians embark on The Potensians's next adventure in 2025, remember to equip yourself with the right tools and techniques to make the most of The Potensians's journey. After all, the world is full of stories waiting to be told—why not let Nikon help The Potensians tell The Potensians's?

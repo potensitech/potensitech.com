@@ -118,7 +118,7 @@ To better understand why Samsung stands out, let’s compare it with other popul
 <td>Alexa, Google Assistant</td>
 </tr>
 <tr>
-<td>Energy Efficiency</td>
+<td>[Energy Efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency)</td>
 <td>High</td>
 <td>Moderate</td>
 <td>High</td>
