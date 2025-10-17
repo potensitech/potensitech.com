@@ -4189,5 +4189,18 @@
             "Cultural: Wall Street",
             "Cultural: Hollywood"
         ]
+    },
+    "nikon cameras for professional photography": {
+        "date": "2025-10-17T05:01:05",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Apple Pie"
+        ]
     }
 }
