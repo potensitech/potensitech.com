@@ -4241,5 +4241,15 @@
             "Cultural: Apple Pie",
             "Cultural: Clam Chowder"
         ]
+    },
+    "amd affordable processor for content creation": {
+        "date": "2025-10-17T19:35:47",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
