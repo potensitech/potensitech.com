@@ -671,3 +671,5 @@ gpu performance
 processor speed
 dslr photography
 mirrorless technology
+gpu performance
+processor speed
