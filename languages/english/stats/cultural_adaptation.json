@@ -4299,5 +4299,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "amd budget-friendly GPU with ray tracing": {
+        "date": "2025-10-18T14:39:07",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Chicago",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex",
+            "Cultural: Innovation"
+        ]
     }
 }

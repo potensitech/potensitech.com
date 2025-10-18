@@ -2679,5 +2679,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "amd budget-friendly GPU with ray tracing": {
+        "date": "2025-10-18T14:39:07",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }

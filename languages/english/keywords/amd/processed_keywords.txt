@@ -38,3 +38,4 @@ amd optimal-core processor for budget builds
 amd affordable gaming-speed processor
 amd low-cost processor for workstations
 amd affordable graphics card for gaming
+amd budget-friendly GPU with ray tracing
