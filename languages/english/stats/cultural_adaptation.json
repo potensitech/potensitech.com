@@ -4290,5 +4290,14 @@
             "Cultural: Innovation",
             "Cultural: Remote Work"
         ]
+    },
+    "amd affordable graphics card for gaming": {
+        "date": "2025-10-18T12:36:33",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
