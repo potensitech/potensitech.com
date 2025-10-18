@@ -4312,5 +4312,17 @@
             "Cultural: Tex-Mex",
             "Cultural: Innovation"
         ]
+    },
+    "amd entry-level gaming graphics card": {
+        "date": "2025-10-18T16:59:34",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: Apple Pie",
+            "Cultural: Innovation"
+        ]
     }
 }
