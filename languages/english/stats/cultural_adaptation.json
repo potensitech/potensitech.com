@@ -4336,5 +4336,14 @@
             "Cultural: Silicon Valley",
             "Cultural: Innovation"
         ]
+    },
+    "amd cost-effective GPU for 1080p gaming": {
+        "date": "2025-10-18T21:50:04",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Los Angeles"
+        ]
     }
 }
