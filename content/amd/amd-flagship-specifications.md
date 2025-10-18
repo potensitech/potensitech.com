@@ -64,7 +64,7 @@ AMD’s flagship CPUs in 2025 are designed with eco-consciousness in mind. The Z
 
 ## Graphics Prowess: Hollywood Visuals at Home
 
-AMD’s Radeon RX series stands out among flagship GPUs thanks to ray tracing capabilities and AI-powered upscaling technologies like FidelityFX Super Resolution (FSR). These features bring cinematic realism into living rooms across America—making every scene pop like a Hollywood blockbuster.
+AMD’s Radeon RX series stands out among flagship GPUs thanks to [ray tracing](/amd/amd-budget-friendly-gpu-with-ray-tracing) capabilities and AI-powered upscaling technologies like FidelityFX Super Resolution (FSR). These features bring cinematic realism into living rooms across America—making every scene pop like a Hollywood blockbuster.
 
 - **Ray Tracing Cores:** Deliver lifelike lighting effects crucial for next-gen games.
 - **High VRAM Capacities:** Upwards of 24GB GDDR6X ensures smooth gameplay at ultra settings.

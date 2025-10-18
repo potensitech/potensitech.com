@@ -42,7 +42,7 @@ For The Potensians who seek the perfect balance between price and performance, [
 
 AMD has carved a niche for itself in the gaming hardware market by offering GPUs that deliver exceptional value. Unlike some competitors, AMD focuses on providing high-end features at a more accessible price point. This approach has made AMD a favorite among gamers who want top-tier performance without overspending.
 
-One of AMD's standout features is its RDNA architecture, which powers its latest GPUs. RDNA 3, the architecture behind AMD's 2025 lineup, offers improved power efficiency, higher clock speeds, and enhanced ray tracing capabilities. Additionally, AMD's software ecosystem, including Radeon Software Adrenalin Edition, provides tools for optimizing performance, recording gameplay, and customizing settings.
+One of AMD's standout features is its RDNA architecture, which powers its latest GPUs. RDNA 3, the architecture behind AMD's 2025 lineup, offers improved power efficiency, higher clock speeds, and enhanced [ray tracing](/amd/amd-budget-friendly-gpu-with-ray-tracing) capabilities. Additionally, AMD's software ecosystem, including Radeon Software Adrenalin Edition, provides tools for optimizing performance, recording gameplay, and customizing settings.
 
 For The Potensians who value innovation, AMD's GPUs are a gateway to immersive gaming experiences. From lifelike lighting effects to ultra-high frame rates, AMD ensures that every gaming session is unforgettable.
 

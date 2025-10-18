@@ -69,7 +69,7 @@ To help The Potensians make an informed decision, We have curated a list of the 
 </tr>
 <tr>
 <td>AMD Radeon RX 7900 XT</td>
-<td>20GB GDDR6 memory, Ray Tracing, Smart Access Memory (SAM)</td>
+<td>20GB GDDR6 memory, [Ray Tracing](/amd/amd-budget-friendly-gpu-with-ray-tracing), Smart Access Memory (SAM)</td>
 <td>Smooth gameplay with excellent ray tracing effects</td>
 <td>$899</td>
 </tr>
