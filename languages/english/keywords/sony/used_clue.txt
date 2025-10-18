@@ -27,3 +27,4 @@ performance boost
 storage capacity
 battery life
 dslr photography
+gpu performance
