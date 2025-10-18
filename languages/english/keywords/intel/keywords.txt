@@ -148,4 +148,5 @@ intel processor optimized for multitasking
 intel processor with reliable performance
 intel affordable processor with great performance
 intel processor for efficient computing tasks
+affordable intel processor speed
 
