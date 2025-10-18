@@ -4251,5 +4251,18 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "amd optimal-core processor for budget builds": {
+        "date": "2025-10-18T05:04:05",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Wall Street",
+            "Cultural: Hollywood",
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }

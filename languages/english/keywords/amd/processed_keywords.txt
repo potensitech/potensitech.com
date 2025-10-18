@@ -34,3 +34,4 @@ amd high-speed low-cost processor
 amd cost-effective balanced-core processor
 amd entry-level processor for everyday computing
 amd affordable processor for content creation
+amd optimal-core processor for budget builds
