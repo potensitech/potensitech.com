@@ -4277,5 +4277,18 @@
             "Cultural: Central Park",
             "Cultural: Innovation"
         ]
+    },
+    "amd low-cost processor for workstations": {
+        "date": "2025-10-18T09:48:49",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
