@@ -77,7 +77,7 @@ Moreover, AMD's commitment to open standards such as DirectX Raytracing (DXR) en
 </tr>
 <tr>
 <td>Affordable Pricing Strategy</td>
-<td>Access to premium features at lower costs</td>
+<td>Access to [premium features](/amd/amd-premium-features-at-affordable-prices) at lower costs</td>
 <td>$300-$500 price range for mid-tier models (as of 2025)</td>
 </tr>
 </tbody>
