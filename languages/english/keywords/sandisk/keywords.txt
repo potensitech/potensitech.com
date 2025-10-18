@@ -119,4 +119,7 @@ SanDisk storage products for Philips electronics
 SanDisk SSDs for Intel-powered computers
 SanDisk storage solutions for Nvidia GPUs
 sandisk budget-friendly storage for mirrorless cameras
+sandisk high-performance storage for mirrorless cameras
+sandisk professional-grade memory cards for photographers
+sandisk affordable storage for professional cameras
 
