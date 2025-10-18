@@ -1,8 +1,8 @@
-gpu performance
-processor speed
 dslr photography
 mirrorless technology
 camera lens
+gpu performance
+processor speed
 ray tracing
 graphics card
 portable storage
