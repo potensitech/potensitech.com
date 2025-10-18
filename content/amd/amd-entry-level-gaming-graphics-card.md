@@ -105,7 +105,7 @@ AMD’s entry-level GPUs are often priced lower than Nvidia’s counterparts, ma
 
 ### Performance Metrics
 
-While Nvidia may have an edge in raw performance for high-end models, AMD’s entry-level offerings excel in delivering consistent frame rates and graphical fidelity for casual gaming. This makes them a practical choice for gamers who don’t require ultra-high resolutions or advanced ray tracing capabilities.
+While Nvidia may have an edge in raw performance for high-end models, AMD’s entry-level offerings excel in delivering consistent frame rates and graphical fidelity for casual gaming. This makes them a practical choice for gamers who don’t require ultra-high resolutions or advanced [ray tracing](/amd/amd-affordable-gpu-supporting-ray-tracing) capabilities.
 
 <div class="table-responsive">
 <table class="html-table">
