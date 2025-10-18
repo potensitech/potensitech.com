@@ -4264,5 +4264,18 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "amd affordable gaming-speed processor": {
+        "date": "2025-10-18T07:33:31",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: Innovation"
+        ]
     }
 }
