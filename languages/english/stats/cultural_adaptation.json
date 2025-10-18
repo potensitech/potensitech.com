@@ -4324,5 +4324,17 @@
             "Cultural: Apple Pie",
             "Cultural: Innovation"
         ]
+    },
+    "amd affordable GPU supporting ray tracing": {
+        "date": "2025-10-18T19:29:23",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley",
+            "Cultural: Innovation"
+        ]
     }
 }

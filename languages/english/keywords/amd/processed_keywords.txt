@@ -40,3 +40,4 @@ amd low-cost processor for workstations
 amd affordable graphics card for gaming
 amd budget-friendly GPU with ray tracing
 amd entry-level gaming graphics card
+amd affordable GPU supporting ray tracing
