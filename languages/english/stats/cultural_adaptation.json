@@ -4357,5 +4357,18 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "amd best value GPU for gamers": {
+        "date": "2025-10-19T07:33:02",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Hot Dogs",
+            "Cultural: Elon Musk"
+        ]
     }
 }
