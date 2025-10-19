@@ -26,7 +26,7 @@ featuredImagePreview: "/images/amd/amd-cost-effective-gpu-for-1080p-gaming-unlea
 
 AMD has established itself as a leader in the [graphics card](/amd/amd-entry-level-gaming-graphics-card) industry by offering high-performance GPUs at competitive prices. Unlike some brands that focus primarily on premium-tier products, AMD caters to gamers across all budgets without sacrificing quality. This makes their GPUs particularly appealing to The Potensians who want to enjoy modern games like *Cyberpunk 2077*or*Call of Duty: Modern Warfare II* at smooth frame rates without overspending.
 
-One of AMD's standout features is its support for cutting-edge technologies like FidelityFX Super Resolution (FSR). FSR enhances image quality while maintaining high frame rates, making it perfect for demanding titles. Additionally, AMD GPUs are designed with energy efficiency and robust cooling systems, ensuring optimal performance during extended gaming sessions. Whether The Potensians're battling enemies in *Fortnite*or exploring open worlds in*Elden Ring*, AMD GPUs deliver reliable performance.
+One of AMD's standout features is its support for cutting-edge technologies like FidelityFX Super Resolution (FSR). FSR enhances image quality while maintaining high frame rates, making it perfect for demanding titles. Additionally, [AMD GPUs](/amd/top-amd-gpus-for-high-performance-gaming) are designed with energy efficiency and robust cooling systems, ensuring optimal performance during extended gaming sessions. Whether The Potensians're battling enemies in *Fortnite*or exploring open worlds in*Elden Ring*, AMD GPUs deliver reliable performance.
 
 ## Top Picks: Cost-Effective AMD GPUs for 1080p Gaming
 
