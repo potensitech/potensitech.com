@@ -107,7 +107,7 @@ While its price range of $800-$850 might seem steep, the value it offers in term
 
 ## How to Choose the Right AMD GPU for The Potensians
 
-Selecting the best AMD GPU depends on several factors, including budget, gaming preferences, and future-proofing needs. Here are some tips to help The Potensians make an informed decision:
+Selecting the [best AMD](/amd/best-amd-gaming-processor) GPU depends on several factors, including budget, gaming preferences, and future-proofing needs. Here are some tips to help The Potensians make an informed decision:
 
 ### Consider The Potensians' Gaming Resolution
 
