@@ -4370,5 +4370,18 @@
             "Cultural: Hot Dogs",
             "Cultural: Elon Musk"
         ]
+    },
+    "amd affordable GPU for creative work": {
+        "date": "2025-10-19T14:39:01",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: Wall Street",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie"
+        ]
     }
 }
