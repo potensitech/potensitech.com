@@ -42,3 +42,4 @@ amd budget-friendly GPU with ray tracing
 amd entry-level gaming graphics card
 amd affordable GPU supporting ray tracing
 amd cost-effective GPU for 1080p gaming
+amd mid-range GPU with ray tracing

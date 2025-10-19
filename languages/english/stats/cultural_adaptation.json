@@ -4345,5 +4345,17 @@
         "matches": [
             "Cultural: Los Angeles"
         ]
+    },
+    "amd mid-range GPU with ray tracing": {
+        "date": "2025-10-19T05:01:00",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
