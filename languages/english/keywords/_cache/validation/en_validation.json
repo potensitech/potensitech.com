@@ -2134,5 +2134,10 @@
   "intel budget-friendly performance processor": true,
   "intel low-cost reliable performance processor": true,
   "intel affordable gaming processor with speed": true,
-  "intel processor balancing performance and price": true
+  "intel processor balancing performance and price": true,
+  "nvidia affordable GPU for gaming": true,
+  "nvidia budget-friendly graphics card for performance": true,
+  "nvidia high-performance GPU for content creators": true,
+  "nvidia cost-effective GPU for video editing": true,
+  "nvidia mid-range GPU for competitive gaming": true
 }
