@@ -4396,5 +4396,17 @@
             "Cultural: BBQ",
             "Cultural: Innovation"
         ]
+    },
+    "amd beginner-friendly ray tracing GPU": {
+        "date": "2025-10-19T19:30:01",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Los Angeles",
+            "Cultural: BBQ",
+            "Cultural: Innovation"
+        ]
     }
 }

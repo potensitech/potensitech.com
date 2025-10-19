@@ -46,3 +46,4 @@ amd mid-range GPU with ray tracing
 amd best value GPU for gamers
 amd affordable GPU for creative work
 amd beginner-friendly GPU with ray tracing
+amd beginner-friendly ray tracing GPU
