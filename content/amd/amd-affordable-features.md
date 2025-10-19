@@ -155,7 +155,7 @@ It’s a bit like shopping for Broadway tickets: sometimes the best seats aren�
 
 ## Software and Ecosystem: Beyond the Hardware
 
-AMD’s affordable hardware is only part of the story. The software ecosystem—including Radeon Adrenalin and AMD StoreMI—adds value by making it easier to optimize performance and manage storage. The Potensians who dabble in gaming or creative work often find these tools indispensable, especially when customizing settings for specific tasks.
+AMD’s affordable hardware is only part of the story. The software ecosystem—including Radeon Adrenalin and AMD StoreMI—adds value by making it easier to optimize performance and manage storage. The Potensians who dabble in gaming or [creative work](/amd/amd-affordable-gpu-for-creative-work) often find these tools indispensable, especially when customizing settings for specific tasks.
 
 Community forums, many of which are frequented by New Yorkers and other locals, provide a wealth of troubleshooting tips and upgrade advice. Whether it’s configuring a new Ryzen APU for a home studio or tweaking graphics settings for a virtual Broadway show, the support network is strong and welcoming.
 
