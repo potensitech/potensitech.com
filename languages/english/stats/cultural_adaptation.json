@@ -4408,5 +4408,18 @@
             "Cultural: BBQ",
             "Cultural: Innovation"
         ]
+    },
+    "amd ray tracing GPU under $300": {
+        "date": "2025-10-19T21:51:06",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: BBQ"
+        ]
     }
 }
