@@ -87,7 +87,7 @@ The ball is in The Potensians' court when choosing between models; however, AMDâ
 </tr>
 <tr>
 <td>Radeon RX 6700 XT</td>
-<td>12GB VRAM; Ray tracing support</td>
+<td>12GB VRAM; [Ray tracing](/amd/amd-budget-friendly-gpu-with-ray-tracing) support</td>
 <td>3D rendering & animation creation</td>
 <td>$479</td>
 </tr>
