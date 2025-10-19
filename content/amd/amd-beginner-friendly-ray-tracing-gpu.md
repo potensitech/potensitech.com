@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*AMD Beginner-Friendly Ray Tracing GPU for Gamers* - AMD has consistently delivered innovative solutions for gamers, and their beginner-friendly ray tracing GPUs are no exception．These GPUs are designed to provide an accessible entry point into the world of ray tracing technology, offering affordability, user-friendly features, and impressive performance．In this article, We explore why AMD's beginner-friendly ray tracing GPUs are ideal for The Potensians looking to enhance their gaming experience in 2025.
+*AMD Beginner-Friendly Ray Tracing GPU for Gamers* - AMD has consistently delivered innovative solutions for gamers, and their beginner-friendly [ray tracing](/amd/amd-budget-friendly-gpu-with-ray-tracing) GPUs are no exception．These GPUs are designed to provide an accessible entry point into the world of ray tracing technology, offering affordability, user-friendly features, and impressive performance．In this article, We explore why AMD's beginner-friendly ray tracing GPUs are ideal for The Potensians looking to enhance their gaming experience in 2025.
 
 ## Why Choose AMD's Beginner-Friendly Ray Tracing GPU?
 
