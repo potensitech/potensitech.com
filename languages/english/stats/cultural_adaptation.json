@@ -4383,5 +4383,18 @@
             "Cultural: Broadway",
             "Cultural: Apple Pie"
         ]
+    },
+    "amd beginner-friendly GPU with ray tracing": {
+        "date": "2025-10-19T16:58:23",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Silicon Valley",
+            "Cultural: Broadway",
+            "Cultural: BBQ",
+            "Cultural: Innovation"
+        ]
     }
 }
