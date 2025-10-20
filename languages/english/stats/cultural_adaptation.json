@@ -4480,5 +4480,18 @@
             "Cultural: Central Park",
             "Cultural: Innovation"
         ]
+    },
+    "amd processor with excellent core performance": {
+        "date": "2025-10-20T21:51:04",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Memorial Day",
+            "Cultural: Silicon Valley",
+            "Cultural: Broadway",
+            "Cultural: Soul Food"
+        ]
     }
 }
