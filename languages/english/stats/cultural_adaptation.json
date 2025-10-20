@@ -4446,5 +4446,18 @@
             "Cultural: Albert Einstein",
             "Cultural: Innovation"
         ]
+    },
+    "amd affordable processor with great performance": {
+        "date": "2025-10-20T07:37:45",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
