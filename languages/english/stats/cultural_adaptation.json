@@ -4433,5 +4433,18 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "amd low-cost graphics card for esports": {
+        "date": "2025-10-20T03:41:47",
+        "language": "en",
+        "cultural_score": 96,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Times Square",
+            "Cultural: Tex-Mex",
+            "Cultural: Albert Einstein",
+            "Cultural: Innovation"
+        ]
     }
 }
