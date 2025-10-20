@@ -171,4 +171,9 @@ amd gpu benchmarks for affordable models
 amd processor optimization for budget systems
 amd processor speed for entry-level systems
 amd gpu performance for budget gamers
+amd affordable processor for budget-friendly builds
+amd entry-level gpu options for gaming
+amd everyday processor options for computing
+amd gpu performance for 1080p gaming
+amd processor speed for lightweight computing
 
