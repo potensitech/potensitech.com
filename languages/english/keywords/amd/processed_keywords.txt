@@ -51,3 +51,4 @@ amd ray tracing GPU under $300
 amd gaming GPU with budget pricing
 amd low-cost graphics card for esports
 amd affordable processor with great performance
+amd budget-friendly processor for multitasking

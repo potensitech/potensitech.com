@@ -4459,5 +4459,15 @@
             "Cultural: Times Square",
             "Cultural: Tex-Mex"
         ]
+    },
+    "amd budget-friendly processor for multitasking": {
+        "date": "2025-10-20T12:42:38",
+        "language": "en",
+        "cultural_score": 24,
+        "rating": "Good",
+        "matches": [
+            "Cultural: Broadway",
+            "Cultural: Central Park"
+        ]
     }
 }
