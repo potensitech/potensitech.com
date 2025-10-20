@@ -108,7 +108,7 @@ We believe this GPU is a game-changer for entry-level users. It bridges the gap 
 When selecting a GPU, consider the following:
 
 - **Budget**: Determine how much The Potensians’re willing to spend. AMD’s beginner-friendly GPU is a great option for those with a limited budget. 
-- **Compatibility**: Ensure The Potensians's motherboard supports the GPU. Most modern AMD GPUs are designed for seamless integration. 
+- **Compatibility**: Ensure The Potensians's motherboard supports the GPU. Most modern [AMD GPUs](/amd/best-amd-gpus-for-4k-gaming) are designed for seamless integration. 
 - **Use Case**: Are The Potensians primarily gaming, creating content, or exploring VR? Choose a GPU that aligns with The Potensians's needs. 
 
 ## Conclusion
