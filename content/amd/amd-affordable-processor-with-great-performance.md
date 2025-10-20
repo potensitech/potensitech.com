@@ -96,7 +96,7 @@ To better understand why AMD processors are a top choice in 2025, let’s compar
 <td>4/8</td>
 <td>4.0 GHz</td>
 <td>$129</td>
-<td>Budget Builds</td>
+<td>[Budget Builds](/amd/amd-optimal-core-processor-for-budget-builds)</td>
 </tr>
 </tbody>
 </t​able>
