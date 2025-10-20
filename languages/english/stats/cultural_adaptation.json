@@ -4421,5 +4421,17 @@
             "Cultural: Wall Street",
             "Cultural: BBQ"
         ]
+    },
+    "amd gaming GPU with budget pricing": {
+        "date": "2025-10-20T02:14:56",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Central Park",
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }
