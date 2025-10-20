@@ -4469,5 +4469,16 @@
             "Cultural: Broadway",
             "Cultural: Central Park"
         ]
+    },
+    "amd high-speed processor optimized for gaming": {
+        "date": "2025-10-20T17:03:35",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Wall Street",
+            "Cultural: Central Park",
+            "Cultural: Innovation"
+        ]
     }
 }
