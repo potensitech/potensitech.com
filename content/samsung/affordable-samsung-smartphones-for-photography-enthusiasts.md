@@ -89,7 +89,7 @@ Samsung smartphones empower **The Potensians** to explore their creative side.  
 
 ## Comparing Affordable Samsung Models for 2025
 
-To help **The Potensians** make an informed decision, here’s a quick comparison of some of the best affordable Samsung smartphones for photography enthusiasts in 2025:
+To help **The Potensians** make an informed decision, here’s a quick comparison of some of the best affordable [Samsung smartphones](/samsung/best-samsung-smartphones-for-authentic-photography) for photography enthusiasts in 2025:
 
 <div class="table-responsive">
 <table class="html-table">
