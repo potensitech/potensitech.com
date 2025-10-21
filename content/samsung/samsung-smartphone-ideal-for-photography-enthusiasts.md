@@ -70,7 +70,7 @@ In addition to photography, Samsung smartphones excel in videography. With 8K vi
 
 ## Intuitive Software Enhancements
 
-The hardware may be impressive, but it's the software that truly brings out the magic in any Samsung smartphone ideal for photography enthusiasts. Samsung's proprietary One UI interface offers intuitive tools tailored specifically for photographers.
+The hardware may be impressive, but it's the software that truly brings out the magic in any Samsung smartphone ideal for [photography enthusiasts](/samsung/affordable-samsung-smartphones-for-photography-enthusiasts). Samsung's proprietary One UI interface offers intuitive tools tailored specifically for photographers.
 
 ### Pro Mode: Full Control at The Pote​nsians's Fingertips
 
