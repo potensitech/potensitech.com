@@ -4567,5 +4567,18 @@
             "Cultural: Central Park",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "cheap Samsung smartphone for photography": {
+        "date": "2025-10-21T19:34:17",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: Hollywood",
+            "Cultural: Hot Dogs",
+            "Cultural: Soul Food"
+        ]
     }
 }
