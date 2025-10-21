@@ -4543,5 +4543,16 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "affordable Samsung smartphone": {
+        "date": "2025-10-21T12:43:01",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Innovation"
+        ]
     }
 }
