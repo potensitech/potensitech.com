@@ -4506,5 +4506,18 @@
             "Cultural: Los Angeles",
             "Cultural: Times Square"
         ]
+    },
+    "affordable Samsung smartphones for photography enthusiasts": {
+        "date": "2025-10-21T05:01:19",
+        "language": "en",
+        "cultural_score": 97,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Black Friday",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Central Park"
+        ]
     }
 }
