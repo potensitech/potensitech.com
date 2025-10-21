@@ -4554,5 +4554,18 @@
             "Cultural: Christmas",
             "Cultural: Innovation"
         ]
+    },
+    "budget-friendly Samsung smartphone": {
+        "date": "2025-10-21T17:02:15",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
