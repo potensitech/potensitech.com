@@ -4493,5 +4493,18 @@
             "Cultural: Broadway",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung affordable mirrorless technology": {
+        "date": "2025-10-21T02:09:26",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square"
+        ]
     }
 }
