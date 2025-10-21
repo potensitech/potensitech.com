@@ -176,4 +176,6 @@ amd entry-level gpu options for gaming
 amd everyday processor options for computing
 amd gpu performance for 1080p gaming
 amd processor speed for lightweight computing
+amd cost-effective processor for fast computing
+amd entry-level gpu with reliable performance
 
