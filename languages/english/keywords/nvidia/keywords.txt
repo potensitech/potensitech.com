@@ -180,4 +180,6 @@ nvidia high-performance GPU for content creators
 nvidia cost-effective GPU for video editing
 nvidia mid-range GPU for competitive gaming
 nvidia budget-friendly graphics card for gaming
+nvidia entry-level GPU with reliable performance
+nvidia affordable GPU for professional workloads
 
