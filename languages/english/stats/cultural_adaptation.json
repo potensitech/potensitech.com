@@ -4593,5 +4593,18 @@
             "Cultural: Broadway",
             "Cultural: Pizza"
         ]
+    },
+    "Samsung smartphone for DSLR-quality photography": {
+        "date": "2025-10-22T05:03:23",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Freedom"
+        ]
     }
 }
