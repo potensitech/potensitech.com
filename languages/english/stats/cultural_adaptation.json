@@ -4619,5 +4619,18 @@
             "Cultural: Chicago",
             "Cultural: Burgers"
         ]
+    },
+    "budget-friendly Samsung smartphone camera lens": {
+        "date": "2025-10-22T09:53:28",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: Pizza"
+        ]
     }
 }
