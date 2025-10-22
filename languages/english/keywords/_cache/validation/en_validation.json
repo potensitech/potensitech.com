@@ -2274,5 +2274,12 @@
   "enhanced-speed intel laptop processor": true,
   "intel processor for efficient computing": true,
   "nvidia entry-level GPU with reliable performance": true,
-  "nvidia affordable GPU for professional workloads": true
+  "nvidia affordable GPU for professional workloads": true,
+  "amd affordable gaming GPU for performance": true,
+  "amd affordable GPU for creative tasks": true,
+  "amd budget processor for multitasking speed": true,
+  "amd affordable processor for budget computing": true,
+  "amd high-performance GPU for high-resolution gaming": true,
+  "amd GPU for video editing performance": true,
+  "amd processor for entry-level gaming setups": true
 }
