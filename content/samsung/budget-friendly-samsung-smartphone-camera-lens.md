@@ -86,7 +86,7 @@ Designed specifically for tech-savvy individuals following modern trends such as
 
 ## How to Choose the Right Samsung Smartpho​ne for The Potensians's Needs
 
-Selecting the perfect budget-friendly Samsung smartphone camera lens depends on The Potensians's specific requirements. Here are some factors to consider:
+Selecting the perfect budget-friendly Samsung [smartphone camera](/samsung/samsung-budget-friendly-smartphone-camera-lens) lens depends on The Potensians's specific requirements. Here are some factors to consider:
 
 ### Photography Style
 
