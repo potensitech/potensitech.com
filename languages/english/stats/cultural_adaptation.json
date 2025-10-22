@@ -4580,5 +4580,18 @@
             "Cultural: Hot Dogs",
             "Cultural: Soul Food"
         ]
+    },
+    "Samsung smartphone with excellent camera features": {
+        "date": "2025-10-22T02:12:06",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Pizza"
+        ]
     }
 }
