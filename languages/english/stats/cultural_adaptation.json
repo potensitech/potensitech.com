@@ -4606,5 +4606,18 @@
             "Cultural: Broadway",
             "Cultural: Freedom"
         ]
+    },
+    "affordable Samsung smartphone camera lens": {
+        "date": "2025-10-22T07:38:19",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Burgers"
+        ]
     }
 }
