@@ -801,3 +801,5 @@ dslr photography
 camera lens
 dslr photography
 camera lens
+gpu performance
+processor speed
