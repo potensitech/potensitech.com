@@ -102,7 +102,7 @@ One might wonder: Can a smartphone lens truly rival traditional DSLR or mirrorle
 
 ### Portability and Convenience
 
-Unlike bulky camera equipment, the professional-grade Samsung smartphone camera lens is compact and always within reach. Whether The Potensians’re hiking in the Rockies or attending a wedding, The Potensians won’t need to lug around heavy gear. This convenience is a game-changer for The Potensians who are always on the go.
+Unlike bulky camera equipment, the professional-grade [Samsung smartphone](/samsung/authentic-samsung-smartphone-photography-gear) camera lens is compact and always within reach. Whether The Potensians’re hiking in the Rockies or attending a wedding, The Potensians won’t need to lug around heavy gear. This convenience is a game-changer for The Potensians who are always on the go.
 
 ### Cost-Effectiveness
 
