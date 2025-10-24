@@ -2341,5 +2341,12 @@
   "nvidia entry-level graphics card for gamers": true,
   "nvidia cost-effective GPU for professional tasks": true,
   "nvidia high-performance GPU for budget users": true,
-  "nvidia wallet-friendly GPU with great performance": true
+  "nvidia wallet-friendly GPU with great performance": true,
+  "amd affordable gaming GPU": true,
+  "amd budget-friendly high-performance GPU": true,
+  "amd affordable multitasking processor": true,
+  "amd budget processor with fast speeds": true,
+  "amd GPU for affordable gaming setups": true,
+  "amd processor for affordable computing": true,
+  "amd entry-level processor with reliable performance": true
 }
