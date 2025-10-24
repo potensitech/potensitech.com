@@ -4788,5 +4788,18 @@
             "Cultural: New York",
             "Cultural: Innovation"
         ]
+    },
+    "nikon affordable camera with great performance": {
+        "date": "2025-10-24T17:03:03",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Silicon Valley",
+            "Cultural: Central Park",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
