@@ -4778,5 +4778,15 @@
             "Cultural: Central Park",
             "Cultural: Pizza"
         ]
+    },
+    "nikon camera quality for professional photographers": {
+        "date": "2025-10-24T14:46:41",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Innovation"
+        ]
     }
 }
