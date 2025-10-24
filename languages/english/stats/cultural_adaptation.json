@@ -4765,5 +4765,18 @@
             "Cultural: Central Park",
             "Cultural: Tex-Mex"
         ]
+    },
+    "budget-friendly nikon cameras with excellent quality": {
+        "date": "2025-10-24T12:43:09",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Pizza"
+        ]
     }
 }
