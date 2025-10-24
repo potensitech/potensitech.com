@@ -82,7 +82,7 @@ To facilitate The Potensians in making informed decisions, We’ve curated a lis
 
 While the above models are excellent choices, Nikon also offers other budget-friendly options that cater to specific needs. For instance, the Nikon Z50 is a compact mirrorless camera with a 20.9MP sensor and 4K video recording, priced around $850. Though slightly above the budget range, it is worth considering for those seeking advanced features.
 
-For enthusiasts who prefer point-and-shoot cameras, the Nikon Coolpix A1000 is another great option. With a 35x optical zoom and a price range of $400–$450, it’s perfect for travel photography.
+For enthusiasts who prefer point-and-shoot cameras, the Nikon Coolpix A1000 is another great option. With a 35x optical zoom and a price range of $400–$450, it’s perfect for [travel photography](/nikon/nikon-mirrorless-cameras-for-travel-photography).
 
 ## Tips on Maximizing The Potensian​s' Camera Experience
 
