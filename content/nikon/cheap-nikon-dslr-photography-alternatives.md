@@ -68,7 +68,7 @@ For outdoor photographers who need a durable and reliable camera, the Pentax K-7
 
 - **Key Features**: 
  - Weather-sealed construction for all-weather shooting 
- - In-body image stabilization for sharp photos 
+ - In-body [image stabilization](/nikon/nikon-camera-features-for-image-stabilization) for sharp photos 
  - Compatibility with older Pentax lenses, offering additional savings 
  - 24-megapixel sensor for detailed images 
 - **Price Range**: Roughly $600-$700 
