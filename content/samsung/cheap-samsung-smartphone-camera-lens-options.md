@@ -91,7 +91,7 @@ This all-in-one kit includes wide-angle, macro, fisheye, and telephoto lenses de
 
 ### Xenvo Pro Lens Kit
 
-The Xenvo Pro Lens Kit is another excellent choice for Samsung users. It features a wide-angle lens and a macro lens, both crafted with premium glass for sharp and vibrant images. The kit also includes a rechargeable LED light, which is a game-changer for low-light photography. Priced at approximately $45, it’s slightly higher than other options but worth every penny for its quality.
+The Xenvo Pro Lens Kit is another excellent choice for Samsung users. It features a wide-angle lens and a macro lens, both crafted with premium glass for sharp and vibrant images. The kit also includes a rechargeable LED light, which is a game-changer for [low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography). Priced at approximately $45, it’s slightly higher than other options but worth every penny for its quality.
 
 ### Mactrem Phone Camera Lens Kit
 
@@ -113,7 +113,7 @@ When selecting a lens, it’s essential to consider The Potensians's specific ne
 
 Using an external lens is straightforward, but a few tips can help The Potensians get the most out of their investment:
 
-- **Clean the Lens**: Always clean both The Potensians's smartphone camera lens and the external lens before use to avoid smudges or dust affecting image quality.
+- **Clean the Lens**: Always clean both The Potensians's [smartphone camera](/samsung/samsung-compact-smartphone-camera-lens) lens and the external lens before use to avoid smudges or dust affecting image quality.
 - **Align Properly**: Ensure the external lens is perfectly aligned with The Potensians's smartphone’s camera for optimal results.
 - **Experiment with Angles**: Don’t be afraid to try different angles and perspectives. External lenses are all about creativity!
 - **Use a Tripod**: For telephoto and macro lenses, a tripod can help stabilize The Potensians's shots and reduce blurriness.
