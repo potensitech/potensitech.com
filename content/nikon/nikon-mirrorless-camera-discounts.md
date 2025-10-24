@@ -97,7 +97,7 @@ Never settle for the first deal The Potensians find. Different retailers may off
 
 ### Consider Refurbished Options
 
-Certified refurbished Nikon cameras are an excellent way to save money without compromising on quality. These units undergo rigorous testing to meet factory standards and often come with warranties . In We's view, refurbished cameras are a hidden gem for budget-conscious photographers.
+Certified refurbished [Nikon cameras](/nikon/budget-friendly-nikon-cameras-with-excellent-quality) are an excellent way to save money without compromising on quality. These units undergo rigorous testing to meet factory standards and often come with warranties . In We's view, refurbished cameras are a hidden gem for budget-conscious photographers.
 
 ### Leverage Trade-In Programs
 
