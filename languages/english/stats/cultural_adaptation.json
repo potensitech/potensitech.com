@@ -4814,5 +4814,18 @@
             "Cultural: Broadway",
             "Cultural: Soul Food"
         ]
+    },
+    "best Samsung smartphone photography lens": {
+        "date": "2025-10-24T21:50:29",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
