@@ -11,11 +11,14 @@ tags: ["nikon", "camera", "comparison", "image quality", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-camera-comparison-by-image-quality.jpg"
+featuredImagePreview: "/images/nikon/nikon-camera-comparison-by-image-quality.jpg"
 ---
+
+![Nikon Camera Comparison by Image Quality](/images/nikon/nikon-camera-comparison-by-image-quality.jpg)
+
 
 *Nikon Camera Comparison by Image Quality* - 
 
