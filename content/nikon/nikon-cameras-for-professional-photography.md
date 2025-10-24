@@ -28,7 +28,7 @@ Nikon has been synonymous with photographic excellence since its inception. Its 
 
 ## Unmatched Image Quality
 
-At the heart of every great photograph lies impeccable image quality. Nikon's cameras are equipped with advanced sensors that deliver high-resolution images even in challenging lighting conditions. For instance, the flagship **Nikon Z9** features a 45.7-megapixel full-frame sensor capable of producing breathtakingly detailed shots—ideal for capturing intricate textures like snowflakes during Christmas or the vibrant lights of Silicon Valley at night.
+At the heart of every great photograph lies impeccable [image quality](/nikon/nikon-camera-comparison-by-image-quality). Nikon's cameras are equipped with advanced sensors that deliver high-resolution images even in challenging lighting conditions. For instance, the flagship **Nikon Z9** features a 45.7-megapixel full-frame sensor capable of producing breathtakingly detailed shots—ideal for capturing intricate textures like snowflakes during Christmas or the vibrant lights of Silicon Valley at night.
 
 Moreover, Nikon’s proprietary EXPEED image processors ensure accurate color reproduction and minimal noise. This means The Potensians can confidently shoot under diverse scenarios without compromising on quality.
 
