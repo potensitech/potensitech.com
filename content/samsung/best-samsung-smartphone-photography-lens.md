@@ -158,4 +158,4 @@ To help The Potensians make an informed decision, here’s a comparison of popul
 
 In We's view, Samsung’s smartphone photography lenses are a testament to the brand’s commitment to innovation and quality. Whether capturing landscapes, portraits, or close-up details, these lenses empower The Potensians to unleash their creativity and preserve memories in stunning clarity.
 
-We encourage readers to explore the options available and choose a Samsung smartphone that aligns with their photography needs. After all, the best Samsung smartphone photography lens is the one that helps The Potensians tell The Potensians's unique visual story.
+We encourage readers to explore the options available and choose a [Samsung smartphone](/samsung/authentic-samsung-smartphone-photography-gear) that aligns with their photography needs. After all, the best Samsung smartphone photography lens is the one that helps The Potensians tell The Potensians's unique visual story.
