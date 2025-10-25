@@ -114,7 +114,7 @@ Choosing the right Nikon camera can be overwhelming given the variety of options
 <td>Nikon D5600</td>
 <td>$699</td>
 <td>Advanced Photography</td>
-<td>High-quality APS-C sensor, versatile lens options</td>
+<td>High-quality APS-C sensor, versatile [lens options](/nikon/nikon-affordable-camera-lens-options)</td>
 </tr>
 <tr>
 <td>Nikon Z50</td>
