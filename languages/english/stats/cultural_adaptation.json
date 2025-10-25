@@ -4889,5 +4889,14 @@
             "Cultural: Times Square",
             "Cultural: Hollywood"
         ]
+    },
+    "nikon compact cameras with excellent performance": {
+        "date": "2025-10-25T14:39:46",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
