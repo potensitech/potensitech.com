@@ -2388,5 +2388,7 @@
   "philips efficient processor for home devices": true,
   "philips advanced processor for kitchen appliances": true,
   "philips premium processor for personal gadgets": true,
-  "sandisk latest high-performance SSDs for photographers": true
+  "sandisk latest high-performance SSDs for photographers": true,
+  "intel high-performance gaming processor": true,
+  "intel processor for professional workloads": true
 }
