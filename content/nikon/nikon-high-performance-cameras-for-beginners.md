@@ -11,11 +11,14 @@ tags: ["nikon", "cameras", "beginner guide", "photography tips"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-high-performance-cameras-for-beginners.jpg"
+featuredImagePreview: "/images/nikon/nikon-high-performance-cameras-for-beginners.jpg"
 ---
+
+![Nikon High-Performance Cameras for Beginners](/images/nikon/nikon-high-performance-cameras-for-beginners.jpg)
+
 
 *Nikon High-Performance Cameras for Beginners* - 
 
