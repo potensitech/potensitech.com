@@ -11,11 +11,14 @@ tags: ["nikon", "compact cameras", "performance", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-compact-cameras-with-excellent-performance.jpg"
+featuredImagePreview: "/images/nikon/nikon-compact-cameras-with-excellent-performance.jpg"
 ---
+
+![Nikon Compact Cameras with Excellent Performance](/images/nikon/nikon-compact-cameras-with-excellent-performance.jpg)
+
 
 *Nikon Compact Cameras with Excellent Performance* - 
 
