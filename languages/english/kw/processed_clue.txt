@@ -835,3 +835,5 @@ dslr photography
 camera lens
 gpu performance
 processor speed
+gpu performance
+processor speed
