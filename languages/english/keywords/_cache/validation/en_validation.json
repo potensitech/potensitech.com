@@ -2391,5 +2391,10 @@
   "sandisk latest high-performance SSDs for photographers": true,
   "intel high-performance gaming processor": true,
   "intel processor for professional workloads": true,
-  "nvidia entry-level GPU for smooth gaming": true
+  "nvidia entry-level GPU for smooth gaming": true,
+  "amd budget-friendly processor with high speed": true,
+  "amd GPU for affordable 1080p gaming": true,
+  "amd entry-level GPU with good performance": true,
+  "amd GPU for cost-effective gaming performance": true,
+  "amd processor for affordable computing power": true
 }
