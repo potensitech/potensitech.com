@@ -4840,5 +4840,15 @@
             "Cultural: Central Park",
             "Cultural: Pizza"
         ]
+    },
+    "top-rated Samsung smartphone photography accessories": {
+        "date": "2025-10-25T05:00:55",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
