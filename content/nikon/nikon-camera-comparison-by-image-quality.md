@@ -115,7 +115,7 @@ Dynamic range refers to a camera's ability to capture details in both the bright
 
 ### Lens Compatibility 
 
-Nikon’s extensive range of lenses adds another layer of versatility to its cameras. From wide-angle lenses for landscapes to telephoto lenses for wildlife, the right lens can significantly enhance image quality. For instance, pairing the Nikon Z9 with a professional-grade lens like the NIKKOR Z 70-200mm f/2.8 can elevate The Potensians's photography to new heights. 
+Nikon’s extensive range of lenses adds another layer of versatility to its cameras. From wide-angle lenses for landscapes to telephoto lenses for wildlife, the right lens can significantly enhance [image quality](/nikon/nikon-camera-with-excellent-image-quality). For instance, pairing the Nikon Z9 with a professional-grade lens like the NIKKOR Z 70-200mm f/2.8 can elevate The Potensians's photography to new heights. 
 
 ## Final Thoughts on Nikon Camera Comparison by Image Quality 
 
