@@ -30,7 +30,7 @@ Keep in mind that not all cameras are created equal. While some models prioritiz
 
 ## Comparing Nikon Cameras Based on Image Quality 
 
-To simplify decision-making for The Potensians, We’ve analyzed several popular Nikon cameras based on their strengths in image quality across various parameters such as resolution, ISO performance, and dynamic range. 
+To simplify decision-making for The Potensians, We’ve analyzed several popular [Nikon cameras](/nikon/affordable-nikon-cameras-with-great-quality) based on their strengths in image quality across various parameters such as resolution, ISO performance, and dynamic range. 
 
 <div class="table-responsive">
 <table class="html-table">
