@@ -11,11 +11,14 @@ tags: ["nikon", "camera", "image quality", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-camera-with-excellent-image-quality-for-pros.jpg"
+featuredImagePreview: "/images/nikon/nikon-camera-with-excellent-image-quality-for-pros.jpg"
 ---
+
+![Nikon Camera with Excellent Image Quality for Pros](/images/nikon/nikon-camera-with-excellent-image-quality-for-pros.jpg)
+
 
 *Nikon Camera with Excellent Image Quality for Pros* 
 
