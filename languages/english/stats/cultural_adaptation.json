@@ -4996,5 +4996,14 @@
             "Cultural: Los Angeles",
             "Cultural: Chicago"
         ]
+    },
+    "nikon camera with excellent image quality": {
+        "date": "2025-10-26T16:59:42",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
