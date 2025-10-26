@@ -5005,5 +5005,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "nikon high-quality image performance camera": {
+        "date": "2025-10-26T21:50:38",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: Burgers"
+        ]
     }
 }
