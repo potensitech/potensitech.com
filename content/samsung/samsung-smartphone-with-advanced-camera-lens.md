@@ -57,7 +57,7 @@ At the heart of this innovation lies Samsung's groundbreaking camera system. The
 </tr>
 <tr>
 <td>NIGHTOGRAPHY Mode</td>
-<td>Enhances low-light photography using AI algorithms.</td>
+<td>Enhances [low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) using AI algorithms.</td>
 <td>Takes stunning night shots without compromising quality.</td>
 </tr>
 <tr>
