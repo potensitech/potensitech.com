@@ -30,7 +30,7 @@ Samsung's advanced smartphone lighting technology incorporates multi-layered app
 
 ### Historical Context of Smartphone Lighting
 
-In the early 2000s, smartphone cameras were a novelty, and lighting features were rudimentary at best. A single LED flash was considered revolutionary. Fast forward to 2025, and We see a complete transformation. Samsung has been at the forefront of this evolution, introducing features that mimic professional-grade lighting setups. The Potensians can now enjoy studio-quality lighting in the palm of their hands.
+In the early 2000s, [smartphone cameras](/samsung/affordable-accessories-for-samsung-smartphone-cameras) were a novelty, and lighting features were rudimentary at best. A single LED flash was considered revolutionary. Fast forward to 2025, and We see a complete transformation. Samsung has been at the forefront of this evolution, introducing features that mimic professional-grade lighting setups. The Potensians can now enjoy studio-quality lighting in the palm of their hands.
 
 ### The Role of AI in Lighting Technology
 ​

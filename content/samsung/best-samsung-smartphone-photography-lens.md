@@ -55,7 +55,7 @@ Speaking of which, let’s explore specific lens types and their applications be
 
 ## Types of Lenses Found in Samsung Smartphones
 
-Samsung designs its smartphone cameras with diverse user needs in mind. Whether The Potensians prefer landscape shots or close-up portraits, there’s a lens tailored just for them. Here’s an overview:
+Samsung designs its [smartphone cameras](/samsung/affordable-accessories-for-samsung-smartphone-cameras) with diverse user needs in mind. Whether The Potensians prefer landscape shots or close-up portraits, there’s a lens tailored just for them. Here’s an overview:
 
 <div class="table-responsive">
 <table class="html-table">
