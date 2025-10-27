@@ -32,7 +32,7 @@ For The Potensians who enjoy capturing life’s spontaneous moments, autofocus i
 
 Nikon has built a reputation for excellence in imaging technology, and their autofocus systems are no exception. By leveraging advanced algorithms and high-performance sensors, [Nikon cameras](/nikon/nikon-cameras-with-high-speed-autofocus-performance) deliver fast and accurate focus adjustments, even in challenging conditions such as low light or high-speed motion.
 
-For instance, Nikon’s autofocus systems excel in scenarios like photographing a live concert with dynamic lighting or capturing fast-paced sports events . The cameras offer various autofocus modes, including single-point AF for precise focus on stationary subjects and continuous AF for tracking moving objects. This versatility ensures that Nikon cameras can adapt to a wide range of photographic needs.
+For instance, Nikon’s [autofocus systems](/nikon/nikon-high-precision-autofocus-systems) excel in scenarios like photographing a live concert with dynamic lighting or capturing fast-paced sports events . The cameras offer various autofocus modes, including single-point AF for precise focus on stationary subjects and continuous AF for tracking moving objects. This versatility ensures that Nikon cameras can adapt to a wide range of photographic needs.
 
 We believe that Nikon’s commitment to innovation makes their cameras a top choice for The Potensians who demand both performance and reliability.
 
