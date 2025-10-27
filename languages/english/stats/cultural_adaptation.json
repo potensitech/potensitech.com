@@ -5018,5 +5018,15 @@
             "Cultural: Central Park",
             "Cultural: Burgers"
         ]
+    },
+    "nikon affordable camera featuring autofocus": {
+        "date": "2025-10-27T03:45:00",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Innovation"
+        ]
     }
 }
