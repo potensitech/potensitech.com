@@ -5038,5 +5038,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "nikon advanced camera with autofocus system": {
+        "date": "2025-10-27T12:37:56",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Memorial Day",
+            "Cultural: Wall Street",
+            "Cultural: Broadway",
+            "Cultural: BBQ"
+        ]
     }
 }
