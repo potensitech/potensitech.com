@@ -5063,5 +5063,18 @@
             "Cultural: Tex-Mex",
             "Cultural: Innovation"
         ]
+    },
+    "nikon camera features enhancing image quality": {
+        "date": "2025-10-27T19:32:43",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Buffalo Wings",
+            "Cultural: Elon Musk"
+        ]
     }
 }
