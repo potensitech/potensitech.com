@@ -102,7 +102,7 @@ A camera's lens plays a pivotal role in determining image quality, and Nikon cam
 
 ### Prime Lenses for Exceptional Sharpness
 
-Prime lenses, with their fixed focal lengths, are renowned for their sharpness and clarity. Nikon’s prime lenses are perfect for portrait photography, where the subject’s features must be highlighted with precision. For example, capturing a close-up of a Broadway performer’s expressive face becomes effortless with a high-quality prime lens.
+Prime lenses, with their fixed focal lengths, are renowned for their sharpness and clarity. Nikon’s prime lenses are perfect for [portrait photography](/nikon/high-quality-nikon-dslr-for-portrait-photography), where the subject’s features must be highlighted with precision. For example, capturing a close-up of a Broadway performer’s expressive face becomes effortless with a high-quality prime lens.
 
 ### Zoom Lenses for Versatility
 
