@@ -83,7 +83,7 @@ For those aiming to capture intricate details—such as the textures of soul foo
 - **Nikon Z9**: Ideal for action-packed scenes like sports photography due to its fast frame rates combined with excellent dynamic range. 
 - **Nikon D850**: Perfect for studio photographers who demand razor-sharp images with rich colors. 
 
-Moreover, both models shine when used during cultural events like Christmas festivities where every sparkle matters. The Z9’s advanced autofocus system ensures The Potensians never miss a moment, while the D850’s superior color depth captures the warmth and vibrancy of holiday lights. 
+Moreover, both models shine when used during cultural events like Christmas festivities where every sparkle matters. The Z9’s advanced [autofocus system](/nikon/nikon-advanced-camera-with-autofocus-system) ensures The Potensians never miss a moment, while the D850’s superior color depth captures the warmth and vibrancy of holiday lights. 
 
 ### Low-Light Performers: Nikon Z6 II 
 

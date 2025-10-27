@@ -69,7 +69,7 @@ To narrow down choices further, here’s an overview of some standout models per
 </tr>
 <tr>
 <td>Nikon D3400 (Discontinued but available used)</td>
-<td>11-point autofocus system; Lightweight body; Excellent battery life</td>
+<td>11-point [autofocus system](/nikon/nikon-advanced-camera-with-autofocus-system); Lightweight body; Excellent battery life</td>
 <td>$300 - $400 (used market)</td>
 </tr>
 </tbody>
