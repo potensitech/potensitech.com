@@ -2486,5 +2486,14 @@
   "intel budget-friendly processor with enhanced speed": true,
   "intel high-performance processor for multitasking": true,
   "nvidia GPU for budget-conscious gamers": true,
-  "nvidia wallet-friendly GPU for creative professionals": true
+  "nvidia wallet-friendly GPU for creative professionals": true,
+  "amd affordable GPUs for gaming performance": true,
+  "amd budget-friendly GPUs for high performance": true,
+  "amd affordable processors for multitasking speed": true,
+  "amd low-cost processors with fast performance": true,
+  "amd GPUs for budget-conscious gamers": true,
+  "amd processors for affordable computing performance": true,
+  "amd entry-level GPUs with great performance": true,
+  "amd high-speed processors for budget builds": true,
+  "amd affordable processors for efficient multitasking": true
 }
