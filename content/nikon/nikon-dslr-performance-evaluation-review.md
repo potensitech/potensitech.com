@@ -62,7 +62,7 @@ When evaluating any camera system's capabilities, certain features play ​pivot
 
 ### Autofocus System
 
-The autofocus (AF) system is crucial for capturing fast-moving subjects such as wildlife encounters or dynamic events like parades. Many models incorporate advanced AF systems: 
+The autofocus (AF) system is crucial for capturing [fast-moving subjects](/nikon/best-nikon-camera-for-fast-moving-subjects) such as wildlife encounters or dynamic events like parades. Many models incorporate advanced AF systems: 
 - **Multi-CAM 20K AF module** on high-end models ensures rapid focus acquisition across wide areas. 
 - Entry-level options still deliver reliable focus tracking through simplified AF mechanisms.
 
@@ -124,7 +124,7 @@ For The Potensians who love exploring new destinations, Nikon DSLRs like the **N
 
 ### Wildlife Photography
 
-Capturing wildlife requires speed and precision. The **Nikon D500** excels in this domain with its fast autofocus and high burst rate, ensuring The Potensians never miss a moment.
+Capturing wildlife requires speed and precision. The **Nikon D500** excels in this domain with its [fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus) and high burst rate, ensuring The Potensians never miss a moment.
 
 ### Portrait Photography
 
@@ -132,7 +132,7 @@ Portrait photographers will appreciate the **Nikon D850**, which delivers high r
 
 ### Event Photography
 
-For dynamic events like concerts or festivals, the **Nikon Z9** stands out with its advanced autofocus system and 8K video capability, making it a versatile tool for both photography and videography.
+For dynamic events like concerts or festivals, the **Nikon Z9** stands out with its advanced [autofocus system](/nikon/nikon-advanced-camera-with-autofocus-system) and 8K video capability, making it a versatile tool for both photography and videography.
 
 ## Comparing Nikon DSLRs: A Quick Overview
 
