@@ -5113,5 +5113,15 @@
             "Cultural: Broadway",
             "Cultural: Apple Pie"
         ]
+    },
+    "nikon photo quality comparison guide": {
+        "date": "2025-10-28T12:40:38",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
