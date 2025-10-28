@@ -108,7 +108,7 @@ Another factor contributing to Nikon’s image quality is its extensive range of
 
 ## Comparing Nikon DSLRs to Competitors
 
-In 2025, the camera market is more competitive than ever, with brands like Canon and Sony vying for dominance. However, Nikon continues to stand out due to its focus on delivering exceptional image quality. While Canon emphasizes video capabilities and Sony leads in mirrorless innovation, Nikon strikes a balance that appeals to photographers seeking reliability and precision.
+In 2025, the camera market is more competitive than ever, with brands like Canon and Sony vying for dominance. However, Nikon continues to stand out due to its focus on delivering exceptional [image quality](/nikon/nikon-camera-comparison-by-image-quality). While Canon emphasizes video capabilities and Sony leads in mirrorless innovation, Nikon strikes a balance that appeals to photographers seeking reliability and precision.
 
 ### Why Nikon Remains a Top Choice
 

@@ -79,7 +79,7 @@ Zoom capabilities are a defining feature of Nikon compact cameras. Whether The P
 </table>
 </div>
 
-These zoom capabilities ensure that The Potensians can capture subjects at long distances without compromising on image clarity. Whether it’s a bird perched on a distant tree or a close-up of a flower, Nikon compact cameras deliver stunning results.
+These zoom capabilities ensure that The Potensians can capture subjects at long distances without compromising on image clarity. Whether it’s a bird perched on a distant tree or a close-up of a flower, Nikon compact cameras deliver [stunning results](/nikon/nikon-camera-image-quality-review).
 
 ### User-Friendly Interfaces
 
