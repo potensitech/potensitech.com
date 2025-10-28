@@ -5145,5 +5145,18 @@
             "Cultural: BBQ",
             "Cultural: Pizza"
         ]
+    },
+    "nikon dslr sharpness evaluation review": {
+        "date": "2025-10-28T19:32:16",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Wall Street",
+            "Cultural: Hollywood",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
