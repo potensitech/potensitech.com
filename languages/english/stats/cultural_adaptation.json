@@ -5123,5 +5123,14 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "nikon dslr performance evaluation review": {
+        "date": "2025-10-28T14:48:29",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
