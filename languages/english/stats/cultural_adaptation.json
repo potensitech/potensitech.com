@@ -5100,5 +5100,18 @@
             "Cultural: Chicago",
             "Cultural: Innovation"
         ]
+    },
+    "nikon professional dslr performance review": {
+        "date": "2025-10-28T07:37:57",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie"
+        ]
     }
 }
