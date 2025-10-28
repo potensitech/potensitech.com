@@ -39,7 +39,7 @@ To help The Potensians make an informed decision, We’ve compiled a list of the
 
 ### Nikon D3500
 
-The Nikon D3500 remains a popular choice for beginners due to its affordability and reliability. This DSLR camera boasts a 24.2 MP sensor, delivering exceptional image quality. Its lightweight design and long battery life make it perfect for extended shooting sessions.
+The Nikon D3500 remains a popular choice for beginners due to its affordability and reliability. This DSLR camera boasts a 24.2 MP sensor, delivering exceptional [image quality](/nikon/nikon-dslr-image-quality-review). Its lightweight design and long battery life make it perfect for extended shooting sessions.
 
 ### Nikon Z30
 
