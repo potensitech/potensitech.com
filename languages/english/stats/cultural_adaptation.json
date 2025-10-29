@@ -5171,5 +5171,17 @@
             "Cultural: Elon Musk",
             "Cultural: Bill Gates"
         ]
+    },
+    "nikon dslr resolution and clarity test": {
+        "date": "2025-10-29T03:40:42",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Times Square",
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }
