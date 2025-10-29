@@ -42,7 +42,7 @@ Nikon’s reputation stems from its ability to combine cutting-edge technology w
 
 ### Precision Optics and Sensor Technology
 
-At the heart of every great photograph is impeccable image quality, and this is where Nikon truly shines. Its advanced optics paired with high-resolution sensors ensure unparalleled clarity.  For instance:
+At the heart of every great photograph is impeccable [image quality](/nikon/nikon-dslr-image-quality-review), and this is where Nikon truly shines. Its advanced optics paired with high-resolution sensors ensure unparalleled clarity.  For instance:
 
 - **Full-Frame Sensors**: Models like the Nikon Z9 feature full-frame sensors that deliver stunning detail even in low-light conditions—perfect for nighttime shots or dimly lit venues like concerts or cozy soul food restaurants. 
 - **Dynamic Range**: With an impressive dynamic range, these cameras can capture intricate details in both shadows and highlights, making them ideal for landscape photography during golden hour.
