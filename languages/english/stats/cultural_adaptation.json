@@ -5222,5 +5222,18 @@
             "Cultural: Chicago",
             "Cultural: Broadway"
         ]
+    },
+    "budget-friendly Samsung smartphones for photography lovers": {
+        "date": "2025-10-29T17:05:49",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: New Year's Day",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
