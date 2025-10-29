@@ -46,7 +46,7 @@ The smartphone boasts a vibrant AMOLED display that delivers crisp visuals and t
 
 ### Camera Capabilities Worthy of Professionals
 
-Photography enthusiasts will love the dual-camera setup equipped with AI-powered enhancements. Whether capturing local delicacies at a Tex-Mex restaurant or iconic landmarks like Chicago’s skyline, every shot turns into a masterpiece effortlessly. The camera also excels in low-light conditions, ensuring stunning photos even during nighttime adventures.
+[Photography enthusiasts](/samsung/cheap-samsung-smartphones-for-photography-enthusiasts) will love the dual-camera setup equipped with AI-powered enhancements. Whether capturing local delicacies at a Tex-Mex restaurant or iconic landmarks like Chicago’s skyline, every shot turns into a masterpiece effortlessly. The camera also excels in low-light conditions, ensuring stunning photos even during nighttime adventures.
 
 ### Long-Lasting Battery Life
 
