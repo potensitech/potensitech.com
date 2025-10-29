@@ -5158,5 +5158,18 @@
             "Cultural: Hollywood",
             "Cultural: Clam Chowder"
         ]
+    },
+    "nikon photography quality review": {
+        "date": "2025-10-29T02:09:51",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Times Square",
+            "Cultural: Soul Food",
+            "Cultural: Elon Musk",
+            "Cultural: Bill Gates"
+        ]
     }
 }
