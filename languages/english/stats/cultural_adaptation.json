@@ -5183,5 +5183,18 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "nikon camera lens quality review": {
+        "date": "2025-10-29T05:04:36",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
