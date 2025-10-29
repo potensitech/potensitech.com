@@ -3204,5 +3204,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "Samsung smartphones with DSLR-like camera capabilities": {
+        "date": "2025-10-29T14:49:12",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }

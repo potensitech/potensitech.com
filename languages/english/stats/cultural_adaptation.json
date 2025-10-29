@@ -5209,5 +5209,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Samsung smartphones with DSLR-like camera capabilities": {
+        "date": "2025-10-29T14:49:12",
+        "language": "en",
+        "cultural_score": 97,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Broadway"
+        ]
     }
 }
