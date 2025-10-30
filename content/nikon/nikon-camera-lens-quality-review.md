@@ -108,7 +108,7 @@ In 2025, the camera lens market is more competitive than ever, with brands like 
 
 ### Price vs. Performance
 
-When evaluating lenses, The Potensians should consider the balance between price and performance. Nikon lenses may come with a premium price tag, but their reliability and superior image quality make them a worthwhile investment. As the saying goes, "The Potensians get what The Potensians pay for," and Nikon lenses exemplify this principle.
+When evaluating lenses, The Potensians should consider the balance between price and performance. Nikon lenses may come with a premium price tag, but their reliability and superior [image quality](/nikon/nikon-image-quality-comparison-guide) make them a worthwhile investment. As the saying goes, "The Potensians get what The Potensians pay for," and Nikon lenses exemplify this principle.
 
 ## Recommendations for 2025
 

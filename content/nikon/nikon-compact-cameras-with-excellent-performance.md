@@ -40,7 +40,7 @@ Nikon compact cameras are packed with features that set them apart from the comp
 
 ### Superior Image Quality
 
-At the core of every great photograph is its image quality, and Nikon excels in this area. Their compact cameras are equipped with advanced sensors, such as CMOS technology, which ensures vibrant colors, sharp details, and excellent performance in low-light conditions. 
+At the core of every great photograph is its [image quality](/nikon/nikon-image-quality-comparison-guide), and Nikon excels in this area. Their compact cameras are equipped with advanced sensors, such as CMOS technology, which ensures vibrant colors, sharp details, and excellent performance in low-light conditions. 
 
 For instance:
 - The **Nikon Z fc**, though primarily a mirrorless camera, showcases how Nikon’s compact models inherit similar sensor technologies to produce stunning visuals.
