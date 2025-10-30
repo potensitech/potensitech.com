@@ -5248,5 +5248,18 @@
             "Cultural: Broadway",
             "Cultural: BBQ"
         ]
+    },
+    "nikon dslr camera quality review": {
+        "date": "2025-10-30T03:36:53",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: BBQ",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
