@@ -5235,5 +5235,18 @@
             "Cultural: Hollywood",
             "Cultural: Tex-Mex"
         ]
+    },
+    "Samsung smartphones with innovative camera technology": {
+        "date": "2025-10-30T02:14:13",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: Hollywood",
+            "Cultural: Broadway",
+            "Cultural: BBQ"
+        ]
     }
 }
