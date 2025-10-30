@@ -5272,5 +5272,18 @@
             "Cultural: Pizza",
             "Cultural: Innovation"
         ]
+    },
+    "nikon dslr photo quality review": {
+        "date": "2025-10-30T12:40:52",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Broadway",
+            "Cultural: Central Park",
+            "Cultural: BBQ",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
