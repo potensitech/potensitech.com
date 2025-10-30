@@ -2542,5 +2542,10 @@
   "intel high-speed processor for multitasking": true,
   "intel affordable processor for workstations": true,
   "intel entry-level processor for basic tasks": true,
-  "intel enhanced-speed processor for creative professionals": true
+  "intel enhanced-speed processor for creative professionals": true,
+  "nvidia affordable gaming GPU for high-performance": true,
+  "nvidia budget-friendly graphics card for gamers": true,
+  "nvidia optimized GPU for gaming performance": true,
+  "nvidia entry-level GPU for budget-conscious gamers": true,
+  "nvidia workstation GPU for affordable performance": true
 }
