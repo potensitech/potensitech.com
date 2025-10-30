@@ -939,3 +939,5 @@ dslr photography
 mirrorless technology
 dslr photography
 camera lens
+camera lens
+gpu performance
