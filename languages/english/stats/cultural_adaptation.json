@@ -5285,5 +5285,18 @@
             "Cultural: BBQ",
             "Cultural: Tex-Mex"
         ]
+    },
+    "samsung high-quality smartphone camera lens": {
+        "date": "2025-10-30T17:05:11",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Black Friday",
+            "Cultural: Los Angeles",
+            "Cultural: Wall Street",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
