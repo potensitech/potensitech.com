@@ -2547,5 +2547,9 @@
   "nvidia budget-friendly graphics card for gamers": true,
   "nvidia optimized GPU for gaming performance": true,
   "nvidia entry-level GPU for budget-conscious gamers": true,
-  "nvidia workstation GPU for affordable performance": true
+  "nvidia workstation GPU for affordable performance": true,
+  "amd high-performance affordable GPU for gaming": true,
+  "amd optimized processor for affordable multitasking": true,
+  "amd budget-friendly processor for productivity": true,
+  "amd GPU for affordable high-performance gaming": true
 }

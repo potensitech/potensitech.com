@@ -211,4 +211,8 @@ amd processors for affordable computing performance
 amd entry-level GPUs with great performance
 amd high-speed processors for budget builds
 amd affordable processors for efficient multitasking
+amd high-performance affordable GPU for gaming
+amd optimized processor for affordable multitasking
+amd budget-friendly processor for productivity
+amd GPU for affordable high-performance gaming
 
