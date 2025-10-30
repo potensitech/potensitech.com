@@ -30,7 +30,7 @@ Samsung recognized this shift early on and introduced innovations such as dual-p
 
 ### Early Innovations
 
-Samsung's journey began with the introduction of higher megapixel sensors in its Galaxy series. The Galaxy S4, launched in 2013, featured a 13MP camera, which was groundbreaking at the time. Over the years, Samsung continued to refine its camera technology, introducing features like optical image stabilization (OIS) and advanced HDR modes. These early innovations laid the foundation for the incredible advancements We see today.
+Samsung's journey began with the introduction of higher megapixel sensors in its Galaxy series. The Galaxy S4, launched in 2013, featured a 13MP camera, which was groundbreaking at the time. Over the years, Samsung continued to refine its camera technology, introducing features like optical [image stabilization](/samsung/affordable-samsung-smartphone-with-image-stabilization) (OIS) and advanced HDR modes. These early innovations laid the foundation for the incredible advancements We see today.
 
 ### The Leap to Professional-Grade Photography
 
@@ -57,7 +57,7 @@ Here are some standout features that make Samsung's smartphones with innovative 
 </tr>
 <tr>
 <td>Nightography Mode</td>
-<td>Advanced low-light photography ensures stunning images even in darkness.</td>
+<td>Advanced [low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) ensures stunning images even in darkness.</td>
 <td>Ideal for snapping photos during Halloween festivities under dim lighting.</td>
 </tr>
 <tr>
