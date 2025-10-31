@@ -29,3 +29,4 @@ usb stick
 camera lens
 dslr photography
 mirrorless technology
+usb drive

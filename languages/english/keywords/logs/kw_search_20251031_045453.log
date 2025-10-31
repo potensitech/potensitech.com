@@ -1,0 +1,37 @@
+2025-10-31 04:54:53,939 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20251031_045453.log
+2025-10-31 04:54:53,939 - INFO - ============================================================
+2025-10-31 04:54:53,939 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2025-10-31 04:54:53,940 - INFO - ============================================================
+2025-10-31 04:54:54,107 - INFO - ========================================
+2025-10-31 04:54:54,107 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2025-10-31 04:54:54,107 - INFO - ========================================
+2025-10-31 04:54:54,107 - INFO - Continuing from last processed niche: philips
+2025-10-31 04:54:54,108 - INFO - ========================================
+2025-10-31 04:54:54,108 - INFO - 🎯 PROCESSING NICHE 8/14: 'sandisk'
+2025-10-31 04:54:54,108 - INFO - ========================================
+2025-10-31 04:54:54,108 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/sandisk
+2025-10-31 04:54:54,108 - INFO - Selected region: us
+2025-10-31 04:54:54,108 - INFO - Selected language: en
+2025-10-31 04:54:54,108 - INFO - 🎯 Current niche: sandisk
+2025-10-31 04:54:57,560 - INFO - 🎯 Niche terms for filtering: sandisk, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, sandisk product, sell sandisk, buy sandisk, cheap sandisk, best sandisk, sandisk review, where to buy sandisk, how to choose sandisk, top sandisk, sandisk guide, sandisk for sale, sandisk deals
+2025-10-31 04:54:57,560 - INFO - Generated 50 niche-clue pairs for 'sandisk'.
+2025-10-31 04:54:57,563 - INFO - Expanded 50 seed keywords to 218 variations
+2025-10-31 04:54:57,563 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2025-10-31 04:59:21,095 - INFO - Original clue keywords: usb drive
+2025-10-31 04:59:21,095 - INFO - Niche-focused seeds: usb drive sandisk, sandisk usb drive, usb drive cheap, cheap usb drive, usb drive best, best usb drive, usb drive latest, latest usb drive, usb drive review, review usb drive, usb drive price, price usb drive, usb drive sell, sell usb drive, usb drive buy, buy usb drive, usb drive recommendation, recommendation usb drive, usb drive tips, tips usb drive, usb drive tutorial, tutorial usb drive, usb drive guide, guide usb drive, usb drive how to, how to usb drive, usb drive vs, vs usb drive, usb drive versus, versus usb drive, usb drive compared to, compared to usb drive, usb drive comparison, comparison usb drive, usb drive alternatives, alternatives usb drive, usb drive which is better, which is better usb drive, usb drive expensive, expensive usb drive, usb drive discount, discount usb drive, usb drive deals, deals usb drive, usb drive sale, sale usb drive, usb drive affordable, affordable usb drive, usb drive cost, cost usb drive, usb drive online, online usb drive, usb drive offline, offline usb drive, usb drive marketplace, marketplace usb drive, usb drive store, store usb drive, usb drive shop, shop usb drive, usb drive retailer, retailer usb drive, usb drive where to buy, where to buy usb drive, usb drive worst, worst usb drive, usb drive quality, quality usb drive, usb drive original, original usb drive, usb drive genuine, genuine usb drive, usb drive fake, fake usb drive, usb drive replica, replica usb drive, usb drive authentic, authentic usb drive, usb drive brand, brand usb drive, usb drive manufacturer, manufacturer usb drive, usb drive company, company usb drive, usb drive product, product usb drive, usb drive sandisk product, sandisk product usb drive, usb drive sell sandisk, sell sandisk usb drive, usb drive buy sandisk, buy sandisk usb drive, usb drive cheap sandisk, cheap sandisk usb drive, usb drive best sandisk, best sandisk usb drive, usb drive sandisk review, sandisk review usb drive, usb drive where to buy sandisk, where to buy sandisk usb drive, usb drive how to choose sandisk, how to choose sandisk usb drive, usb drive top sandisk, top sandisk usb drive, usb drive sandisk guide, sandisk guide usb drive, usb drive sandisk for sale, sandisk for sale usb drive, usb drive sandisk deals, sandisk deals usb drive
+2025-10-31 04:59:21,098 - INFO - Expanded 110 seed keywords to 275 variations
+2025-10-31 04:59:21,098 - INFO - Language: en
+2025-10-31 04:59:21,098 - INFO - Region: us
+2025-10-31 05:03:51,489 - INFO - 🎯 After all filtering for 'sandisk': 120 relevant keywords
+2025-10-31 05:03:51,899 - INFO - 🎯 Found 1 new keywords for niche 'sandisk': sandisk affordable usb drive
+2025-10-31 05:03:58,635 - INFO - ✅ Niche 'sandisk' process complete! 164 total keyword results.
+2025-10-31 05:03:58,636 - INFO - ✅ Completed processing niche: 'sandisk'
+2025-10-31 05:03:58,636 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2025-10-31 05:03:58,636 - INFO -    Total requests: 33746, Blocks: 0
+2025-10-31 05:03:58,637 - INFO - 
+========================================
+2025-10-31 05:03:58,637 - INFO - Process Summary:
+2025-10-31 05:03:58,637 - INFO - - Current niche: 'sandisk'
+2025-10-31 05:03:58,637 - INFO - - Next niche will be: 'intel'
+2025-10-31 05:03:58,637 - INFO - - Keywords saved in: languages/english/keywords/sandisk/
+2025-10-31 05:03:58,638 - INFO - ========================================

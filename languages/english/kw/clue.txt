@@ -1,3 +1,6 @@
+usb drive
+data storage
+flash drive
 gpu performance
 processor speed
 camera lens
@@ -6,7 +9,6 @@ dslr photography
 ray tracing
 graphics card
 portable storage
-flash drive
 usb stick
 battery life
 smartphone camera
@@ -24,7 +26,6 @@ performance
 durability
 mirrorless innovation
 ai computing
-data storage
 usb performance
 core technology
 processor performance
