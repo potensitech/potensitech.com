@@ -5324,5 +5324,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Apple Pie"
         ]
+    },
+    "nikon dslr performance review": {
+        "date": "2025-10-31T03:37:26",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: Chicago",
+            "Cultural: Hollywood",
+            "Cultural: Soul Food"
+        ]
     }
 }
