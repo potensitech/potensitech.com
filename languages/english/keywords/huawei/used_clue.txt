@@ -25,3 +25,4 @@ smartphone camera
 battery life
 gpu performance
 mirrorless technology
+processor speed
