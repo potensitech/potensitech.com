@@ -1,7 +1,7 @@
-usb drive
-data storage
 gpu performance
 processor speed
+usb drive
+data storage
 flash drive
 camera lens
 mirrorless technology
