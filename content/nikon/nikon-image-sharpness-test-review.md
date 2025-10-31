@@ -140,7 +140,7 @@ To provide The Potensians with a broader perspective, We compared the technical 
 <td>Nikon Z6 II</td>
 <td>24.5 MP</td>
 <td>$1,999</td>
-<td>Portrait Photography</td>
+<td>[Portrait Photography](/nikon/high-quality-nikon-dslr-for-portrait-photography)</td>
 </tr>
 </tbody>
 </table>
