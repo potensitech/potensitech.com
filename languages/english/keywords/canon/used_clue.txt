@@ -24,3 +24,5 @@ flash drive
 portable storage
 usb stick
 mirrorless technology
+gpu performance
+processor speed
