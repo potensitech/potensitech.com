@@ -2608,5 +2608,9 @@
   "intel high-performance processors for gaming": true,
   "intel external processors for business applications": true,
   "intel compact processors for travel laptops": true,
-  "intel lightweight processors for everyday computing": true
+  "intel lightweight processors for everyday computing": true,
+  "nvidia low-cost GPU with excellent performance": true,
+  "nvidia cost-effective GPU for creative professionals": true,
+  "nvidia affordable GPU for 1080p gaming": true,
+  "nvidia cheap graphics card for beginners": true
 }

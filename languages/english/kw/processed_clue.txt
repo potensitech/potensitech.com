@@ -952,3 +952,5 @@ processor speed
 usb drive
 usb drive
 data storage
+gpu performance
+processor speed
