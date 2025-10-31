@@ -945,3 +945,5 @@ camera lens
 gpu performance
 camera lens
 mirrorless technology
+gpu performance
+processor speed
