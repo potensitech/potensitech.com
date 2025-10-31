@@ -5311,5 +5311,18 @@
             "Cultural: Wall Street",
             "Cultural: Times Square"
         ]
+    },
+    "nikon camera resolution comparison guide": {
+        "date": "2025-10-31T02:10:25",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Apple Pie"
+        ]
     }
 }
