@@ -86,7 +86,7 @@ The Nikon D3500 is an excellent entry-level DSLR designed for budding photograph
 
 ### Nikon Z50: Compact Mirrorless Marvel
 
-For those venturing into mirrorless technology but still seeking affordability, the Nikon Z50 stands out as one of the best options. Its hybrid autofocus system combines phase-detection and contrast-detection for superior accuracy. The compact body is ideal for travel enthusiasts who want a lightweight yet powerful camera. With built-in Wi-Fi and Bluetooth, sharing The Potensians's stunning shots on social media has never been easier. In We's opinion, the Z50 is a game-changer for photographers who want to embrace the future of camera technology.
+For those venturing into mirrorless technology but still seeking affordability, the Nikon Z50 stands out as one of the best options. Its hybrid [autofocus system](/nikon/nikon-camera-autofocus-system-comparison-guide) combines phase-detection and contrast-detection for superior accuracy. The compact body is ideal for travel enthusiasts who want a lightweight yet powerful camera. With built-in Wi-Fi and Bluetooth, sharing The Potensians's stunning shots on social media has never been easier. In We's opinion, the Z50 is a game-changer for photographers who want to embrace the future of camera technology.
 
 ### Nikon Coolpix B500: Budget-Friendly and User-Friendly
 
