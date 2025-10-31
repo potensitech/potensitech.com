@@ -26,3 +26,5 @@ performance boost
 smartphone camera
 battery life
 mirrorless technology
+gpu performance
+processor speed
