@@ -5346,5 +5346,18 @@
         "matches": [
             "Cultural: Chicago"
         ]
+    },
+    "nikon dslr picture quality review": {
+        "date": "2025-10-31T09:50:47",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Silicon Valley",
+            "Cultural: Broadway",
+            "Cultural: BBQ"
+        ]
     }
 }
