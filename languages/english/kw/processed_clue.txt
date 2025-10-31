@@ -947,3 +947,5 @@ camera lens
 mirrorless technology
 gpu performance
 processor speed
+gpu performance
+processor speed
