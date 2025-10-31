@@ -5359,5 +5359,18 @@
             "Cultural: Broadway",
             "Cultural: BBQ"
         ]
+    },
+    "nikon professional camera quality guide": {
+        "date": "2025-10-31T14:51:35",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Wall Street",
+            "Cultural: Central Park",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
