@@ -133,7 +133,7 @@ Another standout feature is Nikon’s intuitive interface. The menus are easy to
 
 ### Continuous Innovation 
 
-Nikon’s commitment to innovation is evident in its latest models. Features like 8K video recording, in-body image stabilization, and advanced AI-driven autofocus systems demonstrate Nikon’s dedication to staying ahead of the curve in 2025. 
+Nikon’s commitment to innovation is evident in its latest models. Features like 8K video recording, in-body [image stabilization](/nikon/nikon-camera-features-for-image-stabilization), and advanced AI-driven autofocus systems demonstrate Nikon’s dedication to staying ahead of the curve in 2025. 
 
 ## Final Thoughts 
 
