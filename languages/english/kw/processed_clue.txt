@@ -950,3 +950,5 @@ processor speed
 gpu performance
 processor speed
 usb drive
+usb drive
+data storage

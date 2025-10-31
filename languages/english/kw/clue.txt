@@ -1,8 +1,8 @@
 usb drive
 data storage
-flash drive
 gpu performance
 processor speed
+flash drive
 camera lens
 mirrorless technology
 dslr photography
