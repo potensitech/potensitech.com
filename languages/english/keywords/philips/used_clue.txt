@@ -38,3 +38,5 @@ processor speed
 dslr photography
 mirrorless technology
 camera lens
+usb drive
+flash drive
