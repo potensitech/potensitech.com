@@ -5412,5 +5412,18 @@
             "Cultural: Times Square",
             "Cultural: Central Park"
         ]
+    },
+    "cheap Samsung smartphone alternatives": {
+        "date": "2025-11-01T03:37:35",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Fourth of July",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: BBQ"
+        ]
     }
 }
