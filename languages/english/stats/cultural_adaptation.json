@@ -5473,5 +5473,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "budget-friendly Samsung smartphone for multitasking": {
+        "date": "2025-11-01T21:50:09",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
