@@ -5460,5 +5460,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Samsung smartphone with a high-speed processor": {
+        "date": "2025-11-01T19:28:32",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
