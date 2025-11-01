@@ -33,3 +33,4 @@ wireless charging
 battery life
 gpu performance
 mirrorless technology
+processor speed
