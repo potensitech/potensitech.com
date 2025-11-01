@@ -5451,5 +5451,14 @@
             "Cultural: Broadway",
             "Cultural: Tex-Mex"
         ]
+    },
+    "best Samsung smartphone for gaming": {
+        "date": "2025-11-01T14:38:56",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
