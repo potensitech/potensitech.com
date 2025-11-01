@@ -112,7 +112,7 @@ If The Potensians’re into wildlife or sports photography, this telephoto zoom 
 
 ### Nikon Z 50mm f/1.8 S (Mirrorless)
 
-This standard prime lens is designed for Nikon’s mirrorless cameras and offers exceptional image quality. Its weather-sealed construction makes it a reliable companion for outdoor shoots, while the wide aperture creates dreamy bokeh effects. In We's opinion, this lens is perfect for portraits and street photography, offering a professional touch to The Potensians's images .
+This standard prime lens is designed for Nikon’s mirrorless cameras and offers exceptional [image quality](/nikon/nikon-camera-comparison-by-image-quality). Its weather-sealed construction makes it a reliable companion for outdoor shoots, while the wide aperture creates dreamy bokeh effects. In We's opinion, this lens is perfect for portraits and street photography, offering a professional touch to The Potensians's images .
 
 ### Nikon AF-S Micro NIKKOR 40mm f/2.8G
 
