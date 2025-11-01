@@ -221,4 +221,10 @@ amd low-cost processor optimized for multitasking
 amd processor for budget-conscious computing needs
 amd processor offering affordable multitasking speed
 amd GPU for cost-effective gaming solutions
+amd high-performance affordable gpu
+amd budget gpu for gaming
+amd processor optimized for multitasking speed
+amd gpu for budget gaming performance
+amd high-performance gpu for budget users
+amd affordable processor with reliable speed
 
