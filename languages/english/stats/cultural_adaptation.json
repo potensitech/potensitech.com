@@ -5438,5 +5438,18 @@
             "Cultural: Broadway",
             "Cultural: Soul Food"
         ]
+    },
+    "Samsung smartphone with top GPU performance": {
+        "date": "2025-11-01T09:47:46",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: Hollywood",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
