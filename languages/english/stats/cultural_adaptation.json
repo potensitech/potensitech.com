@@ -5425,5 +5425,18 @@
             "Cultural: Hollywood",
             "Cultural: BBQ"
         ]
+    },
+    "best Samsung smartphone for high performance": {
+        "date": "2025-11-01T05:00:43",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Broadway",
+            "Cultural: Soul Food"
+        ]
     }
 }
