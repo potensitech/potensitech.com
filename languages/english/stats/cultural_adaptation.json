@@ -5512,5 +5512,18 @@
             "Cultural: Chicago",
             "Cultural: BBQ"
         ]
+    },
+    "nikon professional-grade camera lenses review": {
+        "date": "2025-11-02T07:34:55",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
