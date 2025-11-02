@@ -5486,5 +5486,18 @@
             "Cultural: Tex-Mex",
             "Cultural: Clam Chowder"
         ]
+    },
+    "Samsung smartphone with excellent GPU performance": {
+        "date": "2025-11-02T02:16:31",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Soul Food",
+            "Cultural: Martin Luther King Jr.",
+            "Cultural: Innovation"
+        ]
     }
 }
