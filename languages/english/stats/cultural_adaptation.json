@@ -5525,5 +5525,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Abraham Lincoln"
         ]
+    },
+    "samsung affordable smartphone with fast processor": {
+        "date": "2025-11-02T12:36:15",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: Apple Pie"
+        ]
     }
 }
