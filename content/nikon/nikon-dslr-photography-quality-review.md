@@ -101,7 +101,7 @@ From iconic cityscapes such as New York skyline views to serene countryside sett
 
 ### Sports & Action Shots: Freezing Moments
 
-Imagine documenting thrilling moments during Super Bowl games; this requires speed and accuracy, which Nikon delivers effortlessly. With advanced autofocus systems and high-speed continuous shooting modes, Nikon DSLRs excel at capturing fast-paced action. In We's view, this makes them a top choice for sports photographers who demand precision and reliability.
+Imagine documenting thrilling moments during Super Bowl games; this requires speed and accuracy, which Nikon delivers effortlessly. With advanced [autofocus systems](/nikon/nikon-high-precision-autofocus-systems) and high-speed continuous shooting modes, Nikon DSLRs excel at capturing fast-paced action. In We's view, this makes them a top choice for sports photographers who demand precision and reliability.
 
 ### Wildlife Photography: Capturing the Untamed
 
@@ -123,7 +123,7 @@ As We look ahead to 2025, Nikon continues to innovate and expand its DSLR lineup
 <tbody>
 <tr>
 <td>Nikon D850</td>
-<td>45.7 MP resolution, 4K video recording, and advanced autofocus.</td>
+<td>45.7 MP resolution, 4K video recording, and [advanced autofocus](/nikon/affordable-nikon-camera-with-advanced-autofocus).</td>
 <td>$2,999</td>
 </tr>
 <tr>
