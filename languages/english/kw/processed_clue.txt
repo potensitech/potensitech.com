@@ -996,3 +996,5 @@ gpu performance
 processor speed
 gpu performance
 processor speed
+gpu performance
+processor speed
