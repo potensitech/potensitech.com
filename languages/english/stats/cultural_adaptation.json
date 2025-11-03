@@ -5564,5 +5564,18 @@
             "Cultural: Central Park",
             "Cultural: BBQ"
         ]
+    },
+    "affordable samsung smartphone processor comparison": {
+        "date": "2025-11-03T02:16:47",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Memorial Day",
+            "Cultural: Wall Street",
+            "Cultural: Central Park",
+            "Cultural: Innovation"
+        ]
     }
 }
