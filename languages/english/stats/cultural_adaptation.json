@@ -5603,5 +5603,18 @@
             "Cultural: Hollywood",
             "Cultural: Apple Pie"
         ]
+    },
+    "samsung smartphone processors for gaming": {
+        "date": "2025-11-03T07:38:05",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Central Park",
+            "Cultural: BBQ"
+        ]
     }
 }
