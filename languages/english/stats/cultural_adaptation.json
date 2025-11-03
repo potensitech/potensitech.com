@@ -5590,5 +5590,18 @@
             "Cultural: Buffalo Wings",
             "Cultural: Albert Einstein"
         ]
+    },
+    "high-performance samsung smartphone processors": {
+        "date": "2025-11-03T05:04:08",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Apple Pie"
+        ]
     }
 }
