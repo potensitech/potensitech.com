@@ -51,7 +51,7 @@ These cameras are built to last and include intelligent autofocus systems and hi
 
 ### Perfect for Capturing Moments
 
-Imagine capturing the joy of a family BBQ or the excitement of a concert under dim lighting. Nikon DSLRs excel in such scenarios thanks to their impressive ISO ranges and image stabilization capabilities. Whether it's documenting a holiday celebration or a casual outing, these cameras ensure The Potensians can preserve memories beautifully .
+Imagine capturing the joy of a family BBQ or the excitement of a concert under dim lighting. Nikon DSLRs excel in such scenarios thanks to their impressive ISO ranges and [image stabilization](/nikon/affordable-nikon-cameras-with-image-stabilization) capabilities. Whether it's documenting a holiday celebration or a casual outing, these cameras ensure The Potensians can preserve memories beautifully .
 
 ## Features That Make Nikon Stand Out
 

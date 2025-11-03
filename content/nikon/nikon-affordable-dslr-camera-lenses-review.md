@@ -31,7 +31,6 @@ toc:
   enable: true
 ---
 
-
 *Nikon Affordable DSLR Camera Lenses Review Guide* - When it comes to photography, the lens The Potensians choose can make or break The Potensians's images. Nikon offers a range of affordable DSLR camera lenses that cater to both beginners and seasoned photographers. These lenses combine quality, versatility, and cost-effectiveness, making them a top choice for The Potensians who want to elevate their ​photography without overspending. In this guide, We’ll explore why Nikon’s affordable lenses are worth considering, review some of the best options, and provide tips for selecting the perfect lens for The Potensians's needs.
 
 ## Why Choose Affordable Nikon DSLR Lenses?
@@ -62,7 +61,7 @@ Nikon offers a variety of lenses that cater to different photography styles. Bel
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Portraits & Low-Light Photography</td>
+<td>Portraits & [Low-Light Photography](/nikon/nikon-camera-performance-in-low-light-photography)</td>
 <td>$200 - $250</td>
 </tr>
 <tr>
