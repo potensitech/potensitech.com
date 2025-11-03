@@ -5577,5 +5577,18 @@
             "Cultural: Central Park",
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone processors for budget users": {
+        "date": "2025-11-03T03:43:13",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Broadway",
+            "Cultural: Clam Chowder",
+            "Cultural: Buffalo Wings",
+            "Cultural: Albert Einstein"
+        ]
     }
 }
