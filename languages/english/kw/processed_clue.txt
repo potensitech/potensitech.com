@@ -1004,3 +1004,5 @@ gpu performance
 processor speed
 gpu performance
 processor speed
+data storage
+usb drive
