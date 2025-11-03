@@ -5629,5 +5629,18 @@
             "Cultural: Soul Food",
             "Cultural: Thomas Edison"
         ]
+    },
+    "samsung smartphone processors for everyday use": {
+        "date": "2025-11-03T12:42:33",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Soul Food"
+        ]
     }
 }
