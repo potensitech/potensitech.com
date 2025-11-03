@@ -136,7 +136,7 @@ To help The Potensians make an informed decision, here’s a quick price compari
 <td>Samsung EVO Plus</td>
 <td>128GB</td>
 <td>$19.99</td>
-<td>Everyday Use</td>
+<td>[Everyday Use](/samsung/samsung-smartphone-processors-for-everyday-use)</td>
 </tr>
 <tr>
 <td>Samsung PRO Endurance</td>
