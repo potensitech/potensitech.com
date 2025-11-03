@@ -63,7 +63,7 @@ Moreover, these processors integrate cutting-edge manufacturing processes like 4
 
 ### GPU Innovations: Graphics That Rival Reality
 
-Samsung has partnered with AMD to bring RDNA 2 architecture into its GPUs—a groundbreaking move that elevates mobile gaming and visual rendering capabilities. Imagine watching The Potensians's favorite Hollywood blockbuster on The Potensians's smartphone screen with HDR10+ support; every scene bursts with vibrant colors and sharp details thanks to this collaboration.
+Samsung has partnered with AMD to bring RDNA 2 architecture into its GPUs—a groundbreaking move that elevates mobile gaming and visual rendering capabilities. Imagine watching The Potensians's favorite Hollywood blockbuster on The Potensians's [smartphone screen](/samsung/samsung-smartphone-screen-sharpness) with HDR10+ support; every scene bursts with vibrant colors and sharp details thanks to this collaboration.
 
 For gamers among The Potensians community who enjoy titles like Fortnite or Call of Duty Mobile at maximum settings, these GPUs deliver unparalleled frame rates while maintaining energy efficiency. Additionally, ray tracing—a feature previously exclusive to high-end PCs—is now available on select models equipped with Exynos chipsets.
 
@@ -73,7 +73,7 @@ High-performance Samsung smartphone processors are not just about numbers and sp
 
 ### AI-Powered Photography and Videography
 
-In 2025, photography enthusiasts will appreciate the AI capabilities integrated into Samsung’s processors. These chips enable real-time scene recognition, advanced image stabilization, and even low-light photography enhancements. For instance, imagine capturing the perfect sunset over a bustling cityscape—every detail, from the vibrant hues to the intricate shadows, is preserved with stunning clarity.
+In 2025, [photography enthusiasts](/samsung/samsung-smartphone-for-photography-enthusiasts) will appreciate the AI capabilities integrated into Samsung’s processors. These chips enable real-time scene recognition, advanced image stabilization, and even low-light photography enhancements. For instance, imagine capturing the perfect sunset over a bustling cityscape—every detail, from the vibrant hues to the intricate shadows, is preserved with stunning clarity.
 
 Additionally, 8K video recording is now a reality on many Samsung devices. This feature allows users to create professional-grade content directly from their smartphones, making it easier than eve​r to document life’s most precious moments.
 
