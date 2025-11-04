@@ -1032,3 +1032,5 @@ gpu performance
 processor speed
 usb drive
 flash drive
+usb drive
+flash drive
