@@ -5701,5 +5701,14 @@
             "Cultural: Los Angeles",
             "Cultural: Times Square"
         ]
+    },
+    "Nikon smart-lighting alternatives for photography": {
+        "date": "2025-11-04T17:04:09",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Tex-Mex"
+        ]
     }
 }
