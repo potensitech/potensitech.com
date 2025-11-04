@@ -1036,3 +1036,5 @@ usb drive
 flash drive
 usb drive
 flash drive
+gpu performance
+processor speed

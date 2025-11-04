@@ -2760,5 +2760,10 @@
   "affordable Intel processor for everyday use": true,
   "Intel processor for high-end gaming computers": true,
   "energy-efficient Intel processor for laptops": true,
-  "Intel processor for lightweight ultrabooks": true
+  "Intel processor for lightweight ultrabooks": true,
+  "nvidia affordable high-performance GPU": true,
+  "nvidia budget-friendly gaming graphics card": true,
+  "nvidia cost-effective graphics card for creators": true,
+  "nvidia GPU for affordable gaming setups": true,
+  "nvidia wallet-friendly GPU with strong performance": true
 }
