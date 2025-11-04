@@ -5675,5 +5675,18 @@
             "Cultural: Hollywood",
             "Cultural: Pizza"
         ]
+    },
+    "budget-friendly Samsung smartphone with reliable processor": {
+        "date": "2025-11-04T05:01:44",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Broadway",
+            "Cultural: Central Park",
+            "Cultural: BBQ"
+        ]
     }
 }
