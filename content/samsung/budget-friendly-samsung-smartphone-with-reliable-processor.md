@@ -48,7 +48,7 @@ Samsung's budget-friendly smartphones are packed with features that make them a 
 <td>Smooth performance during daily use.</td>
 </tr>
 <tr>
-<td>High-Quality Display</td>
+<td>[High-Quality Display](/samsung/affordable-samsung-smartphone-with-high-quality-display)</td>
 <td>Vivid AMOLED screens for immersive visuals.</td>
 <td>Enhanced viewing experience for videos and apps.</td>
 </tr>
