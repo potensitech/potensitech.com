@@ -5662,5 +5662,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "affordable Samsung smartphone with fast processor": {
+        "date": "2025-11-04T02:11:01",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Pizza"
+        ]
     }
 }
