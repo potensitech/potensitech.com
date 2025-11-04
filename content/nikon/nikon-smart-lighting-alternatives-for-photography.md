@@ -11,11 +11,14 @@ tags: ["Nikon", "smart-lighting", "photography", "lighting alternatives"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-smart-lighting-alternatives-for-better-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-smart-lighting-alternatives-for-better-photography.jpg"
 ---
+
+![Nikon Smart-Lighting Alternatives for Better Photography](/images/nikon/nikon-smart-lighting-alternatives-for-better-photography.jpg)
+
 
 *Nikon Smart-Lighting Alternatives for Photography* - 
 
