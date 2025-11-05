@@ -1062,3 +1062,5 @@ gpu performance
 processor speed
 data storage
 usb drive
+data storage
+gpu performance
