@@ -5759,5 +5759,18 @@
             "Cultural: Freedom",
             "Cultural: Innovation"
         ]
+    },
+    "Nikon smart-lighting for studio photography": {
+        "date": "2025-11-05T05:02:04",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Fourth of July",
+            "Cultural: Broadway",
+            "Cultural: Central Park",
+            "Cultural: BBQ"
+        ]
     }
 }
