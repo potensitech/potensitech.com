@@ -11,11 +11,14 @@ tags: ["advanced", "Nikon", "smart-lighting", "camera systems", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/advanced-nikon-smart-lighting-systems-for-cameras.jpg"
+featuredImagePreview: "/images/nikon/advanced-nikon-smart-lighting-systems-for-cameras.jpg"
 ---
+
+![Advanced Nikon Smart-Lighting Systems for Cameras](/images/nikon/advanced-nikon-smart-lighting-systems-for-cameras.jpg)
+
 
 *Advanced Nikon Smart-Lighting Systems for Cameras* - 
 
