@@ -5798,5 +5798,18 @@
             "Cultural: Central Park",
             "Cultural: Innovation"
         ]
+    },
+    "high-performance Samsung smartphone processor speed": {
+        "date": "2025-11-05T17:07:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Broadway",
+            "Cultural: Central Park",
+            "Cultural: Burgers",
+            "Cultural: BBQ"
+        ]
     }
 }
