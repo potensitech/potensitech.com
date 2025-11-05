@@ -5772,5 +5772,18 @@
             "Cultural: Central Park",
             "Cultural: BBQ"
         ]
+    },
+    "affordable Samsung smartphone processor speed": {
+        "date": "2025-11-05T09:54:25",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: New Year's Day",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex",
+            "Cultural: Innovation"
+        ]
     }
 }
