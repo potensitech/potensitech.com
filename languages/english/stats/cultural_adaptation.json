@@ -5734,5 +5734,18 @@
             "Cultural: Wall Street",
             "Cultural: Apple Pie"
         ]
+    },
+    "Nikon smart-lighting options for professional photographers": {
+        "date": "2025-11-05T02:12:45",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Memorial Day",
+            "Cultural: Hollywood",
+            "Cultural: Broadway",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
