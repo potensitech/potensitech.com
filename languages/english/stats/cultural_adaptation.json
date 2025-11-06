@@ -5889,5 +5889,18 @@
             "Cultural: Broadway",
             "Cultural: Central Park"
         ]
+    },
+    "samsung affordable high-performance smartphone": {
+        "date": "2025-11-06T19:32:39",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: Soul Food"
+        ]
     }
 }
