@@ -5863,5 +5863,18 @@
             "Cultural: Wall Street",
             "Cultural: Hot Dogs"
         ]
+    },
+    "Nikon smart-lighting accessories for cameras": {
+        "date": "2025-11-06T07:39:06",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: Chicago",
+            "Cultural: Hollywood",
+            "Cultural: Burgers"
+        ]
     }
 }
