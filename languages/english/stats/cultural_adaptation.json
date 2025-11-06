@@ -5850,5 +5850,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "compact Nikon smart-lighting for travel photography": {
+        "date": "2025-11-06T05:03:40",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
