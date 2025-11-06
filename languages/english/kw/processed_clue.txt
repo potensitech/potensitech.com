@@ -1066,3 +1066,5 @@ data storage
 gpu performance
 gpu performance
 processor speed
+gpu performance
+processor speed
