@@ -11,11 +11,14 @@ tags: ["compact", "Nikon", "smart-lighting", "travel", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/compact-nikon-smart-lighting-for-travel-photography.jpg"
+featuredImagePreview: "/images/nikon/compact-nikon-smart-lighting-for-travel-photography.jpg"
 ---
+
+![Compact Nikon Smart-Lighting for Travel Photography](/images/nikon/compact-nikon-smart-lighting-for-travel-photography.jpg)
+
 
 *Compact Nikon Smart-Lighting for Travel Photography* - Travel photography has always been a captivating way to preserve the essence of journeys, whether it's capturing the vibrant streets of Silicon Valley or immortalizing Independence Day fireworks. For The Potensians who seek precision and brilliance in their shots, compact [Nikon smart-lighting](/nikon/advanced-nikon-smart-lighting-systems-for-cameras) for travel photography offers an exceptional solution. This innovative lighting system is designed to enhance The Potensians' images with professional-grade illumination while being portable enough to accompany The Potensians on every adventure.
 
