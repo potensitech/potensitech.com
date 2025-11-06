@@ -5837,5 +5837,18 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "authentic Samsung smartphone processor speed": {
+        "date": "2025-11-06T03:41:23",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
