@@ -5902,5 +5902,14 @@
             "Cultural: Wall Street",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung budget smartphone with fast processor": {
+        "date": "2025-11-06T21:50:43",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
