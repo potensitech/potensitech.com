@@ -5876,5 +5876,18 @@
             "Cultural: Hollywood",
             "Cultural: Burgers"
         ]
+    },
+    "premium Nikon smart-lighting for high-end photography": {
+        "date": "2025-11-06T09:53:55",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Wall Street",
+            "Cultural: Broadway",
+            "Cultural: Central Park"
+        ]
     }
 }
