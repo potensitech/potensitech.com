@@ -2815,5 +2815,8 @@
   "intel efficient processors for data-heavy tasks": true,
   "intel budget-friendly storage solutions": true,
   "intel cutting-edge GPUs for AI applications": true,
-  "intel scalable storage solutions for enterprises": true
+  "intel scalable storage solutions for enterprises": true,
+  "nvidia high-performance GPU for budget-conscious gamers": true,
+  "nvidia affordable GPU for creative professionals": true,
+  "nvidia budget GPU for everyday gaming": true
 }

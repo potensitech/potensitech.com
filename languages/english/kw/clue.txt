@@ -1,6 +1,6 @@
-data storage
 gpu performance
 processor speed
+data storage
 usb drive
 flash drive
 camera lens
