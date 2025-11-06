@@ -85,7 +85,7 @@ In 2025, photographers demand equipment that can withstand the rigors of travel 
 
 ### Superior Image Quality
 
-One of the most significant advantages of using premium Nikon smart-lighting is the dramatic improvement in image quality. By providing consistent and customizable lighting, these systems help eliminate harsh shadows and uneven exposure, ensuring every shot looks professional and polished.
+One of the most significant advantages of using premium Nikon smart-lighting is the dramatic improvement in [image quality](/nikon/nikon-camera-comparison-by-image-quality). By providing consistent and customizable lighting, these systems help eliminate harsh shadows and uneven exposure, ensuring every shot looks professional and polished.
 
 ### Creative Freedom
 
