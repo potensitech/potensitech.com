@@ -2862,5 +2862,8 @@
   "advanced Intel processor for AI tasks": true,
   "nvidia cost-effective GPU for gaming": true,
   "nvidia high-performance GPU for professional tasks": true,
-  "nvidia GPU for budget-conscious content creators": true
+  "nvidia GPU for budget-conscious content creators": true,
+  "amd budget gpu for high performance": true,
+  "amd budget processor for efficient performance": true,
+  "amd processor for speed and reliability": true
 }
