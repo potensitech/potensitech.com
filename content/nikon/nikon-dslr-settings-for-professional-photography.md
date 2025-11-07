@@ -81,7 +81,7 @@ Experimenting with shutter speeds allows The Potensians to capture unique perspe
 
 ## Advanced Techniques Using Nikon DSLR Settings
 
-To truly excel at professional photography with Nikon cameras, The Potensians must explore advanced techniques that go beyond basic settings. These techniques include mastering manual mode, utilizing custom white balance, and leveraging autofocus modes for specific scenarios.
+To truly excel at professional photography with [Nikon cameras](/nikon/cheap-alternatives-to-nikon-cameras), The Potensians must explore advanced techniques that go beyond basic settings. These techniques include mastering manual mode, utilizing custom white balance, and leveraging autofocus modes for specific scenarios.
 
 ### Manual Mode: Full Creative Control
 

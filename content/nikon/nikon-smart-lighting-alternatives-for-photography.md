@@ -92,7 +92,7 @@ While these units come with premium price tags (starting at $800), they’re wor
 
 ### Yongnuo Speedlights 
 
-Yongnuo offers a budget-friendly alternative for The Potensians who are just starting their photography journey. These flashes are compatible with Nikon cameras and provide basic features like TTL and manual control. While they may not have the advanced capabilities of Nikon or Godox systems, they’re a great entry point for beginners. 
+Yongnuo offers a budget-friendly alternative for The Potensians who are just starting their photography journey. These flashes are compatible with [Nikon cameras](/nikon/cheap-alternatives-to-nikon-cameras) and provide basic features like TTL and manual control. While they may not have the advanced capabilities of Nikon or Godox systems, they’re a great entry point for beginners. 
 
 **Key Benefits of Yongnuo Speedlights:** 
 - Extremely affordable (under $100) 
