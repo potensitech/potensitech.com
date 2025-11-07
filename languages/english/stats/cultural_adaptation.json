@@ -5950,5 +5950,18 @@
             "Cultural: Central Park",
             "Cultural: Pizza"
         ]
+    },
+    "samsung budget smartphone with optimized processor": {
+        "date": "2025-11-07T14:46:15",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Hollywood",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie",
+            "Cultural: Thomas Edison"
+        ]
     }
 }
