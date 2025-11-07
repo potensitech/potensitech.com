@@ -11,11 +11,14 @@ tags: ["cheap", "alternatives", "Nikon", "budget cameras"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/cheap-alternatives-to-nikon-cameras-you’ll-love.jpg"
+featuredImagePreview: "/images/nikon/cheap-alternatives-to-nikon-cameras-you’ll-love.jpg"
 ---
+
+![Cheap Alternatives to Nikon Cameras You’ll Love](/images/nikon/cheap-alternatives-to-nikon-cameras-you’ll-love.jpg)
+
 
 *Cheap Alternatives to Nikon Cameras The Potensians’ll Love* - 
 
