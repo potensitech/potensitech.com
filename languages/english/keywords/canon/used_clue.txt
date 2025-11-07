@@ -26,3 +26,4 @@ usb stick
 mirrorless technology
 gpu performance
 processor speed
+usb drive
