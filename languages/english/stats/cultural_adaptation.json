@@ -5937,5 +5937,18 @@
             "Cultural: Times Square",
             "Cultural: Burgers"
         ]
+    },
+    "samsung low-cost smartphone with reliable processor": {
+        "date": "2025-11-07T05:01:06",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Black Friday",
+            "Cultural: Los Angeles",
+            "Cultural: Central Park",
+            "Cultural: Pizza"
+        ]
     }
 }
