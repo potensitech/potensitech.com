@@ -2859,5 +2859,8 @@
   "cost-effective Intel processor for students": true,
   "premium Intel processor for professionals": true,
   "energy-efficient Intel processor for portable devices": true,
-  "advanced Intel processor for AI tasks": true
+  "advanced Intel processor for AI tasks": true,
+  "nvidia cost-effective GPU for gaming": true,
+  "nvidia high-performance GPU for professional tasks": true,
+  "nvidia GPU for budget-conscious content creators": true
 }
