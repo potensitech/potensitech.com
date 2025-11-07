@@ -28,3 +28,5 @@ battery life
 mirrorless technology
 gpu performance
 processor speed
+usb drive
+flash drive
