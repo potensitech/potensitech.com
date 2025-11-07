@@ -114,7 +114,7 @@ Fujifilm’s X-T200 is a gem in the mirrorless camera category. It combines stun
 
 ### Sony Alpha a6000
 
-The Sony Alpha a6000 is a popular choice among budget-conscious photographers. This mirrorless camera features a 24.3 MP sensor and an impressive autofocus system, making it suitable for both still photography and video recording. Its compact size and lightweight build make it a great companion for on-the-go photography. 
+The Sony Alpha a6000 is a popular choice among budget-conscious photographers. This mirrorless camera features a 24.3 MP sensor and an impressive [autofocus system](/nikon/nikon-camera-autofocus-system-comparison-guide), making it suitable for both still photography and video recording. Its compact size and lightweight build make it a great companion for on-the-go photography. 
 
 #### Pros:
 - Fast autofocus system for capturing action shots. 
