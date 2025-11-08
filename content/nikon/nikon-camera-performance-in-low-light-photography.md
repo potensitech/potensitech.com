@@ -42,7 +42,7 @@ To truly appreciate Nikon camera performance in low-light photography, it’s es
 
 ### Wide Aperture Lenses: Letting More Light In
 
-A wide aperture lens is indispensable for low-light photography as it allows more light to reach the sensor. Nikon offers an impressive range of fast lenses with apertures as wide as f/1.2 or f/1.4—ideal for shooting portraits or close-ups under dim lighting conditions. For example:
+A wide aperture lens is indispensable for [low-light photography](/nikon/nikon-cameras-for-low-light-photography) as it allows more light to reach the sensor. Nikon offers an impressive range of fast lenses with apertures as wide as f/1.2 or f/1.4—ideal for shooting portraits or close-ups under dim lighting conditions. For example:
 
 - __Nikon AF-S NIKKOR 50mm f/1.4G**: Perfect for capturing intimate family gatherings where soft ambient lighting creates a warm atmosphere.
 - __NIKKOR Z 85mm f/1.8 S**: A go-to lens for isolating subjects against beautifully blurred backgrounds during nighttime events like Broadway performances.
