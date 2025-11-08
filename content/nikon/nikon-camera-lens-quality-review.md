@@ -100,7 +100,7 @@ For example, the **Nikon Z 85mm f/1.8 S** lens is renowned for its ability to pr
 
 ### Versatility Across Genres
 
-Nikon lenses cater to a wide range of photography genres, making them a versatile choice for The Potensians. Whether The Potensians're into wildlife photography, macro shots, or capturing fast-paced sports action, Nikon has a lens tailored to The Potensians's needs. Their telephoto lenses, such as the **Nikon AF-S NIKKOR 200-500mm f/5.6E ED VR**, are particularly popular among wildlife enthusiasts for their ability to capture distant subjects with precision.
+Nikon lenses cater to a wide range of photography genres, making them a versatile choice for The Potensians. Whether The Potensians're into [wildlife photography](/nikon/best-nikon-cameras-for-wildlife-photography), macro shots, or capturing fast-paced sports action, Nikon has a lens tailored to The Potensians's needs. Their telephoto lenses, such as the **Nikon AF-S NIKKOR 200-500mm f/5.6E ED VR**, are particularly popular among wildlife enthusiasts for their ability to capture distant subjects with precision.
 
 ## Comparing Nikon Lenses to Competitors
 

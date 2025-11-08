@@ -89,7 +89,7 @@ Even at entry-level prices, Nikon cameras deliver stunning image quality compara
 
 ### Versatility Across Genres
 
-From portraiture to wildlife photography, Nikon cameras are versatile enough to handle various genres. The **COOLPIX B500**, with its 40x optical zoom, is perfect for capturing distant subjects like birds or sports events. Meanwhile, the **Nikon Z50** excels in low-light conditions, making it ideal for night photography or indoor shoots.
+From portraiture to wildlife photography, [Nikon cameras](/nikon/best-nikon-cameras-for-wildlife-photography) are versatile enough to handle various genres. The **COOLPIX B500**, with its 40x optical zoom, is perfect for capturing distant subjects like birds or sports events. Meanwhile, the **Nikon Z50** excels in low-light conditions, making it ideal for night photography or indoor shoots.
 
 ### Connectivity Options
 
