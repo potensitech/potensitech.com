@@ -5984,5 +5984,18 @@
             "Cultural: New York",
             "Cultural: Social Media"
         ]
+    },
+    "affordable Nikon DSLR cameras": {
+        "date": "2025-11-08T02:08:44",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Halloween",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: BBQ"
+        ]
     }
 }
