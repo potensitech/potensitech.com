@@ -1118,3 +1118,5 @@ usb drive
 flash drive
 usb drive
 data storage
+usb drive
+data storage
