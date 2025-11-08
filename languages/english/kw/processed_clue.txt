@@ -1112,3 +1112,5 @@ usb drive
 flash drive
 usb drive
 flash drive
+usb drive
+flash drive
