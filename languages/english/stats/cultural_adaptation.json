@@ -6071,5 +6071,18 @@
             "Cultural: Central Park",
             "Cultural: Soul Food"
         ]
+    },
+    "Nikon cameras for low-light photography": {
+        "date": "2025-11-08T21:50:27",
+        "language": "en",
+        "cultural_score": 72,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Soul Food"
+        ]
     }
 }
