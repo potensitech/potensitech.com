@@ -6032,5 +6032,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "Nikon camera deals and discounts": {
+        "date": "2025-11-08T14:40:08",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Memorial Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Christmas",
+            "Cultural: Fourth of July"
+        ]
     }
 }
