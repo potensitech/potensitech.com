@@ -144,7 +144,7 @@ To help The Potensians choose the right camera, here's a comparison of the key f
 
 ## Accessories to Enhance The Potensians's Photography
 
-To get the most out of The Potensians's Nikon camera, consider investing in essential accessories. A sturdy tripod is invaluable for long exposure shots and stable video recording. High-quality lenses can expand The Potensians's creative possibilities, whether The Potensians're shooting wide-angle landscapes or close-up portraits. Additionally, extra batteries and memo​ry cards ensure The Potensians're always prepared for extended shooting sessions.
+To get the most out of The Potensians's Nikon camera, consider investing in essential accessories. A sturdy tripod is invaluable for long exposure shots and stable [video recording](/nikon/nikon-cameras-with-4k-video-recording). High-quality lenses can expand The Potensians's creative possibilities, whether The Potensians're shooting wide-angle landscapes or close-up portraits. Additionally, extra batteries and memo​ry cards ensure The Potensians're always prepared for extended shooting sessions.
 
 ## Conclusion
 

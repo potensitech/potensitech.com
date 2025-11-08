@@ -48,7 +48,7 @@ To facilitate The Potensians in choosing the right camera, here’s a list of st
 </tr>
 <tr>
 <td>Nikon D7500</td>
-<td>20.9 MP sensor; 4K UHD video recording; Weather-sealed body</td>
+<td>20.9 MP sensor; 4K UHD [video recording](/nikon/nikon-cameras-with-4k-video-recording); Weather-sealed body</td>
 <td>$900 - $1,000</td>
 </tr>
 <tr>

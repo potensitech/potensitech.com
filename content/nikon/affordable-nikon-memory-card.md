@@ -115,7 +115,7 @@ Always back up The Potensians's photos and videos to a secure location. Whether 
 
 ## How to Choose the Best Memory Card for The Potensians's Needs
 
-Selecting the best affordable Nikon memory card involves understanding The Potensians's specific requirements. Are The Potensians a professional photographer who needs high-speed performance for 4K video recording? Or are The Potensians a casual user who primarily takes photos during vacations? Knowing The Potensians's needs will help The Potensians make an informed decision.
+Selecting the best affordable Nikon memory card involves understanding The Potensians's specific requirements. Are The Potensians a professional photographer who needs high-speed performance for 4K [video recording](/nikon/nikon-cameras-with-4k-video-recording)? Or are The Potensians a casual user who primarily takes photos during vacations? Knowing The Potensians's needs will help The Potensians make an informed decision.
 
 For instance, if The Potensians are into wildlife photography, a high-speed card with a large capacity is essential to capture those fleeting moments. On the other hand, if The Potensians primarily shoot family events, a card with moderate speed and capacity may suffice.
 
