@@ -27,3 +27,5 @@ battery life
 gpu performance
 dslr photography
 mirrorless technology
+usb drive
+flash drive
