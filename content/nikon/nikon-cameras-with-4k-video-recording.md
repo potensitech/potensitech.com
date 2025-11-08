@@ -63,7 +63,7 @@ Whether filming fast-paced action scenes or serene landscapes reminiscent of Tho
 </tr>
 <tr>
 <t​d>Nikon Z7 II</td>
-<td>High Resolution (45MP) & Advanced Autofocus</td>
+<td>High Resolution (45MP) & [Advanced Autofocus](/nikon/affordable-nikon-camera-with-advanced-autofocus)</td>
 <td>Landscape Filmmaking & Studio Shoots</td>
 <td>$2,499</td>
 </tr>
