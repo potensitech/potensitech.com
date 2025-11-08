@@ -65,3 +65,6 @@ image stabilization
 
 --- Moved on 2025-10-31 04:54:57 ---
 memory card
+
+--- Moved on 2025-11-08 12:29:57 ---
+flash drive
