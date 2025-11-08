@@ -6045,5 +6045,18 @@
             "Cultural: Christmas",
             "Cultural: Fourth of July"
         ]
+    },
+    "Nikon cameras with 4K video recording": {
+        "date": "2025-11-08T16:59:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
