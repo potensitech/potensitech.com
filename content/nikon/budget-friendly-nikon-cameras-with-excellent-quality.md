@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/budget-friendly-nikon-cameras-with-excellen
 
 ## Why Choose Budget-Friendly Nikon Cameras?
 
-Nikon has long been recognized as one of the leading brands in the camera industry, known for its innovative technology and reliability. Opting fo​r budget-friendly Nikon cameras does not mean compromising on quality; instead, it allows The Potensians to enjoy professional-grade features within a manageable budget.
+Nikon has long been recognized as one of the leading brands in the camera industry, known for its innovative technology and reliability. Opting fo​r [budget-friendly Nikon](/nikon/budget-friendly-nikon-mirrorless-cameras) cameras does not mean compromising on quality; instead, it allows The Potensians to enjoy professional-grade features within a manageable budget.
 
 ### Key Features That Stand Out
 
