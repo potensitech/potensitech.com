@@ -1128,3 +1128,5 @@ dslr
 mirrorless
 megapixels
 autofocus
+megapixels
+autofocus

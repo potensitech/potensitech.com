@@ -28,3 +28,5 @@ mirrorless technology
 processor speed
 usb drive
 flash drive
+megapixels
+autofocus

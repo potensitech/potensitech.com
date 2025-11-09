@@ -1,8 +1,8 @@
-dslr
-mirrorless
 megapixels
 autofocus
 gpu performance
+dslr
+mirrorless
 processor speed
 data storage
 usb drive
