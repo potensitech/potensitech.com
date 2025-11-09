@@ -6120,5 +6120,18 @@
             "Cultural: Wall Street",
             "Cultural: Burgers"
         ]
+    },
+    "affordable Samsung smartphone with high megapixels": {
+        "date": "2025-11-09T12:40:16",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: Wall Street",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
