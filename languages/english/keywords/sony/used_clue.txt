@@ -31,3 +31,5 @@ gpu performance
 mirrorless technology
 usb drive
 flash drive
+megapixels
+autofocus
