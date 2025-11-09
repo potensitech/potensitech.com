@@ -74,7 +74,7 @@ Whether documenting holiday traditions or experimenting with modern trends such 
 
 ### Nikon Z50 – A Mirrorless Option for Advanced Beginners
 
-For those ready to explore the world of mirrorless cameras, the Nikon Z50 is a fantastic option. While it’s slightly more advanced, it remains beginner-friendly and offers a compact design that’s perfect for travel and everyday use.
+For those ready to explore the world of [mirrorless cameras](/nikon/affordable-nikon-mirrorless-cameras-for-travel), the Nikon Z50 is a fantastic option. While it’s slightly more advanced, it remains beginner-friendly and offers a compact design that’s perfect for travel and everyday use.
 
 #### Key Features:
 - **Sensor:** 20.9 MP DX-format CMOS sensor
