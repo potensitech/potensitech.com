@@ -34,3 +34,5 @@ dslr photography
 mirrorless technology
 usb drive
 flash drive
+megapixels
+autofocus
