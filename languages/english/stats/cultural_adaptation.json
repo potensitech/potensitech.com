@@ -6133,5 +6133,16 @@
             "Cultural: Broadway",
             "Cultural: Tex-Mex"
         ]
+    },
+    "best budget Samsung smartphone with autofocus": {
+        "date": "2025-11-09T17:02:34",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
