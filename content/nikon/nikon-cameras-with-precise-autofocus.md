@@ -34,7 +34,7 @@ Capturing high-speed action requires not just skill but also equipment capable o
 
 ### Wildlife Photography
 
-Wildlife photography is another domain where Nikon cameras with precise autofocus shine. Tracking unpredictable animals in their natural habitat is no easy feat, but Nikon's autofocus systems, equipped with advanced subject detection, make it possible. Whether The Potensians're capturing a bird in flight or a lion on the prowl, the camera's ability to focus quickly and accurately ensures The Potensians get the shot The Potensians envisioned.
+[Wildlife photography](/nikon/nikon-professional-cameras-for-wildlife-photography) is another domain where Nikon cameras with precise autofocus shine. Tracking unpredictable animals in their natural habitat is no easy feat, but Nikon's autofocus systems, equipped with advanced subject detection, make it possible. Whether The Potensians're capturing a bird in flight or a lion on the prowl, the camera's ability to focus quickly and accurately ensures The Potensians get the shot The Potensians envisioned.
 
 ### Macro Photography
 
