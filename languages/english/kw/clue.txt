@@ -1,3 +1,7 @@
+dslr
+mirrorless
+megapixels
+autofocus
 gpu performance
 processor speed
 data storage
