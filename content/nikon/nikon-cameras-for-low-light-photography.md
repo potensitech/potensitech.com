@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/nikon-cameras-for-low-light-photography.jpg
 
 ## Why Low-Light Photography Matters
 
-Low-light photography isn’t just a technical challenge; it’s an opportunity to capture mood, emotion, and atmosphere. Imagine photographing the Independence Day fireworks over Silicon Valley or preserving the warm glow of soul food being served at a family gathering. These moments demand equipment capable of handling shadows, contrasts, and subtle details. Nikon has mastered this niche by offering features like wide ISO ranges, advanced sensors, and image stabilization systems tailored for such scenarios.
+Low-light photography isn’t just a technical challenge; it’s an opportunity to capture mood, emotion, and atmosphere. Imagine photographing the Independence Day fireworks over Silicon Valley or preserving the warm glow of soul food being served at a family gathering. These moments demand equipment capable of handling shadows, contrasts, and subtle details. Nikon has mastered this niche by offering features like wide ISO ranges, advanced sensors, and [image stabilization](/nikon/nikon-camera-features-for-image-stabilization) systems tailored for such scenarios.
 
 ## Key Challenges in Low-Light Photography
 
