@@ -1142,3 +1142,5 @@ megapixels
 autofocus
 gaming smartphone
 flagship phone
+high-performance
+amoled display
