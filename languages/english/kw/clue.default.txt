@@ -1,8 +1,8 @@
 megapixels
 autofocus
-gpu performance
 dslr
 mirrorless
+gpu performance
 processor speed
 data storage
 usb drive

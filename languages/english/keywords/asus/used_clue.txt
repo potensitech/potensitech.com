@@ -37,3 +37,5 @@ gpu performance
 processor speed
 usb drive
 flash drive
+gaming smartphone
+flagship phone
