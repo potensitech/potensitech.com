@@ -6157,5 +6157,18 @@
             "Cultural: Chicago",
             "Cultural: Wall Street"
         ]
+    },
+    "Nikon professional cameras for wildlife photography": {
+        "date": "2025-11-09T21:53:52",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
