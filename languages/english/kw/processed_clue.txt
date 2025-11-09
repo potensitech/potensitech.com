@@ -1126,3 +1126,5 @@ gpu performance
 processor speed
 dslr
 mirrorless
+megapixels
+autofocus
