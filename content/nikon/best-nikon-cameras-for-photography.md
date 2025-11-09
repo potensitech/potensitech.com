@@ -66,7 +66,7 @@ To help The Potensians make an informed decision, We’ve compiled a list of the
 <tbody>
 <tr>
 <td>Nikon Z9</td>
-<td>45MP sensor, 8K video recording, advanced autofocus system</td>
+<td>45MP sensor, 8K video recording, [advanced autofocus](/nikon/affordable-nikon-camera-with-advanced-autofocus) system</td>
 <td>Professional photographers seeking high-end performance</td>
 <td>$5,499</td>
 </tr>
