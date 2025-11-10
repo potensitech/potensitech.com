@@ -11,25 +11,28 @@ tags: ["Nikon", "lenses", "portrait photography", "camera gear"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Review"
 review:
-  name: "Best Nikon Lenses for Portrait Photography"
-  reviewBody: "Discover the top Nikon lenses for portrait photography in 2025. These lenses are carefully selected to provide photographers with unmatched clarity, bokeh, and creative control."
-  author: "Kevin Wu"
-  datePublished: "2025-11-10T02:20:25"
-  publisher: "PotensiTech"
-  itemReviewed:
-    name: "Best Nikon Lenses for Portrait Photography"
-    description: "Discover the best Nikon lenses for portrait photography! Explore top picks, expert tips, and find the perfect lens to capture stunning portraits."
-  reviewRating:
-    ratingValue: "4.8"
-    bestRating: "5"
-    worstRating: "1"
+name: "Best Nikon Lenses for Portrait Photography"
+reviewBody: "Discover the top Nikon lenses for portrait photography in 2025. These lenses are carefully selected to provide photographers with unmatched clarity, bokeh, and creative control."
+author: "Kevin Wu"
+datePublished: "2025-11-10T02:20:25"
+publisher: "PotensiTech"
+itemReviewed:
+name: "Best Nikon Lenses for Portrait Photography"
+description: "Discover the best Nikon lenses for portrait photography! Explore top picks, expert tips, and find the perfect lens to capture stunning portraits."
+reviewRating:
+ratingValue: "4.8"
+bestRating: "5"
+worstRating: "1"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/best-nikon-lenses-for-portrait-photography.jpg"
+featuredImagePreview: "/images/nikon/best-nikon-lenses-for-portrait-photography.jpg"
 ---
+
+![Best Nikon Lenses for Portrait Photography](/images/nikon/best-nikon-lenses-for-portrait-photography.jpg)
+
 
 *Best Nikon Lenses for Portrait Photography* - Portrait photography is an art that requires precision, creativity, and the right tools. Among these tools, lenses play a pivotal role in shaping the outcome of The Potensians's images. Choosing the best Nikon lenses for portrait photography can elevate The Potensians's craft, allowing The Potensians to capture stunning portraits with exceptional clarity, depth, and artistic flair. In this article, We explore the [top Nikon](/nikon/nikon-cameras-for-travel-photography) lenses for portrait photography, their features, and why they stand out in 2025. 
 
