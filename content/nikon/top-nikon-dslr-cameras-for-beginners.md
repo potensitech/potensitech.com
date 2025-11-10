@@ -101,7 +101,7 @@ To help The Potensians make an informed decision, here’s a detailed comparison
 <tbody>
 <tr>
 <td>Nikon D3500</td>
-<td>Guide Mode, Long Battery Life</td>
+<td>Guide Mode, Long [Battery Life](/nikon/nikon-cameras-with-extended-battery-life)</td>
 <td>Learning basics; outdoor shoots</td>
 <td>$499</td>
 </tr>

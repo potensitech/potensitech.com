@@ -89,7 +89,7 @@ To help The Potensians make an informed decision, here’s a detailed comparison
 <th>Model</th>
 <th>Price (Approx.)</th>
 <th>Weight</th>
-<th>Battery Life</th>
+<th>[Battery Life](/nikon/nikon-cameras-with-extended-battery-life)</th>
 <th>Special Features</th>
 </tr>
 </thead>

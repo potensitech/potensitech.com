@@ -84,7 +84,7 @@ To provide The Potensians with a clearer understanding of Nikon’s offerings, h
 <td>Enables remote control for convenience</td>
 </tr>
 <tr>
-<td>Battery Life</td>
+<td>[Battery Life](/nikon/nikon-cameras-with-extended-battery-life)</td>
 <td>Up to 12 hours</td>
 <td>Supports extended shoots without interruptions</td>
 </tr>

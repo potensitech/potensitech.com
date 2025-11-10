@@ -93,7 +93,7 @@ Imagine being tasked with filming a bustling music festival or a corporate event
 
 ### Travel and Adventure
 
-For The Potensians who love exploring the world, models like the **Nikon D780** are perfect compa​nions. With their hybrid design and long battery life, these cameras are built to withstand the rigors of travel. Whether trekking through the Amazon rainforest or documenting the vibrant streets of Tokyo, Nikon’s 4K capabilities ensure The Potensians's footage is as breathtaking as the journey itself.
+For The Potensians who love exploring the world, models like the **Nikon D780** are perfect compa​nions. With their hybrid design and long [battery life](/nikon/nikon-cameras-with-extended-battery-life), these cameras are built to withstand the rigors of travel. Whether trekking through the Amazon rainforest or documenting the vibrant streets of Tokyo, Nikon’s 4K capabilities ensure The Potensians's footage is as breathtaking as the journey itself.
 
 ### Content Creation
 
