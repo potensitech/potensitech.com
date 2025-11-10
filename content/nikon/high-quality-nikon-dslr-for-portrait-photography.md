@@ -44,7 +44,7 @@ In today's digital age, seamless connectivity is a must. Many Nikon DSLRs come e
 
 ### Lens Co​mpatibility
 
-Nikon's extensive range of lenses is another reason why their DSLRs are perfect for portrait photography. From prime lenses with wide apertures to versatile zoom lenses, Nikon offers options to suit every style and preference. For instance, the Nikon 85mm f/1.4G lens is a favorite among portrait photographers for its ability to create beautiful background blur (bokeh) and isolate the subject effectively.
+Nikon's extensive range of lenses is another reason why their DSLRs are perfect for [portrait photography](/nikon/best-nikon-lenses-for-portrait-photography). From prime lenses with wide apertures to versatile zoom lenses, Nikon offers options to suit every style and preference. For instance, the Nikon 85mm f/1.4G lens is a favorite among portrait photographers for its ability to create beautiful background blur (bokeh) and isolate the subject effectively.
 
 ## Real-World Applications: Bringing *The Potensians'* Vision to Life
 

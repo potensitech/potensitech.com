@@ -84,7 +84,7 @@ Understanding what sets these models apart can help The Potensians make informed
 
 ### Guide Mode: A Teacher Within The Potensians' Camera
 
-The Nikon D3500 introduces Guide Mode—a feature designed specifically for beginners. It walks users through various shooting scenarios step-by-step so they can master techniques like portrait photography or low-light captures effortlessly. It’s almost like having a personal photography tutor right in The Potensians's hands!
+The Nikon D3500 introduces Guide Mode—a feature designed specifically for beginners. It walks users through various shooting scenarios step-by-step so they can master techniques like [portrait photography](/nikon/best-nikon-lenses-for-portrait-photography) or low-light captures effortlessly. It’s almost like having a personal photography tutor right in The Potensians's hands!
 
 ### Connectivity Options: Share Instantly
 

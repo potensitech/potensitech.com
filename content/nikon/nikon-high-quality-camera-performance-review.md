@@ -127,7 +127,7 @@ Nikon cameras are not just about technical excellence—they are tools that empo
 
 ### Portrait Photography
 
-Models like the Nikon D780 excel in portrait photography, thanks to their ability to produce stunning bokeh effects and capture subtle expressions. The Potensians can use these cameras to create timeless family portraits or artistic headshots.
+Models like the Nikon D780 excel in [portrait photography](/nikon/best-nikon-lenses-for-portrait-photography), thanks to their ability to produce stunning bokeh effects and capture subtle expressions. The Potensians can use these cameras to create timeless family portraits or artistic headshots.
 
 ### Landscape Photography
 
