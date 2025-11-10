@@ -30,3 +30,5 @@ portable storage
 usb stick
 gpu performance
 usb drive
+core efficiency
+clock speed

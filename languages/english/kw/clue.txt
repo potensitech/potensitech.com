@@ -1,3 +1,7 @@
+processor performance
+core efficiency
+chip architecture
+clock speed
 high-performance
 gaming smartphone
 flagship phone
@@ -35,7 +39,6 @@ mirrorless innovation
 ai computing
 usb performance
 core technology
-processor performance
 chipset upgrade
 cpu benchmark
 smartphone performance
@@ -61,7 +64,6 @@ gaming optimization
 overclocking capability
 mirrorless camera
 core speed
-chip architecture
 power efficiency
 smartphone features
 solid-state
