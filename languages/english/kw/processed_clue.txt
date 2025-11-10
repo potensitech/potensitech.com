@@ -1150,3 +1150,5 @@ core efficiency
 clock speed
 processor performance
 core efficiency
+processor performance
+core efficiency

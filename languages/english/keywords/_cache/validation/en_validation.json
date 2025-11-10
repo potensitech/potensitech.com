@@ -2999,5 +2999,11 @@
   "nvidia gaming processors optimized for streaming": true,
   "nvidia cost-effective processors for computing tasks": true,
   "nvidia high-speed processors for professional workloads": true,
-  "nvidia energy-efficient processors for daily use": true
+  "nvidia energy-efficient processors for daily use": true,
+  "amd best multitasking processor for efficiency": true,
+  "amd high-performance processor for gaming": true,
+  "amd budget-friendly CPU for productivity tasks": true,
+  "amd top-rated gaming processor for enthusiasts": true,
+  "amd energy-efficient desktop processor": true,
+  "amd reliable processor for professional workloads": true
 }

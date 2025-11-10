@@ -26,3 +26,4 @@ flash drive
 portable storage
 usb stick
 battery life
+core efficiency
