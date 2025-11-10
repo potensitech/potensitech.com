@@ -6260,5 +6260,18 @@
             "Cultural: Broadway",
             "Cultural: Apple Pie"
         ]
+    },
+    "Nikon camera with excellent battery performance": {
+        "date": "2025-11-10T17:06:50",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
