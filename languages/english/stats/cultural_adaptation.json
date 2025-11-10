@@ -6196,5 +6196,18 @@
             "Cultural: Hollywood",
             "Cultural: Burgers"
         ]
+    },
+    "compact Nikon cameras for everyday use": {
+        "date": "2025-11-10T05:04:41",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: Central Park",
+            "Cultural: Pizza",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
