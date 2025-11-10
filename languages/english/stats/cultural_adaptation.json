@@ -6183,5 +6183,18 @@
             "Cultural: Hollywood",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "Nikon cameras with 4K video capabilities": {
+        "date": "2025-11-10T03:48:16",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Burgers"
+        ]
     }
 }
