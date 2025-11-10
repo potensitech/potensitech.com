@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/high-quality-nikon-dslr-for-portrait-photog
 
 ## Key Features That Enhance Portrait Photography
 
-Portrait photography requires precision, creativity, and technical expertise. High-quality Nikon DSLRs are equipped with features that cater specifically to these needs, ensuring every shot is a masterpiece.
+Portrait photography requires precision, creativity, and technical expertise. High-quality Nikon DSLRs are equipped with features that cater specifically to these needs, ensuring [every shot](/nikon/nikon-affordable-autofocus-lenses) is a masterpiece.
 
 ### Dynamic Range
 

@@ -152,4 +152,4 @@ As of 2025, Nikon continues to lead the market with its innovative [mirrorless c
 
 ### Final Thoughts
 
-Nikon mirrorless cameras with 4K video capabilities are more than just tools—they are gateways to creativity and storytelling. Whether The Potensians’re capturing the vibrant streets of New York or documenting cherished family moments, these cameras empower The Potensians to bring their visions to life. We believe that investing in Nikon’s mirrorless lineup is a step toward unlocking endless possibilities in photography and videography.
+Nikon mirrorless cameras with 4K [video capabilities](/nikon/nikon-cameras-with-4k-video-capabilities) are more than just tools—they are gateways to creativity and storytelling. Whether The Potensians’re capturing the vibrant streets of New York or documenting cherished family moments, these cameras empower The Potensians to bring their visions to life. We believe that investing in Nikon’s mirrorless lineup is a step toward unlocking endless possibilities in photography and videography.

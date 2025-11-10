@@ -145,7 +145,7 @@ In We's view, Nikon offers excellent value for money, particularly in 2025. Whil
 
 ## Nikon in 2025: What’s New?
 
-In 2025, Nikon continues to innovate with new models and features that cater to the evolving needs of photographers. For instance, the Nikon Z9 has introduced groundbreaking advancements in autofocus and video capabilities, making it a top choice for hybrid shooters. Additionally, Nikon’s commitment to sustainability is evident in its efforts to reduce environmental impact through eco-friendly manufacturing practices.
+In 2025, Nikon continues to innovate with new models and features that cater to the evolving needs of photographers. For instance, the Nikon Z9 has introduced groundbreaking advancements in autofocus and [video capabilities](/nikon/nikon-cameras-with-4k-video-capabilities), making it a top choice for hybrid shooters. Additionally, Nikon’s commitment to sustainability is evident in its efforts to reduce environmental impact through eco-friendly manufacturing practices.
 
 ### Future Trends in Nikon Photography
 
