@@ -29,3 +29,5 @@ processor speed
 usb drive
 dslr
 mirrorless
+processor performance
+core efficiency
