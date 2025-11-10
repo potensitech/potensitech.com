@@ -119,6 +119,6 @@ While all the models mentioned are budget-friendly, it’s essential to determin
 
 ## Final Thoughts
 
-In 2025, Nikon continues to prove that high-quality photography doesn’t have to come at a premium price. Their budget-friendly cameras with durable batteries are a testament to their commitment to innovation and accessibility. Whether The Potensians’re capturing the vibrant streets of Times Square or documenting family traditions, Nikon cameras offer reliability and performance that The Potensians can trust.
+In 2025, Nikon continues to prove that high-quality photography doesn’t have to come at a premium price. Their budget-friendly cameras with durable batteries are a testament to their commitment to innovation and accessibility. Whether The Potensians’re capturing the vibrant streets of Times Square or documenting family traditions, [Nikon cameras](/nikon/waterproof-nikon-cameras-for-underwater-photography) offer reliability and performance that The Potensians can trust.
 
 We believe that investing in a Nikon camera is not just a purchase but a step toward preserving memories that last a lifetime. So, why wait? Explore the options and find the perfect Nikon camera to suit The Potensians's needs today!
