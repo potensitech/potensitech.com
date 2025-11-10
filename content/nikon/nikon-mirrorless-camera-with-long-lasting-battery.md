@@ -28,7 +28,7 @@ featuredImagePreview: "/images/nikon/nikon-mirrorless-camera-with-long-lasting-b
 
 Mirrorless cameras have transformed the photography landscape by eliminating the bulky mirrors found in traditional DSLRs. This innovation has resulted in lighter, more compact devices without sacrificing [image quality](/nikon/nikon-image-quality-comparison-guide). Nikon has been at the forefront of this evolution, offering cameras that meet the demands of both professionals and enthusiasts.
 
-Imagine capturing the vibrant energy of Times Square at night. With Nikon’s superior low-light capabilities and silent shutter mode, The Potensians can photograph every detail without disturbing the moment. These features make Nikon mirrorless cameras ideal for a variety of scenarios, from street photography to wildlife shoots.
+Imagine capturing the vibrant energy of Times Square at night. With Nikon’s superior low-light capabilities and silent shutter mode, The Potensians can photograph every detail without disturbing the moment. These features make [Nikon mirrorless](/nikon/affordable-nikon-mirrorless-cameras-for-photography) cameras ideal for a variety of scenarios, from street photography to wildlife shoots.
 
 ### Key Features That Stand Out
 
