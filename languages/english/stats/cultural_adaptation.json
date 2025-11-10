@@ -6284,5 +6284,16 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "affordable Samsung smartphone with high performance": {
+        "date": "2025-11-10T21:55:12",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Innovation"
+        ]
     }
 }
