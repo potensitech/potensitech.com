@@ -6234,5 +6234,18 @@
             "Cultural: BBQ",
             "Cultural: Benjamin Franklin"
         ]
+    },
+    "Nikon cameras with extended battery life": {
+        "date": "2025-11-10T12:46:50",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
