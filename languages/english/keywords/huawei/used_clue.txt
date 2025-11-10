@@ -30,3 +30,5 @@ usb drive
 flash drive
 megapixels
 autofocus
+processor performance
+core efficiency
