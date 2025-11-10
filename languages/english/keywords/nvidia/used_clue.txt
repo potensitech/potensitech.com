@@ -30,3 +30,4 @@ portable storage
 usb stick
 gpu performance
 processor speed
+core efficiency

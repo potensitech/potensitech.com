@@ -1148,3 +1148,5 @@ high-performance
 gaming smartphone
 core efficiency
 clock speed
+processor performance
+core efficiency
