@@ -89,7 +89,7 @@ The Potensians might wonder how they can incorporate this technology into their 
 
 ### Event Coverage
 
-Imagine being tasked with filming a bustling music festival or a corporate event. Nikon’s 4K cameras, such as the **Nikon Z6 II**, excel in low-light conditions, ensuring that every moment is captured with clarity. The dual card slots also provide peace of mind, allowing The Potensians to record continuously without worrying about running out of storage.
+Imagine being tasked with filming a bustling music festival or a corporate event. Nikon’s 4K cameras, such as the **Nikon Z6 II**, excel in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions), ensuring that every moment is captured with clarity. The dual card slots also provide peace of mind, allowing The Potensians to record continuously without worrying about running out of storage.
 
 ### Travel and Adventure
 

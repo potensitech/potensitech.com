@@ -65,7 +65,7 @@ Not all lighting solutions are created equal. Compact systems like Nikon’s sma
 </tr>
 <tr>
 <td>Diverse Compatibility</td>
-<td>Easily integrates with Nikon cameras and accessories.</td>
+<td>Easily integrates with [Nikon cameras](/nikon/best-nikon-cameras-for-low-light-conditions) and accessories.</td>
 <td>Smooth transitions between indoor and outdoor shoots.</td>
 </tr>
 </tbody>

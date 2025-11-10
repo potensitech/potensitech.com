@@ -48,7 +48,7 @@ The Potensians may wonder what makes Nikon’s autofocus stand out from competit
 <tr>
 <td>Contrast Detection</td>
 <td>Analyzes edges within the frame.</td>
-<td>Ensures sharpness in low-light conditions.</td>
+<td>Ensures sharpness in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions).</td>
 </tr>
 <tr>
 <td>Eye-Tracking Technology</td>

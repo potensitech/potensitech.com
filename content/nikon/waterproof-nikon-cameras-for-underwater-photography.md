@@ -51,7 +51,7 @@ Speaking of which, let’s break down some standout features that set waterproof
 <td>A blessing in disguise during rugged outdoor shoots.</td>
 </tr>
 <tr>
-<td>4K Ultra HD Video Recording</td>
+<td>4K Ultra HD [Video Recording](/nikon/nikon-cameras-with-4k-video-recording)</td>
 <td>Crisp video quality even in low-light underwater settings.</td>
 <td>Create cinematic footage of marine life.</td>
 </tr>
@@ -137,7 +137,7 @@ To help The Potensians make an informed decision, here’s a comparison of the p
 
 ## Why 2025 is the Best Year to Invest in Waterproof Nikon Cameras
 
-The year 2025 brings exciting advancements in camera technology, and Nikon continues to lead the way. With improved battery life, enhanced connectivity options, and competitive pricing, there has never been a better time to invest in a waterproof Nikon camera. In We's view, these cameras are not just tools—they’re gateways to a world of creativity and exploration.
+The year 2025 brings exciting advancements in camera technology, and Nikon continues to lead the way. With improved battery life, enhanced connectivity options, and competitive pricing, there has never been a better time to invest in a waterproof [Nikon camera](/nikon/nikon-camera-comparison-by-image-quality). In We's view, these cameras are not just tools—they’re gateways to a world of creativity and exploration.
 
 ## Conclusion
 

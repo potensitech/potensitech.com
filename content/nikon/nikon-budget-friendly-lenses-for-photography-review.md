@@ -66,7 +66,7 @@ Nikon offers a diverse range of lenses tailored to different needs while maintai
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Compact prime lens; Ideal for low-light conditions; Excellent bokeh effect.</td>
+<td>Compact prime lens; Ideal for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions); Excellent bokeh effect.</td>
 <td>$199 - $249</td>
 </tr>
 <tr>
