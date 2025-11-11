@@ -6295,5 +6295,14 @@
             "Cultural: Christmas",
             "Cultural: Innovation"
         ]
+    },
+    "cheap Samsung smartphones with efficient processors": {
+        "date": "2025-11-11T05:04:00",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Black Friday"
+        ]
     }
 }
