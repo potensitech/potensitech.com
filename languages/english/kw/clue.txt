@@ -1,8 +1,8 @@
-external storage
 processor performance
 core efficiency
 chip architecture
 clock speed
+external storage
 high-performance
 gaming smartphone
 flagship phone

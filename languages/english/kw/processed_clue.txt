@@ -1174,3 +1174,5 @@ processor performance
 core efficiency
 high-performance
 memory card
+processor performance
+core efficiency
