@@ -6352,5 +6352,12 @@
             "Cultural: Times Square",
             "Cultural: BBQ"
         ]
+    },
+    "inexpensive Nikon portrait lens": {
+        "date": "2025-11-11T19:36:43",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
