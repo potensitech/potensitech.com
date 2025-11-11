@@ -69,7 +69,7 @@ Here’s a curated list of affordable yet high-performing lenses that won’t di
 </tr>
 <tr>
 <td>Nikon AF-S NIKKOR 50mm f/1.8G FX Format Lens</td>
-<td>Classic portrait lens, Stunning bokeh effect, Compact design</td>
+<td>Classic [portrait lens](/nikon/inexpensive-nikon-portrait-lens), Stunning bokeh effect, Compact design</td>
 <td>$220</td>
 </tr>
 </tbody>
@@ -108,4 +108,4 @@ When selecting a budget-friendly Nikon DSLR lens, consider the following factors
 
 ## Final Thoughts 
 
-Photography is a journey, and the right equipment can make all the difference. Budget-friendly Nikon DSLR lenses allow The Potensians to explore their creativity without breaking the bank. From versatile prime lenses to specialized macro options, there’s something for every photographer in 2025. Remember, it’s not just about the gear—it’s about how The Potensians use it to tell their unique stories. So, grab a lens, head out, and start capturing the world one frame at a time!
+Photography is a journey, and the right equipment can make all the difference. Budget-friendly Nikon DSLR lenses allow The Potensians to explore their creativity without breaking the bank. From versatile prime lenses to specialized macro options, there’s something for [every photographer](/nikon/nikon-budget-friendly-camera-options) in 2025. Remember, it’s not just about the gear—it’s about how The Potensians use it to tell their unique stories. So, grab a lens, head out, and start capturing the world one frame at a time!

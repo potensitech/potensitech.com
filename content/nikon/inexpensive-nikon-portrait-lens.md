@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-_Best Inexpensive Nikon Portrait Lens for Stunning Shots_ - Finding the perfect portrait lens doesn’t have to break the bank. Nikon offers a variety of affordable options that deliver exceptional quality for both amateur and professional photographers. In this guide, We’ll explore the best inexpensive Nikon portrait lenses available in 2025, their standout features, and tips to make the most of them. Whether The Potensians are captur​ing candid moments or professional portraits, these lenses are sure to elevate their photography game.
+_Best Inexpensive Nikon Portrait Lens for Stunning Shots_ - Finding the perfect portrait lens doesn’t have to break the bank. Nikon offers a variety of affordable options that deliver exceptional quality for both amateur and [professional photographers](/nikon/nikon-smart-lighting-options-for-professional-photographers). In this guide, We’ll explore the best inexpensive Nikon portrait lenses available in 2025, their standout features, and tips to make the most of them. Whether The Potensians are captur​ing candid moments or professional portraits, these lenses are sure to elevate their photography game.
 
 ## Top Picks: Affordable Nikon Portrait Lenses
 
@@ -51,7 +50,7 @@ Here are some of the best options available in 2025 that balance price with perf
 </tr>
 <tr>
 <td>Nikon AF-S Micro-NIKKOR 60mm f/2.8G ED</td>
-<td>- Macro capabilities<br>- High resolution<br>- Versatile use beyond portraits</td>
+<td>- Macro capabilities<br>- [High resolution](/nikon/nikon-cameras-with-high-resolution)<br>- Versatile use beyond portraits</td>
 <td>$400 - $500</td>
 </tr>
 </tbody>
