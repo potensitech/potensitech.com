@@ -39,3 +39,4 @@ usb drive
 flash drive
 gaming smartphone
 flagship phone
+core efficiency
