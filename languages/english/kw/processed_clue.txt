@@ -1180,3 +1180,4 @@ processor performance
 core efficiency
 processor performance
 core efficiency
+full-frame sensor

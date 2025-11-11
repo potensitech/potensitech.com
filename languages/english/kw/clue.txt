@@ -1,3 +1,7 @@
+mirrorless camera
+dslr photography
+full-frame sensor
+lens compatibility
 processor performance
 core efficiency
 chip architecture
@@ -17,7 +21,6 @@ data storage
 usb drive
 camera lens
 mirrorless technology
-dslr photography
 ray tracing
 graphics card
 portable storage
@@ -59,11 +62,9 @@ ssd storage
 portable ssd
 processor efficiency
 autofocus speed
-lens compatibility
 dslr settings
 gaming optimization
 overclocking capability
-mirrorless camera
 core speed
 power efficiency
 smartphone features

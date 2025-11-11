@@ -31,3 +31,4 @@ dslr
 mirrorless
 processor performance
 core efficiency
+full-frame sensor
