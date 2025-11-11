@@ -1,3 +1,4 @@
+external storage
 processor performance
 core efficiency
 chip architecture
@@ -74,7 +75,6 @@ smartphone storage
 gaming performance
 mobile performance
 sleek design
-external storage
 core count
 thermal performance
 camera resolution
