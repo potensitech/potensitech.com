@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/affordable-nikon-camera-lens-for-beginners.
 
 ## Why Choose an Affordable Nikon Camera Lens?
 
-For beginners, investing in an affordable Nikon camera lens is a practical choice. Photography is a skill that develops over time, and starting with budget-friendly equipment allows The Potensians to experiment and learn without the pressure of a hefty financial commitment. Nikon offers a wide range of lenses that cater to various photography styles, from portraits to landscapes, ensuring there is something for everyone.
+For beginners, investing in an [affordable Nikon](/nikon/affordable-nikon-camera-with-advanced-autofocus) camera lens is a practical choice. Photography is a skill that develops over time, and starting with budget-friendly equipment allows The Potensians to experiment and learn without the pressure of a hefty financial commitment. Nikon offers a wide range of lenses that cater to various photography styles, from portraits to landscapes, ensuring there is something for everyone.
 
 ### Benefits of Affordable Lenses
 
