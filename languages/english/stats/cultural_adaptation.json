@@ -6317,5 +6317,18 @@
             "Cultural: Chicago",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "high-performance Samsung smartphone with efficient technology": {
+        "date": "2025-11-11T09:52:28",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: Wall Street",
+            "Cultural: Times Square"
+        ]
     }
 }
