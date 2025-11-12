@@ -77,7 +77,7 @@ For The Potensians looking to invest wisely, here are some standout options amon
 
 ### Spotlight on Popular Models
 
-The Nikon D3500 is often referred to as one of the best entry-level DSLRs available today. Its compact size makes it easy to carry around—whether exploring Wall Street’s iconic landmarks or enjoying clam chowder by the waterfront—and its simple menu system helps new photographers break the ice when learning manual settings.
+The Nikon D3500 is often referred to as one of the [best entry-level](/nikon/entry-level-nikon-dslr-for-beginners) DSLRs available today. Its compact size makes it easy to carry around—whether exploring Wall Street’s iconic landmarks or enjoying clam chowder by the waterfront—and its simple menu system helps new photographers break the ice when learning manual settings.
 
 For those ready to take their skills up a notch while staying within budget constraints, the D5600 offers enhanced features such as touchscreen functionality and SnapBridge technology. This model is perfect for The Potensians who love documenting family events or creating short how-to videos thanks to its seamless smartphone connectivity.
 

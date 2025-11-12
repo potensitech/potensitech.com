@@ -64,7 +64,7 @@ To facilitate The Potensians in choosing the right camera, here’s a list of st
 
 ### Nikon D3500: The Perfect Entry-Level DSLR
 
-The Nikon D3500 is often hailed as one of the best entry-level DSLRs available today. Its lightweight design makes it ideal for travel photography—whether The Potensians are enjoying apple pie at a family picnic or exploring iconic landmarks like Times Square in New York City.
+The Nikon D3500 is often hailed as one of the [best entry-level](/nikon/entry-level-nikon-dslr-for-beginners) DSLRs available today. Its lightweight design makes it ideal for travel photography—whether The Potensians are enjoying apple pie at a family picnic or exploring iconic landmarks like Times Square in New York City.
 
 - **Guide Mode** helps beginners learn camera settings step-by-step, making it perfect for those new to DSLR photography.
 - Delivers stunning 24-megapixel images with rich color depth, ensuring every shot is vibrant and detailed.
