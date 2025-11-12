@@ -89,7 +89,7 @@ For those interested in sports, wildlife, or event photography, the **Nikon AF-S
 
 ### Mirrorless Compatibility
 
-The **Nikon Z 50mm f/1.8 S** is a high-quality prime lens designed for Nikon’s mirrorless cameras. It offers exceptional sharpness, fast autofocus, and beautiful color rendering. While it’s slightly more expensive, its performance justifies the investment, especially for beginners transitioning to mirrorless systems.
+The **Nikon Z 50mm f/1.8 S** is a high-quality prime lens designed for Nikon’s mirrorless cameras. It offers exceptional sharpness, [fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus), and beautiful color rendering. While it’s slightly more expensive, its performance justifies the investment, especially for beginners transitioning to mirrorless systems.
 
 ## Tips on Choosing The Potensians's First Lens
 
