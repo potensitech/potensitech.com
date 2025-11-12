@@ -1184,3 +1184,5 @@ full-frame sensor
 mirrorless camera
 dslr photography
 mobile display
+smartphone camera
+battery life
