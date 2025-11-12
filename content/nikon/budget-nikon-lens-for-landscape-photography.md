@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/best-budget-nikon-lens-for-landscape-photog
 
 ## Why Choose Budget-Friendly Lenses for Landscape Photography?
 
-Investing in budget-friendly lenses is a smart choice for The Potensians who are just starting their photography journey or those looking to upgrade their gear without breaking the bank. These lenses provide excellent optical quality and versatility, enabling photographers to capture breathtaking landscapes without compromising on image quality.
+Investing in [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography-review) is a smart choice for The Potensians who are just starting their photography journey or those looking to upgrade their gear without breaking the bank. These lenses provide excellent optical quality and versatility, enabling photographers to capture breathtaking landscapes without compromising on image quality.
 
 ### Key Benefits of Budget Lenses
 
@@ -88,7 +88,7 @@ This versatile zoom lens is perfect for beginners looking to experiment with dif
 
 #### Nikon Z DX 16-50mm f/3.5-6.3 VR
 
-Designed for Nikon's Z-series mirrorless cameras, this lens combines modern technology with practical functionality. Its sleek design and versatile focal length make it a great choice for landscape photographers who value portability and performance.
+Designed for Nikon's Z-series [mirrorless cameras](/nikon/budget-friendly-nikon-mirrorless-cameras), this lens combines modern technology with practical functionality. Its sleek design and versatile focal length make it a great choice for landscape photographers who value portability and performance.
 
 ## Tips for Maximizing Performance with Budget Lenses
 
