@@ -6388,5 +6388,14 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "cheap Nikon DSLR equipment": {
+        "date": "2025-11-12T09:53:50",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Black Friday"
+        ]
     }
 }
