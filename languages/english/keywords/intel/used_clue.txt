@@ -32,3 +32,5 @@ gpu performance
 usb drive
 core efficiency
 clock speed
+chip performance
+core architecture

@@ -1,8 +1,11 @@
+processor speed
+chip performance
+core architecture
+thermal efficiency
 smartphone camera
 mirrorless camera
 battery life
 mobile display
-processor speed
 dslr photography
 full-frame sensor
 lens compatibility
@@ -88,7 +91,6 @@ fast charging
 autofocus precision
 chipset compatibility
 core performance
-thermal efficiency
 camera
 android
 battery

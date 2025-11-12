@@ -1200,3 +1200,5 @@ smartphone camera
 battery life
 smartphone camera
 mirrorless camera
+chip performance
+core architecture
