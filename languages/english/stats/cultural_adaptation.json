@@ -6410,5 +6410,14 @@
             "Cultural: Central Park",
             "Cultural: Apple Pie"
         ]
+    },
+    "entry-level Nikon DSLR for beginners": {
+        "date": "2025-11-12T17:06:03",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Freedom"
+        ]
     }
 }
