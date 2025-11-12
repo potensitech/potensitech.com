@@ -1183,3 +1183,4 @@ core efficiency
 full-frame sensor
 mirrorless camera
 dslr photography
+mobile display

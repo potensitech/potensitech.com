@@ -32,3 +32,4 @@ megapixels
 autofocus
 processor performance
 core efficiency
+mobile display
