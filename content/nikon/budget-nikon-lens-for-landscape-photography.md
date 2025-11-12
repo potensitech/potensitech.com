@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Best Budget Nikon Lens for Landscape Photography* - Landscape photography is a captivating art form that allows photographers to capture the beauty of the natural world.  However, many aspiring photographers believe that achieving stunning results requires expensive equipment. This is far from the truth.  Budget Nikon lenses offer an excellent balance of affordability and performance, making them ideal for beginners and enthusiasts alike. In this article, We will explore the best budget Nikon lenses for landscape photography in 2025, their features, and tips to maximize their potential.
+*Best Budget Nikon Lens for Landscape Photography* - Landscape photography is a captivating art form that allows photographers to capture the beauty of the natural world.  However, many aspiring photographers believe that achieving stunning results requires expensive equipment. This is far from the truth.  Budget [Nikon lenses](/nikon/best-nikon-lenses-for-portrait-photography) offer an excellent balance of affordability and performance, making them ideal for beginners and enthusiasts alike. In this article, We will explore the best budget Nikon lenses for landscape photography in 2025, their features, and tips to maximize their potential.
 
 ## Why Choose Budget-Friendly Lenses for Landscape Photography?
 
@@ -48,7 +47,7 @@ To help The Potensians make informed decisions, We have compiled a list of the b
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Wide aperture; sharp image quality; compact design</td>
+<td>Wide aperture; sharp [image quality](/nikon/nikon-camera-comparison-by-image-quality); compact design</td>
 <td>$150–$200</td>
 </tr>
 <tr>

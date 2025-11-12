@@ -69,7 +69,7 @@ For example:
 </thead>
 <tbody>
 <tr>
-<td>Outdoor Landscape Photography</td>
+<td>Outdoor [Landscape Photography](/nikon/budget-nikon-lens-for-landscape-photography)</td>
 <td>Sharp details in foliage and distant objects</td>
 <td>Nikon Z7 II</td>
 </tr>
