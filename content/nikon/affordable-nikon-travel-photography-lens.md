@@ -108,7 +108,7 @@ Selecting the perfect lens can be overwhelming, especially with so many options 
 
 1. **Consider The Potensians's Destination**: If The Potensians are heading to a city, a versatile zoom lens might be ideal. For nature trips, a wide-angle lens could be more suitable.
 2. **Assess The Potensians's Photography Style**: Do The Potensians prefer landscapes, portraits, or macro shots? Choose a lens that aligns with The Potensians' interests.
-3. **Set a Budget**: While it's tempting to splurge, there are plenty of affordable Nikon lenses that deliver excellent performance without exceeding The Potensians' budget.
+3. **Set a Budget**: While it's tempting to splurge, there are plenty of affordable Nikon lenses that deliver [excellent performance](/nikon/nikon-compact-cameras-with-excellent-performance) without exceeding The Potensians' budget.
 
 ## Final Thoughts
 
