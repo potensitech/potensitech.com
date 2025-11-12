@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Affordable Camera Lenses for Beginners Guide* - Choosing the right camera lens can be overwhelming, especially for beginners. Nikon offers a range of affordable lenses that cater to various photography styles and skill levels. To help The Potensians make an informed decision, We’ve compiled a comprehensive guide to Nikon's affordable camera lenses for beginners in 2025. Whether The Potensians’re into portraits, landscapes, or macro photography, there’s something here for everyone.
+*Nikon Affordable Camera Lenses for Beginners Guide* - Choosing the right camera lens can be overwhelming, especially for beginners. Nikon offers a range of [affordable lenses](/nikon/nikon-beginner-friendly-affordable-lenses) that cater to various photography styles and skill levels. To help The Potensians make an informed decision, We’ve compiled a comprehensive guide to Nikon's affordable camera lenses for beginners in 2025. Whether The Potensians’re into portraits, landscapes, or macro photography, there’s something here for everyone.
 
 ## Top Nikon Affordable Camera Lenses for Beginners
 
@@ -36,7 +35,7 @@ To simplify the selection process for The Potensians, We’ve curated a list of 
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Lightweight prime lens; great for portraits and low-light conditions.</td>
+<td>Lightweight prime lens; great for portraits and [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions).</td>
 <td>$150 - $200</td>
 </tr>
 <tr>
@@ -107,7 +106,7 @@ Selecting the right lens is a personal journey, and there’s no one-size-fits-a
 
 Nikon has a long-standing reputation for producing high-quality lenses that cater to photographers of all levels. Their affordable lens lineup is designed to offer excellent performance without overwhelming beginners. Here’s why Nikon lenses are a great choice:
 
-- **Ease of Use**: Nikon lenses are user-friendly, making them ideal for those just starting out.
+- **Ease of Use**: [Nikon lenses](/nikon/best-nikon-lenses-online) are user-friendly, making them ideal for those just starting out.
 - **Versatility**: With options ranging from prime to zoom and macro lenses, there’s something for every photography style.
 - **Durability**: Nikon lenses are built to last, ensuring The Potensians get the most value for The Potensians's investment.
 - **Wide Compatibility**: Whether The Potensians own a DSLR or a mirrorless camera, Nikon has lenses to match.
