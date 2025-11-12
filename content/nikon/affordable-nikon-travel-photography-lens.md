@@ -11,11 +11,14 @@ tags: ["affordable", "Nikon", "travel", "photography", "lens"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/affordable-nikon-travel-photography-lens-for-every-trip.jpg"
+featuredImagePreview: "/images/nikon/affordable-nikon-travel-photography-lens-for-every-trip.jpg"
 ---
+
+![Affordable Nikon Travel Photography Lens for Every Trip](/images/nikon/affordable-nikon-travel-photography-lens-for-every-trip.jpg)
+
 
 *Affordable Nikon Travel Photography Lens for Every Trip* 
 
