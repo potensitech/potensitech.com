@@ -35,7 +35,7 @@ Nikon entry-level cameras are designed with photography enthusiasts in mind, off
 
 ## Top Nikon Entry-Level Cameras in 2025
 
-To help The Potensians make an informed decision, We’ve compiled a list of the best Nikon entry-level cameras available in 2025. Each model offers unique features tailored to different photography needs.
+To help The Potensians make an informed decision, We’ve compiled a list of the [best Nikon](/nikon/best-nikon-lenses-for-portrait-photography) entry-level cameras available in 2025. Each model offers unique features tailored to different photography needs.
 
 ### Nikon D3500
 
