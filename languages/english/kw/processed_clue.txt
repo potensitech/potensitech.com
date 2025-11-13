@@ -1204,3 +1204,5 @@ chip performance
 core architecture
 processor speed
 chip performance
+processor speed
+chip performance

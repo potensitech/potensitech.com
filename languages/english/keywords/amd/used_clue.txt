@@ -27,3 +27,4 @@ portable storage
 usb stick
 battery life
 core efficiency
+chip performance
