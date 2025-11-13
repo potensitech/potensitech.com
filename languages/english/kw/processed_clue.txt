@@ -1212,3 +1212,5 @@ dslr lens
 mirrorless photography
 camera resolution
 autofocus technology
+camera resolution
+autofocus technology
