@@ -39,3 +39,4 @@ flash drive
 megapixels
 autofocus
 core efficiency
+autofocus technology
