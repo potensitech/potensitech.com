@@ -32,3 +32,5 @@ mirrorless
 processor performance
 core efficiency
 full-frame sensor
+dslr lens
+autofocus technology

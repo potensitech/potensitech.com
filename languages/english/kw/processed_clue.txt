@@ -1206,3 +1206,5 @@ processor speed
 chip performance
 processor speed
 chip performance
+dslr lens
+autofocus technology
