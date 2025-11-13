@@ -31,3 +31,4 @@ usb stick
 gpu performance
 processor speed
 core efficiency
+chip performance

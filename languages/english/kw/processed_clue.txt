@@ -1202,3 +1202,5 @@ smartphone camera
 mirrorless camera
 chip performance
 core architecture
+processor speed
+chip performance
