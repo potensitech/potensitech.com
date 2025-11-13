@@ -1,3 +1,7 @@
+dslr lens
+mirrorless photography
+camera resolution
+autofocus technology
 processor speed
 chip performance
 core architecture
@@ -53,7 +57,6 @@ smartphone performance
 mobile processor
 gaming phone
 long battery
-mirrorless photography
 dlss technology
 cuda cores
 audio systems
@@ -82,7 +85,6 @@ mobile performance
 sleek design
 core count
 thermal performance
-camera resolution
 dslr features
 ai acceleration
 digital photography

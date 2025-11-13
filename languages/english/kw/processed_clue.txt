@@ -1208,3 +1208,5 @@ processor speed
 chip performance
 dslr lens
 autofocus technology
+dslr lens
+mirrorless photography

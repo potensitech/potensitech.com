@@ -34,3 +34,5 @@ megapixels
 autofocus
 processor performance
 core efficiency
+dslr lens
+mirrorless photography
