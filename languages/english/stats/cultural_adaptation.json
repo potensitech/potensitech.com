@@ -6442,5 +6442,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon entry-level DSLR cameras for enthusiasts": {
+        "date": "2025-11-13T05:06:58",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Christmas",
+            "Cultural: Los Angeles",
+            "Cultural: Central Park",
+            "Cultural: Soul Food"
+        ]
     }
 }
