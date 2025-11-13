@@ -1,8 +1,8 @@
-dslr lens
-mirrorless photography
 camera resolution
 autofocus technology
 processor speed
+dslr lens
+mirrorless photography
 chip performance
 core architecture
 thermal efficiency

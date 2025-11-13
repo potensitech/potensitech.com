@@ -33,3 +33,5 @@ autofocus
 processor performance
 core efficiency
 mobile display
+camera resolution
+autofocus technology
