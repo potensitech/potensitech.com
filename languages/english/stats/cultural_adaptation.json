@@ -6477,5 +6477,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung low-cost smartphone with superior autofocus": {
+        "date": "2025-11-13T19:36:16",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
