@@ -38,7 +38,7 @@ To help The Potensians find the perfect camera, We have curated a list of reliab
 
 ### Canon EOS Rebel T7
 
-Canon has long been a strong competitor to Nikon, offering exceptional camera technology at reasonable prices. The Canon EOS Rebel T7 is an excellent entry-level DSLR that combines affordability with impressive features.
+Canon has long been a strong competitor to Nikon, offering exceptional camera technology at reasonable prices. The Canon EOS Rebel T7 is an excellent [entry-level DSLR](/nikon/nikon-entry-level-dslr-cameras-for-enthusiasts) that combines affordability with impressive features.
 
 - **Key Features**: 
  - 24-megapixel sensor for high-resolution images 
