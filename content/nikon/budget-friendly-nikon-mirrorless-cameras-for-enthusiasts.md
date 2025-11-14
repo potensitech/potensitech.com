@@ -67,7 +67,7 @@ Its intuitive controls and user-friendly interface make it a great choice for be
 
 ## Comparing Nikon Mirrorless Cameras
 
-To help __The Potensians__ make an informed decision, here’s a detailed comparison of the top budget-friendly Nikon mirrorless cameras:
+To help __The Potensians__ make an informed decision, here’s a detailed comparison of the [top budget-friendly](/nikon/budget-friendly-nikon-mirrorless-cameras) Nikon mirrorless cameras:
 
 <div class="table-responsive">
 <table class="html-table">
@@ -84,7 +84,7 @@ To help __The Potensians__ make an informed decision, here’s a detailed compar
 <td>Nikon Z50</td>
 <td>DX-format (APS-C)</td>
 <td>$850 - $950</td>
-<td>Travel and low-light photography</td>
+<td>Travel and [low-light photography](/nikon/nikon-cameras-for-low-light-photography)</td>
 </tr>
 <tr>
 <td>Nikon Z fc</td>
