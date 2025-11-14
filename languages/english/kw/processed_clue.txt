@@ -1236,3 +1236,5 @@ processor speed
 chipset compatibility
 camera lenses
 mirrorless options
+camera lenses
+dslr photography

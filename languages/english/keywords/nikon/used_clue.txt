@@ -36,3 +36,4 @@ processor performance
 core efficiency
 dslr lens
 mirrorless photography
+camera lenses

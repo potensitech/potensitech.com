@@ -1,3 +1,6 @@
+camera lenses
+dslr photography
+mirrorless options
 processor speed
 chipset compatibility
 core architecture
@@ -11,7 +14,6 @@ smartphone camera
 mirrorless camera
 battery life
 mobile display
-dslr photography
 full-frame sensor
 lens compatibility
 processor performance
