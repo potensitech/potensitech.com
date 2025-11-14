@@ -1238,3 +1238,5 @@ camera lenses
 mirrorless options
 camera lenses
 dslr photography
+camera lenses
+processor speed

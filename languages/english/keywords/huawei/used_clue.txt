@@ -35,3 +35,4 @@ core efficiency
 mobile display
 camera resolution
 autofocus technology
+camera lenses
