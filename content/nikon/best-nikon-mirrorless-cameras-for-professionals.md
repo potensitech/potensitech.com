@@ -131,7 +131,7 @@ The Z50 shines in scenarios like street photography, where discretion and speed 
 <td>Nikon Z9</td>
 <td>Full-Frame</td>
 <td>1340g</td>
-<td>Professional photography and videography</td>
+<td>[Professional photography](/nikon/nikon-cameras-for-professional-photography) and videography</td>
 </tr>
 <tr>
 <td>Nikon Z6 II</td>
