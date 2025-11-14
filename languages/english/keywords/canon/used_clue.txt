@@ -34,3 +34,5 @@ core efficiency
 full-frame sensor
 dslr lens
 autofocus technology
+camera lenses
+mirrorless options
