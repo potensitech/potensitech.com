@@ -1230,3 +1230,5 @@ camera resolution
 autofocus technology
 processor speed
 processor speed
+processor speed
+chipset compatibility
