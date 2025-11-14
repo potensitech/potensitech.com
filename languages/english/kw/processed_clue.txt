@@ -1222,3 +1222,5 @@ camera resolution
 autofocus technology
 camera resolution
 autofocus technology
+camera resolution
+autofocus technology
