@@ -80,7 +80,7 @@ To facilitate The Potensians in finding their perfect match, here is a curated l
 
 #### Nikon Z30: A Beginner’s Delight
 
-The Nikon Z30 is an excellent choice for those just starting their journey into photography. Its lightweight design makes it perfect for carrying around Los Angeles landmarks or capturing candid moments during Tex-Mex dinners with friends. Despite its compact size, this model boasts a powerful sensor capable of delivering sharp images even in low-light conditions. In We's view, the Z30 is a fantastic entry-level option for The Potensians who want to explore photography without a steep learning curve.
+The Nikon Z30 is an excellent choice for those just starting their journey into photography. Its lightweight design makes it perfect for carrying around Los Angeles landmarks or capturing candid moments during Tex-Mex dinners with friends. Despite its compact size, this model boasts a powerful sensor capable of delivering sharp images even in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions). In We's view, the Z30 is a fantastic entry-level option for The Potensians who want to explore photography without a steep learning curve.
 
 #### Nikon Z50: The Versatile Performer
 
