@@ -6526,5 +6526,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Apple Pie"
         ]
+    },
+    "compact and affordable Nikon mirrorless cameras": {
+        "date": "2025-11-14T09:53:53",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: Apple Pie"
+        ]
     }
 }
