@@ -1,8 +1,8 @@
 camera resolution
 autofocus technology
-processor speed
 dslr lens
 mirrorless photography
+processor speed
 chip performance
 core architecture
 thermal efficiency
