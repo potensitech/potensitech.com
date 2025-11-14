@@ -36,3 +36,4 @@ megapixels
 autofocus
 core efficiency
 autofocus technology
+camera lenses

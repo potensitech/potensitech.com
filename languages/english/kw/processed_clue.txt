@@ -1240,3 +1240,5 @@ camera lenses
 dslr photography
 camera lenses
 processor speed
+camera lenses
+processor speed
