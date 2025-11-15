@@ -1244,3 +1244,5 @@ camera lenses
 processor speed
 camera lenses
 processor speed
+camera lenses
+processor speed
