@@ -57,7 +57,7 @@ Samsung integrates two primary types of processors into its smartphones: Exynos 
 </tr>
 <tr>
 <td>Snapdragon 888+</td>
-<td>Adequate heat management; premium camera support up to 200MP sensors</td>
+<td>Adequate heat management; [premium camera](/samsung/samsung-smartphone-with-premium-camera-features) support up to 200MP sensors</td>
 <td>Pioneering photography experiences like astrophotography or night shots</td>
 </tr>
 </tbody>
@@ -88,7 +88,7 @@ High-speed processors are not just about performance; they also ensure energy ef
 
 ## Samsung Smartphones to Watch in 2025
 
-Samsung continues to innovate, and 2025 is no exception. Here are some of the top Samsung smartphones with high-speed processors to consider:
+Samsung continues to innovate, and 2025 is no exception. Here are some of the [top Samsung](/samsung/top-samsung-smartphones-for-professional-photography) smartphones with high-speed processors to consider:
 
 ### Galaxy S23 Ultra
 
