@@ -1258,3 +1258,5 @@ dslr photography
 mirrorless options
 processor speed
 chipset compatibility
+processor speed
+chipset compatibility
