@@ -30,7 +30,7 @@ For The Potensians, choosing authentic Samsung smartphone camera lenses means in
 
 ## Advanced Features That Elevate Photography
 
-Samsung’s commitment to excellence is evident in its camera lens technology. Here are some standout features that make authentic Samsung smartphone camera lenses indispensable:
+Samsung’s commitment to excellence is evident in its camera lens technology. Here are some standout features that make authentic Samsung [smartphone camera](/samsung/samsung-compact-smartphone-camera-lens) lenses indispensable:
 
 <div class="table-responsive">
 <table class="html-table">
@@ -108,7 +108,7 @@ When it comes to smartphone camera lenses, authenticity matters more than ever i
 </thead>
 <tbody>
 <tr>
-<td>Image Quality</td>
+<td>[Image Quality](/samsung/samsung-smartphone-image-quality)</td>
 <td>Exceptional clarity and vibrant colors.</td>
 <td>Inconsistent results with muted tones.</td>
 </tr>
