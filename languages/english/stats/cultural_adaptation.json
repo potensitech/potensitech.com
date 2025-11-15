@@ -6613,5 +6613,18 @@
             "Cultural: Los Angeles",
             "Cultural: Times Square"
         ]
+    },
+    "samsung smartphones with high-speed processors": {
+        "date": "2025-11-15T16:58:37",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
