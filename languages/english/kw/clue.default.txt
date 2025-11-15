@@ -1,8 +1,8 @@
+processor speed
+chipset compatibility
 camera lenses
 dslr photography
 mirrorless options
-processor speed
-chipset compatibility
 core architecture
 thermal efficiency
 camera resolution

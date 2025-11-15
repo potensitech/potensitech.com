@@ -1252,3 +1252,5 @@ camera lenses
 dslr photography
 processor speed
 chipset compatibility
+processor speed
+chipset compatibility

@@ -45,3 +45,4 @@ amoled display
 processor performance
 core efficiency
 autofocus technology
+chipset compatibility
