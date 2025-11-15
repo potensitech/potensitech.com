@@ -6600,5 +6600,18 @@
             "Cultural: Hollywood",
             "Cultural: Apple Pie"
         ]
+    },
+    "authentic samsung smartphone camera lenses": {
+        "date": "2025-11-15T14:41:33",
+        "language": "en",
+        "cultural_score": 97,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square"
+        ]
     }
 }
