@@ -1250,3 +1250,5 @@ camera lenses
 processor speed
 camera lenses
 dslr photography
+processor speed
+chipset compatibility
