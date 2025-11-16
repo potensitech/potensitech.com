@@ -6639,5 +6639,18 @@
             "Cultural: Central Park",
             "Cultural: BBQ"
         ]
+    },
+    "professional samsung camera lenses for photography": {
+        "date": "2025-11-16T05:02:58",
+        "language": "en",
+        "cultural_score": 97,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: New Year's Day",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Times Square"
+        ]
     }
 }
