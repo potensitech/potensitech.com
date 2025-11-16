@@ -6652,5 +6652,18 @@
             "Cultural: Wall Street",
             "Cultural: Times Square"
         ]
+    },
+    "samsung smartphone with advanced camera features": {
+        "date": "2025-11-16T07:36:58",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Central Park"
+        ]
     }
 }
