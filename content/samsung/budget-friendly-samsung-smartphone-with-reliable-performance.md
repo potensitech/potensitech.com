@@ -11,11 +11,14 @@ tags: ["budget-friendly", "samsung", "smartphone", "affordable", "performance"]
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/budget-friendly-samsung-smartphone-with-reliable-performance.jpg"
+featuredImagePreview: "/images/samsung/budget-friendly-samsung-smartphone-with-reliable-performance.jpg"
 ---
+
+![Budget-Friendly Samsung Smartphone with Reliable Performance](/images/samsung/budget-friendly-samsung-smartphone-with-reliable-performance.jpg)
+
 
 
 *Budget-Friendly Samsung Smartphone with Reliable Performance* - 
