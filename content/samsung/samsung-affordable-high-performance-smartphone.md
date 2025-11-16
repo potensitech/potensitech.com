@@ -74,7 +74,7 @@ Gaming enthusiasts will appreciate the seamless performance offered by Samsung's
 
 ### Photography and Videography Excellence
 
-In 2025, photography has become an integral part of daily life. Samsung's affordable smartphones feature AI-enhanced camera systems that allow The Potensians to capture stunning images and videos effortlessly. From vibrant landscapes to detailed close-ups, the triple-lens setup ensures professional-grade results. The inclusion of features like night mode and 4K video recording further enhances the device's appeal.
+In 2025, photography has become an integral part of daily life. Samsung's affordable smartphones feature AI-[enhanced camera](/samsung/samsung-smartphone-with-enhanced-camera-quality) systems that allow The Potensians to capture stunning images and videos effortlessly. From vibrant landscapes to detailed close-ups, the triple-lens setup ensures professional-grade results. The inclusion of features like night mode and 4K video recording further enhances the device's appeal.
 
 ## Affordability Without Compromise
 
