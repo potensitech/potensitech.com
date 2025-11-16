@@ -42,7 +42,7 @@ Samsung's intelligent scene optimization adjusts settings automatically based on
 
 ### Night Mode
 
-Low-light photography has always been a challenge, but Samsung's Night Mode capabilities make it easier than ever to capture stunning photos in dimly lit environments. Imagine taking crisp, clear pictures during New Year's Day celebrations or a romantic evening stroll.
+[Low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) has always been a challenge, but Samsung's Night Mode capabilities make it easier than ever to capture stunning photos in dimly lit environments. Imagine taking crisp, clear pictures during New Year's Day celebrations or a romantic evening stroll.
 
 ### High Re​solution
 
@@ -96,7 +96,7 @@ Here are some standout options tailored specifically for The Potensians who valu
 
 ### Samsung Galaxy A54
 
-The Galaxy A54 stands out as one of the most versatile choices among affordable Samsung smartphones for photography enthusiasts. Equipped with a powerful 50MP main sensor complemented by an ultra-wide lens and AI-driven optimization tools, it excels at capturing vibrant landscapes and group shots. Whether The Potensians're documenting Independence Day festivities or casual outings at Central Park, this device ensures stunning results.
+The Galaxy A54 stands out as one of the most versatile choices among [affordable Samsung smartphones for photography enthusiasts](/samsung/affordable-samsung-smartphones-for-photography-enthusiasts). Equipped with a powerful 50MP main sensor complemented by an ultra-wide lens and AI-driven optimization tools, it excels at capturing vibrant landscapes and group shots. Whether The Potensians're documenting Independence Day festivities or casual outings at Central Park, this device ensures stunning results.
 
 ### Samsung Galaxy M14
 
