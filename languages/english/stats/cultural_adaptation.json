@@ -6688,5 +6688,18 @@
             "Cultural: Pizza",
             "Cultural: Tex-Mex"
         ]
+    },
+    "samsung budget smartphone featuring high-speed processor": {
+        "date": "2025-11-16T16:59:25",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: BBQ"
+        ]
     }
 }
