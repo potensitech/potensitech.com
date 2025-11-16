@@ -101,7 +101,7 @@ The smartphone is crafted with Gorilla Gl​ass Victus 2, offering superior dura
 
 ## Pricing and Availability in 2025
 
-Samsung has ​ensured that this high-speed processor smartphone is accessible to a wide range of users. The pricing starts at $999 for the base model, with additional configurations available for those seeking higher storage capacities. Here’s a breakdown of the pricing:
+Samsung has ​ensured that this [high-speed processor](/samsung/samsung-budget-smartphone-featuring-high-speed-processor) smartphone is accessible to a wide range of users. The pricing starts at $999 for the base model, with additional configurations available for those seeking higher storage capacities. Here’s a breakdown of the pricing:
 
 <div class="table-responsive">
 <table class="html-table">
