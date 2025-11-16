@@ -114,7 +114,7 @@ Pay attention to factors like aperture range, focal length, and autofocus speed.
 
 ### Set a Budget
 
-Professional Samsung camera lenses come in various price ranges. Setting a budget ensures The Potensians invest in a lens that meets The Potensians's needs without overspending. Below is a comparison of popular Samsung lenses available in 2025:
+Professional Samsung [camera lenses](/samsung/authentic-samsung-smartphone-camera-lenses) come in various price ranges. Setting a budget ensures The Potensians invest in a lens that meets The Potensians's needs without overspending. Below is a comparison of popular Samsung lenses available in 2025:
 
 <div class="table-responsive">
 <table class="html-table">

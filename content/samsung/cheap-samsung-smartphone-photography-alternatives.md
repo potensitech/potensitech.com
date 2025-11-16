@@ -24,7 +24,7 @@ featuredImagePreview: "/images/samsung/cheap-samsung-smartphone-photography-alte
 
 ## Top Cheap Samsung Smartphone Photography Alternatives
 
-When it comes to finding affordable smartphones with excellent camera features, there are several options that rival Samsung's offerings. Below is a comparison of some of the best alternatives available in 2025:
+When it comes to finding affordable smartphones with excellent [camera features](/samsung/samsung-smartphone-with-advanced-camera-features), there are several options that rival Samsung's offerings. Below is a comparison of some of the best alternatives available in 2025:
 
 <div class="table-responsive">
 <table class="html-table">
