@@ -6675,5 +6675,18 @@
             "Cultural: Broadway",
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone with enhanced camera quality": {
+        "date": "2025-11-16T14:40:16",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: Pizza",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
