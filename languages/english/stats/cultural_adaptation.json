@@ -6797,5 +6797,18 @@
             "Cultural: Chicago",
             "Cultural: Innovation"
         ]
+    },
+    "cheap samsung smartphone with chipset compatibility": {
+        "date": "2025-11-17T21:54:32",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Hollywood",
+            "Cultural: BBQ"
+        ]
     }
 }
