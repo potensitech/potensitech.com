@@ -41,3 +41,4 @@ autofocus
 core efficiency
 autofocus technology
 camera lenses
+chipset compatibility
