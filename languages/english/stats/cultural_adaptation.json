@@ -6772,5 +6772,18 @@
             "Cultural: New York",
             "Cultural: Innovation"
         ]
+    },
+    "nikon entry-level DSLR gear": {
+        "date": "2025-11-17T14:49:34",
+        "language": "en",
+        "cultural_score": 97,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Central Park"
+        ]
     }
 }
