@@ -6736,5 +6736,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Hot Dogs"
         ]
+    },
+    "Nikon mirrorless cameras for creative professionals": {
+        "date": "2025-11-17T07:39:38",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Central Park"
+        ]
     }
 }
