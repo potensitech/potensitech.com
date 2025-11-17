@@ -6785,5 +6785,17 @@
             "Cultural: Broadway",
             "Cultural: Central Park"
         ]
+    },
+    "nikon low-cost camera lenses": {
+        "date": "2025-11-17T19:35:09",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Black Friday",
+            "Cultural: Chicago",
+            "Cultural: Innovation"
+        ]
     }
 }
