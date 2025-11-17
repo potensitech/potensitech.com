@@ -3294,5 +3294,12 @@
   "philips reliable processor for everyday devices": true,
   "intel budget-friendly processor for fast performance": true,
   "intel high-speed processor for budget-conscious buyers": true,
-  "intel entry-level processor with reliable speed": true
+  "intel entry-level processor with reliable speed": true,
+  "nvidia affordable GPU for compatibility": true,
+  "nvidia budget-friendly processor performance": true,
+  "nvidia chipset compatibility for gaming PCs": true,
+  "nvidia processor speed for high-performance tasks": true,
+  "nvidia GPU compatibility with gaming laptops": true,
+  "nvidia processor compatibility for video editing": true,
+  "nvidia processor speed optimization for multitasking": true
 }
