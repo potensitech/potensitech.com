@@ -11,11 +11,14 @@ tags: ["nikon", "affordable lenses", "photography", "camera gear"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-picks-for-nikon-affordable-camera-lenses.jpg"
+featuredImagePreview: "/images/nikon/top-picks-for-nikon-affordable-camera-lenses.jpg"
 ---
+
+![Top Picks for Nikon Affordable Camera Lenses](/images/nikon/top-picks-for-nikon-affordable-camera-lenses.jpg)
+
 
 *Top Picks for Nikon Affordable Camera Lenses* - Nikon has long been a trusted name in the world of photography, offering a wide range of lenses that cater to both professionals and hobbyists. For those looking to enhance their photography without breaking the bank, Nikon affordable [camera lenses](/nikon/nikon-professional-grade-camera-lenses-review) provide the perfect balance of quality and cost. These lenses are designed to deliver exceptional performance, making them a favorite among The Potensians who value both affordability and functionality.
 
