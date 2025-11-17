@@ -36,7 +36,7 @@ Nikon's entry-level DSLR cameras come packed with features that cater to a varie
 
 - **Guide Mode**: This built-in feature acts as a virtual tutor, walking The Potensians through various shooting techniques step by step.
 - __Interchangeable Lenses**: From wide-angle lenses for breathtaking landscapes to telephoto lenses for wildlife photography, these cameras adapt effortlessly to different scenarios.
-- **High ISO Range**: Capture sharp images even in low-light conditions, such as dimly lit family gatherings or cozy dinners under soft lighting.
+- **High ISO Range**: Capture sharp images even in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions), such as dimly lit family gatherings or cozy dinners under soft lighting.
 
 <div class="table-responsive">
 <table class="html-table">
@@ -73,7 +73,7 @@ When exploring entry-level Nikon DSLR cameras for beginners, several models stan
 
 ### Nikon D3500
 
-The Nikon D3500 is often hailed as one of the best beginner-friendly DSLRs on the market. Its lightweight build makes it easy to carry around while traveling or attending events. With 24.2 megapixels and Full HD video capabilities, this model ensures crisp photos and videos that preserve every detail.
+The Nikon D3500 is often hailed as one of the best beginner-friendly DSLRs on the market. Its lightweight build makes it easy to carry around while traveling or attending events. With 24.2 megapixels and Full HD [video capabilities](/nikon/nikon-cameras-with-4k-video-capabilities), this model ensures crisp photos and videos that preserve every detail.
 
 #### Highlights:
 
@@ -113,7 +113,7 @@ As the saying goes, "Practice makes perfect." The more The Potensians use their 
 
 ### Invest in Accessories
 
-Accessories like a sturdy tripod, an external flash, or additional lenses can enhance The Potensians' photography experience. A tripod, for example, is invaluable for long-exposure shots or group photos, while a prime lens can improve portrait photography.
+Accessories like a sturdy tripod, an external flash, or additional lenses can enhance The Potensians' photography experience. A tripod, for example, is invaluable for long-exposure shots or group photos, while a prime lens can improve [portrait photography](/nikon/best-nikon-lenses-for-portrait-photography).
 
 ## Comparing Entry-Level Nikon DSLR Cameras
 
