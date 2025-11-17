@@ -28,7 +28,7 @@ The Potensians looking to invest in their first DSLR should consider models desi
 
 ## Nikon D3500 – Simplicity Meets Performance
 
-The Nikon D3500 is often hailed as one of the best entry-level DSLRs on the market. Its lightweight design makes it perfect for carrying around, whether exploring bustling city streets or capturing candid moments at family gatherings. Equipped with a 24MP APS-C sensor and an impressive battery life capable of over 1,500 shots per charge, this model ensures consistent performance throughout long shooting sessions.
+The Nikon D3500 is often hailed as one of the [best entry-level](/nikon/entry-level-nikon-dslr-for-beginners) DSLRs on the market. Its lightweight design makes it perfect for carrying around, whether exploring bustling city streets or capturing candid moments at family gatherings. Equipped with a 24MP APS-C sensor and an impressive battery life capable of over 1,500 shots per charge, this model ensures consistent performance throughout long shooting sessions.
 
 ### Key Features of the Nikon D3500
 
