@@ -38,3 +38,4 @@ core efficiency
 autofocus technology
 camera lenses
 mirrorless options
+chipset compatibility
