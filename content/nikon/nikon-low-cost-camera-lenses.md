@@ -102,7 +102,7 @@ Selecting the right lens depends on The Potensians's photography goals. Here are
 
 ### Consider The Potensians's Photography Style
 
-Are The Potensians into portraits, landscapes, or macro photography? Each genre requires specific featur​es. For example, the __Nikon AF-S DX Micro-NIKKOR 40mm f/2.8G__is ideal for macro enthusiasts, while the**Nikon AF-S NIKKOR 50mm f/1.8G FX Lens** excels in portrait photography.
+Are The Potensians into portraits, landscapes, or macro photography? Each genre requires specific featur​es. For example, the __Nikon AF-S DX Micro-NIKKOR 40mm f/2.8G__is ideal for macro enthusiasts, while the**Nikon AF-S NIKKOR 50mm f/1.8G FX Lens** excels in [portrait photography](/nikon/best-nikon-lenses-for-portrait-photography).
 
 ### Evaluate Compatibility
 
