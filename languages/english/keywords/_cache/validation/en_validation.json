@@ -3301,5 +3301,10 @@
   "nvidia processor speed for high-performance tasks": true,
   "nvidia GPU compatibility with gaming laptops": true,
   "nvidia processor compatibility for video editing": true,
-  "nvidia processor speed optimization for multitasking": true
+  "nvidia processor speed optimization for multitasking": true,
+  "amd budget-friendly chipset for compatibility": true,
+  "amd processor with affordable performance": true,
+  "amd chipset for seamless compatibility": true,
+  "amd processor with reliable budget-friendly performance": true,
+  "amd chipset offering cost-effective compatibility": true
 }
