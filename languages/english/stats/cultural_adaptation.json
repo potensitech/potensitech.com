@@ -6823,5 +6823,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Tex-Mex"
         ]
+    },
+    "nikon affordable photography gear": {
+        "date": "2025-11-18T09:57:30",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: BBQ",
+            "Cultural: Innovation"
+        ]
     }
 }
