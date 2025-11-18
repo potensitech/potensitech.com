@@ -6810,5 +6810,18 @@
             "Cultural: Hollywood",
             "Cultural: BBQ"
         ]
+    },
+    "nikon DSLR cameras for beginners": {
+        "date": "2025-11-18T02:14:10",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
