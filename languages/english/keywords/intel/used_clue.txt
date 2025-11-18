@@ -34,3 +34,4 @@ core efficiency
 clock speed
 chip performance
 core architecture
+solid state

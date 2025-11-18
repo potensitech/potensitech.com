@@ -1311,3 +1311,5 @@ chipset compatibility
 processor speed
 chipset compatibility
 solid state
+solid state
+processor speed
