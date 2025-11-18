@@ -3359,5 +3359,11 @@
   "intel high-speed computing processor": true,
   "intel affordable everyday-use processor": true,
   "intel enhanced-speed solid state drive": true,
-  "intel SSD for budget-conscious users": true
+  "intel SSD for budget-conscious users": true,
+  "nvidia affordable GPU with chipset compatibility": true,
+  "nvidia budget-friendly graphics card compatibility": true,
+  "nvidia high-performance GPU benchmark comparison results": true,
+  "nvidia reliable gaming chipset compatibility": true,
+  "nvidia optimized GPU for creative workflows": true,
+  "nvidia GPU processor speed comparison": true
 }
