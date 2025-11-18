@@ -6836,5 +6836,15 @@
             "Cultural: BBQ",
             "Cultural: Innovation"
         ]
+    },
+    "nikon budget DSLR lenses": {
+        "date": "2025-11-18T19:32:58",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Abraham Lincoln",
+            "Cultural: Innovation"
+        ]
     }
 }
