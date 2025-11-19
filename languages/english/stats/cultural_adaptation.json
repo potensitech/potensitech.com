@@ -6898,5 +6898,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Wall Street"
         ]
+    },
+    "Nikon mirrorless cameras with advanced features": {
+        "date": "2025-11-19T14:48:05",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Memorial Day",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Burgers"
+        ]
     }
 }
