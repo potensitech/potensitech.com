@@ -75,7 +75,7 @@ To understand why this smartphone stands out, let’s explore its key features i
 <tr>
 <td>AI-Enhanced Cameras</td>
 <td>Capable of capturing stunning photos even in low light.</td>
-<td>Perfect for photography enthusiasts.</td>
+<td>Perfect for [photography enthusiasts](/samsung/affordable-samsung-smartphones-for-photography-enthusiasts).</td>
 </tr>
 </tbody>
 </table>
