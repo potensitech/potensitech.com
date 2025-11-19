@@ -11,11 +11,14 @@ tags: ["samsung", "budget smartphone", "high-speed processor", "technology"]
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-budget-smartphone-with-high-speed-processor.jpg"
+featuredImagePreview: "/images/samsung/samsung-budget-smartphone-with-high-speed-processor.jpg"
 ---
+
+![Samsung Budget Smartphone with High-Speed Processor](/images/samsung/samsung-budget-smartphone-with-high-speed-processor.jpg)
+
 
 *Samsung Budget Smartphone with High-Speed Processor* - 
 
