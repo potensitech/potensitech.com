@@ -30,7 +30,7 @@ Proper lighting can transform an ordinary image into a masterpiece. Imagine tryi
 
 ## Key Features of Nikon Smart-Lighting Accessories
 
-Nikon has meticulously designed its smart-lighting accessories with advanced features that cater to both amateur enthusiasts and seasoned professionals alike. Below are some standout characteristics:
+Nikon has meticulously designed its smart-lighting accessories with [advanced features](/nikon/nikon-mirrorless-cameras-with-advanced-features) that cater to both amateur enthusiasts and seasoned professionals alike. Below are some standout characteristics:
 
 <div class="table-responsive">
 <table class="html-table">

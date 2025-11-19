@@ -68,7 +68,7 @@ Moreover, Nikon’s emphasis on delivering high-quality imaging systems ensures 
 
 ## Budget-Friendly Options from Nikon
 
-For The Potensians seeking affordable yet feature-rich options, Nikon offers several models tailored to meet diverse needs. Here are some standout choices within the realm of budget-friendly Nikon mirrorless camera technology:
+For The Potensians seeking affordable yet feature-rich options, Nikon offers several models tailored to meet diverse needs. Here are some standout choices within the realm of [budget-friendly Nikon](/nikon/budget-friendly-nikon-camera-features) mirrorless camera technology:
 
 ### Nikon Z50: Compact Powerhouse
 
