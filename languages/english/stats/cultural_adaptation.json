@@ -6911,5 +6911,18 @@
             "Cultural: Central Park",
             "Cultural: Burgers"
         ]
+    },
+    "lightweight Nikon mirrorless cameras for travel": {
+        "date": "2025-11-19T17:12:57",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square"
+        ]
     }
 }
