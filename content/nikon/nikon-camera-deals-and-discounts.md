@@ -135,7 +135,7 @@ As technology evolves, Nikon continues to release innovative models that cater t
 ### Entry-Level Cameras
 
 - **Nikon D3500**: Perfect for beginners, this DSLR offers user-friendly controls and impressive image quality.
-- **Nikon Z50**: A compact mirrorless camera ideal for travel and everyday photography.
+- **Nikon Z50**: A compact [mirrorless camera](/nikon/budget-friendly-nikon-mirrorless-camera-technology) ideal for travel and everyday photography.
 
 ### Mid-Range Cameras
 
