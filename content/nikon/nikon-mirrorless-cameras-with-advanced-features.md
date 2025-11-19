@@ -89,7 +89,7 @@ Additionally, features like in-camera stabilization and advanced color grading t
 
 ## Lens Compatibility: Expanding Creative Horizons
 
-A significant advantage offered by Nikon’s mirrorless systems is their compatibility with a wide range of lenses. The Z-mount system, introduced with Nikon's mirrorless lineup, offers a larger diameter and shorter flange distance, enabling superior optical performance. This design allows for faster lenses with wider apertures, perfect for low-light photography and achieving beautiful bokeh effects.
+A significant advantage offered by Nikon’s mirrorless systems is their compatibility with a wide range of lenses. The Z-mount system, introduced with Nikon's mirrorless lineup, offers a larger diameter and shorter flange distance, enabling superior optical performance. This design allows for faster lenses with wider apertures, perfect for [low-light photography](/nikon/nikon-camera-performance-in-low-light-photography) and achieving beautiful bokeh effects.
 
 ### Adapting Legacy Lenses
 
