@@ -6855,5 +6855,14 @@
         "matches": [
             "Cultural: New York"
         ]
+    },
+    "nikon beginner-friendly DSLR cameras": {
+        "date": "2025-11-19T03:41:08",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
