@@ -30,7 +30,7 @@ When it comes to cameras and accessories, Nikon has long been synonymous with in
 
 ### Superior Image Quality at a Budget
 
-Nikon’s entry-level DSLRs and mirrorless cameras are equipped with advanced sensors that deliver sharp details and vibrant colors . Take the Nikon D3500 DSLR as an example: its 24.2-megapixel sensor ensures crystal-clear images even in low-light conditions—a feature perfect for photographing night-time cityscapes or cozy holiday gatherings by the fireplace.
+Nikon’s entry-level DSLRs and mirrorless cameras are equipped with advanced sensors that deliver sharp details and vibrant colors . Take the Nikon D3500 DSLR as an example: its 24.2-megapixel sensor ensures crystal-clear images even in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions)—a feature perfect for photographing night-time cityscapes or cozy holiday gatherings by the fireplace.
 
 Moreover, these cameras support interchangeable lenses, allowing The Potensians to experiment with wide-angle shots or close-up portraits without breaking the bank.
 
