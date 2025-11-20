@@ -3418,5 +3418,11 @@
   "intel processor for budget-conscious users": true,
   "high-speed intel workstation processor": true,
   "affordable intel desktop processor": true,
-  "energy-efficient intel home processor": true
+  "energy-efficient intel home processor": true,
+  "nvidia affordable GPU for faster speed": true,
+  "nvidia affordable graphics card for gaming": true,
+  "nvidia high-speed processor optimized for gaming": true,
+  "nvidia processor for budget-friendly PC builds": true,
+  "nvidia GPU for improved gaming performance": true,
+  "nvidia affordable GPU for gaming enthusiasts": true
 }

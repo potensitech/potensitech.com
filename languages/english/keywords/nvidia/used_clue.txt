@@ -33,3 +33,4 @@ processor speed
 core efficiency
 chip performance
 chipset compatibility
+solid state
