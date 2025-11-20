@@ -124,7 +124,7 @@ As of 2025, Nikon continues to lead the industry with its innovative autofocus s
 
 ## Why Nikon Stands Out in Autofocus Technology
 
-Nikon’s dedication to innovation and quality is evident in every aspect of its autofocus systems. The company’s focus on user experience ensures that photographers of all skill levels can benefit from these advanced tools. In We's view, Nikon has struck the perfect balance between cutting-edge technology and practical usability.
+Nikon’s dedication to innovation and quality is evident in every aspect of its autofocus systems. The company’s focus on user experience ensures that photographers of all skill levels can benefit from these advanced tools. In We's view, Nikon has struck the perfect balance between [cutting-edge technology](/nikon/nikon-mirrorless-cameras-with-cutting-edge-technology) and practical usability.
 
 ### A Legacy of Excellence
 
