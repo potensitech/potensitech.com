@@ -7015,5 +7015,15 @@
             "Cultural: Broadway",
             "Cultural: Pizza"
         ]
+    },
+    "affordable Samsung smartphone for multitasking": {
+        "date": "2025-11-20T19:32:41",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
