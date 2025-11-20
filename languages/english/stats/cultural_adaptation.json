@@ -6976,5 +6976,18 @@
             "Cultural: Central Park",
             "Cultural: Burgers"
         ]
+    },
+    "nikon entry-level DSLR cameras": {
+        "date": "2025-11-20T09:52:32",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: BBQ"
+        ]
     }
 }
