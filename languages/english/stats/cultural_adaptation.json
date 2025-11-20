@@ -6937,5 +6937,18 @@
             "Cultural: Wall Street",
             "Cultural: Thomas Edison"
         ]
+    },
+    "Nikon mirrorless cameras with cutting-edge technology": {
+        "date": "2025-11-20T02:13:38",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Central Park"
+        ]
     }
 }
