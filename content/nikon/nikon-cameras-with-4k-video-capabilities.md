@@ -51,7 +51,7 @@ Let’s delve into some standout features that make **Nikon cameras with 4K vide
 <td>Perfect for dynamic shots like action sequences or wildlife videography.</td>
 </tr>
 <tr>
-<td>Wide Lens Compatibility</td>
+<td>Wide [Lens Compatibility](/nikon/nikon-lens-compatibility-guide-for-dslrs)</td>
 <td>A vast array of lenses compatible with different shooting styles.</td>
 <td>Allows flexibility across genres such as portraiture or landscapes.</td>
 </tr>
@@ -111,7 +111,7 @@ Choosing the right camera can be overwhelming, especially with so many options a
 <tr>
 <td>Nikon Z7 II</td>
 <td>$2,999</td>
-<td>45.7 MP sensor, 4K UHD at 60fps, advanced autofocus</td>
+<td>45.7 MP sensor, 4K UHD at 60fps, [advanced autofocus](/nikon/affordable-nikon-camera-with-advanced-autofocus)</td>
 <td>High-resolution video projects</td>
 </tr>
 <tr>
