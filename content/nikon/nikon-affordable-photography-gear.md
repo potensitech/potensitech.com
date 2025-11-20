@@ -66,7 +66,7 @@ Nikon offers a variety of affordable models that cater to different needs. Below
 </tr>
 <tr>
 <td>Nikon Z30</td>
-<td>Compact Mirrorless Camera with SnapBridge</td>
+<td>Compact [Mirrorless Camera](/nikon/nikon-mirrorless-camera-with-long-lasting-battery) with SnapBridge</td>
 <td>$650 - $750</td>
 </tr>
 <tr>
