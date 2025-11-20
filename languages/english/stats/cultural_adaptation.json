@@ -7002,5 +7002,18 @@
             "Cultural: Wall Street",
             "Cultural: Tex-Mex"
         ]
+    },
+    "budget Samsung smartphone with high-speed processor": {
+        "date": "2025-11-20T17:06:36",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Pizza"
+        ]
     }
 }
