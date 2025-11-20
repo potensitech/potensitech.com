@@ -3424,5 +3424,8 @@
   "nvidia high-speed processor optimized for gaming": true,
   "nvidia processor for budget-friendly PC builds": true,
   "nvidia GPU for improved gaming performance": true,
-  "nvidia affordable GPU for gaming enthusiasts": true
+  "nvidia affordable GPU for gaming enthusiasts": true,
+  "amd chipset compatibility for affordable processors": true,
+  "amd chipset compatibility for entry-level systems": true,
+  "amd chipset compatibility for desktop upgrades": true
 }
