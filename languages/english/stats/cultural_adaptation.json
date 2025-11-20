@@ -6989,5 +6989,18 @@
             "Cultural: Hollywood",
             "Cultural: BBQ"
         ]
+    },
+    "nikon beginner-friendly camera lenses": {
+        "date": "2025-11-20T12:41:40",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
