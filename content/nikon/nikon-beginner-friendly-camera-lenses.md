@@ -77,7 +77,7 @@ When selecting a lens as a beginner, it’s essential to consider factors such a
 
 ### 1. **Nikon AF-S DX NIKKOR 35mm f/1.8G**
 
-This prime lens is highly regarded among beginners due to its sharpness and ability to perform well in low-light conditions—perfect for indoor events like Independence Day celebrations or cozy Tex-Mex dinners at home.
+This prime lens is highly regarded among beginners due to its sharpness and ability to perform well in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions)—perfect for indoor events like Independence Day celebrations or cozy Tex-Mex dinners at home.
 
 #### Highlights:
 - Focal Length: 35mm (ideal for street photography)
@@ -99,7 +99,7 @@ This lens is perfect for capturing landscapes during a road trip or snapping por
 
 ### 3. **Nikon Z DX 16-50mm f/3.5-6.3 VR**
 
-Designed for Nikon’s mirrorless cameras, this lens offers exceptional versatility and compactness. It’s a great option for The Potensians who want to explore both photography and videography.
+Designed for Nikon’s [mirrorless cameras](/nikon/nikon-affordable-mirrorless-cameras-for-enthusiasts), this lens offers exceptional versatility and compactness. It’s a great option for The Potensians who want to explore both photography and videography.
 
 #### Highlights:
 - Focal Length: 16-50mm (wide-angle to standard zoom)
