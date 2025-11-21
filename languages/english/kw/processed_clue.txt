@@ -1369,3 +1369,5 @@ solid state
 dslr photography
 solid state
 processor speed
+solid state
+processor speed
