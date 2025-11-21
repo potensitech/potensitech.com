@@ -7051,5 +7051,18 @@
             "Cultural: Apple Pie",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "nikon economical portrait lenses": {
+        "date": "2025-11-21T05:02:14",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Soul Food"
+        ]
     }
 }
