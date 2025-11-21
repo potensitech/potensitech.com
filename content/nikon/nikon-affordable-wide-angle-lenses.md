@@ -70,7 +70,7 @@ To help The Potensians make informed decisions, here is a curated list of Nikon'
 </table>
 </div>
 
-These lenses cater to different needs, from ultra-wide coverage for dramatic perspectives to compact designs for everyday use. The Potensians can sel​ect the perfect lens based on their creative goals and budget.
+These lenses cater to different needs, from ultra-wide coverage for dramatic perspectives to compact designs for [everyday use](/nikon/compact-nikon-cameras-for-everyday-use). The Potensians can sel​ect the perfect lens based on their creative goals and budget.
 
 ## Key Considerations When Selecting The Potensians's Lens
 
@@ -80,7 +80,7 @@ Before purchasing a Nikon wide-angle lens, compatibility with the camera body is
 
 ### Aperture Speed & Low-Light Performance
 
-For indoor photography, such as capturing Thanksgiving dinners or cozy family moments, fast-aperture lenses are invaluable. The Nikon AF-S DX NIKKOR 35mm f/1.8G is an excellent choice for low-light conditions, delivering sharp images even in dim environments. The Potensians can rely on this lens to preserve the warmth and detail of cherished memories.
+For indoor photography, such as capturing Thanksgiving dinners or cozy family moments, fast-aperture lenses are invaluable. The Nikon AF-S DX NIKKOR 35mm f/1.8G is an excellent choice for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions), delivering sharp images even in dim environments. The Potensians can rely on this lens to preserve the warmth and detail of cherished memories.
 
 ### Portability vs Functionality Trade-Offs
 
