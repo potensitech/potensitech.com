@@ -7064,5 +7064,17 @@
             "Cultural: Hollywood",
             "Cultural: Soul Food"
         ]
+    },
+    "nikon affordable wide-angle lenses": {
+        "date": "2025-11-21T07:38:51",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Central Park",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
