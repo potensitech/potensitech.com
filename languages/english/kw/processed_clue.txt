@@ -1371,3 +1371,5 @@ solid state
 processor speed
 solid state
 processor speed
+processor speed
+chipset compatibility

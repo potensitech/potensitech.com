@@ -3494,5 +3494,12 @@
   "nvidia high-speed processor for multitasking needs": true,
   "nvidia budget GPU for beginner gamers": true,
   "nvidia reliable processor for workstation setups": true,
-  "nvidia affordable SSD for expanding storage": true
+  "nvidia affordable SSD for expanding storage": true,
+  "amd budget-friendly chipset with compatibility": true,
+  "amd processor optimized for gaming performance": true,
+  "amd chipset with enhanced motherboard compatibility": true,
+  "amd high-speed processor for budget builds": true,
+  "amd chipset designed for seamless compatibility": true,
+  "amd gaming processor with optimal speed": true,
+  "amd affordable chipset for entry-level PCs": true
 }
