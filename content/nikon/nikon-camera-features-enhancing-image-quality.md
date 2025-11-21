@@ -98,7 +98,7 @@ Nikon cameras also offer a variety of creative filters and effects that can be a
 
 ## Lens Compatibility: Expanding Creative Possibilities
 
-A camera's lens plays a pivotal role in determining image quality, and Nikon cameras boast an extensive range of compatible lenses. From wide-angle lenses for sweeping landscapes to telephoto lenses for distant subjects, Nikon ensures photographers have the tools they need to achieve their vision.
+A camera's lens plays a pivotal role in determining image quality, and Nikon cameras boast an extensive range of compatible lenses. From [wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses) for sweeping landscapes to telephoto lenses for distant subjects, Nikon ensures photographers have the tools they need to achieve their vision.
 
 ### Prime Lenses for Exceptional Sharpness
 

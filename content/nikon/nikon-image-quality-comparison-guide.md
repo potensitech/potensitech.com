@@ -98,7 +98,7 @@ In We's view, Nikon’s low-light performance is nothing short of magical. The a
 
 ## Lens Options: Expanding Creative Horizons
 
-A camera is only as good as the lens attached to it, and Nikon offers an extensive range of lenses to suit every need. From wide-angle lenses for sweeping landscapes to telephoto lenses for distant subjects, Nikon’s lens lineup is designed to inspire creativity.
+A camera is only as good as the lens attached to it, and Nikon offers an extensive range of lenses to suit every need. From [wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses) for sweeping landscapes to telephoto lenses for distant subjects, Nikon’s lens lineup is designed to inspire creativity.
 
 ### Popular Nikon Lenses and Their Applications
 

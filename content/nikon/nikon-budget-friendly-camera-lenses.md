@@ -30,7 +30,7 @@ Nikon has long been synonymous with quality and innovation in photography equipm
 
 1. **Versatility Across Photography Styles** 
  Nikon’s affordable lens lineup caters to various genres such as landscapes, portraits, macro photography, and street photography.  For instance: 
- - **Landscapes:** Wide-angle lenses like the AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR provide stunning depth and clarity when photographing expansive views like those found in Central Park during autumn.  
+ - **Landscapes:** [Wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses) like the AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR provide stunning depth and clarity when photographing expansive views like those found in Central Park during autumn.  
  - **Portraits:** Prime lenses such as the AF-S DX NIKKOR 35mm f/1.8G deliver sharp details with beautiful bokeh effects—ideal for capturing candid moments during family gatherings.
 
 2. **Lightweight Design** 
