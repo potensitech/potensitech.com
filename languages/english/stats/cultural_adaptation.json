@@ -7125,5 +7125,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung affordable smartphone chipset compatibility": {
+        "date": "2025-11-22T03:32:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: New Year's Day",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
