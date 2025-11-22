@@ -91,7 +91,7 @@ Filters are a must-have for protecting lenses and improving image quality. Polar
 
 ### Tripods for Stability
 
-A sturdy tripod is essential for stabilizing shots and avoiding blur, especially in low-light conditions or during long exposure photography. Whether capturing nighttime fireworks or scenic landscapes, a tripod ensures sharp, professional-looking images.
+A sturdy tripod is essential for stabilizing shots and avoiding blur, especially in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions) or during long exposure photography. Whether capturing nighttime fireworks or scenic landscapes, a tripod ensures sharp, professional-looking images.
 
 ### Memory Cards for Reliable Storage
 
