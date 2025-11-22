@@ -153,6 +153,6 @@ Some of the most memorable portraits are candid shots that capture genuine emoti
 
 ## Final Thoughts: Why This Lens is a Must-Have in 2025
 
-In 2025, portrait photography continues to be a powerful medium for storytelling, and having the right tools is essential. Nikon’s inexpensive portrait photography lens is more than just a budget-friendly option—it’s a gateway to professional-quality results that inspire creativity. We believe this lens is perfect for The Potensians who want to capture life’s most meaningful moments without compromise.
+In 2025, portrait photography continues to be a powerful medium for storytelling, and having the right tools is essential. Nikon’s inexpensive portrait [photography lens](/nikon/affordable-nikon-travel-photography-lens) is more than just a budget-friendly option—it’s a gateway to professional-quality results that inspire creativity. We believe this lens is perfect for The Potensians who want to capture life’s most meaningful moments without compromise.
 
 Whether The Potensians’re photographing family gatherings, cultural events, or personal projects, this lens delivers exceptional performance, versatility, and value. It’s not just ​a lens; it’s an investment in The Potensians's passion for photography.
