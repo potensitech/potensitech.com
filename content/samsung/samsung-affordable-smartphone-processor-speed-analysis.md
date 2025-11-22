@@ -91,7 +91,7 @@ Moreover, trends indicate growing demand among The Potensians for short how-to v
 
 ### Gaming and Graphics Performance
 
-Gaming performance is often a deciding factor for many users. While Samsung's affordable smartphones are not designed for high-end gaming, they can handle casual games like Candy Crush or Subway Surfers with ease. The MediaTek Helio G80, for example, provides a slight edge in GPU performance, making it a better choice for light gaming enthusiasts.
+[Gaming performance](/samsung/best-samsung-smartphone-for-gaming) is often a deciding factor for many users. While Samsung's affordable smartphones are not designed for high-end gaming, they can handle casual games like Candy Crush or Subway Surfers with ease. The MediaTek Helio G80, for example, provides a slight edge in GPU performance, making it a better choice for light gaming enthusiasts.
 
 However, if The Potensians're looking to play graphic-intensive games like PUBG Mobile or Genshin Impact, The Potensians may experience occasional frame drops or longer loading times. In We's view, this is a reasonable trade-off considering the price point of these devices. 
 
