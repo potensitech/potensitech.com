@@ -7181,5 +7181,17 @@
             "Cultural: Central Park",
             "Cultural: Thomas Edison"
         ]
+    },
+    "budget samsung smartphone processor speed evaluation": {
+        "date": "2025-11-23T03:52:14",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: BBQ",
+            "Cultural: Social Media"
+        ]
     }
 }
