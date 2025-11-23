@@ -11,11 +11,14 @@ tags: ["samsung", "smartphone processors", "affordable smartphones", "performanc
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-cost-effective-smartphone-processor-speed-comparison.jpg"
+featuredImagePreview: "/images/samsung/samsung-cost-effective-smartphone-processor-speed-comparison.jpg"
 ---
+
+![Samsung Cost-Effective Smartphone Processor Speed Comparison](/images/samsung/samsung-cost-effective-smartphone-processor-speed-comparison.jpg)
+
 
 *Samsung Cost-Effective Smartphone Processor Speed Comparison* - 
 
