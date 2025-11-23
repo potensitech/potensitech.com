@@ -7215,5 +7215,14 @@
             "Cultural: Central Park",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "samsung cheap smartphone with reliable processor": {
+        "date": "2025-11-23T19:31:17",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
