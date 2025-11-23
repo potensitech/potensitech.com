@@ -124,7 +124,7 @@ Here’s a comparison of Samsung's cost-effective smartphone against other popul
 <tbody>
 <tr>
 <td>Samsung</td>
-<td>Cost-Effective Smartphone</td>
+<td>[Cost-Effective Smartphone](/samsung/samsung-cost-effective-smartphone-processor-speed-comparison)</td>
 <td>$399</td>
 <td>Advanced processor and AMOLED display</td>
 </tr>
