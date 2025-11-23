@@ -7224,5 +7224,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung mid-range smartphone with efficient processor": {
+        "date": "2025-11-23T21:50:45",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Innovation"
+        ]
     }
 }
