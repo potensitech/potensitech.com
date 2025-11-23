@@ -7193,5 +7193,14 @@
             "Cultural: BBQ",
             "Cultural: Social Media"
         ]
+    },
+    "samsung entry-level smartphone chipset compatibility": {
+        "date": "2025-11-23T05:04:59",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
