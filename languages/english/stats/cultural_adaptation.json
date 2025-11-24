@@ -7274,5 +7274,18 @@
             "Cultural: Times Square",
             "Cultural: Soul Food"
         ]
+    },
+    "nikon cost-effective landscape photography lens": {
+        "date": "2025-11-24T12:43:09",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Memorial Day",
+            "Cultural: New York",
+            "Cultural: Central Park",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
