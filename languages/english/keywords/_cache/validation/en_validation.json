@@ -3641,5 +3641,6 @@
   "intel processor for budget-conscious buyers": true,
   "intel processor optimized for performance": true,
   "intel entry-level processor with good speed": true,
-  "intel cost-effective computing processor": true
+  "intel cost-effective computing processor": true,
+  "nvidia affordable GPU solutions for gamers": true
 }
