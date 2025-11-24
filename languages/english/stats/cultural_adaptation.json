@@ -7287,5 +7287,18 @@
             "Cultural: Central Park",
             "Cultural: Tex-Mex"
         ]
+    },
+    "nikon beginner-friendly DSLR camera for enthusiasts": {
+        "date": "2025-11-24T14:50:06",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Apple Pie",
+            "Cultural: Innovation"
+        ]
     }
 }
