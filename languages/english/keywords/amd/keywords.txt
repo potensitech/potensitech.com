@@ -298,4 +298,7 @@ amd chipset compatibility for entry-level builds
 amd affordable gaming chipset for PCs
 amd budget-friendly processor speed guide
 amd high-performance affordable chipset for PCs
+amd chipset compatibility for gaming setups
+amd chipset compatibility for entry-level GPUs
+amd chipset compatibility for desktop computers
 

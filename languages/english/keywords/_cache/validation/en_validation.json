@@ -3642,5 +3642,8 @@
   "intel processor optimized for performance": true,
   "intel entry-level processor with good speed": true,
   "intel cost-effective computing processor": true,
-  "nvidia affordable GPU solutions for gamers": true
+  "nvidia affordable GPU solutions for gamers": true,
+  "amd chipset compatibility for gaming setups": true,
+  "amd chipset compatibility for entry-level GPUs": true,
+  "amd chipset compatibility for desktop computers": true
 }
