@@ -135,4 +135,4 @@ If possible, test the lens before purchasing. This hands-on experience can help 
 
 ## Final Thoughts
 
-In 2025, Nikon continues to set the standard for affordable prime lenses that cater to professionals. These lenses are not just tools—they're investments in creativity and quality. The Potensians seeking reliable, high-performance gear without overspending will find Nikon's offerings to be a perfect match. We believe that with the right lens, every photographer can elevate their craft and capture moments that truly matter. After all, isn’t that what photography is all about?
+In 2025, Nikon continues to set the standard for affordable prime lenses that cater to professionals. These lenses are not just tools—they're investments in creativity and quality. The Potensians seeking reliable, high-performance gear without overspending will find Nikon's offerings to be a perfect match. We believe that with the right lens, [every photographer](/nikon/nikon-budget-friendly-camera-options) can elevate their craft and capture moments that truly matter. After all, isn’t that what photography is all about?
