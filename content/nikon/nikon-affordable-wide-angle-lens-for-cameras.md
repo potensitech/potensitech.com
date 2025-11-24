@@ -32,7 +32,7 @@ Nikon’s affordable wide-angle lenses offer several features that make them a p
 
 - **Exceptional Optics:** Advanced glass elements minimize distortion and chromatic aberration, ensuring sharp images even at wider angles. 
 - **Compact Design:** Lightweight construction makes these lenses easy to carry during travel or long shoots—ideal for capturing moments like Thanksgiving family gatherings or scenic views in Chicago’s Millennium Park. 
-- **Versatility:** Compatible with various Nikon camera models, they cater to both beginners exploring photography trends and seasoned professionals shooting Super Bowl Sunday events or Tex-Mex culinary spreads. 
+- **Versatility:** Compatible with various [Nikon camera](/nikon/nikon-camera-comparisons-for-professionals) models, they cater to both beginners exploring photography trends and seasoned professionals shooting Super Bowl Sunday events or Tex-Mex culinary spreads. 
 
 Moreover, these features reflect Nikon’s commitment to delivering performance-driven products tailored to diverse photographic needs.
 
