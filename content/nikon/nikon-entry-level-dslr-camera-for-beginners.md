@@ -11,11 +11,14 @@ tags: ["nikon", "entry-level", "DSLR", "camera", "beginners"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-entry-level-dslr-camera-for-beginners.jpg"
+featuredImagePreview: "/images/nikon/nikon-entry-level-dslr-camera-for-beginners.jpg"
 ---
+
+![Nikon entry-level dslr camera for beginners](/images/nikon/nikon-entry-level-dslr-camera-for-beginners.jpg)
+
 
 *Nikon Entry-Level DSLR Camera for Beginners* - Greetings The Potensians,
 
