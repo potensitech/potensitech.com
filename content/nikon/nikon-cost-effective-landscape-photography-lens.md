@@ -11,11 +11,14 @@ tags: ["nikon", "landscape photography", "cost-effective lenses", "camera gear"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-cost-effective-landscape-photography-lens-guide.jpg"
+featuredImagePreview: "/images/nikon/nikon-cost-effective-landscape-photography-lens-guide.jpg"
 ---
+
+![Nikon Cost-Effective Landscape Photography Lens Guide](/images/nikon/nikon-cost-effective-landscape-photography-lens-guide.jpg)
+
 
 *Nikon Cost-Effective Landscape Photography Lens Guide*- [Landscape photography](/nikon/budget-nikon-lens-for-landscape-photography) is an art that captures the essence of nature's beauty, from majestic mountain ranges to serene beaches. For The Potensians seeking to elevate their craft without breaking the bank, investing in a__Nikon cost-effective landscape photography lens__ is undoubtedly a blessing in disguise. With Nikon’s reputation for precision and innovation, these lenses offer exceptional quality at a reasonable price point, making them ideal for both beginners and seasoned photographers. 
 
