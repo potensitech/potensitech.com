@@ -7237,5 +7237,16 @@
             "Cultural: Los Angeles",
             "Cultural: Innovation"
         ]
+    },
+    "samsung entry-level smartphone with decent processor": {
+        "date": "2025-11-24T03:51:39",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Chicago",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
