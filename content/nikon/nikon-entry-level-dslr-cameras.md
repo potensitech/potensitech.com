@@ -148,7 +148,7 @@ Don’t be afraid to explore different settings and modes. Try manual mode to ga
 
 ### Invest in Accessories
 
-Accessories like tripods, external flashes, and additional lenses can enhance The Potensians's photography experience. For instance, a 50mm prime lens is ideal for portraits, while a wide-angle lens is perfect for landscapes.
+Accessories like tripods, external flashes, and additional lenses can enhance The Potensians's photography experience. For instance, a 50mm [prime lens](/nikon/nikon-affordable-prime-lens-for-professionals) is ideal for portraits, while a wide-angle lens is perfect for landscapes.
 
 ## Conclusion: Why Nikon Entry-Level DSLRs Are Worth It
 

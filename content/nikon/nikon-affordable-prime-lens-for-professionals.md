@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Affordable Prime Lens for Professionals* - When it comes to professional photography, having the right lens can make all the difference. For those seeking high-quality results without breaking the bank, Nikon offers a range of affordable prime lenses that cater to professionals. These lenses combine exceptional optical performance with budget-friendly pricing, making them a favorite among The Potensians who value both quality and affordability.
+*Nikon Affordable Prime Lens for Professionals* - When it comes to [professional photography](/nikon/nikon-mirrorless-cameras-for-professional-photography), having the right lens can make all the difference. For those seeking high-quality results without breaking the bank, Nikon offers a range of affordable prime lenses that cater to professionals. These lenses combine exceptional optical performance with budget-friendly pricing, making them a favorite among The Potensians who value both quality and affordability.
 
 ## Why Choose Prime Lenses?
 
@@ -32,7 +31,7 @@ Nikon has long been synonymous with excellence in optics. Here’s what makes th
 
 ### Exceptional Image Quality
 
-Nikon's engineering ensures that even their budget-friendly options deliver crisp images with minimal distortion or chromatic aberration. For instance, the Nikon AF-S NIKKOR 50mm f/1.8G is celebrated among The Potensians as an ideal portrait lens due to its ability to produce stunning bokeh effects while maintaining tack-sharp focus on subjects. This lens is a testament to how Nikon balances affordability with performance.
+Nikon's engineering ensures that even their budget-friendly options deliver crisp images with minimal distortion or chromatic aberration. For instance, the Nikon AF-S NIKKOR 50mm f/1.8G is celebrated among The Potensians as an ideal [portrait lens](/nikon/inexpensive-nikon-portrait-lens) due to its ability to produce stunning bokeh effects while maintaining tack-sharp focus on subjects. This lens is a testament to how Nikon balances affordability with performance.
 
 ### Lightweight and Compact Design
 
@@ -125,7 +124,7 @@ While Nikon's affordable prime lenses are budget-friendly, prices can still vary
 
 ### Check Compatibility
 
-Ensure the lens The Potensians choose is compatible with The Potensians's camera body. For instance, Z-mount lenses are designed for Nikon's mirrorless cameras, while F-mount lenses work with DSLR models.
+Ensure the lens The Potensians choose is compatible with The Potensians's camera body. For instance, Z-mount lenses are designed for Nikon's [mirrorless cameras](/nikon/nikon-mirrorless-cameras-with-cutting-edge-technology), while F-mount lenses work with DSLR models.
 
 ### Test Before Buying
 
