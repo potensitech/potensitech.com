@@ -11,11 +11,14 @@ tags: ["nikon", "prime lenses", "affordable lenses", "professional photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-prime-lens-for-professionals.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-prime-lens-for-professionals.jpg"
 ---
+
+![Nikon Affordable Prime Lens for Professionals](/images/nikon/nikon-affordable-prime-lens-for-professionals.jpg)
+
 
 *Nikon Affordable Prime Lens for Professionals* - When it comes to [professional photography](/nikon/nikon-mirrorless-cameras-for-professional-photography), having the right lens can make all the difference. For those seeking high-quality results without breaking the bank, Nikon offers a range of affordable prime lenses that cater to professionals. These lenses combine exceptional optical performance with budget-friendly pricing, making them a favorite among The Potensians who value both quality and affordability.
 
