@@ -11,11 +11,14 @@ tags: ["nikon", "DSLR", "beginner-friendly", "photography", "enthusiasts"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-beginner-friendly-dslr-camera-for-enthusiasts.jpg"
+featuredImagePreview: "/images/nikon/nikon-beginner-friendly-dslr-camera-for-enthusiasts.jpg"
 ---
+
+![Nikon Beginner-Friendly DSLR Camera for Enthusiasts](/images/nikon/nikon-beginner-friendly-dslr-camera-for-enthusiasts.jpg)
+
 
 *Nikon Beginner-Friendly DSLR Camera for Enthusiasts* - 
 
