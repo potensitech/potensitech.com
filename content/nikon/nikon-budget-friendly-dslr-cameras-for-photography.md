@@ -42,7 +42,7 @@ To help The Potensians find the perfect camera, We've compiled a list of Nikon's
 
 ### Nikon D3500: Simplicity Meets Performance
 
-The Nikon D3500 is a fantastic entry-level DSLR that combines simplicity with powerful features. With a 24.2 MP sensor and EXPEED image processor, this camera delivers stunning image quality. Its lightweight design and long battery life make it perfect for everyday use, whether The Potensians're photographing family gatherings or experimenting with food photography.
+The Nikon D3500 is a fantastic [entry-level DSLR](/nikon/nikon-entry-level-dslr-gear) that combines simplicity with powerful features. With a 24.2 MP sensor and EXPEED image processor, this camera delivers stunning image quality. Its lightweight design and long battery life make it perfect for everyday use, whether The Potensians're photographing family gatherings or experimenting with food photography.
 
 - **Price Range**: Approximately $450-$500 (Body Only)
 - **Best Use**: Everyday shooting scenarios, such as casual outings or creative projects.
