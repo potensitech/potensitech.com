@@ -7344,5 +7344,18 @@
             "Cultural: Times Square",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung affordable smartphone chipset optimization": {
+        "date": "2025-11-25T09:57:46",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: BBQ"
+        ]
     }
 }
