@@ -3717,5 +3717,11 @@
   "Intel processor for cost-effective computing": true,
   "Intel processor optimized for laptop speed": true,
   "cost-effective Intel processor for desktops": true,
-  "Intel processor for high-speed computing tasks": true
+  "Intel processor for high-speed computing tasks": true,
+  "nvidia affordable GPU compatibility for gaming": true,
+  "nvidia budget-friendly processor for gaming PCs": true,
+  "nvidia processor speed optimization for gaming": true,
+  "nvidia GPU compatibility for high-performance computing": true,
+  "nvidia budget-friendly chipset for gaming computers": true,
+  "nvidia processor compatibility for creative workflows": true
 }
