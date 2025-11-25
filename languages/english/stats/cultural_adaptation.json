@@ -7331,5 +7331,18 @@
             "Cultural: Hollywood",
             "Cultural: Social Media"
         ]
+    },
+    "samsung budget smartphone processor efficiency": {
+        "date": "2025-11-25T05:04:52",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Soul Food"
+        ]
     }
 }
