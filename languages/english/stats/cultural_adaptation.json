@@ -7389,5 +7389,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Broadway"
         ]
+    },
+    "nikon entry-level DSLR cameras for hobbyists": {
+        "date": "2025-11-26T03:42:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: Pizza"
+        ]
     }
 }
