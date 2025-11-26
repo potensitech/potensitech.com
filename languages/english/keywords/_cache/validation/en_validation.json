@@ -3771,5 +3771,13 @@
   "sandisk reliable SSD for desktop computers": true,
   "sandisk portable SSD for external storage": true,
   "sandisk fast SSD for gaming laptops": true,
-  "sandisk affordable SSD for data backup": true
+  "sandisk affordable SSD for data backup": true,
+  "intel fast performance processor for multitasking": true,
+  "intel low-cost processor for daily use": true,
+  "intel high-speed processor for professionals": true,
+  "intel affordable CPU for PC upgrades": true,
+  "intel optimized processor for laptops": true,
+  "intel entry-level processor for students": true,
+  "intel budget processor for home use": true,
+  "intel fast and affordable desktop processor": true
 }
