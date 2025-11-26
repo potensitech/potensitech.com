@@ -7428,5 +7428,18 @@
             "Cultural: Broadway",
             "Cultural: Tex-Mex"
         ]
+    },
+    "high-quality Samsung smartphone photography lenses": {
+        "date": "2025-11-26T21:51:33",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Broadway"
+        ]
     }
 }
