@@ -7415,5 +7415,18 @@
             "Cultural: Chicago",
             "Cultural: BBQ"
         ]
+    },
+    "budget-friendly Samsung smartphone camera lens options": {
+        "date": "2025-11-26T14:49:58",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Memorial Day",
+            "Cultural: Hollywood",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
