@@ -112,7 +112,7 @@ While Nikon lenses are primarily designed for Nikon cameras, some third-party ad
 
 ### Can affordable lenses produce professional-quality portraits?
 
-Absolutely! Affordable lenses like the Nikon AF-S NIKKOR 50mm f/1.8G are known for their excellent performance and ability to produce stunning portraits. With the right techniques and settings, budget-friendly lenses can deliver results comparable to high-end options.
+Absolutely! [Affordable lenses](/nikon/nikon-beginner-friendly-affordable-lenses) like the Nikon AF-S NIKKOR 50mm f/1.8G are known for their excellent performance and ability to produce stunning portraits. With the right techniques and settings, budget-friendly lenses can deliver results comparable to high-end options.
 
 ## Conclusion
 
