@@ -30,7 +30,7 @@ Samsung’s commitment to innovation ensures that even its budget-friendly model
 
 ## Key Features of Samsung Smartphone Camera Lenses
 
-Samsung’s budget-friendly smartphone camera lens options come equipped with features designed to enhance image quality while maintaining affordability. Here are some standout characteristics:
+Samsung’s budget-friendly smartphone camera lens options come equipped with features designed to enhance [image quality](/samsung/samsung-smartphone-image-quality) while maintaining affordability. Here are some standout characteristics:
 
 ### Multi-Lens Systems
 
