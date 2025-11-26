@@ -7402,5 +7402,18 @@
             "Cultural: Times Square",
             "Cultural: Pizza"
         ]
+    },
+    "affordable Samsung smartphone camera lenses": {
+        "date": "2025-11-26T09:55:16",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: BBQ"
+        ]
     }
 }
