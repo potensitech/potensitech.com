@@ -11,11 +11,14 @@ tags: ["nikon", "budget", "DSLR", "cameras", "students", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-nikon-budget-dslr-cameras-for-students.jpg"
+featuredImagePreview: "/images/nikon/top-nikon-budget-dslr-cameras-for-students.jpg"
 ---
+
+![Top Nikon Budget DSLR Cameras for Students](/images/nikon/top-nikon-budget-dslr-cameras-for-students.jpg)
+
 
 *Top Nikon Budget DSLR Cameras for Students* - When it comes to photography, finding the perfect balance between quality and affordability is crucial, especially for students.  Nikon, a brand synonymous with innovation and precision, offers a range of [budget-friendly DSLR](/nikon/nikon-budget-friendly-dslr-cameras) cameras that cater to aspiring photographers like The Potensians. Whether The Potensians're capturing memories of campus life or exploring The Potensians's creative side, Nikon's budget DSLRs provide the tools The Potensians need without straining The Potensians's finances.
 
