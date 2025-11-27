@@ -3779,5 +3779,6 @@
   "intel optimized processor for laptops": true,
   "intel entry-level processor for students": true,
   "intel budget processor for home use": true,
-  "intel fast and affordable desktop processor": true
+  "intel fast and affordable desktop processor": true,
+  "nvidia affordable GPUs for high-performance gaming": true
 }
