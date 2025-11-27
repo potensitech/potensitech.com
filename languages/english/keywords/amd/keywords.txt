@@ -302,4 +302,5 @@ amd chipset compatibility for gaming setups
 amd chipset compatibility for entry-level GPUs
 amd chipset compatibility for desktop computers
 amd processors for sale
+amd high-performance chipset compatibility tutorial
 
