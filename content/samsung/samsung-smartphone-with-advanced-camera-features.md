@@ -83,7 +83,7 @@ In We's view, these features make Samsung smartphones a go-to choice for aspirin
 
 ## AI-Powered Photography: Smarter Shots Every Time
 
-Samsung smartphones are equipped with AI-powered photography tools that simplify the process of taking stunning pictures. These tools analyze the scene and automatically adjust settings like exposure, focus, and color balance to deliver the best possible results.
+Samsung smartphones are equipped with AI-powered [photography tools](/samsung/affordable-photography-tools-for-samsung-smartphones) that simplify the process of taking stunning pictures. These tools analyze the scene and automatically adjust settings like exposure, focus, and color balance to deliver the best possible results.
 
 ### Scene Optimizer
 
