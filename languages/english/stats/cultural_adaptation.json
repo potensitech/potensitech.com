@@ -7552,5 +7552,18 @@
             "Cultural: Chicago",
             "Cultural: BBQ"
         ]
+    },
+    "creative photography lenses for samsung smartphones": {
+        "date": "2025-11-28T05:02:22",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
