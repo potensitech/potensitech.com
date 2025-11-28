@@ -7600,5 +7600,16 @@
             "Cultural: Chicago",
             "Cultural: Broadway"
         ]
+    },
+    "nikon affordable GPU performance": {
+        "date": "2025-11-28T21:50:51",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
