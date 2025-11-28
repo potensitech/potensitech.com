@@ -148,7 +148,7 @@ For avid travelers, Nikon mirrorless cameras are a dream come true. Their compac
 
 ### Event Photography
 
-From weddings to concerts, Nikon mirrorless cameras excel in capturing the essence of any event. Their fast autofocus and low-light capabilities make them ideal for shooting in dynamic environments. Imagine being able to capture the joy of a bride walking down the aisle or the energy of a live music performance with stunning clarity.
+From weddings to concerts, Nikon mirrorless cameras excel in capturing the essence of any event. Their [fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus) and low-light capabilities make them ideal for shooting in dynamic environments. Imagine being able to capture the joy of a bride walking down the aisle or the energy of a live music performance with stunning clarity.
 
 ### Wildlife and Nature Photography
 
