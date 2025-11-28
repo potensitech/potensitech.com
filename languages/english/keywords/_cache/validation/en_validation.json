@@ -3829,5 +3829,8 @@
   "nvidia budget-friendly processor speed for gaming": true,
   "nvidia GPU compatibility with budget processors": true,
   "nvidia optimized processors for GPU compatibility": true,
-  "nvidia budget-friendly GPU recommendations for gamers": true
+  "nvidia budget-friendly GPU recommendations for gamers": true,
+  "amd chipset compatibility for gaming PCs": true,
+  "amd chipset compatibility with latest GPUs": true,
+  "amd processor speed for budget-friendly computers": true
 }
