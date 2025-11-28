@@ -321,4 +321,7 @@ intel optimized processor for laptops
 intel entry-level processor for students
 intel budget processor for home use
 intel fast and affordable desktop processor
+intel budget-friendly processor with optimized speed
+intel high-performance processor for cost-effective computing
+intel affordable processor designed for multitasking
 
