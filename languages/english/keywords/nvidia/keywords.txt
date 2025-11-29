@@ -296,4 +296,6 @@ nvidia budget-friendly processor speed for gaming
 nvidia GPU compatibility with budget processors
 nvidia optimized processors for GPU compatibility
 nvidia budget-friendly GPU recommendations for gamers
+nvidia gaming GPU with chipset compatibility
+nvidia budget-friendly GPU with compatibility features
 

@@ -3882,5 +3882,7 @@
   "intel high-performance laptop processor": true,
   "intel affordable desktop CPU": true,
   "intel budget entry-level processor": true,
-  "intel processor with excellent price-to-performance ratio": true
+  "intel processor with excellent price-to-performance ratio": true,
+  "nvidia gaming GPU with chipset compatibility": true,
+  "nvidia budget-friendly GPU with compatibility features": true
 }
