@@ -7653,5 +7653,18 @@
             "Cultural: Wall Street",
             "Cultural: Times Square"
         ]
+    },
+    "nikon affordable processor speed": {
+        "date": "2025-11-29T19:31:26",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Tex-Mex",
+            "Cultural: Innovation"
+        ]
     }
 }
