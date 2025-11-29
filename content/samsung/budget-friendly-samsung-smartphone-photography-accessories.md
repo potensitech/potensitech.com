@@ -83,7 +83,7 @@ In 2025, budget-friendly tripods are available for as little as $20–$30, offer
 
 ### External Lighting Solutions
 
-Lighting is one of the most critical aspects of photography. Even the best cameras struggle in low-light conditions, which can result in grainy or blurry images. Affordable external lighting solutions can make a world of difference. Here are two popular options:
+Lighting is one of the most critical aspects of photography. Even the best cameras struggle in low-light conditions, which can result in grainy or blurry images. Affordable external [lighting solutions](/samsung/samsung-affordable-smartphone-lighting-solutions) can make a world of difference. Here are two popular options:
 
 - **Ring Lights**: Ideal for selfies, vlogging, or portrait photography. They provide even lighting and reduce harsh shadows.
 - **Pocket-Sized LED Panels**: Compact yet powerful, these lights are perfect for nighttime photography or indoor sho​ots.
