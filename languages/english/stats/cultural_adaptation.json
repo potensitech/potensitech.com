@@ -7627,5 +7627,18 @@
         "matches": [
             "Cultural: Halloween"
         ]
+    },
+    "Samsung budget smartphone camera lenses": {
+        "date": "2025-11-29T14:41:36",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New Year's Day",
+            "Cultural: Chicago",
+            "Cultural: Hollywood",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
