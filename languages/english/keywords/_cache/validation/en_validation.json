@@ -3884,5 +3884,6 @@
   "intel budget entry-level processor": true,
   "intel processor with excellent price-to-performance ratio": true,
   "nvidia gaming GPU with chipset compatibility": true,
-  "nvidia budget-friendly GPU with compatibility features": true
+  "nvidia budget-friendly GPU with compatibility features": true,
+  "amd chipset compatibility for entry-level processors": true
 }

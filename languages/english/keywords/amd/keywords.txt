@@ -306,4 +306,5 @@ amd high-performance chipset compatibility tutorial
 amd chipset compatibility for gaming PCs
 amd chipset compatibility with latest GPUs
 amd processor speed for budget-friendly computers
+amd chipset compatibility for entry-level processors
 
