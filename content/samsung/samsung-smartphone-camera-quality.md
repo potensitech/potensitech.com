@@ -128,7 +128,7 @@ Samsung’s research and development efforts are unparalleled. The company consi
 
 ### User-Centric Design
 
-Samsung designs its smartphones with the user in mind. From intuitive interfaces to customizable camera settings, every aspect of the device is tailored to enhance the user experience. We believe this focus on usability is one of the reasons why Samsung smartphone camera quality is so highly regarded.
+Samsung designs its smartphones with the user in mind. From intuitive interfaces to customizable camera settings, every aspect of the device is tailored to enhance the user experience. We believe this focus on usability is one of the reasons why Samsung [smartphone camera](/samsung/samsung-budget-smartphone-camera-lenses) quality is so highly regarded.
 
 ## Conclusion
 
