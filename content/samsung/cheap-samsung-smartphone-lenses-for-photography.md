@@ -60,11 +60,11 @@ The market offers a variety of lens options tailored specifically for Samsung sm
 </table>
 </div>
 
-These lenses are compact, easy to attach, and significantly improve the versatility of The Potensians's Samsung smartphone camera.
+These lenses are compact, easy to attach, and significantly improve the versatility of The Potensians's Samsung [smartphone camera](/samsung/samsung-compact-smartphone-camera-lens).
 
 ## Recommended Brands and Models
 
-When it comes to affordable yet high-quality lenses for Samsung smartphones, several brands stand out. These options are perfect for The Potensians who want to elevate their photography without breaking the bank.
+When it comes to affordable yet high-quality lenses for [Samsung smartphones](/samsung/samsung-smartphones-with-high-speed-processors), several brands stand out. These options are perfect for The Potensians who want to elevate their photography without breaking the bank.
 
 ### Apexel Clip-On Lenses
 
@@ -72,7 +72,7 @@ Apexel is a well-known brand offering a variety of clip-on lens kits. These kits
 
 ### Xenvo Pro Lens Kit
 
-The Xenvo Pro Lens Kit is a favorite among hobbyists. It includes a macro lens, a wide-angle lens, and an LED light attachment for enhanced low-light photography . This kit is particularly useful for night-time shots, making it a great choice for capturing cityscapes or festive lights.
+The Xenvo Pro Lens Kit is a favorite among hobbyists. It includes a macro lens, a wide-angle lens, and an LED light attachment for enhanced [low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) . This kit is particularly useful for night-time shots, making it a great choice for capturing cityscapes or festive lights.
 
 ### AMIR 3-in-1 Camera Lens Kit
 
