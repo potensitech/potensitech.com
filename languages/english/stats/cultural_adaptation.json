@@ -7640,5 +7640,18 @@
             "Cultural: Hollywood",
             "Cultural: Hot Dogs"
         ]
+    },
+    "professional Samsung smartphone lenses for photography": {
+        "date": "2025-11-29T17:00:43",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Times Square"
+        ]
     }
 }
