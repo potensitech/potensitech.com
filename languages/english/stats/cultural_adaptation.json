@@ -7705,5 +7705,18 @@
             "Cultural: Soul Food",
             "Cultural: Benjamin Franklin"
         ]
+    },
+    "samsung affordable smartphone for optimized performance": {
+        "date": "2025-11-30T12:38:10",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
