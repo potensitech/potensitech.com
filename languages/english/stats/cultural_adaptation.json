@@ -7692,5 +7692,18 @@
             "Cultural: BBQ",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "best authentic Nikon camera models": {
+        "date": "2025-11-30T09:48:51",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Soul Food",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
