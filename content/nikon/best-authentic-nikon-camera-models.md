@@ -131,7 +131,7 @@ To help The Potensians make an informed decision, here’s a quick comparison of
 <td>Nikon Z9</td>
 <td>45.7 MP Full-Frame</td>
 <td>1340 g</td>
-<td>Professional photography and videography</td>
+<td>[Professional photography](/nikon/nikon-mirrorless-cameras-for-professional-photography) and videography</td>
 </tr>
 <tr>
 <td>Nikon D850</td>
