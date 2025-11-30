@@ -7679,5 +7679,18 @@
             "Cultural: Central Park",
             "Cultural: BBQ"
         ]
+    },
+    "affordable nikon processor speed": {
+        "date": "2025-11-30T02:31:17",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Times Square",
+            "Cultural: BBQ",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
