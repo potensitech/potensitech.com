@@ -7731,5 +7731,17 @@
             "Cultural: Apple Pie",
             "Cultural: Clam Chowder"
         ]
+    },
+    "top-rated Nikon cameras for photography": {
+        "date": "2025-12-01T02:40:07",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
