@@ -7789,5 +7789,18 @@
             "Cultural: Wall Street",
             "Cultural: BBQ"
         ]
+    },
+    "budget-friendly Nikon autofocus camera": {
+        "date": "2025-12-01T12:44:10",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: Pizza"
+        ]
     }
 }
