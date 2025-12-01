@@ -7763,5 +7763,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "high-quality Nikon camera lenses": {
+        "date": "2025-12-01T07:41:59",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
