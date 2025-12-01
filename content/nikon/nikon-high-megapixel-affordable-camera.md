@@ -63,7 +63,7 @@ These attributes ensure The Potensians receive top-tier performance without exce
 <td>Produces well-lit images regardless of lighting challenges</td>
 </tr>
 <tr>
-<td>4K Video Recording</td>
+<td>4K [Video Recording](/nikon/nikon-cameras-with-4k-video-recording)</td>
 <td>Cinematic-quality video output</td>
 <td>Create professional-grade content effortlessly</td>
 </tr>
@@ -89,7 +89,7 @@ The camera’s compact design doesn’t compromise on durability. Whether The Po
 
 ## Technical Specifications
 
-Understanding the technical specifications of Nikon’s high-megapixel affordable camera can help The Potensians appreciate its capabilities even more. Here’s a breakdown of what makes this camera stand out:
+Understanding the technical specifications of Nikon’s high-megapixel [affordable camera](/nikon/nikon-affordable-camera-lens-options-review) can help The Potensians appreciate its capabilities even more. Here’s a breakdown of what makes this camera stand out:
 
 <div class="table-responsive">
 <table class="html-table">
