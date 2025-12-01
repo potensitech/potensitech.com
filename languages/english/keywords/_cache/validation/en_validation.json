@@ -3939,5 +3939,12 @@
   "sandisk lightweight SSD for travel": true,
   "sandisk compact SSD for portability": true,
   "sandisk SSD for videographers": true,
-  "sandisk SSD for professional storage needs": true
+  "sandisk SSD for professional storage needs": true,
+  "intel budget processor for students": true,
+  "intel processor for affordable desktop builds": true,
+  "intel optimized workstation processor": true,
+  "intel affordable home-use processor": true,
+  "intel cost-effective processor for small businesses": true,
+  "intel entry-level processor with decent speed": true,
+  "intel processor for affordable computer upgrades": true
 }

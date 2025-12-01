@@ -1563,3 +1563,5 @@ processor speed
 chipset compatibility
 solid state
 dslr photography
+solid state
+processor speed
