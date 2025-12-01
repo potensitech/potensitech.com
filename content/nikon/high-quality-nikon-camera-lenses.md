@@ -102,7 +102,7 @@ Are The Potensians passionate about capturing sweeping landscapes or intimate po
 
 ### Evaluate The Potensians's Budget
 
-High-quality Nikon camera lenses come in a range of prices. While premium lenses offer advanced features, there are also budget-friendly options that deliver excellent performance. Here’s a quick comparison of some popular models:
+High-quality [Nikon camera](/nikon/affordable-nikon-camera-with-advanced-autofocus) lenses come in a range of prices. While premium lenses offer advanced features, there are also budget-friendly options that deliver excellent performance. Here’s a quick comparison of some popular models:
 
 <div class="table-responsive">
 <table class="html-table">
