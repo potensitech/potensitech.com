@@ -7815,5 +7815,18 @@
             "Cultural: Broadway",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung affordable smartphone for multitasking performance": {
+        "date": "2025-12-01T21:50:48",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
