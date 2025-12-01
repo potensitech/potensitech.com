@@ -7776,5 +7776,18 @@
             "Cultural: Times Square",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "affordable Nikon autofocus camera": {
+        "date": "2025-12-01T09:57:54",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: BBQ"
+        ]
     }
 }
