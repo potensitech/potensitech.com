@@ -7743,5 +7743,18 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "Nikon mirrorless cameras for professionals": {
+        "date": "2025-12-01T04:08:30",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
