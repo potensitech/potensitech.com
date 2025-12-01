@@ -3946,5 +3946,11 @@
   "intel affordable home-use processor": true,
   "intel cost-effective processor for small businesses": true,
   "intel entry-level processor with decent speed": true,
-  "intel processor for affordable computer upgrades": true
+  "intel processor for affordable computer upgrades": true,
+  "nvidia budget-friendly GPU chipset for gaming": true,
+  "nvidia high-performance GPU for graphics rendering": true,
+  "nvidia affordable GPU for gaming laptops": true,
+  "nvidia optimized GPU for 4K gaming": true,
+  "nvidia reliable GPU for AI applications": true,
+  "nvidia entry-level GPU for beginners": true
 }
