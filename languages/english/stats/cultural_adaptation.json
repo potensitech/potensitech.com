@@ -7859,5 +7859,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Nikon camera with affordable autofocus features": {
+        "date": "2025-12-02T12:46:50",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
