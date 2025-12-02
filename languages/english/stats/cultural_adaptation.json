@@ -7872,5 +7872,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "Nikon affordable camera for beginner photographers": {
+        "date": "2025-12-02T17:09:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
