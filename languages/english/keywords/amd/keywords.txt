@@ -308,4 +308,7 @@ amd chipset compatibility with latest GPUs
 amd processor speed for budget-friendly computers
 amd chipset compatibility for entry-level processors
 amd affordable chipset compatibility with GPUs
+amd budget-friendly processor compatibility
+amd affordable gaming chipset
+amd chipset compatibility for budget-friendly processors
 
