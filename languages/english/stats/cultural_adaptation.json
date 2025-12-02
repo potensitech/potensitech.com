@@ -7837,5 +7837,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung budget-friendly smartphone with smooth performance": {
+        "date": "2025-12-02T03:45:45",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Broadway",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
