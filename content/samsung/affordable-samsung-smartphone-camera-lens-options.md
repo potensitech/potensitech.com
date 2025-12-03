@@ -24,7 +24,7 @@ _Affordable Samsung Smartphone Camera Lens Options_ - Samsung smartphones are re
 
 ## Top Affordable Samsung Smartphone Camera Lens Options
 
-External camera lenses are a fantastic way to expand the functionality of The Potensians's Samsung smartphone camera without breaking the bank. Below is a detailed overview of popular lens types and their features:
+External camera lenses are a fantastic way to expand the functionality of The Potensians's Samsung [smartphone camera](/samsung/samsung-compact-smartphone-camera-lens) without breaking the bank. Below is a detailed overview of popular lens types and their features:
 
 <div class="table-responsive">
 <table class="html-table">
