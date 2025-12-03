@@ -7968,5 +7968,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "samsung high-quality smartphone photography equipment": {
+        "date": "2025-12-03T19:36:21",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Central Park",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
