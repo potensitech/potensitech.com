@@ -7948,5 +7948,18 @@
             "Cultural: Central Park",
             "Cultural: Burgers"
         ]
+    },
+    "top-rated samsung smartphone photography gear": {
+        "date": "2025-12-03T12:44:34",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
