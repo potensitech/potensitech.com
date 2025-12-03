@@ -341,4 +341,7 @@ intel cost-effective processor with reliable speed
 intel affordable CPU for faster processing
 intel low-cost processor with optimized speed
 intel budget processor with excellent performance
+intel low-cost everyday processor
+intel reliable entry-level processor
+intel affordable processor for home computers
 
