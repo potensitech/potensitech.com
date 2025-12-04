@@ -8039,5 +8039,18 @@
             "Cultural: Hollywood",
             "Cultural: Pizza"
         ]
+    },
+    "samsung affordable smartphone processor performance": {
+        "date": "2025-12-04T17:10:10",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
