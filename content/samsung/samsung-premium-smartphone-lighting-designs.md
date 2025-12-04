@@ -24,7 +24,7 @@ featuredImagePreview: "/images/samsung/samsung-premium-smartphone-lighting-desig
 
 ## The Role of Lighting in Modern Smartphones
 
-Lighting in smartphones has transcended its traditional role as a mere functional component. Today, it serves as an essential element that enhances user experience while reflecting the brand's identity. Samsung’s premium smartphone lighting designs stand out due to their meticulous attention to detail and advanced engineering. From subtle notification glows to immersive edge-lighting effects, every aspect is crafted with purpose.
+Lighting in smartphones has transcended its traditional role as a mere functional component. Today, it serves as an essential element that enhances user experience while reflecting the brand's identity. Samsung’s [premium smartphone](/samsung/samsung-premium-smartphone-camera-lens-options) lighting designs stand out due to their meticulous attention to detail and advanced engineering. From subtle notification glows to immersive edge-lighting effects, every aspect is crafted with purpose.
 
 ## Functional Brilliance: More Than Just Illumination
 
