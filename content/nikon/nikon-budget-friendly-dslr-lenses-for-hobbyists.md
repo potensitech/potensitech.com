@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Budget-Friendly DSLR Lenses for Hobbyists* - Photography is an art that allows The Potensians to capture fleeting moments, express their creativity, and tell compelling stories. For hobbyists stepping into the world of DSLR cameras, finding affordable yet high-quality lenses can often feel overwhelming. Fortunately, Nikon offers a range of budget-friendly DSLR lenses that cater to both beginners and seasoned enthusiasts. Whether capturing the vibrant streets of Times Square or the serene landscapes of Central Park, these lenses are designed to deliver exceptional performance without straining The Potensians's wallet.
+*Nikon Budget-Friendly DSLR Lenses for Hobbyists* - Photography is an art that allows The Potensians to capture fleeting moments, express their creativity, and tell compelling stories. For hobbyists stepping into the world of DSLR cameras, finding affordable yet high-quality lenses can often feel overwhelming. Fortunately, Nikon offers a range of [budget-friendly DSLR](/nikon/nikon-budget-friendly-dslr-cameras) lenses that cater to both beginners and seasoned enthusiasts. Whether capturing the vibrant streets of Times Square or the serene landscapes of Central Park, these lenses are designed to deliver exceptional performance without straining The Potensians's wallet.
 
 ## Why Choose Nikon's Budget-Friendly DSLR Lenses?
 
@@ -49,7 +48,7 @@ To help The Potensians make informed decisions, especially during shopping seaso
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Portraits & Low-Light Photography</td>
+<td>Portraits & [Low-Light Photography](/nikon/nikon-camera-performance-in-low-light-photography)</td>
 <td>$150 - $200</td>
 </tr>
 <tr>
