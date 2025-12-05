@@ -4123,5 +4123,11 @@
   "intel processor for affordable PC builds": true,
   "intel budget processor with reliable performance": true,
   "intel processor for cost-effective upgrades": true,
-  "nvidia processor speed for gaming performance": true
+  "nvidia processor speed for gaming performance": true,
+  "amd chipset compatibility for gaming processors": true,
+  "amd chipset guide for entry-level GPUs": true,
+  "amd chipset compatibility with modern motherboards": true,
+  "amd processor benchmarks for budget-conscious users": true,
+  "amd chipset compatibility for high-performance GPUs": true,
+  "amd processor testing for energy-efficient systems": true
 }
