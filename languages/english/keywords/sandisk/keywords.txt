@@ -338,4 +338,9 @@ sandisk high-capacity SSD for large files
 sandisk SSD for quick data transfers
 sandisk entry-level SSD for beginners
 sandisk premium SSD for advanced users
+sandisk internal SSD for computers
+sandisk SSD for laptops
+sandisk fast SSD for data transfer
+sandisk SSD for video editing tasks
+sandisk SSD for backup solutions
 
