@@ -8218,5 +8218,18 @@
             "Cultural: Chicago",
             "Cultural: Times Square"
         ]
+    },
+    "nikon entry-level DSLR photography gear": {
+        "date": "2025-12-06T14:41:24",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Martin Luther King Jr."
+        ]
     }
 }
