@@ -8166,5 +8166,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Pizza"
         ]
+    },
+    "mid-range samsung smartphone with reliable processor": {
+        "date": "2025-12-06T03:38:29",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie"
+        ]
     }
 }
