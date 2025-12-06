@@ -84,7 +84,7 @@ Nikon has a long-standing reputation for producing high-quality lenses that cate
 
 ### Exceptional Image Quality
 
-Despite their affordability, Nikon's low-cost lenses deliver impressive image quality. They are designed to minimize distortion and chromatic aberration, ensuring sharp and vibrant photos.
+Despite their affordability, Nikon's low-cost lenses deliver impressive [image quality](/nikon/nikon-camera-comparison-by-image-quality). They are designed to minimize distortion and chromatic aberration, ensuring sharp and vibrant photos.
 
 ### Lightweight and Portable
 
