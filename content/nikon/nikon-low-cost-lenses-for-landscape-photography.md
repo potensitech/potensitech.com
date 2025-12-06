@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 *Nikon Low-Cost Lenses for Landscape Photography* - Landscape photography is a captivating art form that allows photographers to capture the beauty of nature, urban environments, and everything in between. For The Potensians who are passionate about photography but want to stay within a budget, Nikon offers a range of low-cost lenses that deliver exceptional performance. In this article, We will explore some of the best Nikon lenses for landscape photography in 2025, provide detailed analyses, and share tips to make the most of these budget-friendly options.
 
 ## Top Low-Cost Nikon Lenses Perfect for Landscapes
@@ -41,7 +40,7 @@ To help The Potensians make informed decisions, We’ve compiled a list of stand
 </tr>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Prime lens, Wide aperture, Great sharpness & clarity</td>
+<td>[Prime lens](/nikon/nikon-affordable-prime-lens-for-professionals), Wide aperture, Great sharpness & clarity</td>
 <td>$200</td>
 </tr>
 <tr>
@@ -62,7 +61,7 @@ To help The Potensians make informed decisions, We’ve compiled a list of stand
 
 ### Nikon AF-P DX NIKKOR 10–20mm f/4.5–5.6G VR
 
-This ultra-wide-angle lens is a fantastic choice for capturing expansive landscapes, such as mountain ranges, seascapes, or city skylines. Its lightweight and compact design make it an excellent travel companion, especially for The Potensians who enjoy hiking or exploring remote locations. The Vibration Reduction (VR) feature minimizes camera shake, ensuring sharp images even when shooting handheld. Whether The Potensians're photographing the golden hues of a sunrise or the vibrant colors of a bustling cityscape, this lens delivers stunning results.
+This ultra-wide-angle lens is a fantastic choice for capturing expansive landscapes, such as mountain ranges, seascapes, or city skylines. Its lightweight and compact design make it an excellent travel companion, especially for The Potensians who enjoy hiking or exploring remote locations. The Vibration Reduction (VR) feature minimizes camera shake, ensuring sharp images even when shooting handheld. Whether The Potensians're photographing the golden hues of a sunrise or the vibrant colors of a bustling cityscape, this lens delivers [stunning results](/nikon/nikon-camera-picture-quality-test).
 
 ### Nikon AF-S DX NIKKOR 35mm f/1.8G
 
