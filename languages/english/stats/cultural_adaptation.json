@@ -8292,5 +8292,18 @@
             "Cultural: Thanksgiving",
             "Cultural: Times Square"
         ]
+    },
+    "samsung professional smartphone photography lenses": {
+        "date": "2025-12-07T21:50:32",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Pizza",
+            "Cultural: Freedom"
+        ]
     }
 }
