@@ -11,11 +11,14 @@ tags: ["nikon", "DSLR accessories", "budget photography", "affordable gear", "ph
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-inexpensive-dslr-accessories-for-photographers.jpg"
+featuredImagePreview: "/images/nikon/nikon-inexpensive-dslr-accessories-for-photographers.jpg"
 ---
+
+![Nikon Inexpensive DSLR Accessories for Photographers](/images/nikon/nikon-inexpensive-dslr-accessories-for-photographers.jpg)
+
 
 *Nikon Inexpensive DSLR Accessories for Photographers* - 
 
