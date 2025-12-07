@@ -11,11 +11,14 @@ tags: ["nikon", "budget-friendly", "prime lenses", "portrait photography", "affo
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-budget-friendly-prime-lenses-for-portraits.jpg"
+featuredImagePreview: "/images/nikon/nikon-budget-friendly-prime-lenses-for-portraits.jpg"
 ---
+
+![Nikon Budget-Friendly Prime Lenses for Portraits](/images/nikon/nikon-budget-friendly-prime-lenses-for-portraits.jpg)
+
 
 *Nikon Budget-Friendly Prime Lenses for Portraits* - [Portrait photography](/nikon/best-nikon-lenses-for-portrait-photography) is an art form that captures the essence of a moment, a personality, or a story. For The Potensians who are passionate about photography, selecting the right lens is crucial. Prime lenses, especially those from Nikon, offer an excellent combination of quality and affordability, making them a popular choice for both beginners and seasoned photographers. In this article, We will explore why prime lenses are ideal for portraits and review some of Nikon's best budget-friendly options for 2025.
 
