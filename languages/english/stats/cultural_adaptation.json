@@ -8269,5 +8269,18 @@
             "Cultural: Apple Pie",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "samsung high-quality smartphone camera lenses": {
+        "date": "2025-12-07T14:41:05",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Central Park",
+            "Cultural: Burgers"
+        ]
     }
 }
