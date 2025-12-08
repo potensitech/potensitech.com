@@ -8383,5 +8383,18 @@
             "Cultural: Central Park",
             "Cultural: Pizza"
         ]
+    },
+    "Nikon mirrorless cameras for budget-conscious photographers": {
+        "date": "2025-12-08T17:07:42",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Broadway",
+            "Cultural: Soul Food"
+        ]
     }
 }
