@@ -332,4 +332,5 @@ amd chipset compatibility guide for upgrades
 amd affordable processors for laptops
 amd chipset compatibility with modern GPUs
 amd affordable chipsets for desktop builds
+amd affordable processors for multitasking
 
