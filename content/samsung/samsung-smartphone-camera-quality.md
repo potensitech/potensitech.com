@@ -82,7 +82,7 @@ Moreover, resolutions exceeding 100 megapixels have become standard in flagship 
 
 ## Intelligent Features Elevating Photography
 
-Beyond hardware innovations, Samsung leverages artificial intelligence (AI) to redefine smartphone photography standards further. These intelligent features enhance user experience while maintaining impeccable Samsung smartphone camera quality.
+Beyond hardware innovations, Samsung leverages artificial intelligence (AI) to redefine [smartphone photography](/samsung/samsung-innovative-smartphone-photography-tools) standards further. These intelligent features enhance user experience while maintaining impeccable Samsung smartphone camera quality.
 
 ### Scene Optimizer and AI Enhancements
 
