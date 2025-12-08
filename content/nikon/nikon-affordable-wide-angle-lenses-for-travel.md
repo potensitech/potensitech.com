@@ -87,7 +87,7 @@ Selecting the right lens depends on The Potensians's travel style and photograph
 
 ### 2. Versatility For The Potensians who want a lens that can handle a variety of scenarios, the Nikon Z DX 16-50mm f/3.5-6.3 VR offers a versatile focal range. It’s ideal for capturing everything from wide landscapes to tighter portraits.
 
-​### 3. Budget Considerations Affordability is key, especially for travel enthusiasts who want to invest in quality gear without overspending. Lenses like the Nikon AF-S DX NIKKOR 35mm f/1.8G provide excellent performance at a fraction of the cost of high-end models.
+​### 3. Budget Considerations Affordability is key, especially for travel enthusiasts who want to invest in quality gear without overspending. Lenses like the Nikon AF-S DX NIKKOR 35mm f/1.8G provide [excellent performance](/nikon/nikon-compact-cameras-with-excellent-performance) at a fraction of the cost of high-end models.
 
 ### 4. Camera Compatibility Ensure the lens The Potensians choose is compatible with The Potensians's Nikon camera. For instance, the ​Nikon Z 14-30mm f/4 S is designed for mirrorless cameras, while the Nikon AF-S FX NIKKOR 18-35mm f/3.5-4.5G ED is a great option for full-frame DSLRs.
 
