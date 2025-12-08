@@ -4235,5 +4235,10 @@
   "intel affordable processor for everyday computing": true,
   "intel processor offering cost-effective performance": true,
   "intel processor optimized for high-speed affordability": true,
-  "intel affordable processor for entry-level tasks": true
+  "intel affordable processor for entry-level tasks": true,
+  "nvidia affordable chipsets for gaming GPUs": true,
+  "nvidia budget-friendly processors for high-performance GPUs": true,
+  "nvidia affordable GPUs with optimized chipsets": true,
+  "nvidia budget GPUs with reliable chipsets": true,
+  "nvidia affordable GPUs for 4K gaming": true
 }
