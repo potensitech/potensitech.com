@@ -4284,5 +4284,8 @@
   "intel processor for budget-friendly PC builds": true,
   "intel fast processor for everyday use": true,
   "intel cost-effective processor for students": true,
-  "intel processor optimized for best performance": true
+  "intel processor optimized for best performance": true,
+  "nvidia high-performance GPU with chipset compatibility": true,
+  "nvidia budget-friendly GPU for gaming": true,
+  "nvidia chipset compatibility with AMD processors": true
 }
