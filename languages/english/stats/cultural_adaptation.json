@@ -8420,5 +8420,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "Nikon mirrorless cameras with budget-friendly pricing": {
+        "date": "2025-12-09T03:44:57",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: BBQ"
+        ]
     }
 }
