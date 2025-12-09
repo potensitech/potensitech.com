@@ -8455,5 +8455,18 @@
             "Cultural: Apple Pie",
             "Cultural: Albert Einstein"
         ]
+    },
+    "nikon budget-friendly DSLR lenses": {
+        "date": "2025-12-09T21:51:42",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Silicon Valley",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
