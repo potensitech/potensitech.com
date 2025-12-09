@@ -4287,5 +4287,11 @@
   "intel processor optimized for best performance": true,
   "nvidia high-performance GPU with chipset compatibility": true,
   "nvidia budget-friendly GPU for gaming": true,
-  "nvidia chipset compatibility with AMD processors": true
+  "nvidia chipset compatibility with AMD processors": true,
+  "amd processor for gaming performance": true,
+  "amd affordable CPU for multitasking": true,
+  "amd processor for entry-level computing": true,
+  "amd chipset supporting high-speed data transfer": true,
+  "amd budget-friendly processor for gaming": true,
+  "amd advanced processor with compatible chipset": true
 }
