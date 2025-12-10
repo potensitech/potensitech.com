@@ -367,4 +367,9 @@ intel processor for budget-friendly PC builds
 intel fast processor for everyday use
 intel cost-effective processor for students
 intel processor optimized for best performance
+intel fast-performance processor for multitasking
+intel affordable CPU for daily computing
+intel cost-effective processor for heavy tasks
+intel optimized gaming processor for PCs
+intel fast data-processing processor
 
