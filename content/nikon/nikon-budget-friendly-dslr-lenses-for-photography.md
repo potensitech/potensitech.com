@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/nikon-budget-friendly-dslr-lenses-for-photo
 
 ## Why Choose Nikon’s Budget-Friendly DSLR Lenses?
 
-Nikon has long been a trusted name in the world of photography, known for its innovation and precision engineering. Their range of budget-friendly DSLR lenses offers exceptional value without compromising on quality. Designed to cater to diverse photographic needs—be it landscapes, portraits, or macro shots—these lenses are perfect for The Potensians aiming to elevate their craft while staying within financial limits.
+Nikon has long been a trusted name in the world of photography, known for its innovation and precision engineering. Their range of budget-friendly [DSLR lenses](/nikon/budget-friendly-nikon-dslr-lenses-for-photography) offers exceptional value without compromising on quality. Designed to cater to diverse photographic needs—be it landscapes, portraits, or macro shots—these lenses are perfect for The Potensians aiming to elevate their craft while staying within financial limits.
 
 Moreover, with trends like social media photography booming in 2025, having versatile yet affordable equipment is more important than ever. Nikon understands this demand and delivers products that allow photographers to keep up with modern trends without sacrificing quality.
 
