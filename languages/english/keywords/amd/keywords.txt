@@ -339,4 +339,7 @@ amd processor for entry-level computing
 amd chipset supporting high-speed data transfer
 amd budget-friendly processor for gaming
 amd advanced processor with compatible chipset
+amd budget chipset for better compatibility
+amd affordable chipset for custom PCs
+amd chipset for cost-effective PC builds
 

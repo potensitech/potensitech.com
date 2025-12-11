@@ -4339,5 +4339,8 @@
   "nvidia chipset compatibility for budget-friendly builds": true,
   "nvidia affordable gaming GPU compatibility": true,
   "nvidia budget-friendly chipset compatibility for processors": true,
-  "nvidia affordable processor speed for gaming": true
+  "nvidia affordable processor speed for gaming": true,
+  "amd budget chipset for better compatibility": true,
+  "amd affordable chipset for custom PCs": true,
+  "amd chipset for cost-effective PC builds": true
 }
