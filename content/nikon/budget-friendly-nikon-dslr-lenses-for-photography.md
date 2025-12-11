@@ -120,7 +120,7 @@ Don't be afraid to step out of auto mode. Experimenting with manual settings suc
 
 ### Adapt to Lighting Conditions
 
-Lighting can make or break a photograph. Utilize natural light during golden hours (early morning or late afternoon) for soft, warm tones. In low-light conditions, consider using a tripod or increasing the ISO to avoid motion blur.
+Lighting can make or break a photograph. Utilize natural light during golden hours (early morning or late afternoon) for soft, warm tones. In [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions), consider using a tripod or increasing the ISO to avoid motion blur.
 
 ### Seek Inspiration
 
