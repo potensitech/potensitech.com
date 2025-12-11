@@ -8544,5 +8544,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "cheap samsung smartphone photography gear": {
+        "date": "2025-12-11T19:37:56",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Chicago",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
