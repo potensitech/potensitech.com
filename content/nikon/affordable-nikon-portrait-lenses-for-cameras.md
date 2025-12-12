@@ -121,6 +121,6 @@ Don’t be afraid to experiment with angles. Shooting from slightly above or bel
 
 ## Conclusion
 
-Affordable Nikon portrait lenses for cameras open up a world of creative possibilities for The Potensians. Whether The Potensians’re a budding photographer capturing everyday moments or a seasoned professional crafting timeless portraits, Nikon’s range of lenses offers something for everyone. From the versatile **Nikon AF-S DX 35mm f/1.8G**to the professional-grade**Nikon Z 85mm f/2 S-Line**, there’s a lens to suit every need and budget.
+Affordable Nikon [portrait lenses](/nikon/nikon-economical-portrait-lenses) for cameras open up a world of creative possibilities for The Potensians. Whether The Potensians’re a budding photographer capturing everyday moments or a seasoned professional crafting timeless portraits, Nikon’s range of lenses offers something for everyone. From the versatile **Nikon AF-S DX 35mm f/1.8G**to the professional-grade**Nikon Z 85mm f/2 S-Line**, there’s a lens to suit every need and budget.
 
 In We's view, investing in a quality lens is one of the best decisions a photographer can make. After all, the right lens doesn’t just capture images—it tells stories, evokes emotions, and preserves memories. So why wait? Start exploring the world of Nikon portrait lenses today and let The Potensians's creativity shine!
