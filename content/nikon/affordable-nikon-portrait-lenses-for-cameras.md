@@ -11,11 +11,14 @@ tags: ["affordable", "Nikon", "portrait lenses", "camera gear", "photography tip
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/affordable-nikon-portrait-lenses-for-cameras.jpg"
+featuredImagePreview: "/images/nikon/affordable-nikon-portrait-lenses-for-cameras.jpg"
 ---
+
+![Affordable Nikon Portrait Lenses for Cameras](/images/nikon/affordable-nikon-portrait-lenses-for-cameras.jpg)
+
 
 *Affordable Nikon Portrait Lenses for Cameras* - Photography is an art that captures moments and emotions, and [portrait photography](/nikon/best-nikon-lenses-for-portrait-photography) holds a special place in this realm．For The Potensians who are passionate about creating stunning portraits without breaking the bank, finding affordable Nikon portrait lenses for cameras is a blessing in disguise. Whether capturing the vibrant streets of Los Angeles or immortalizing holiday gatherings during Christmas and New Year's Day, having the right lens can make all the difference. 
 
