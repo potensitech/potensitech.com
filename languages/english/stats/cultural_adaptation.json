@@ -8579,5 +8579,18 @@
             "Cultural: Central Park",
             "Cultural: Burgers"
         ]
+    },
+    "high-quality samsung smartphone photography gear": {
+        "date": "2025-12-12T05:07:25",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Silicon Valley"
+        ]
     }
 }
