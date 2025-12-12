@@ -41,7 +41,7 @@ Samsung's premium offerings boast several features that cater specifically to mo
  Many premium [Samsung smartphones](/samsung/top-samsung-smartphones-for-budget-buyers) come equipped with periscope-style telephoto lenses capable of up to 10x optical zoom. This feature is perfect for capturing distant subjects without compromising quality—imagine zooming in on Buffalo Wings being grilled at a backyard party without losing any detail!
 
 3. **Low-Light Performance** 
- Night mode technology enhances low-light photography by reducing noise and improving brightness levels. Whether it’s capturing festive Christmas lights or shooting under dim restaurant lighting during date nights, these lenses excel in challenging conditions.
+ Night mode technology enhances [low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) by reducing noise and improving brightness levels. Whether it’s capturing festive Christmas lights or shooting under dim restaurant lighting during date nights, these lenses excel in challenging conditions.
 
 4. **AI-Powered Enhancements** 
  Artificial intelligence plays a significant role in optimizing shots automatically based on scene recognition. From landscapes to portraits, AI ensures every photo looks professional straight out of the device.

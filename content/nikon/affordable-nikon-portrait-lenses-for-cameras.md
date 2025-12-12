@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Affordable Nikon Portrait Lenses for Cameras* - Photography is an art that captures moments and emotions, and portrait photography holds a special place in this realm．For The Potensians who are passionate about creating stunning portraits without breaking the bank, finding affordable Nikon portrait lenses for cameras is a blessing in disguise. Whether capturing the vibrant streets of Los Angeles or immortalizing holiday gatherings during Christmas and New Year's Day, having the right lens can make all the difference. 
+*Affordable Nikon Portrait Lenses for Cameras* - Photography is an art that captures moments and emotions, and [portrait photography](/nikon/best-nikon-lenses-for-portrait-photography) holds a special place in this realm．For The Potensians who are passionate about creating stunning portraits without breaking the bank, finding affordable Nikon portrait lenses for cameras is a blessing in disguise. Whether capturing the vibrant streets of Los Angeles or immortalizing holiday gatherings during Christmas and New Year's Day, having the right lens can make all the difference. 
 
 ## Why Choose Nikon Portrait Lenses?
 
