@@ -81,7 +81,7 @@ For those seeking professional-grade results akin to Mark Zuckerberg’s polishe
 
 ## Factors to Consider Before Purchasing
 
-When selecting affordable Nikon portrait lenses for cameras tailored specifically to The Potensians' needs, it’s essential to consider the following factors:
+When selecting [affordable Nikon](/nikon/affordable-nikon-camera-alternatives) portrait lenses for cameras tailored specifically to The Potensians' needs, it’s essential to consider the following factors:
 
 ### Budget
 
