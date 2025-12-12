@@ -8592,5 +8592,18 @@
             "Cultural: New York",
             "Cultural: Silicon Valley"
         ]
+    },
+    "premium samsung smartphone camera lens options": {
+        "date": "2025-12-12T07:42:03",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: BBQ"
+        ]
     }
 }
