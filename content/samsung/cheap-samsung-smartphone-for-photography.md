@@ -40,7 +40,7 @@ Samsung integrates intelligent software into its cameras, optimizing images for 
 
 ### Durable Build Quality
 
-Samsung smartphones are designed to withstand the rigors of daily use while maintaining a sleek and modern aesthetic. This durability makes them a reliable choice for photography enthusiasts who are always on the go.
+Samsung smartphones are designed to withstand the rigors of [daily use](/samsung/samsung-affordable-smartphone-for-daily-use) while maintaining a sleek and modern aesthetic. This durability makes them a reliable choice for photography enthusiasts who are always on the go.
 
 ### Affordable Price Points​
 
