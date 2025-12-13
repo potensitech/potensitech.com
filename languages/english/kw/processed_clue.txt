@@ -1801,3 +1801,5 @@ dslr photography
 camera lenses
 processor speed
 chipset compatibility
+processor speed
+chipset compatibility
