@@ -367,4 +367,7 @@ sandisk external SSD for laptops
 sandisk internal SSD for desktops
 sandisk durable SSD for heavy workloads
 sandisk secure SSD for data protection
+sandisk low-cost SSD for laptops
+sandisk fast SSD for computers
+sandisk affordable external SSD for students
 
