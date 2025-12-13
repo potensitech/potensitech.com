@@ -4443,5 +4443,8 @@
   "intel multitasking high-speed processor": true,
   "intel everyday affordable computing processor": true,
   "intel cost-effective home use processor": true,
-  "intel reliable affordable laptop processor": true
+  "intel reliable affordable laptop processor": true,
+  "nvidia budget-friendly GPU with chipset compatibility": true,
+  "nvidia reliable GPU processor for multitasking": true,
+  "nvidia cost-effective graphics card for gaming": true
 }
