@@ -8675,5 +8675,14 @@
             "Cultural: Los Angeles",
             "Cultural: Innovation"
         ]
+    },
+    "samsung budget smartphone processor benchmarks": {
+        "date": "2025-12-13T21:51:12",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
