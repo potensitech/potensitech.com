@@ -105,7 +105,7 @@ For The Potensians who love capturing expansive landscapes or architectural marv
 
 #### Nikon AF-S NIKKOR 50mm f/1.8G
 
-Known as the "nifty fifty," this lens is celebrated for its versatility and ability to create beautiful bokeh effects. It’s ideal for low-light photography, such as capturing the warm glow of a candlelit dinner or the vibrant colors of a sunset. In We's view, this lens is a fantastic choice for photographers looking to add a touch of artistry to their shots.
+Known as the "nifty fifty," this lens is celebrated for its versatility and ability to create beautiful bokeh effects. It’s ideal for [low-light photography](/nikon/nikon-cameras-for-low-light-photography), such as capturing the warm glow of a candlelit dinner or the vibrant colors of a sunset. In We's view, this lens is a fantastic choice for photographers looking to add a touch of artistry to their shots.
 
 #### Nikon Z 24-70mm f/4 S Lens
 
