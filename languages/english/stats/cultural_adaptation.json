@@ -8728,5 +8728,14 @@
             "Cultural: Central Park",
             "Cultural: Tex-Mex"
         ]
+    },
+    "nikon best value camera lenses": {
+        "date": "2025-12-14T17:02:13",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
