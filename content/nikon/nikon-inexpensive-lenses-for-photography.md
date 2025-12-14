@@ -11,11 +11,14 @@ tags: ["nikon", "photography", "budget lenses", "inexpensive lenses"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-inexpensive-lenses-for-photography-beginners.jpg"
+featuredImagePreview: "/images/nikon/nikon-inexpensive-lenses-for-photography-beginners.jpg"
 ---
+
+![Nikon Inexpensive Lenses for Photography Beginners](/images/nikon/nikon-inexpensive-lenses-for-photography-beginners.jpg)
+
 
 *Nikon Inexpensive Lenses for Photography Beginners* 
 
