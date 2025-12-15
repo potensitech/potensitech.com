@@ -11,18 +11,21 @@ tags: ["nikon", "affordable lenses", "wildlife photography", "budget-friendly"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Person"
 person:
-  name: "Maria Lopez"
-  jobTitle: "Wildlife Photography Expert"
-  worksFor: "PotensiTech"
-  description: "Maria Lopez is a professional wildlife photographer with years of experience using Nikon equipment to capture stunning shots. She shares insights on affordable lens options for wildlife enthusiasts."
-  sameAs: ["https://www.linkedin.com/in/maria-lopez", "https://www.instagram.com/mariawildlife"]
+name: "Maria Lopez"
+jobTitle: "Wildlife Photography Expert"
+worksFor: "PotensiTech"
+description: "Maria Lopez is a professional wildlife photographer with years of experience using Nikon equipment to capture stunning shots. She shares insights on affordable lens options for wildlife enthusiasts."
+sameAs: ["https://www.linkedin.com/in/maria-lopez", "https://www.instagram.com/mariawildlife"]
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-lenses-for-wildlife-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-lenses-for-wildlife-photography.jpg"
 ---
+
+![Nikon Affordable Lenses for Wildlife Photography](/images/nikon/nikon-affordable-lenses-for-wildlife-photography.jpg)
+
 
 *Nikon Affordable Lenses for Wildlife Photography* - Wildlife photography is a thrilling pursuit that allows photographers to capture the beauty and majesty of nature. Whether documenting a soaring eagle or a grazing deer, the right equipment can make all the difference. Nikon, a trusted name in the world of photography, offers a range of affordable lenses that cater to both beginners and seasoned professionals. In this article, We will explore why Nikon is an excellent choice for wildlife photography, the key features to look for in a lens, and the top affordable [Nikon lenses](/nikon/cheap-nikon-lenses-for-wildlife-photography) available in 2025.
 
