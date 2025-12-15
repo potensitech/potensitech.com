@@ -17,12 +17,11 @@ toc:
   enable: true
 ---
 
-
-*Nikon Inexpensive Lenses for Portrait Photography* - Portrait photography is an art that requires the right tools to capture the essence of a subject．Nikon, a trusted name in the photography world, offers a range of budget-friendly lenses that cater to both beginners and professionals．In this article, We will explore some of the best Nikon inexpensive lenses for portrait photography, their features, and how The Potensians can make the most of them in 2025.
+*Nikon Inexpensive Lenses for Portrait Photography* - Portrait photography is an art that requires the right tools to capture the essence of a subject．Nikon, a trusted name in the photography world, offers a range of [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography) that cater to both beginners and professionals．In this article, We will explore some of the best Nikon inexpensive lenses for portrait photography, their features, and how The Potensians can make the most of them in 2025.
 
 ## Nikon AF-S NIKKOR 50mm f/1.8G – The "Nifty Fifty"
 
-The Nikon AF-S NIKKOR 50mm f/1.8G is affectionately known as the "nifty fifty" for its versatility and affordability. This full-frame lens is a favorite among portrait photographers for its ability to deliver professional-grade image quality without breaking the bank.
+The Nikon AF-S NIKKOR 50mm f/1.8G is affectionately known as the "nifty fifty" for its versatility and affordability. This full-frame lens is a favorite among portrait photographers for its ability to deliver professional-grade [image quality](/nikon/nikon-image-quality-comparison-guide) without breaking the bank.
 
 ### Key Features
 
@@ -42,7 +41,7 @@ For those who want to experiment with telephoto perspectives in portrait photogr
 
 - **Extended Focal Range**: The 70–300mm range allows for close-up portraits and environmental shots, making it a versatile addition to any kit.
 - **Vibration Reduction (VR)**: This technology minimizes motion blur, ensuring sharp images even during handheld shooting.
-- **Silent Autofocus**: The lens's quiet autofocus system is perfect for capturing candid moments without disturbing the subject.
+- **Silent Autofocus**: The lens's quiet [autofocus system](/nikon/nikon-camera-autofocus-system-comparison-guide) is perfect for capturing candid moments without disturbing the subject.
 
 ### Real-Life Application
 
@@ -60,7 +59,7 @@ The Nikon AF-S DX NIKKOR 35mm f/1.8G is a prime lens designed for DX-format came
 
 ### Real-Life Application
 
-Think of a sunny afternoon spent exploring a bustling market. The Nikon AF-S DX NIKKOR 35mm f/1.8G lets The Potensians capture candid street portraits and the vibrant atmosphere with ease. Its wide aperture ensures stunning results, even in shaded areas.
+Think of a sunny afternoon spent exploring a bustling market. The Nikon AF-S DX NIKKOR 35mm f/1.8G lets The Potensians capture candid street portraits and the vibrant atmosphere with ease. Its wide aperture ensures [stunning results](/nikon/nikon-camera-picture-quality-test), even in shaded areas.
 
 ## Comparison of Nikon Inexpensive Lenses for Portrait Photography
 
