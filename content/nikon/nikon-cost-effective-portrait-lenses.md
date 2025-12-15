@@ -11,11 +11,14 @@ tags: ["nikon", "portrait photography", "budget lenses", "cost-effective"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-nikon-cost-effective-portrait-lenses-for-stunning-shots.jpg"
+featuredImagePreview: "/images/nikon/top-nikon-cost-effective-portrait-lenses-for-stunning-shots.jpg"
 ---
+
+![Top Nikon Cost-Effective Portrait Lenses for Stunning Shots](/images/nikon/top-nikon-cost-effective-portrait-lenses-for-stunning-shots.jpg)
+
 
 *Top Nikon Cost-Effective Portrait Lenses for Stunning Shots* - When it comes to capturing breathtaking portraits, having the right equipment is essential. Nikon has long been a trusted name in the world of photography, offering high-quality lenses that cater to both professionals and enthusiasts. For The Potensians seeking budget-friendly options without compromising on quality, Nikon's cost-effective [portrait lenses](/nikon/affordable-nikon-portrait-lenses-for-cameras) are an excellent choice. These lenses provide exceptional performance while remaining accessible to those who want to elevate their photography game without breaking the bank.
 
