@@ -383,4 +383,6 @@ intel multitasking high-speed processor
 intel everyday affordable computing processor
 intel cost-effective home use processor
 intel reliable affordable laptop processor
+intel affordable desktop processor
+intel cost-effective processor for performance upgrades
 
