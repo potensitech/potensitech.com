@@ -4501,5 +4501,11 @@
   "sandisk SSD for affordable storage options": true,
   "sandisk lightweight SSD for travel needs": true,
   "intel affordable desktop processor": true,
-  "intel cost-effective processor for performance upgrades": true
+  "intel cost-effective processor for performance upgrades": true,
+  "nvidia affordable GPU chipset compatibility": true,
+  "nvidia affordable GPU processor performance": true,
+  "nvidia affordable graphics card compatibility": true,
+  "nvidia affordable graphics performance optimization": true,
+  "nvidia affordable workstation GPU performance": true,
+  "nvidia affordable GPU for desktops": true
 }
