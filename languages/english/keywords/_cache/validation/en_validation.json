@@ -4507,5 +4507,13 @@
   "nvidia affordable graphics card compatibility": true,
   "nvidia affordable graphics performance optimization": true,
   "nvidia affordable workstation GPU performance": true,
-  "nvidia affordable GPU for desktops": true
+  "nvidia affordable GPU for desktops": true,
+  "amd budget-friendly chipset for processors": true,
+  "amd processor speed for gaming": true,
+  "amd chipset for affordable PC builds": true,
+  "amd chipset for entry-level processors": true,
+  "amd high-speed processor for budget PCs": true,
+  "amd affordable processor for everyday use": true,
+  "amd chipset for gaming setups": true,
+  "amd processor speed for professional tasks": true
 }
