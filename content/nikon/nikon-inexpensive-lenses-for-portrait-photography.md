@@ -11,11 +11,14 @@ tags: ["nikon", "portrait photography", "budget lenses", "affordable photography
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-inexpensive-lenses-for-portrait-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-inexpensive-lenses-for-portrait-photography.jpg"
 ---
+
+![Nikon Inexpensive Lenses for Portrait Photography](/images/nikon/nikon-inexpensive-lenses-for-portrait-photography.jpg)
+
 
 *Nikon Inexpensive Lenses for Portrait Photography* - Portrait photography is an art that requires the right tools to capture the essence of a subject．Nikon, a trusted name in the photography world, offers a range of [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography) that cater to both beginners and professionals．In this article, We will explore some of the best Nikon inexpensive lenses for portrait photography, their features, and how The Potensians can make the most of them in 2025.
 
