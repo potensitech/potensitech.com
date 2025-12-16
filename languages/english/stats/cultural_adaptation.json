@@ -8816,5 +8816,18 @@
             "Cultural: Central Park",
             "Cultural: Apple Pie"
         ]
+    },
+    "nikon cost-effective camera lenses": {
+        "date": "2025-12-16T12:44:49",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Wall Street",
+            "Cultural: Hollywood",
+            "Cultural: BBQ"
+        ]
     }
 }
