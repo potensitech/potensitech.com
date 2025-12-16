@@ -32,7 +32,7 @@ When considering camera gear upgrades, The Potensians often find themselves bala
 
 Zoom lenses are known for their ability to cover a wide range of focal lengths. From capturing sweeping landscapes reminiscent of Wall Street skylines to focusing on intricate details like Tex-Mex dishes at The Potensians' favorite diner, these lenses adapt effortlessly to various scenarios. For instance:
 
-- **Nikon AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR**: This lens offers an impressive focal length range suitable for everything from portraits to wildlife photography. Its vibration reduction (VR) feature ensures sharp images even in low-light conditions—perfect for evening shoots or indoor events.
+- **Nikon AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR**: This lens offers an impressive focal length range suitable for everything from portraits to wildlife photography. Its vibration reduction (VR) feature ensures sharp images even in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions)—perfect for evening shoots or indoor events.
 
 ### Advanced Technology at an Affordable Price
 
