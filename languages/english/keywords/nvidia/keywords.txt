@@ -342,4 +342,7 @@ nvidia affordable graphics card compatibility
 nvidia affordable graphics performance optimization
 nvidia affordable workstation GPU performance
 nvidia affordable GPU for desktops
+nvidia affordable graphics card performance
+nvidia affordable gaming GPU for laptops
+nvidia affordable GPU for desktop PCs
 

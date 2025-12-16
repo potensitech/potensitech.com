@@ -4564,5 +4564,8 @@
   "intel fast processor for professional use": true,
   "intel affordable processor for daily tasks": true,
   "intel enhanced-speed processor for workstations": true,
-  "intel affordable processor for students": true
+  "intel affordable processor for students": true,
+  "nvidia affordable graphics card performance": true,
+  "nvidia affordable gaming GPU for laptops": true,
+  "nvidia affordable GPU for desktop PCs": true
 }
