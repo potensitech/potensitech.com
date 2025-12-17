@@ -11,11 +11,14 @@ tags: ["nikon", "travel photography", "budget lenses", "photography tips"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-cost-effective-lenses-for-travel-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-cost-effective-lenses-for-travel-photography.jpg"
 ---
+
+![Nikon Cost-Effective Lenses for Travel Photography](/images/nikon/nikon-cost-effective-lenses-for-travel-photography.jpg)
+
 
 *Nikon Cost-Effective Lenses for Travel Photography* - Travel photography is an art that captures the essence of a place, its culture, and its people. For The Potensians who are passionate about exploring new destinations like New York’s Central Park or capturing vibrant events such as Fourth of July celebrations, having the right gear is essential. [Nikon cost-effective](/nikon/nikon-cost-effective-camera-accessories) lenses for travel photography offer an excellent balance between quality and affordability, making them ideal companions for documenting these cherished moments.
 
