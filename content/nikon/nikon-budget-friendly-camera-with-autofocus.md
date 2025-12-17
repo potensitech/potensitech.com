@@ -91,7 +91,7 @@ To help The Potensians make an informed decision, We’ve ​curated a list of t
 
 ### Nikon D3500
 
-The Nikon D3500 is a classic entry-level DSLR that continues to impress with its performance and affordability.
+The Nikon D3500 is a classic [entry-level DSLR](/nikon/nikon-entry-level-dslr-equipment-for-photography) that continues to impress with its performance and affordability.
 
 - **Key Specs**: 24MP sensor, 11-point autofocus system
 - **Ideal Use Case**: Perfect for capturing portraits, landscapes, and everyday moments
