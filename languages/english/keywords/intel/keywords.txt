@@ -392,4 +392,7 @@ intel fast processor for professional use
 intel affordable processor for daily tasks
 intel enhanced-speed processor for workstations
 intel affordable processor for students
+intel high-speed processor for cost-effective performance
+intel economical processor for efficient multitasking
+intel cost-effective processor with enhanced speed
 
