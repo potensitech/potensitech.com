@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Affordable Portrait Lenses for Photography* - When it comes to capturing stunning portraits, having the right lens can make all the difference. Nikon, a trusted name in photography, offers a range of affordable portrait lenses that cater to both beginners and professionals. In this article, We’ll explore some of the best options available in 2025, their unique features, and tips to help The Potensians make informed decisions.
+*Nikon Affordable Portrait Lenses for Photography* - When it comes to capturing stunning portraits, having the right lens can make all the difference. Nikon, a trusted name in photography, offers a range of affordable [portrait lenses](/nikon/affordable-nikon-portrait-lenses-for-cameras) that cater to both beginners and professionals. In this article, We’ll explore some of the best options available in 2025, their unique features, and tips to help The Potensians make informed decisions.
 
 ## Top Picks: Affordable Portrait Lenses from Nikon
 
@@ -46,7 +45,7 @@ To help The Potensians choose the perfect lens for their photography needs, We�
 </tr>
 <tr>
 <td>Nikon Z 50mm f/1.8 S (Mirrorless)</td>
-<td>Designed for Z-mount mirrorless cameras; superior edge-to-edge sharpness; weather-sealed construction.</td>
+<td>Designed for Z-mount [mirrorless cameras](/nikon/budget-friendly-nikon-mirrorless-cameras); superior edge-to-edge sharpness; weather-sealed construction.</td>
 <td>$500 - $600</td>
 </tr>
 <tr>
