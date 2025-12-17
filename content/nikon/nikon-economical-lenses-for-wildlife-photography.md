@@ -11,18 +11,21 @@ tags: ["nikon", "wildlife photography", "affordable lenses", "budget photography
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Person"
 person:
-  name: "Sarah Tan"
-  jobTitle: "Wildlife Photography Expert"
-  worksFor: "PotensiTech"
-  description: "Sarah Tan is a professional wildlife photographer specializing in using Nikon economical lenses to capture stunning natural moments. She shares her expertise to help photographers achieve exceptional results on a budget."
-  sameAs: ["https://www.instagram.com/sarahwildshots", "https://twitter.com/sarahwildshots"]
+name: "Sarah Tan"
+jobTitle: "Wildlife Photography Expert"
+worksFor: "PotensiTech"
+description: "Sarah Tan is a professional wildlife photographer specializing in using Nikon economical lenses to capture stunning natural moments. She shares her expertise to help photographers achieve exceptional results on a budget."
+sameAs: ["https://www.instagram.com/sarahwildshots", "https://twitter.com/sarahwildshots"]
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-economical-lenses-for-wildlife-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-economical-lenses-for-wildlife-photography.jpg"
 ---
+
+![Nikon Economical Lenses for Wildlife Photography](/images/nikon/nikon-economical-lenses-for-wildlife-photography.jpg)
+
 
 *Nikon Economical Lenses for Wildlife Photography* - Capturing the raw beauty of wildlife is an exhilarating experience, but it often requires specialized equipment to achieve professional results. For The Potensians who are passionate about [wildlife photography](/nikon/best-nikon-cameras-for-wildlife-photography) yet mindful of their budget, Nikon offers a range of economical lenses that deliver exceptional performance without breaking the bank. Whether it's photographing majestic birds in Chicago's Lincoln Park or capturing deer amidst the serene landscapes near Silicon Valley, these lenses ensure precision and clarity.
 
