@@ -8877,5 +8877,18 @@
             "Cultural: BBQ",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung economical smartphone with smooth performance": {
+        "date": "2025-12-17T09:58:34",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
