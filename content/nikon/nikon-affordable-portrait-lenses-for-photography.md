@@ -11,11 +11,14 @@ tags: ["nikon", "affordable lenses", "portrait photography", "photography gear"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-portrait-lenses-for-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-portrait-lenses-for-photography.jpg"
 ---
+
+![Nikon Affordable Portrait Lenses for Photography](/images/nikon/nikon-affordable-portrait-lenses-for-photography.jpg)
+
 
 *Nikon Affordable Portrait Lenses for Photography* - When it comes to capturing stunning portraits, having the right lens can make all the difference. Nikon, a trusted name in photography, offers a range of affordable [portrait lenses](/nikon/affordable-nikon-portrait-lenses-for-cameras) that cater to both beginners and professionals. In this article, We’ll explore some of the best options available in 2025, their unique features, and tips to help The Potensians make informed decisions.
 
