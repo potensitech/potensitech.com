@@ -8957,5 +8957,16 @@
             "Cultural: Wall Street",
             "Cultural: Times Square"
         ]
+    },
+    "samsung low-cost smartphone processor speed": {
+        "date": "2025-12-18T17:08:26",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media",
+            "Cultural: Remote Work"
+        ]
     }
 }
