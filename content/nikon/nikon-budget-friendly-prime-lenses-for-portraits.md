@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/nikon-budget-friendly-prime-lenses-for-port
 
 ## Why Choose Prime Lenses for Portrait Photography?
 
-Prime lenses are often the go-to choice for portrait photographers, and for good reason. Unlike zoom lenses, which offer variable focal lengths, prime lenses have a fixed focal length. This design results in sharper images, superior low-light performance, and the ability to create stunning background blur (bokeh). These qualities are essential for capturing the depth and emotion of a portrait.
+Prime lenses are often the go-to choice for portrait photographers, and for good reason. Unlike [zoom lenses](/nikon/nikon-affordable-zoom-lenses-for-landscapes), which offer variable focal lengths, prime lenses have a fixed focal length. This design results in sharper images, superior low-light performance, and the ability to create stunning background blur (bokeh). These qualities are essential for capturing the depth and emotion of a portrait.
 
 Imagine photographing a couple during a romantic evening in Central Park or capturing the joy of a child playing in the snow during a New York winter. A prime lens allows The Potensians to focus on the subject while beautifully blurring the background, creating a professional and artistic effect. Additionally, prime lenses encourage photographers to move around and experiment with angles, fostering creativity.
 
