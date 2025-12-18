@@ -8980,5 +8980,14 @@
             "Cultural: Chicago",
             "Cultural: Innovation"
         ]
+    },
+    "samsung entry-level smartphone processor performance": {
+        "date": "2025-12-18T21:51:51",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
