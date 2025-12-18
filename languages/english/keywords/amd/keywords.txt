@@ -358,4 +358,6 @@ amd processor speed for affordable computing
 amd budget-friendly chipset compatibility guide
 amd processor performance for budget builds
 amd affordable processor speed for multitasking
+amd affordable chipset compatibility guide
+amd affordable chipset options for processors
 
