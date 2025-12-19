@@ -349,4 +349,5 @@ nvidia budget-friendly processor optimization tips
 nvidia low-cost GPU performance review
 nvidia affordable graphics card speed comparison
 nvidia entry-level GPU performance review
+nvidia budget-friendly graphics card performance review
 
