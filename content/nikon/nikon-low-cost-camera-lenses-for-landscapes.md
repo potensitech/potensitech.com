@@ -30,7 +30,7 @@ Landscape photography demands precision, clarity, and depth. Nikon’s low-cost 
 
 One of the standout features of Nikon’s lenses is their ability to minimize distortion and enhance color accuracy. This is achieved through the use of aspherical lens elements and Nikon’s proprietary coatings. These technologies ensure that The Potensians's landscape photos are true to life, with vibrant colors and sharp details.
 
-Additionally, Nikon’s low-cost lenses are lightweight and portable, making them ideal for outdoor adventures. Whether The Potensians’re hiking through rugged terrain or exploring urban landscapes, these lenses won’t weigh The Potensians down. We believe that the combination of affordability, quality, and portability makes Nikon’s lenses a top choice for landscape photography.
+Additionally, Nikon’s [low-cost lenses](/nikon/nikon-low-cost-lenses-for-landscape-photography) are lightweight and portable, making them ideal for outdoor adventures. Whether The Potensians’re hiking through rugged terrain or exploring urban landscapes, these lenses won’t weigh The Potensians down. We believe that the combination of affordability, quality, and portability makes Nikon’s lenses a top choice for landscape photography.
 
 ## Key Features That Make These Lenses Ideal
 
