@@ -31,7 +31,7 @@ featuredImagePreview: "/images/nikon/nikon-cost-effective-wildlife-photography-l
 
 ## Top Picks: Affordable Nikon Wildlife Photography Lenses
 
-To help The Potensians make an informed decision, We’ve compiled a list of top-rated Nikon cost-effective wildlife photography lenses available in 2025. These lenses strike a balance between quality, performance, and affordability.
+To help The Potensians make an informed decision, We’ve compiled a list of [top-rated Nikon](/nikon/top-rated-nikon-cameras-for-photography) cost-effective wildlife photography lenses available in 2025. These lenses strike a balance between quality, performance, and affordability.
 
 <div class="table-responsive">
 <table class="html-table">
