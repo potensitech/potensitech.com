@@ -97,7 +97,7 @@ However, if The Potensians're looking to play graphic-intensive games like PUBG 
 
 ## Energy Efficiency and Battery Life
 
-Processor speed is not just about performance; it also impacts energy efficiency. Samsung's affordable smartphones are equipped with processors that strike a balance between speed and power consumption. This ensures that The Potensians can enjoy extended battery life without compromising on performance.
+Processor speed is not just about performance; it also impacts [energy efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency). Samsung's affordable smartphones are equipped with processors that strike a balance between speed and power consumption. This ensures that The Potensians can enjoy extended battery life without compromising on performance.
 
 ### Battery Optimization Features
 

@@ -28,7 +28,7 @@ Samsung’s affordable [smartphone processors](/samsung/samsung-smartphone-proce
 
 ### Exynos Chipsets: Power Meets Affordability
 
-At the core of Samsung’s affordable smartphones are their proprietary Exynos chipsets. These processors are engineered to handle everyday tasks efficiently while maintaining a focus on energy efficiency. For instance, the Exynos 850 and Exynos 9611 are commonly found in Samsung’s Galaxy A-series, offering reliable performance for users who prioritize multitasking and battery life.
+At the core of Samsung’s affordable smartphones are their proprietary Exynos chipsets. These processors are engineered to handle everyday tasks efficiently while maintaining a focus on [energy efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency). For instance, the Exynos 850 and Exynos 9611 are commonly found in Samsung’s Galaxy A-series, offering reliable performance for users who prioritize multitasking and battery life.
 
 <div class="table-responsive">
 <table class="html-table">
