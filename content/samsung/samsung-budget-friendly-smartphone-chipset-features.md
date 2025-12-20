@@ -11,11 +11,14 @@ tags: ["samsung", "budget-friendly", "smartphone", "chipset", "features"]
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-budget-friendly-smartphone-chipset-features-unveiled.jpg"
+featuredImagePreview: "/images/samsung/samsung-budget-friendly-smartphone-chipset-features-unveiled.jpg"
 ---
+
+![Samsung Budget-Friendly Smartphone Chipset Features Unveiled](/images/samsung/samsung-budget-friendly-smartphone-chipset-features-unveiled.jpg)
+
 
 *Samsung Budget-Friendly Smartphone Chipset Features Unveiled* - 
 
