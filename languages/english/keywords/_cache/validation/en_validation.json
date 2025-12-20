@@ -4728,5 +4728,13 @@
   "sandisk entry-level SSD for daily use": true,
   "sandisk premium SSD for advanced computing": true,
   "intel budget-friendly processor for fast computing": true,
-  "intel cost-effective processor with dependable performance": true
+  "intel cost-effective processor with dependable performance": true,
+  "nvidia affordable GPU compatibility": true,
+  "nvidia budget-friendly processor compatibility": true,
+  "nvidia affordable GPU performance": true,
+  "nvidia low-cost processor optimization": true,
+  "nvidia gaming GPU chipset compatibility": true,
+  "nvidia budget-friendly GPU processor speed": true,
+  "nvidia budget GPU performance": true,
+  "nvidia entry-level GPU performance and speed": true
 }
