@@ -1959,3 +1959,5 @@ solid state
 processor speed
 processor speed
 chipset compatibility
+processor speed
+chipset compatibility
