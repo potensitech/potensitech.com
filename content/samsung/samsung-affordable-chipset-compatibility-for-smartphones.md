@@ -111,7 +111,7 @@ To understand the value of Samsung's affordable chipsets, it's essential to comp
 <td>Higher cost for similar performance</td>
 </tr>
 <tr>
-<td>Energy Efficiency</td>
+<td>[Energy Efficiency](/samsung/samsung-smartphone-lighting-for-energy-efficiency)</td>
 <td>Advanced power-saving features</td>
 <td>Higher power consumption</td>
 </tr>
