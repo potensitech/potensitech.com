@@ -11,11 +11,14 @@ tags: ["nikon", "affordable", "DSLR", "cameras", "students", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-dslr-cameras-for-students-on-a-budget.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-dslr-cameras-for-students-on-a-budget.jpg"
 ---
+
+![Nikon Affordable DSLR Cameras for Students on a Budget](/images/nikon/nikon-affordable-dslr-cameras-for-students-on-a-budget.jpg)
+
 
 *Nikon Affordable DSLR Cameras for Students on a Budget* 
 
