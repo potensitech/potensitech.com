@@ -11,11 +11,14 @@ tags: ["samsung", "chipset", "budget smartphones", "technology"]
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-chipset-compatibility-for-budget-smartphones.jpg"
+featuredImagePreview: "/images/samsung/samsung-chipset-compatibility-for-budget-smartphones.jpg"
 ---
+
+![Samsung Chipset Compatibility for Budget Smartphones](/images/samsung/samsung-chipset-compatibility-for-budget-smartphones.jpg)
+
 
 *Samsung Chipset Compatibility for Budget Smartphones* - 
 
