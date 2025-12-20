@@ -17,12 +17,11 @@ toc:
   enable: true
 ---
 
-
 *Nikon Affordable DSLR Cameras for Students on a Budget* 
 
 ## Top Picks: Affordable Nikon DSLRs for Students 
 
-For The Potensians who are exploring their options for a budget-friendly DSLR camera, We’ve compiled a list of top-rated models from Nikon’s affordable range. These cameras are perfect for students looking to dive into photography without breaking the bank. 
+For The Potensians who are exploring their options for a [budget-friendly DSLR](/nikon/nikon-budget-friendly-dslr-cameras) camera, We’ve compiled a list of top-rated models from Nikon’s affordable range. These cameras are perfect for students looking to dive into photography without breaking the bank. 
 
 <div class="table-responsive">
 <table class="html-table">
@@ -41,7 +40,7 @@ For The Potensians who are exploring their options for a budget-friendly DSLR ca
 </tr>
 <tr>
 <td>Nikon D5600</td>
-<td>39-point autofocus system, Articulating touchscreen display</td>
+<td>39-point [autofocus system](/nikon/nikon-camera-autofocus-system-comparison-guide), Articulating touchscreen display</td>
 <td>$699</td>
 </tr>
 <tr>
@@ -62,7 +61,7 @@ These models offer a variety of features tailored to different needs, ensuring t
 
 ## Why Nikon DSLRs Are Ideal for Students 
 
-Nikon has long been a trusted name in the world of photography, and their affordable DSLR cameras are no exception. ​But why should students consider Nikon over other brands? 
+Nikon has long been a trusted name in the world of photography, and their [affordable DSLR](/nikon/nikon-affordable-dslr-cameras-for-professionals) cameras are no exception. ​But why should students consider Nikon over other brands? 
 
 ### Reliability and Durability 
 
