@@ -66,7 +66,7 @@ With long-lasting batteries like the 6,000mAh powerhouse in the Galaxy M14, The 
 
 ### Capturing Life’s Precious Moments
 
-The advanced camera systems in Samsung’s affordable lineup make it easy to capture memories. From snapping family photos during Thanksgiving dinners to recording high-quality videos of a child’s first steps, these devices empower users to document their lives beautifully.
+The [advanced camera](/samsung/samsung-smartphone-with-advanced-camera-lens) systems in Samsung’s affordable lineup make it easy to capture memories. From snapping family photos during Thanksgiving dinners to recording high-quality videos of a child’s first steps, these devices empower users to document their lives beautifully.
 
 ### Entertainment on the Go
 
