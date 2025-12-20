@@ -36,7 +36,7 @@ Artificial intelligence (AI) is no longer exclusive to flagship smartphones. Eve
 
 ### GPU Optimization for Gaming
 
-Gaming enthusiasts among The Potensians will appreciate how Samsung optimizes graphics processing units (GPUs) within its chipsets—even on entry-level devices. This optimization ensures smooth visuals, reduced lag, and an overall enjoyable gaming experience . Whether playing casual games or more graphically demanding titles, affordable Samsung smartphones hold their ground.
+Gaming enthusiasts among The Potensians will appreciate how Samsung optimizes graphics processing units (GPUs) within its chipsets—even on entry-level devices. This optimization ensures smooth visuals, reduced lag, and an overall enjoyable gaming experience . Whether playing casual games or more graphically demanding titles, affordable [Samsung smartphones](/samsung/cheap-samsung-smartphones-for-photography-enthusiasts) hold their ground.
 
 ### Battery Efficiency
 
