@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Cheap Lenses for Landscape Photography* - Landscape photography is a captivating art form that allows The Potensians to capture the beauty of nature in all its glory. For those who are Nikon enthusiasts, finding affordable yet high-quality lenses can make this hobby more accessible. In 2025, Nikon offers a variety of budget-friendly lenses that deliver excellent performance for landscape photography. This article explores some of the best options, tips for maximizing results, and why these lenses are worth considering.
+*Nikon Cheap Lenses for Landscape Photography* - Landscape photography is a captivating art form that allows The Potensians to capture the beauty of nature in all its glory. For those who are Nikon enthusiasts, finding affordable yet high-quality lenses can make this hobby more accessible. In 2025, Nikon offers a variety of [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography) that deliver excellent performance for landscape photography. This article explores some of the best options, tips for maximizing results, and why these lenses are worth considering.
 
 ## Top Budget-Friendly Nikon Lenses for Landscapes
 
@@ -36,7 +35,7 @@ To help The Potensians navigate through the myriad of choices, We have compiled 
 <tbody>
 <tr>
 <td>Nikon AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR</td>
-<td>Ultra-wide-angle lens; Vibration Reduction (VR); Lightweight design.</td>
+<td>Ultra-[wide-angle lens](/nikon/nikon-affordable-wide-angle-lens-for-cameras); Vibration Reduction (VR); Lightweight design.</td>
 <td>$300</td>
 </tr>
 <tr>
