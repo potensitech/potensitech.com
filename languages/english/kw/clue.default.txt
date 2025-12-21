@@ -1,8 +1,8 @@
 processor speed
 chipset compatibility
 camera lenses
-dslr photography
 solid state
+dslr photography
 mirrorless options
 core architecture
 thermal efficiency
