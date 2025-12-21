@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/nikon-cheap-lenses-for-landscape-photograph
 
 ## Top Budget-Friendly Nikon Lenses for Landscapes
 
-To help The Potensians navigate through the myriad of choices, We have compiled a list of standout Nikon cheap lenses for landscape photography. These lenses strike a balance between affordability and performance, making them ideal for both beginners and seasoned photographers.
+To help The Potensians navigate through the myriad of choices, We have compiled a list of standout Nikon cheap lenses for [landscape photography](/nikon/nikon-landscape-photography-lenses-for-beginners). These lenses strike a balance between affordability and performance, making them ideal for both beginners and seasoned photographers.
 
 <div class="table-responsive">
 <table class="html-table">
@@ -89,7 +89,7 @@ Designed​ for Nikon’s mirrorless cameras, this lens offers a slim profile an
 
 ## Why Choose Nikon Cheap Lenses for Landscape Photography?
 
-Nikon has a long-standing reputation for producing high-quality lenses that cater to photographers of all levels. Their budget-friendly options are no exception, offering excellent performance without breaking the bank. Here are some reasons why these lenses are worth considering:
+Nikon has a long-standing reputation for producing high-quality lenses that cater to photographers of all levels. Their budget-friendly options are no exception, offering [excellent performance](/nikon/nikon-compact-cameras-with-excellent-performance) without breaking the bank. Here are some reasons why these lenses are worth considering:
 
 ### Affordability Without Compromise
 
