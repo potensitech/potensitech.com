@@ -9139,5 +9139,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "samsung smartphone compatibility with budget-friendly chipsets": {
+        "date": "2025-12-21T14:43:10",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Pizza"
+        ]
     }
 }
