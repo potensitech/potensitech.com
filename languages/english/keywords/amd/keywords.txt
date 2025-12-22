@@ -365,4 +365,6 @@ amd processor speed for budget-friendly computing
 amd chipset compatibility for desktop builds
 amd affordable chipset for entry-level computers
 amd processor optimization for gaming performance
+amd budget chipset compatibility for processors
+amd processor speed for entry-level computing
 

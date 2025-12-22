@@ -4779,5 +4779,7 @@
   "nvidia processor compatibility for entry-level GPUs": true,
   "nvidia affordable chipset solutions for gaming": true,
   "nvidia affordable processor speed optimization tips": true,
-  "nvidia chipset compatibility for gaming processors": true
+  "nvidia chipset compatibility for gaming processors": true,
+  "amd budget chipset compatibility for processors": true,
+  "amd processor speed for entry-level computing": true
 }
