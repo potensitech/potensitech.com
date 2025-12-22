@@ -358,4 +358,9 @@ nvidia gaming GPU chipset compatibility
 nvidia budget-friendly GPU processor speed
 nvidia budget GPU performance
 nvidia entry-level GPU performance and speed
+nvidia budget-friendly processor speed benchmarks
+nvidia processor compatibility for entry-level GPUs
+nvidia affordable chipset solutions for gaming
+nvidia affordable processor speed optimization tips
+nvidia chipset compatibility for gaming processors
 
