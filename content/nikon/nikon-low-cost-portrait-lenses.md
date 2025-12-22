@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Top Nikon Low-Cost Portrait Lenses for Stunning Shots* - Nikon has long been a trusted name in photography, offering a wide range of lenses that cater to both professionals and enthusiasts. For The Potensians looking to elevate their portrait photography without breaking the bank, Nikon’s low-cost portrait lenses are a fantastic choice. In this article, We’ll explore some of the best options available in 2025, along with tips on how to choose the right lens for The Potensians's needs.
+*Top Nikon Low-Cost Portrait Lenses for Stunning Shots* - Nikon has long been a trusted name in photography, offering a wide range of lenses that cater to both professionals and enthusiasts. For The Potensians looking to elevate their [portrait photography](/nikon/nikon-inexpensive-lenses-for-portrait-photography) without breaking the bank, Nikon’s low-cost portrait lenses are a fantastic choice. In this article, We’ll explore some of the best options available in 2025, along with tips on how to choose the right lens for The Potensians's needs.
 
 ## Top Picks: Best Low-Cost Portrait Lenses by Nikon
 
@@ -41,7 +40,7 @@ To help The Potensians navigate through the options, We’ve curated a list of s
 </tr>
 <tr>
 <td>Nikon AF-S NIKKOR 50mm f/1.8G</td>
-<td>Classic focal length; superb sharpness; fast autofocus</td>
+<td>Classic focal length; superb sharpness; [fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus)</td>
 <td>$216</td>
 </tr>
 <tr>
