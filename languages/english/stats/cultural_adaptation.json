@@ -9174,5 +9174,14 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "nikon low-cost portrait lenses": {
+        "date": "2025-12-22T09:58:43",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
