@@ -1989,3 +1989,5 @@ processor speed
 chipset compatibility
 processor speed
 chipset compatibility
+dslr photography
+camera lenses
