@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/top-nikon-low-cost-portrait-lenses-for-stun
 
 ## Top Picks: Best Low-Cost Portrait Lenses by Nikon
 
-To help The Potensians navigate through the options, We’ve curated a list of standout Nikon low-cost portrait lenses. These lenses are not only affordable but also deliver exceptional performance for portrait photography.
+To help The Potensians navigate through the options, We’ve curated a list of standout [Nikon low-cost](/nikon/nikon-low-cost-lenses-for-landscape-photography) portrait lenses. These lenses are not only affordable but also deliver exceptional performance for portrait photography.
 
 <div class="table-responsive">
 <table class="html-table">
@@ -120,7 +120,7 @@ While all the lenses listed fall under the affordable category, some, like the M
 
 ### Camera Compatibility
 
-Ensure that the lens The Potensians choose matches The Potensians's camera’s mount type (FX, DX, or Z-mount). For example, the Nikon Z 40mm f/2 is designed exclusively for mirrorless cameras, while the 35mm and 50mm lenses are compatible with DSLR systems.
+Ensure that the lens The Potensians choose matches The Potensians's camera’s mount type (FX, DX, or Z-mount). For example, the Nikon Z 40mm f/2 is designed exclusively for [mirrorless cameras](/nikon/nikon-affordable-mirrorless-cameras-for-enthusiasts), while the 35mm and 50mm lenses are compatible with DSLR systems.
 
 ### Shooting Style Preferences
 
