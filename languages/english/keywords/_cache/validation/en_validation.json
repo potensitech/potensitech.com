@@ -4814,5 +4814,6 @@
   "intel high-speed processor for office tasks": true,
   "intel low-cost processor for students": true,
   "intel fast processor for video editing": true,
-  "intel fast processor for streaming": true
+  "intel fast processor for streaming": true,
+  "nvidia affordable graphics processor performance": true
 }

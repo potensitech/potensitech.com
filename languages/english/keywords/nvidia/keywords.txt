@@ -363,4 +363,5 @@ nvidia processor compatibility for entry-level GPUs
 nvidia affordable chipset solutions for gaming
 nvidia affordable processor speed optimization tips
 nvidia chipset compatibility for gaming processors
+nvidia affordable graphics processor performance
 
