@@ -4815,5 +4815,9 @@
   "intel low-cost processor for students": true,
   "intel fast processor for video editing": true,
   "intel fast processor for streaming": true,
-  "nvidia affordable graphics processor performance": true
+  "nvidia affordable graphics processor performance": true,
+  "amd affordable chipset compatibility for GPUs": true,
+  "amd processor speed optimization for multitasking": true,
+  "amd processor speed for professional workloads": true,
+  "amd processor speed for high-performance computing": true
 }
