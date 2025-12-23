@@ -11,11 +11,14 @@ tags: ["nikon", "DSLR accessories", "affordable gear", "photography tools", "cam
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-accessories-for-dslr-cameras.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-accessories-for-dslr-cameras.jpg"
 ---
+
+![Nikon Affordable Accessories for DSLR Cameras](/images/nikon/nikon-affordable-accessories-for-dslr-cameras.jpg)
+
 
 *Nikon Affordable Accessories for DSLR Cameras* - 
 
