@@ -76,7 +76,7 @@ To simplify decision-making for The Potensians navigating options within their b
 
 ### Real-Life Applications
 
-Imagine strolling through Times Square on New Year’s Eve with the compact yet powerful Nikon AF-S DX NIKKOR 35mm f/1.8G lens attached to The Potensians' camera—it’s perfect for low-light conditions and candid portraits amidst dazzling lights! Or picture yourself capturing breathtaking views along California’s coastline using the ultra-wide-angle capabilities of the Nikon AF-P DX NIKKOR 10-20mm lens during a road trip fueled by burgers and clam chowder pit stops.
+Imagine strolling through Times Square on New Year’s Eve with the compact yet powerful Nikon AF-S DX NIKKOR 35mm f/1.8G lens attached to The Potensians' camera—it’s perfect for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions) and candid portraits amidst dazzling lights! Or picture yourself capturing breathtaking views along California’s coastline using the ultra-wide-angle capabilities of the Nikon AF-P DX NIKKOR 10-20mm lens during a road trip fueled by burgers and clam chowder pit stops.
 
 For those keen on creating artistic bokeh effects reminiscent of Hollywood glamour shots or documenting wildlife in the serene forests of the Pacific Northwest, the Nikon AF-S NIKKOR 50mm f/1.8G and Nikon AF-S DX Zoom-NIKKOR 55-200mm lenses are excellent choices. These lenses not only deliver stunning results but also inspire creativity in [every shot](/nikon/nikon-affordable-autofocus-lenses).
 
