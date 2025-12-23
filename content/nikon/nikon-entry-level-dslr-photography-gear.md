@@ -99,7 +99,7 @@ The D5600 is perfect for those who want to experiment with more advanced techniq
 
 ## Accessories to Enhance The Potensians's Photography Experience
 
-No photography gear is complete without the right accessories. Nikon offers a range of accessories that can help The Potensians make the most of their DSLR cameras. Here are some must​-haves:
+No photography gear is complete without the right accessories. Nikon offers a range of accessories that can help The Potensians make the most of their [DSLR cameras](/nikon/nikon-affordable-accessories-for-dslr-cameras). Here are some must​-haves:
 
 ### Tripods
 
