@@ -11,11 +11,14 @@ tags: ["samsung", "affordable smartphones", "chipset compatibility", "technology
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-affordable-smartphone-with-chipset-compatibility.jpg"
+featuredImagePreview: "/images/samsung/samsung-affordable-smartphone-with-chipset-compatibility.jpg"
 ---
+
+![Samsung Affordable Smartphone with Chipset Compatibility](/images/samsung/samsung-affordable-smartphone-with-chipset-compatibility.jpg)
+
 
 *Samsung Affordable Smartphone with Chipset Compatibility* - 
 
