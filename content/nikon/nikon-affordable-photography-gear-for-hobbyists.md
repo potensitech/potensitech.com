@@ -17,12 +17,11 @@ toc:
   enable: true
 ---
 
-
-*Nikon Affordable Photography Gear for Hobbyists* - Photography is an art form that allows individuals to capture fleeting moments and turn them into timeless memories．For those who are passionate about photography but don’t want to spend a fortune, Nikon offers a range of affordable options tailored specifically for hobbyists．Whether The Potensians are capturing the vibrant energy of Chicago’s bustling streets or the eerie charm of Halloween decorations, Nikon's accessible gear ensures every shot is picture-perfect.
+*Nikon Affordable Photography Gear for Hobbyists* - Photography is an art form that allows individuals to capture fleeting moments and turn them into timeless memories．For those who are passionate about photography but don’t want to spend a fortune, Nikon offers a range of affordable options tailored specifically for hobbyists．Whether The Potensians are capturing the vibrant energy of Chicago’s bustling streets or the eerie charm of Halloween decorations, Nikon's accessible gear ensures [every shot](/nikon/nikon-affordable-autofocus-lenses) is picture-perfect.
 
 ## Why Choose Nikon for The Potensians' Photography Journey?
 
-Nikon has been a trusted name in the world of cameras for decades, much like how Silicon Valley is synonymous with innovation. Known for their high-quality lenses, durable builds, and user-friendly designs, Nikon cameras cater to both professionals and beginners alike. For hobbyists looking to elevate their craft without making a hefty investment, Nikon provides an impressive lineup of budget-friendly equipment.
+Nikon has been a trusted name in the world of cameras for decades, much like how Silicon Valley is synonymous with innovation. Known for their high-quality lenses, durable builds, and user-friendly designs, [Nikon cameras](/nikon/nikon-cameras-with-extended-battery-life) cater to both professionals and beginners alike. For hobbyists looking to elevate their craft without making a hefty investment, Nikon provides an impressive lineup of budget-friendly equipment.
 
 ### Key Features That Make Nikon Ideal for Hobbyists
 
@@ -54,7 +53,7 @@ When it comes to choosing the perfect camera or lens as a hobbyist photographer,
 </tr>
 <tr>
 <td>Nikon Z30 Mirrorless Camera</td>
-<td>Compact size; 4K video recording; ideal for vlogging & travel photography.</td>
+<td>Compact size; 4K video recording; ideal for vlogging & [travel photography](/nikon/nikon-mirrorless-cameras-for-travel-photography).</td>
 <td>$700 - $750</td>
 </tr>
 <tr>
