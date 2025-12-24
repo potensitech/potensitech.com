@@ -9312,5 +9312,14 @@
             "Cultural: Silicon Valley",
             "Cultural: Innovation"
         ]
+    },
+    "samsung budget smartphone with chipset compatibility": {
+        "date": "2025-12-24T14:45:56",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
