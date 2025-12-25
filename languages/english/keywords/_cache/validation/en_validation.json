@@ -4849,5 +4849,8 @@
   "intel optimized processor for budget users": true,
   "intel cost-effective processor with smooth performance": true,
   "intel entry-level affordable processor": true,
-  "intel budget processor for efficient performance": true
+  "intel budget processor for efficient performance": true,
+  "nvidia affordable chipset for gaming GPUs": true,
+  "nvidia budget-friendly processor for gaming performance": true,
+  "nvidia budget-friendly processor for multitasking needs": true
 }
