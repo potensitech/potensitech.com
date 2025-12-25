@@ -9368,5 +9368,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Samsung smartphone with affordable chipset": {
+        "date": "2025-12-25T17:04:38",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Broadway",
+            "Cultural: Central Park",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
