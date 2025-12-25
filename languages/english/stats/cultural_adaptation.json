@@ -9381,5 +9381,18 @@
             "Cultural: Central Park",
             "Cultural: Clam Chowder"
         ]
+    },
+    "advanced chipset in affordable Samsung smartphone": {
+        "date": "2025-12-25T19:33:24",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
