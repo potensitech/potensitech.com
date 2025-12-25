@@ -371,4 +371,5 @@ amd affordable chipset compatibility for GPUs
 amd processor speed optimization for multitasking
 amd processor speed for professional workloads
 amd processor speed for high-performance computing
+amd ryzen processors
 

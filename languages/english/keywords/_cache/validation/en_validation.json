@@ -4852,5 +4852,6 @@
   "intel budget processor for efficient performance": true,
   "nvidia affordable chipset for gaming GPUs": true,
   "nvidia budget-friendly processor for gaming performance": true,
-  "nvidia budget-friendly processor for multitasking needs": true
+  "nvidia budget-friendly processor for multitasking needs": true,
+  "amd ryzen processors": true
 }
