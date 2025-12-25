@@ -79,7 +79,7 @@ One of the most exciting aspects of Samsung's low-cost chipsets is their integra
 
 ## Real-World Applications: How These Chipsets Perform
 
-When discussing Samsung low-cost smartphone chipset performance, real-world usage scenarios speak louder than specifications alone. For instance:
+When discussing Samsung low-cost smartphone [chipset performance](/samsung/samsung-smartphone-optimized-for-chipset-performance), real-world usage scenarios speak louder than specifications alone. For instance:
 
 ### Gaming on a Budget
 
