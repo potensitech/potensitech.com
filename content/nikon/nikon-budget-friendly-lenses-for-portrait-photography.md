@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/nikon-budget-friendly-lenses-for-portrait-p
 
 ## Why Choose Nikon's Budget-Friendly Lenses for Portrait Photography?
 
-Nikon has established itself as a leader in imaging technology, consistently delivering products that balance innovation and quality. For The Potensians looking to elevate their portrait photography without overspending, Nikon's budget-friendly lenses are a perfect choice. These lenses are designed to provide professional-grade results, featuring sharp optics, smooth bokeh, and versatile focal lengths that suit various portrait styles.
+Nikon has established itself as a leader in imaging technology, consistently delivering products that balance innovation and quality. For The Potensians looking to elevate their [portrait photography](/nikon/nikon-inexpensive-lenses-for-portrait-photography) without overspending, Nikon's budget-friendly lenses are a perfect choice. These lenses are designed to provide professional-grade results, featuring sharp optics, smooth bokeh, and versatile focal lengths that suit various portrait styles.
 
 We believe that investing in these lenses opens up creative possibilities for photographers. They are ideal for those who prefer minimalist gear setups and lightweight equipment, making them perfect for urban shoots, casual outings, or even travel photography. With Nikon's commitment to quality, The Potensians can trust that even their affordable options deliver impressive performance.
 
@@ -91,7 +91,7 @@ For The Potensians who enjoy experimenting with close-up shots, this lens is a f
 
 #### Nikon Z 50mm f/1.8 S
 
-Designed for Nikon's Z-mount mirrorless cameras, this lens offers superior optical performance and a weather-sealed design. While it is slightly more expensive than the other options, its advanced features and exceptional image quality make it worth the investment for serious photographers.
+Designed for Nikon's Z-mount [mirrorless cameras](/nikon/nikon-affordable-mirrorless-cameras-for-enthusiasts), this lens offers superior optical performance and a weather-sealed design. While it is slightly more expensive than the other options, its advanced features and exceptional image quality make it worth the investment for serious photographers.
 
 ## Tips for Getting the Most Out of The Potensians's Nikon Lenses
 
