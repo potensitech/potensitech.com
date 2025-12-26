@@ -418,4 +418,6 @@ intel optimized processor for budget users
 intel cost-effective processor with smooth performance
 intel entry-level affordable processor
 intel budget processor for efficient performance
+intel cost-effective multitasking processor
+intel fast and affordable student processor
 
