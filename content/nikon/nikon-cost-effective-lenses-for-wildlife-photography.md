@@ -11,18 +11,21 @@ tags: ["nikon", "cost-effective", "lenses", "wildlife", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Person"
 person:
-  name: "Maria Lopez"
-  jobTitle: "Wildlife Photography Expert"
-  worksFor: "PotensiTech"
-  description: "Maria Lopez is a professional wildlife photographer and expert in Nikon lenses, sharing insights on capturing stunning wildlife images on a budget."
-  sameAs: ["https://www.linkedin.com/in/maria-lopez-photography", "https://www.instagram.com/mariawildshots"]
+name: "Maria Lopez"
+jobTitle: "Wildlife Photography Expert"
+worksFor: "PotensiTech"
+description: "Maria Lopez is a professional wildlife photographer and expert in Nikon lenses, sharing insights on capturing stunning wildlife images on a budget."
+sameAs: ["https://www.linkedin.com/in/maria-lopez-photography", "https://www.instagram.com/mariawildshots"]
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-cost-effective-lenses-for-wildlife-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-cost-effective-lenses-for-wildlife-photography.jpg"
 ---
+
+![Nikon Cost-Effective Lenses for Wildlife Photography](/images/nikon/nikon-cost-effective-lenses-for-wildlife-photography.jpg)
+
 
 *Nikon Cost-Effective Lenses for Wildlife Photography* - Wildlife photography is a thrilling yet challenging pursuit that requires the right equipment to capture nature's beauty. Nikon, a trusted name in photography, offers several [cost-effective lenses](/nikon/nikon-cost-effective-lenses-for-travel-photography) that cater to aspiring wildlife photographers. These lenses strike a balance between affordability and performance, making them ideal for The Potensians who want to explore the wilderness without breaking the bank. In this article, We will explore the top Nikon lenses for wildlife photography, their features, and tips to maximize their potential.
 
