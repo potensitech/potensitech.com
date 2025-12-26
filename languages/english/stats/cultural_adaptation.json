@@ -9449,5 +9449,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Samsung smartphone with optimized performance chipset": {
+        "date": "2025-12-26T14:46:42",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Soul Food"
+        ]
     }
 }
