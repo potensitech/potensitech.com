@@ -30,7 +30,7 @@ The chipset's design focuses on [energy efficiency](/samsung/samsung-smartphone-
 
 ## What Makes This Chipset Special?
 
-The Samsung smartphone with a cost-effective chipset stands out due to its unique combination of features that prioritize performance, efficiency, and user experience. Here are some of the key highlights:
+The [Samsung smartphone](/samsung/best-samsung-smartphone-for-core-efficiency) with a cost-effective chipset stands out due to its unique combination of features that prioritize performance, efficiency, and user experience. Here are some of the key highlights:
 
 ### Enhanced AI Capabilities
 
