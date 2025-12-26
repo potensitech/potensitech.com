@@ -9406,5 +9406,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Samsung smartphone with efficient chipset": {
+        "date": "2025-12-26T02:20:07",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: BBQ"
+        ]
     }
 }
