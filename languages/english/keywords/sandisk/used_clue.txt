@@ -37,3 +37,4 @@ mirrorless camera
 autofocus technology
 mirrorless options
 solid state
+chipset compatibility
