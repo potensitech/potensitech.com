@@ -4901,5 +4901,9 @@
   "nvidia high-performance GPU with compatibility features": true,
   "nvidia budget-friendly GPU for gaming performance": true,
   "nvidia GPU optimized for processor speed": true,
-  "nvidia entry-level GPU with chipset compatibility": true
+  "nvidia entry-level GPU with chipset compatibility": true,
+  "amd affordable chipset for multitasking": true,
+  "amd chipset compatibility for budget PCs": true,
+  "amd affordable chipset for gaming setups": true,
+  "amd reliable processor for entry-level systems": true
 }
