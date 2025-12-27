@@ -420,4 +420,5 @@ intel entry-level affordable processor
 intel budget processor for efficient performance
 intel cost-effective multitasking processor
 intel fast and affordable student processor
+affordable intel chipset compatibility
 
