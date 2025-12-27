@@ -4945,5 +4945,7 @@
   "affordable intel chipset compatibility": true,
   "nvidia budget GPU chipset compatibility": true,
   "nvidia budget gaming GPU processor speed": true,
-  "nvidia workstation GPU chipset compatibility": true
+  "nvidia workstation GPU chipset compatibility": true,
+  "amd affordable processor performance review": true,
+  "amd budget-friendly chipset compatibility for PCs": true
 }
