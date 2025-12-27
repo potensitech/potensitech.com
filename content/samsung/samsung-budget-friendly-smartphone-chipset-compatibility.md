@@ -76,7 +76,7 @@ Battery life is a critical factor for budget smartphone users. Chipsets like the
 
 Modern smartphones are as much about photography as they are about communication. Chipsets play a significant role in determining the quality of photos and videos. For example:
 
-- Exynos chipsets often include advanced image signal processors (ISPs) that enhance photo quality, even in low-light conditions. 
+- Exynos chipsets often include [advanced image](/samsung/samsung-smartphone-with-advanced-image-stabilization) signal processors (ISPs) that enhance photo quality, even in low-light conditions. 
 - Snapdragon chipsets are known for their AI capabilities, which can improve features like portrait mode and real-time video stabilization.
 
 ## Comparison of Popular Samsung Budget Smartphone Chipsets
