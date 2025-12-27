@@ -4942,5 +4942,8 @@
   "sandisk high-performance SSD for laptops": true,
   "sandisk budget-friendly SSD for gaming": true,
   "sandisk durable memory cards for cameras": true,
-  "affordable intel chipset compatibility": true
+  "affordable intel chipset compatibility": true,
+  "nvidia budget GPU chipset compatibility": true,
+  "nvidia budget gaming GPU processor speed": true,
+  "nvidia workstation GPU chipset compatibility": true
 }

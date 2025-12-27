@@ -371,4 +371,7 @@ nvidia high-performance GPU with compatibility features
 nvidia budget-friendly GPU for gaming performance
 nvidia GPU optimized for processor speed
 nvidia entry-level GPU with chipset compatibility
+nvidia budget GPU chipset compatibility
+nvidia budget gaming GPU processor speed
+nvidia workstation GPU chipset compatibility
 
