@@ -9522,5 +9522,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone chipsets for budget users": {
+        "date": "2025-12-27T12:40:21",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
