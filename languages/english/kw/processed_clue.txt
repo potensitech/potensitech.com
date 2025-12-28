@@ -2119,3 +2119,5 @@ camera lenses
 chipset compatibility
 chipset compatibility
 processor speed
+chipset compatibility
+processor speed
