@@ -122,7 +122,7 @@ To truly appreciate Samsung's advancements, it’s essential to compare their li
 </tr>
 <tr>
 <td>Brand Y</td>
-<td>Basic LED modules, no advanced features</td>
+<td>Basic LED modules, no [advanced features](/samsung/affordable-samsung-smartphone-with-advanced-features)</td>
 <td>$200-$500</td>
 <td>3/5</td>
 </tr>
