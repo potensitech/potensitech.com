@@ -54,7 +54,7 @@ Samsung’s affordable smartphones also feature advanced flash technology that c
 
 ## Comparing Samsung's Affordable Lighting Solutions
 
-To better understand the value Samsung offers, let’s compare some of their affordable smartphone models based on lighting features, price, and overall performance.
+To better understand the value Samsung offers, let’s compare some of their affordable [smartphone models](/samsung/affordable-samsung-smartphone-models) based on lighting features, price, and overall performance.
 
 <div class="table-responsive">
 <table class="html-table">
