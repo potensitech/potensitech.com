@@ -9566,5 +9566,18 @@
             "Cultural: Christmas",
             "Cultural: Innovation"
         ]
+    },
+    "affordable Samsung smartphone models": {
+        "date": "2025-12-28T12:40:44",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Burgers"
+        ]
     }
 }
