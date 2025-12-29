@@ -4986,5 +4986,7 @@
   "sandisk SSD for secure data backup": true,
   "sandisk SSD for seamless file transfers": true,
   "intel low-cost processor for home computing": true,
-  "intel affordable processor for office use": true
+  "intel affordable processor for office use": true,
+  "amd chipset compatibility for gaming systems": true,
+  "amd chipset compatibility for multitasking systems": true
 }
