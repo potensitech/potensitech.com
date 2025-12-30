@@ -9670,5 +9670,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Samsung smartphones for photography enthusiasts": {
+        "date": "2025-12-30T05:10:27",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: BBQ"
+        ]
     }
 }
