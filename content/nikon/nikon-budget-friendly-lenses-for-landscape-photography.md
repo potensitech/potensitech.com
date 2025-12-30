@@ -11,11 +11,14 @@ tags: ["nikon", "budget-friendly", "lenses", "landscape photography", "affordabl
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-budget-friendly-lenses-for-landscape-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-budget-friendly-lenses-for-landscape-photography.jpg"
 ---
+
+![Nikon Budget-Friendly Lenses for Landscape Photography](/images/nikon/nikon-budget-friendly-lenses-for-landscape-photography.jpg)
+
 
 *Nikon Budget-Friendly Lenses for Landscape Photography* - 
 
