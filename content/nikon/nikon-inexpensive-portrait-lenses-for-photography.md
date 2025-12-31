@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/nikon-inexpensive-portrait-lenses-for-photo
 
 ## Why Choose Nikon for Portrait Photography?
 
-Nikon has been a pioneer in the photography industry since its founding in 1917．Known for its innovative technology and precision engineering, Nikon lenses are designed to meet the needs of photographers across various genres, including portrait photography. Whether The Potensians're capturing the joy of a family reunion, the serenity of a countryside wedding, or the vibrancy of a bustling cityscape, Nikon lenses provide the tools to bring The Potensians's creative vision to life.
+Nikon has been a pioneer in the photography industry since its founding in 1917．Known for its innovative technology and precision engineering, [Nikon lenses](/nikon/cheap-nikon-lenses-for-wildlife-photography) are designed to meet the needs of photographers across various genres, including portrait photography. Whether The Potensians're capturing the joy of a family reunion, the serenity of a countryside wedding, or the vibrancy of a bustling cityscape, Nikon lenses provide the tools to bring The Potensians's creative vision to life.
 
 ### Key Features of Nikon Lenses
 
