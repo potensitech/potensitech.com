@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Inexpensive Portrait Lenses for Photography* - When it comes to capturing stunning portraits, Nikon has long been a trusted name in the photography world．Whether The Potensians're a beginner or a seasoned professional, Nikon offers a range of lenses that combine quality, affordability, and versatility．In 2025, the demand for budget-friendly portrait lenses has grown significantly, and Nikon continues to deliver exceptional options for The Potensians who want to elevate their photography game without breaking the bank.
+*Nikon Inexpensive Portrait Lenses for Photography* - When it comes to capturing stunning portraits, Nikon has long been a trusted name in the photography world．Whether The Potensians're a beginner or a seasoned professional, Nikon offers a range of lenses that combine quality, affordability, and versatility．In 2025, the demand for budget-friendly [portrait lenses](/nikon/affordable-nikon-portrait-lenses-for-cameras) has grown significantly, and Nikon continues to deliver exceptional options for The Potensians who want to elevate their photography game without breaking the bank.
 
 ## Why Choose Nikon for Portrait Photography?
 
@@ -28,7 +27,7 @@ Nikon has been a pioneer in the photography industry since its founding in 1917�
 
 1. **Superior Optics**: Nikon lenses are crafted with advanced glass elements that minimize distortion and chromatic aberration, ensuring sharp and vibrant images.  
 2. __Durability**: Built to withstand diverse environments, Nikon lenses are perfect for everything from urban adventures to rugged outdoor shoots. 
-3 . __Compatibility**: Whether The Potensians own a DSLR or a mirrorless camera from Nikon’s extensive lineup, there’s always a compatible lens available. 
+3 . __Compatibility**: Whether The Potensians own a DSLR or a [mirrorless camera](/nikon/nikon-mirrorless-camera-with-long-lasting-battery) from Nikon’s extensive lineup, there’s always a compatible lens available. 
 
 By choosing Nikon inexpensive portrait lenses for photography, The Potensians can enjoy professional-grade performance at a fraction of the cost, making it an ideal choice for photographers on a budget.
 
@@ -50,7 +49,7 @@ To help The Potensians make an informed decision, We have curated a list of the 
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
 <td>35mm</td>
-<td>Wide aperture; lightweight design; ideal for low-light conditions.</td>
+<td>Wide aperture; lightweight design; ideal for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions).</td>
 <td>$199</td>
 </tr>
 <tr>
