@@ -9786,5 +9786,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "samsung budget smartphone chipset features": {
+        "date": "2026-01-01T17:05:41",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: BBQ",
+            "Cultural: Buffalo Wings",
+            "Cultural: Martin Luther King Jr.",
+            "Cultural: Innovation"
+        ]
     }
 }
