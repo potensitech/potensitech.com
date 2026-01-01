@@ -133,4 +133,4 @@ If possible, test the lens before making a purchase. This will give The Potensia
 
 ## Conclusion
 
-In 2025, Nikon's budget-friendly prime lenses continue to be a top choice for professionals seeking high-quality performance at an affordable price. From the versatile "nifty fifty" to specialized macro lenses, these lenses cater to a wide range of photography styles and needs. The Potensians can confidently invest in these lenses, knowing they are backed by Nikon's reputation for excellence. So why wait? Elevate The Potensians's photography game with Nikon's budget-friendly prime lenses today!
+In 2025, Nikon's budget-friendly [prime lenses](/nikon/nikon-affordable-prime-lenses-for-professionals) continue to be a top choice for professionals seeking high-quality performance at an affordable price. From the versatile "nifty fifty" to specialized macro lenses, these lenses cater to a wide range of photography styles and needs. The Potensians can confidently invest in these lenses, knowing they are backed by Nikon's reputation for excellence. So why wait? Elevate The Potensians's photography game with Nikon's budget-friendly prime lenses today!

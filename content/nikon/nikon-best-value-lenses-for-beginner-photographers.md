@@ -109,7 +109,7 @@ The 35mm focal length is ideal for street photography, environmental portraits, 
 
 ### Price Range
 
-We​n 2025, the Nikon AF-S DX NIKKOR 35mm f/1.8G is available for around $200, making it an affordable option for beginners who want to explore prime lenses.
+We​n 2025, the Nikon AF-S DX NIKKOR 35mm f/1.8G is available for around $200, making it an affordable option for beginners who want to explore [prime lenses](/nikon/nikon-affordable-prime-lenses-for-professionals).
 
 ## Nikon AF-S NIKKOR 50mm f/1.8G
 

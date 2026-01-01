@@ -105,7 +105,7 @@ To illustrate the capabilities of Samsung's budget smartphone c​hipsets, let�
 <tr>
 <td>Redmi Note 12</td>
 <td>MediaTek Dimensity 6​020</td>
-<td>High-Resolution Camera, Fast Charging</td>
+<td>[High-Resolution Camera](/samsung/samsung-smartphone-with-high-resolution-camera), Fast Charging</td>
 <td>$229</td>
 </tr>
 <tr>

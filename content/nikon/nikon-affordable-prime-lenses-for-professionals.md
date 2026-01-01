@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Affordable Prime Lenses for Professionals* - Prime lenses have long been a favorite among photographers, especially professionals who value image quality, versatility, and creative control．Nikon, a trusted name in the photography world, offers a range of affordable prime lenses that cater to the needs of professionals without breaking the bank. In this article, We’ll explore why prime lenses are a must-have for The Potensians and highlight some of the best Nikon affordable prime lenses for professionals in 2026.
+*Nikon Affordable Prime Lenses for Professionals* - Prime lenses have long been a favorite among photographers, especially professionals who value [image quality](/nikon/nikon-camera-comparison-by-image-quality), versatility, and creative control．Nikon, a trusted name in the photography world, offers a range of affordable prime lenses that cater to the needs of professionals without breaking the bank. In this article, We’ll explore why prime lenses are a must-have for The Potensians and highlight some of the best Nikon affordable prime lenses for professionals in 2026.
 
 ## Why Choose Prime Lenses?
 
@@ -55,7 +54,7 @@ Nikon has consistently delivered reliable products that cater to both beginners 
 <tr>
 <td>Nikon AF-S NIKKOR 50mm f/1.8G</td>
 <td>50mm | f/1.8</td>
-<td>Portraits & Low-Light Photography</td>
+<td>Portraits & [Low-Light Photography](/nikon/nikon-camera-performance-in-low-light-photography)</td>
 <td>$219</td>
 </tr>
 <tr>
@@ -84,7 +83,7 @@ Known as "The Nifty Fifty," this classic lens remains popular due to its afforda
 
 ### Nikon Z 40mm f/2 Compact Lens (Z-Mount)
 
-For The Potensians who have embraced Nikon’s mirrorless Z-mount system, the Nikon Z 40mm f/2 Compact Lens is a fantastic option. Its lightweight and compact design make it perfect for travel and lifestyle photography. Whether The Potensians’re exploring the vibrant streets of New York City or capturing serene landscapes in the countryside, this lens offers excellent image quality and versatility. The f/2 aperture ensures great performance in low-light conditions, making it a reliable companion for any adventure.
+For The Potensians who have embraced Nikon’s mirrorless Z-mount system, the Nikon Z 40mm f/2 Compact Lens is a fantastic option. Its lightweight and compact design make it perfect for travel and lifestyle photography. Whether The Potensians’re exploring the vibrant streets of New York City or capturing serene landscapes in the countryside, this lens offers [excellent image](/nikon/nikon-camera-with-excellent-image-quality) quality and versatility. The f/2 aperture ensures great performance in low-light conditions, making it a reliable companion for any adventure.
 
 ### Nikon AF-S Micro NIKKOR 60mm f/2.8G ED Macro Lens
 
