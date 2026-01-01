@@ -5065,5 +5065,11 @@
   "nvidia cost-effective chipset for reliable performance": true,
   "nvidia high-performance processor for budget users": true,
   "nvidia compatible chipset for efficient computing": true,
-  "nvidia affordable gaming processor": true
+  "nvidia affordable gaming processor": true,
+  "amd high-performance gaming processor": true,
+  "amd reliable multitasking processor": true,
+  "amd workstation processor with optimal speed": true,
+  "amd gaming PC chipset compatibility": true,
+  "amd cost-effective performance processor": true,
+  "amd entry-level chipset for PCs": true
 }
