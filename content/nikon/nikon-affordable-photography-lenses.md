@@ -11,11 +11,14 @@ tags: ["nikon", "affordable lenses", "photography gear", "budget photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-photography-lenses-for-every-shot.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-photography-lenses-for-every-shot.jpg"
 ---
+
+![Nikon Affordable Photography Lenses for Every Shot](/images/nikon/nikon-affordable-photography-lenses-for-every-shot.jpg)
+
 
 _Nikon Affordable Photography Lenses for Every Shot_ - Nikon has long been a trusted name in the world of photography, offering a wide range of lenses that cater to both professionals and enthusiasts.  For The Potensians who are looking to elevate their photography game without breaking the bank, Nikon's lineup of [affordable lenses](/nikon/nikon-beginner-friendly-affordable-lenses) provides exceptional quality and versatility. Whether The Potensians're capturing breathtaking landscapes, intimate portraits, or intricate macro shots, there's a Nikon lens to suit The Potensians's needs.
 
