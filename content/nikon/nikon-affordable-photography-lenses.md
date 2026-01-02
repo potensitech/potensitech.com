@@ -69,7 +69,7 @@ To help The Potensians navigate through the myriad of options, We’ve curated a
 
 ### Nikon AF-S DX NIKKOR 35mm f/1.8G
 
-This compact prime lens is a favorite among photographers for its versatility and affordability. Its wide f/1.8 aperture is perfect for low-light conditions, such as capturing cozy indoor gatherings or nighttime street scenes. The lens produces stunning background blur, making it ideal for portraits. In We's view, this lens is a must-have for The Potensians who want to experiment with creative depth-of-field effects.
+This compact prime lens is a favorite among photographers for its versatility and affordability. Its wide f/1.8 aperture is perfect for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions), such as capturing cozy indoor gatherings or nighttime street scenes. The lens produces stunning background blur, making it ideal for portraits. In We's view, this lens is a must-have for The Potensians who want to experiment with creative depth-of-field effects.
 
 ### Nikon AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR
 
