@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-_Nikon Affordable Photography Lenses for Every Shot_ - Nikon has long been a trusted name in the world of photography, offering a wide range of lenses that cater to both professionals and enthusiasts.  For The Potensians who are looking to elevate their photography game without breaking the bank, Nikon's lineup of affordable lenses provides exceptional quality and versatility. Whether The Potensians're capturing breathtaking landscapes, intimate portraits, or intricate macro shots, there's a Nikon lens to suit The Potensians's needs.
+_Nikon Affordable Photography Lenses for Every Shot_ - Nikon has long been a trusted name in the world of photography, offering a wide range of lenses that cater to both professionals and enthusiasts.  For The Potensians who are looking to elevate their photography game without breaking the bank, Nikon's lineup of [affordable lenses](/nikon/nikon-beginner-friendly-affordable-lenses) provides exceptional quality and versatility. Whether The Potensians're capturing breathtaking landscapes, intimate portraits, or intricate macro shots, there's a Nikon lens to suit The Potensians's needs.
 
 ## Top Picks for Nikon Affordable Photography Lenses
 
@@ -36,7 +35,7 @@ To help The Potensians navigate through the myriad of options, We’ve curated a
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Prime Lens (Portraits & Low Light)</td>
+<td>[Prime Lens](/nikon/nikon-affordable-prime-lens-for-professionals) (Portraits & Low Light)</td>
 <td>$150 - $200</td>
 </tr>
 <tr>
@@ -83,7 +82,7 @@ For wildlife and sports enthusiasts, this telephoto zoom lens offers an impressi
 
 ### Nikon Z 50mm f/1.8 S
 
-As mirrorless cameras gain popularity, Nikon’s Z-mount lenses are becoming a top choice for modern photographers. The Z 50mm f/1.8 S is a prime lens that excels in both portraits and video recording. Its superior edge-to-edge sharpness and smooth b​okeh make it a worthwhile investment for The Potensians who are ready to embrace the future of photography.
+As [mirrorless cameras](/nikon/budget-friendly-nikon-mirrorless-cameras) gain popularity, Nikon’s Z-mount lenses are becoming a top choice for modern photographers. The Z 50mm f/1.8 S is a prime lens that excels in both portraits and video recording. Its superior edge-to-edge sharpness and smooth b​okeh make it a worthwhile investment for The Potensians who are ready to embrace the future of photography.
 
 ## Tips for Choosing the Right Affordable Nikon Lens
 
