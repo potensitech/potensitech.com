@@ -9808,5 +9808,18 @@
         "matches": [
             "Cultural: New York"
         ]
+    },
+    "nikon affordable zoom lenses for travel": {
+        "date": "2026-01-02T05:11:18",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
