@@ -386,4 +386,5 @@ amd workstation processor with optimal speed
 amd gaming PC chipset compatibility
 amd cost-effective performance processor
 amd entry-level chipset for PCs
+amd graphics cards
 
