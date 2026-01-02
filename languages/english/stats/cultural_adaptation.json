@@ -9852,5 +9852,18 @@
             "Cultural: Central Park",
             "Cultural: Apple Pie"
         ]
+    },
+    "nikon low-cost lenses for beginners": {
+        "date": "2026-01-02T17:04:36",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
