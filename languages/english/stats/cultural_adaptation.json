@@ -9839,5 +9839,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon beginner-friendly DSLR gear": {
+        "date": "2026-01-02T14:47:45",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: Apple Pie"
+        ]
     }
 }
