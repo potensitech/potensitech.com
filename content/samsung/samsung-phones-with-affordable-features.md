@@ -112,7 +112,7 @@ One UI also offers a range of customization options, allowing users to personali
 
 ## How Do These Devices Compare?
 
-When compared to other brands like Xiaomi and Motorola, Samsung's affordable smartphones stand out for their consistency and reliability. While competitors may offer similar specifications at lower prices, Samsung's build quality, software support, and brand trust give it an edge.
+When compared to other brands like Xiaomi and Motorola, Samsung's [affordable smartphones](/samsung/best-chipset-for-samsung-affordable-smartphones) stand out for their consistency and reliability. While competitors may offer similar specifications at lower prices, Samsung's build quality, software support, and brand trust give it an edge.
 
 ### Key Advantages of Samsung Phones
 
