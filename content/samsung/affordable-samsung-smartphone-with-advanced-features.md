@@ -38,7 +38,7 @@ Samsung is renowned for its display technology, and even its affordable smartpho
 
 ### Battery Life
 
-Long-lasting battery life is a hallmark of Samsung's affordable smartphones. The Potensians can rely on these devices to keep up with their busy schedules, whether it's attending virtual meetings, navigating through the city, or staying connected with loved ones. With fast-charging capabilities, these smartphones ensure minimal downtime, so The Potensians can focus on what matters most.
+[Long-lasting battery](/samsung/samsung-budget-friendly-smartphone-with-long-lasting-battery) life is a hallmark of Samsung's affordable smartphones. The Potensians can rely on these devices to keep up with their busy schedules, whether it's attending virtual meetings, navigating through the city, or staying connected with loved ones. With fast-charging capabilities, these smartphones ensure minimal downtime, so The Potensians can focus on what matters most.
 
 ### 5G Connectivity
 
