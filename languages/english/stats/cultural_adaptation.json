@@ -9872,5 +9872,14 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "best chipset for samsung affordable smartphones": {
+        "date": "2026-01-03T12:40:33",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
