@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Affordable Lenses for Portrait Photography* - Portrait photography is an art that captures the essence of human emotions, expressions, and individuality. For The Potensians who are passionate about this craft, having the right lens can make all the difference. Nikon, a renowned name in camera products, offers a range of affordable lenses tailored to meet the needs of both amateur and professional photographers. In this article, We will explore some of Nikon's affordable lenses for portrait photography while providing insights into their features and benefits.
+*Nikon Affordable Lenses for Portrait Photography* - [Portrait photography](/nikon/nikon-inexpensive-lenses-for-portrait-photography) is an art that captures the essence of human emotions, expressions, and individuality. For The Potensians who are passionate about this craft, having the right lens can make all the difference. Nikon, a renowned name in camera products, offers a range of affordable lenses tailored to meet the needs of both amateur and professional photographers. In this article, We will explore some of Nikon's affordable lenses for portrait photography while providing insights into their features and benefits.
 
 ## Why Choosing the Right Lens Matters in Portrait Photography
 
@@ -39,7 +38,7 @@ Now that We've set We's criteria, let’s explore some top-performing yet afford
 
 ## Top Affordable Nikon Lenses for Portrait Photography
 
-Nikon has been a trusted brand since its inception in 1917—a legacy of innovation and quality. With a commitment to providing value-packed products, Nikon offers lenses that cater to both beginners and professionals. Below, We’ve compiled a list of some of the best affordable Nikon lenses for portrait photography in 2026.
+Nikon has been a trusted brand since its inception in 1917—a legacy of innovation and quality. With a commitment to providing value-packed products, Nikon offers lenses that cater to both beginners and professionals. Below, We’ve compiled a list of some of the best affordable [Nikon lenses](/nikon/best-nikon-lenses-online) for portrait photography in 2026.
 
 <div class="table-responsive">
 <table class="html-table">
@@ -53,7 +52,7 @@ Nikon has been a trusted brand since its inception in 1917—a legacy of innovat
 <tbody>
 <tr>
 <td>Nikon AF-S NIKKOR 50mm f/1.8G</td>
-<td>- Wide f/1.8 aperture<br>- Compact & lightweight design<br>- Silent Wave Motor (SWM) for fast autofocus</td>
+<td>- Wide f/1.8 aperture<br>- Compact & lightweight design<br>- Silent Wave Motor (SWM) for [fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus)</td>
 <td>$200-$250</td>
 </tr>
 <tr>
@@ -91,7 +90,7 @@ The 85mm focal length is often considered the gold standard for portrait photogr
 
 #### Nikon Z 40mm f/2 (for mirrorless)
 
-For The Potensians using Nikon’s Z-mount mirrorless cameras, this compact and lightweight lens is a fantastic option. Its f/2 aperture provides smooth background blur, and its portability makes it perfect for travel and outdoor shoots. This lens is a testament to Nikon’s commitment to innovation in the mirrorless segment.
+For The Potensians using Nikon’s Z-mount [mirrorless cameras](/nikon/nikon-mirrorless-cameras-for-travel-photography), this compact and lightweight lens is a fantastic option. Its f/2 aperture provides smooth background blur, and its portability makes it perfect for travel and outdoor shoots. This lens is a testament to Nikon’s commitment to innovation in the mirrorless segment.
 
 ## Tips for Getting the Most Out of The Potensians's Portrait Lens
 
