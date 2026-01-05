@@ -9924,5 +9924,16 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "samsung budget smartphone chipset options": {
+        "date": "2026-01-05T04:13:14",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
