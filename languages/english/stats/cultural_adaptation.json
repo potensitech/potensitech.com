@@ -9960,5 +9960,14 @@
             "Cultural: BBQ",
             "Cultural: Innovation"
         ]
+    },
+    "affordable samsung smartphones with compatible chipsets": {
+        "date": "2026-01-05T12:46:21",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
