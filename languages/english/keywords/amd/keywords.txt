@@ -387,4 +387,5 @@ amd gaming PC chipset compatibility
 amd cost-effective performance processor
 amd entry-level chipset for PCs
 amd graphics cards
+amd budget chipset compatibility tutorial
 

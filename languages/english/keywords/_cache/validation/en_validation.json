@@ -5193,5 +5193,6 @@
   "intel-compatible chipsets for affordable builds": true,
   "nvidia processor compatibility for budget builds": true,
   "nvidia processor speed for budget computers": true,
-  "nvidia affordable chipset for high-performance GPUs": true
+  "nvidia affordable chipset for high-performance GPUs": true,
+  "amd budget chipset compatibility tutorial": true
 }
