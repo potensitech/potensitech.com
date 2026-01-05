@@ -5190,5 +5190,8 @@
   "intel affordable chipset compatibility guide": true,
   "affordable intel processors with compatible chipsets": true,
   "budget-friendly intel processors with chipset compatibility": true,
-  "intel-compatible chipsets for affordable builds": true
+  "intel-compatible chipsets for affordable builds": true,
+  "nvidia processor compatibility for budget builds": true,
+  "nvidia processor speed for budget computers": true,
+  "nvidia affordable chipset for high-performance GPUs": true
 }
