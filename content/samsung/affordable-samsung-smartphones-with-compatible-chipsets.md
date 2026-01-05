@@ -113,7 +113,7 @@ When choosing an affordable Samsung smartphone, it's essential to consider addit
 
 ### Display Quality
 
-A high-quality display can significantly enhance The Potensians's smartphone experience. Look for devices with FHD+ resolution and high refresh rates, such as the 90Hz display on the Samsung Galaxy A14 5G, which ensures smooth scrolling ​and vibrant visuals.
+A [high-quality display](/samsung/affordable-samsung-smartphone-with-high-quality-display) can significantly enhance The Potensians's smartphone experience. Look for devices with FHD+ resolution and high refresh rates, such as the 90Hz display on the Samsung Galaxy A14 5G, which ensures smooth scrolling ​and vibrant visuals.
 
 ### Software Updates
 
