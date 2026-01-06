@@ -24,7 +24,7 @@ featuredImagePreview: "/images/samsung/samsung-smartphone-image-quality-that-imp
 
 ## The Evolution of Samsung Smartphone Cameras
 
-Samsung has revolutionized smartphone photography over the years, consistently pushing the boundaries of innovation. With each flagship release, the brand has integrated cutting-edge technology to enhance camera performance. Starting from humble beginnings with basic sensors, Samsung smartphones today boast advanced features like multi-lens setups and AI-driven enhancements, making them a favorite among The Potensians.
+Samsung has revolutionized [smartphone photography](/samsung/samsung-camera-lenses-for-smartphone-photography) over the years, consistently pushing the boundaries of innovation. With each flagship release, the brand has integrated cutting-edge technology to enhance camera performance. Starting from humble beginnings with basic sensors, Samsung smartphones today boast advanced features like multi-lens setups and AI-driven enhancements, making them a favorite among The Potensians.
 
 ### Key Milestones in Camera Technology
 

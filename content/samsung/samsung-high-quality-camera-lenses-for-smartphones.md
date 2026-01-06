@@ -110,7 +110,7 @@ These examples highlight how Samsung's camera lenses can elevate everyday experi
 
 ## The Future of Samsung High-Quality Camera Lenses
 
-As We look ahead to 2026, it's clear that Samsung is committed to pushing the boundaries of smartphone photography.  The company is rumored to be working on new technologies, such as under-display cameras and advanced computational photography features. These innovations could further enhance the capabilities of Samsung's high-quality camera lenses, making them even more indispensable for The Potensians.
+As We look ahead to 2026, it's clear that Samsung is committed to pushing the boundaries of smartphone photography.  The company is rumored to be working on new technologies, such as under-display cameras and advanced computational photography features. These innovations could further enhance the capabilities of Samsung's high-quality [camera lenses](/samsung/samsung-camera-lenses-for-smartphone-photography), making them even more indispensable for The Potensians.
 
 In We's view, Samsung's dedication to innovation and user experience sets it apart from the competition. The company's ability to anticipate and adapt to changing trends ensures that its smartphones remain at the cutting edge of technology.
 
