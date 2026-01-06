@@ -24,7 +24,7 @@ featuredImagePreview: "/images/samsung/samsung-camera-lenses-for-smartphone-phot
 
 ## The Evolution of Samsung Camera Lenses
 
-Samsung's journey in smartphone photography is nothing short of remarkable. From humble beginnings to becoming a leader in mobile imaging technology, the brand has consistently pushed boundaries. Over time, Samsung's camera lenses have evolved from basic single-lens setups to sophisticated multi-lens systems that rival traditional cameras.
+Samsung's journey in smartphone photography is nothing short of remarkable. From humble beginnings to becoming a leader in mobile imaging technology, the brand has consistently pushed boundaries. Over time, Samsung's [camera lenses](/samsung/samsung-affordable-smartphone-camera-lenses) have evolved from basic single-lens setups to sophisticated multi-lens systems that rival traditional cameras.
 
 ### A Historical Perspective
 
