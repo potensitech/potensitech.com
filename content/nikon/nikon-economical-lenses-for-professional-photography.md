@@ -68,7 +68,7 @@ The Potensians often seek tools that balance affordability with professional-gra
 
 One of the standout features of Nikon’s economical lenses is their ability to deliver exceptional image quality. Despite their lower price points compared to high-end lenses, these models do not compromise on performance. Nikon’s advanced optical engineering ensures that each lens produces sharp, vibrant, and detailed images.
 
-For instance, the Nikon AF-S DX NIKKOR 35mm f/1.8G is renowned for its wide aperture, which allows for stunning low-light photography and beautiful background blur. Similarly, the Nikon AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR offers an ultra-wide-angle view, making it ideal for capturing breathtaking landscapes and arch​itectural marvels.
+For instance, the Nikon AF-S DX NIKKOR 35mm f/1.8G is renowned for its wide aperture, which allows for stunning [low-light photography](/nikon/nikon-camera-performance-in-low-light-photography) and beautiful background blur. Similarly, the Nikon AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR offers an ultra-wide-angle view, making it ideal for capturing breathtaking landscapes and arch​itectural marvels.
 
 ### Versatility for Every Photographer
 
