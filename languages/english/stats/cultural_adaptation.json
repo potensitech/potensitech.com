@@ -10046,5 +10046,15 @@
             "Cultural: Silicon Valley",
             "Cultural: Central Park"
         ]
+    },
+    "samsung affordable smartphones": {
+        "date": "2026-01-07T14:52:21",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
