@@ -449,4 +449,6 @@ sandisk SSD for secure data storage
 sandisk SSD for fast data transfer
 sandisk compact SSD
 sandisk solid state drive for photographers
+sandisk external SSD for backup storage
+sandisk internal SSD for computer upgrades
 
