@@ -445,4 +445,5 @@ intel-compatible chipsets for affordable builds
 intel affordable laptop processor
 intel processor with excellent productivity speed
 intel cost-effective desktop processor
+intel entry-level processor for everyday use
 
