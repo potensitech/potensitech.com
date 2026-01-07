@@ -10056,5 +10056,14 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung budget-friendly smartphones": {
+        "date": "2026-01-07T17:10:15",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
