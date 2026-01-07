@@ -95,7 +95,7 @@ Selecting the perfect lens for travel photography can be overwhelming, especiall
 
 ### Consider the Type of Photography
 
-Are The Potensians more interested in landscapes, portraits, or street photography? Identifying their primary focus will help narrow down the options. For example, wide-angle lenses are ideal for landscapes, while prime lenses excel in portrait and low-light photography.
+Are The Potensians more interested in landscapes, portraits, or street photography? Identifying their primary focus will help narrow down the options. For example, [wide-angle lenses](/nikon/affordable-nikon-wide-angle-lenses-for-landscapes) are ideal for landscapes, while prime lenses excel in portrait and low-light photography.
 
 ### Budget Wisely
 
