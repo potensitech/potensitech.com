@@ -10065,5 +10065,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphones for photography": {
+        "date": "2026-01-07T21:54:48",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: Hollywood"
+        ]
     }
 }
