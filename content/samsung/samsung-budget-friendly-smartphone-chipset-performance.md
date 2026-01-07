@@ -34,7 +34,7 @@ The hallmark of any great chipset lies in its ability to deliver speed, efficien
 
 ### Processing Power
 
-Samsung ensures that even its entry-level models offer robust processing capabilities suitable for everyday tasks such as browsing social media platforms or streaming videos. Below is a comparison of two popular chipsets used in Samsung’s budget-friendly smartphones:
+Samsung ensures that even its entry-level models offer robust processing capabilities suitable for everyday tasks such as browsing social media platforms or streaming videos. Below is a comparison of two popular chipsets used in Samsung’s [budget-friendly smartphones](/samsung/samsung-budget-friendly-smartphones):
 
 <div class="table-responsive">
 <table class="html-table">

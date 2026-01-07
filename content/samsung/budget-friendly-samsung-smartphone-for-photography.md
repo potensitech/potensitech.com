@@ -30,7 +30,7 @@ When it comes to combining cutting-edge technology with affordability, Samsung c
 
 ### Advanced Camera Features
 
-Samsung's budget-friendly smartphones come equipped with multi-lens setups that rival even some premium models on the market.  For instance, many models feature ultra-wide-angle lenses, macro sensors, and AI-powered enhancements designed to elevate every shot. Whether capturing Chicago’s stunning skyline or snapping photos of Buffalo Wings during Thanksgiving dinner, these cameras ensure vivid colors and sharp details.
+Samsung's [budget-friendly smartphones](/samsung/samsung-budget-friendly-smartphones) come equipped with multi-lens setups that rival even some premium models on the market.  For instance, many models feature ultra-wide-angle lenses, macro sensors, and AI-powered enhancements designed to elevate every shot. Whether capturing Chicago’s stunning skyline or snapping photos of Buffalo Wings during Thanksgiving dinner, these cameras ensure vivid colors and sharp details.
 
 ### Night Mode Excellence
 
