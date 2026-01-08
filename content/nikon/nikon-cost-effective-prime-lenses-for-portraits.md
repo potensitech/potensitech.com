@@ -32,7 +32,7 @@ Prime lenses often have fewer moving parts compared to zoom lenses. This simplic
 
 ### Wide Apertures
 
-A wide maximum aperture (e.g., f/1.8 or f/1.4) allows more light to enter the lens, making it easier to shoot in low-light conditions such as indoor events or evening celebrations. Additionally, wide apertures create a shallow depth of field that produces creamy background blur (bokeh), isolating subjects beautifully from their surroundings. Imagine the stunning effect of a softly blurred background during a golden hour photoshoot—it’s magical!
+A wide maximum aperture (e.g., f/1.8 or f/1.4) allows more light to enter the lens, making it easier to shoot in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions) such as indoor events or evening celebrations. Additionally, wide apertures create a shallow depth of field that produces creamy background blur (bokeh), isolating subjects beautifully from their surroundings. Imagine the stunning effect of a softly blurred background during a golden hour photoshoot—it’s magical!
 
 ### Lightweight and Compact Design
 
