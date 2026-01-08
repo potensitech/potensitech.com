@@ -5279,5 +5279,7 @@
   "asus processor optimized for work performance": true,
   "sandisk external SSD for backup storage": true,
   "sandisk internal SSD for computer upgrades": true,
-  "intel entry-level processor for everyday use": true
+  "intel entry-level processor for everyday use": true,
+  "nvidia high-performance GPU chipset for gaming": true,
+  "nvidia budget-friendly GPU for laptop compatibility": true
 }
