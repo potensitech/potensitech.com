@@ -398,4 +398,6 @@ amd affordable processors for daily use
 amd chipsets designed for gaming PCs
 amd processors for cost-effective computing
 amd budget processors with reliable performance
+amd chipset compatibility for cheap GPUs
+amd budget-friendly chipset for desktop builds
 

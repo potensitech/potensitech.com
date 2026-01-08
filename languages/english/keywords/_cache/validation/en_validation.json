@@ -5281,5 +5281,7 @@
   "sandisk internal SSD for computer upgrades": true,
   "intel entry-level processor for everyday use": true,
   "nvidia high-performance GPU chipset for gaming": true,
-  "nvidia budget-friendly GPU for laptop compatibility": true
+  "nvidia budget-friendly GPU for laptop compatibility": true,
+  "amd chipset compatibility for cheap GPUs": true,
+  "amd budget-friendly chipset for desktop builds": true
 }
