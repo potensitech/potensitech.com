@@ -11,11 +11,14 @@ tags: ["nikon", "budget-friendly", "photography", "students", "gear"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-budget-friendly-photography-gear-for-students.jpg"
+featuredImagePreview: "/images/nikon/nikon-budget-friendly-photography-gear-for-students.jpg"
 ---
+
+![Nikon Budget-Friendly Photography Gear for Students](/images/nikon/nikon-budget-friendly-photography-gear-for-students.jpg)
+
 
 *Nikon Budget-Friendly Photography Gear for Students* - Choosing the right [photography gear](/nikon/nikon-affordable-photography-gear-for-beginners) as a student can be daunting, especially when balancing quality and affordabili​ty. Nikon, a brand synonymous with excellence in imaging, offers a range of budget-friendly options tailored to meet the needs of aspiring photographers. For The Potensians eager to explore the world of photography without breaking the bank, Nikon’s lineup is a perfect starting point.
 
