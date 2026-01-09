@@ -33,7 +33,7 @@ Nikon has been a trusted brand in the photography world for decades. Known for t
 3. **Compatibility**: Many affordable options are compatible with both [entry-level DSLR](/nikon/nikon-entry-level-dslr-cameras-for-photography) cameras and advanced mirrorless systems. 
 4. **Variety**: From wide-angle landscapes to detailed portraits, there’s a lens tailored for every type of photography. 
 
-Moreover, as trends like social media photography continue to grow in 2026—think Instagram-worthy shots of soul food spreads or cinematic reels inspired by Hollywood blockbusters—the demand for versatile yet cost-effective camera gear has never been higher. 
+Moreover, as trends like social media photography continue to grow in 2026—think Instagram-worthy shots of soul food spreads or cinematic reels inspired by Hollywood blockbusters—the demand for versatile yet [cost-effective camera](/nikon/nikon-cost-effective-camera-accessories) gear has never been higher. 
 
 ## Top Affordable Lenses from Nikon
 
