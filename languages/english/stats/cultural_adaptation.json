@@ -10115,5 +10115,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon budget-friendly wide-angle lenses for landscapes": {
+        "date": "2026-01-09T02:30:11",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: Bill Gates"
+        ]
     }
 }
