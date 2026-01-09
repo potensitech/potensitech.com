@@ -399,4 +399,6 @@ nvidia affordable processors for AI applications
 nvidia affordable gaming chipset solutions
 nvidia high-performance GPU chipset for gaming
 nvidia budget-friendly GPU for laptop compatibility
+nvidia chipset compatibility for affordable GPUs
+nvidia affordable graphics card performance comparison
 
