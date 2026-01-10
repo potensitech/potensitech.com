@@ -39,7 +39,7 @@ These lenses are not just tools; they’re gateways to a world of creative expre
 
 ## Top Features to Look For When Buying Lenses
 
-When shopping for cheap Samsung smartphone photography lenses, it’s essential to consider certain features to ensure the best value for money. Here are some key factors to keep in mind:
+When shopping for [cheap Samsung](/samsung/cheap-samsung-ssd-alternatives) smartphone photography lenses, it’s essential to consider certain features to ensure the best value for money. Here are some key factors to keep in mind:
 
 ### Compatibility with Devices
 
