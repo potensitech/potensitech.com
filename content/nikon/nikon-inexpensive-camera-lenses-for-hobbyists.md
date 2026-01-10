@@ -30,7 +30,7 @@ Nikon has been a trusted name in the photography world for decades. Known for th
 
 One of the most compelling reasons to choose Nikon inexpensive camera lenses is the balance between quality and cost. While premium lenses can cost a small fortune, Nikon’s budget-friendly options provide excellent image clarity, vibrant colors, and sharp details. For example:
 
-- **Nikon AF-S DX NIKKOR 35mm f/1.8G Lens**: This prime lens is a favorite among hobbyists for its wide aperture, which allows for stunning low-light photography. Whether capturing cozy indoor moments or vibrant cityscapes at night, this lens delivers exceptional results—all at an affordable price .
+- **Nikon AF-S DX NIKKOR 35mm f/1.8G Lens**: This [prime lens](/nikon/nikon-affordable-prime-lens-for-professionals) is a favorite among hobbyists for its wide aperture, which allows for stunning low-light photography. Whether capturing cozy indoor moments or vibrant cityscapes at night, this lens delivers exceptional results—all at an affordable price .
 
 ### Versatility Across Photography Styles
 
