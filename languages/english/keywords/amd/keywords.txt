@@ -406,4 +406,5 @@ amd processor speed comparison for multitasking
 amd beginner-friendly chipsets for PC builders
 amd chipset compatibility guide for processors
 amd workstation chipset compatibility guide
+amd processor speed optimization guide
 
