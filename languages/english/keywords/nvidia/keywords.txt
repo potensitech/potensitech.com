@@ -401,4 +401,7 @@ nvidia high-performance GPU chipset for gaming
 nvidia budget-friendly GPU for laptop compatibility
 nvidia chipset compatibility for affordable GPUs
 nvidia affordable graphics card performance comparison
+nvidia affordable gaming GPU with compatibility
+nvidia affordable GPU performance for gaming
+nvidia affordable GPU for AI applications
 

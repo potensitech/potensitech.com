@@ -5341,5 +5341,8 @@
   "sandisk lightweight SSD for everyday use": true,
   "intel affordable CPU with excellent performance": true,
   "intel high-performance processor for budget builds": true,
-  "intel processor for budget-friendly gaming setups": true
+  "intel processor for budget-friendly gaming setups": true,
+  "nvidia affordable gaming GPU with compatibility": true,
+  "nvidia affordable GPU performance for gaming": true,
+  "nvidia affordable GPU for AI applications": true
 }
