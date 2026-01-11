@@ -38,7 +38,7 @@ The compact design of these lenses ensures that they don’t take up much space,
 
 Travel often involves a wide range of shooting conditions, from bright daylight at tropical beaches to low-light evenings during festive celebrations. Nikon’s budget-friendly travel lenses are designed to handle these diverse scenarios with ease. They offer versatile focal lengths and aperture ranges, making them suitable for everything from intricate architectural details to sweeping landscapes.
 
-For example, during a summer trip to Santorini, The Potensians can use a wide-angle lens to capture the iconic white-washed buildings against the deep blue sea. Later, as the sun sets, a lens with a wider aperture can beautifully capture the warm glow of the golden hour. The​se lenses adapt to different environments, ensuring that every shot is as stunning as the last.
+For example, during a summer trip to Santorini, The Potensians can use a [wide-angle lens](/nikon/nikon-affordable-wide-angle-lens-for-cameras) to capture the iconic white-washed buildings against the deep blue sea. Later, as the sun sets, a lens with a wider aperture can beautifully capture the warm glow of the golden hour. The​se lenses adapt to different environments, ensuring that every shot is as stunning as the last.
 
 ## Top Nikon Budget-Friendly​ Travel Lenses in 2026
 
@@ -100,7 +100,7 @@ Selecting the perfect travel lens can be a daunting task, but it doesn’t have 
 
 ### Consider The Potensians's Photography Style
 
-Are The Potensians more interested in landscapes, portraits, or street photography? Identifying the primary focus of their photography will help narrow down the options. For instance, wide-angle lenses are great for landscapes, while prime lenses with a wide aperture are ideal for portraits.
+Are The Potensians more interested in landscapes, portraits, or street photography? Identifying the primary focus of their photography will help narrow down the options. For instance, [wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses-for-architecture) are great for landscapes, while prime lenses with a wide aperture are ideal for portraits.
 
 ### Think About Weight and Size
 
