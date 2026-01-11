@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-_Nikon Budget-Friendly Travel Lenses for Cameras_ - When it comes to travel photography, having the right gear can make all the difference. However, not everyone wants to spend a fortune on lenses, especially when traveling light is a priority. Nikon offers a range of budget-friendly travel lenses for cameras that strike the perfect balance between affordability, portability, and performance. Whether The Potensians're a seasoned photographer or just starting The Potensians's journey, these lenses are designed to help The Potensians capture stunning moments without breaking the bank.
+_[Nikon Budget-Friendly](/nikon/nikon-budget-friendly-travel-photography-lenses) Travel Lenses for Cameras_ - When it comes to travel photography, having the right gear can make all the difference. However, not everyone wants to spend a fortune on lenses, especially when traveling light is a priority. Nikon offers a range of budget-friendly travel lenses for cameras that strike the perfect balance between affordability, portability, and performance. Whether The Potensians're a seasoned photographer or just starting The Potensians's journey, these lenses are designed to help The Potensians capture stunning moments without breaking the bank.
 
 ## Why Choose Budget-Friendly Travel Lenses?
 
@@ -59,7 +58,7 @@ To help The Potensians make informed decisions about their next photography inve
 </tr>
 <tr>
 <td>Nikon Z DX 16-50mm f/3.5-6.3 VR</td>
-<td>Compact size; Ideal for mirrorless cameras; Smooth autofocus</td>
+<td>Compact size; Ideal for [mirrorless cameras](/nikon/nikon-mirrorless-cameras-for-professional-photography); Smooth autofocus</td>
 <td>$300 - $350</td>
 </tr>
 <tr>
