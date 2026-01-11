@@ -10219,5 +10219,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "authentic samsung smartphone camera lens options": {
+        "date": "2026-01-11T12:41:36",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
