@@ -31,7 +31,7 @@ When it comes to landscape photography, the quality of The Potensians's lens sig
 1. **Wide Aperture Range**: Perfect for capturing low-light scenarios such as sunrise over serene lakes or sunset views from mountain peaks.  
 2. __Sharp Optics__: Ensures crisp details whether photographing rocky terrains, lush forests, or urban skylines. 
 3. __Durability__: Built to withstand outdoor conditions, making them ideal for hiking through rugged trails or shooting in unpredictable weather. 
-4. **Affordability**: Nikon offers excellent performance without requiring a hefty investment, making their lenses accessible to The Potensians who are budget-conscious.
+4. **Affordability**: Nikon offers [excellent performance](/nikon/nikon-compact-cameras-with-excellent-performance) without requiring a hefty investment, making their lenses accessible to The Potensians who are budget-conscious.
 
 For those seeking cost-effective solutions that deliver professional-grade results, let’s dive into some top recommendations.
 
