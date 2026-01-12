@@ -2401,3 +2401,5 @@ chipset compatibility
 processor speed
 chipset compatibility
 processor speed
+solid state
+dslr photography
