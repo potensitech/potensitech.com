@@ -10266,5 +10266,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon affordable DSLR cameras for travel": {
+        "date": "2026-01-12T17:09:16",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Soul Food",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
