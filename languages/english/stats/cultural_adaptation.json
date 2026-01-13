@@ -10314,5 +10314,16 @@
             "Cultural: Los Angeles",
             "Cultural: Silicon Valley"
         ]
+    },
+    "Samsung smartphone for professional photography": {
+        "date": "2026-01-13T21:56:11",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media",
+            "Cultural: E-commerce"
+        ]
     }
 }
