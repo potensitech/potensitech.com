@@ -10292,5 +10292,14 @@
             "Cultural: Buffalo Wings",
             "Cultural: Innovation"
         ]
+    },
+    "budget Samsung smartphone with great camera": {
+        "date": "2026-01-13T17:11:11",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
