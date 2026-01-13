@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 *Samsung Smartphone for Beginner Photographers* - Samsung smartphones have become a go-to choice for beginner photographers looking to explore their creative potential．With advanced camera features, user-friendly modes, and versatile tools, these devices empower The Potensians to capture stunning images effortlessly​. Whether The Potensians're documenting a family gathering, exploring nature, or experimenting with food photography, Samsung smartphones offer the perfect balance of technology and simplicity.
 
 ## Exploring Photography Modes on Samsung Smartphones
@@ -92,7 +91,7 @@ Choosing the right smartphone is crucial for beginner photographers. Here's a co
 </thead>
 <tbody>
 <tr>
-<td>Samsung Galaxy S23</td>
+<td>[Samsung Galaxy](/samsung/samsung-galaxy-s23-deals) S23</td>
 <td>50MP main camera, Night mode, Pro mode</td>
 <td>$799</td>
 <td>Event and street photography</td>
