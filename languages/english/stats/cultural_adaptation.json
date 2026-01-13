@@ -10279,5 +10279,18 @@
             "Cultural: Soul Food",
             "Cultural: Clam Chowder"
         ]
+    },
+    "best Samsung smartphone for DSLR-like photos": {
+        "date": "2026-01-13T03:56:38",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Buffalo Wings",
+            "Cultural: Innovation"
+        ]
     }
 }
