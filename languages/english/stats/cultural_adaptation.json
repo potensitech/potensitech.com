@@ -10332,5 +10332,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon cost-effective DSLR gear for photographers": {
+        "date": "2026-01-14T04:05:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: Apple Pie"
+        ]
     }
 }
