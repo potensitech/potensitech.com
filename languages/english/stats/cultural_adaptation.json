@@ -10345,5 +10345,18 @@
             "Cultural: Wall Street",
             "Cultural: Apple Pie"
         ]
+    },
+    "samsung smartphone lenses for affordable photography": {
+        "date": "2026-01-14T10:00:10",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: BBQ"
+        ]
     }
 }
