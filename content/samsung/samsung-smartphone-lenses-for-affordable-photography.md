@@ -40,7 +40,7 @@ Samsung’s AI-powered camera features are a boon for photographers who want to 
 
 ### Low-Light Photography
 
-Low-light photography has traditionally been a challenge for smartphone cameras. However, Samsung’s advanced sensors and night mode capabilities make it possible to capture clear and vibrant images even in dim conditions. Imagine photographing the dazzling lights of Times Square at night or a cozy candlelit dinner—Samsung ensures that every detail is preserved.
+[Low-light photography](/samsung/best-samsung-smartphone-for-low-light-photography) has traditionally been a challenge for smartphone cameras. However, Samsung’s advanced sensors and night mode capabilities make it possible to capture clear and vibrant images even in dim conditions. Imagine photographing the dazzling lights of Times Square at night or a cozy candlelit dinner—Samsung ensures that every detail is preserved.
 
 ## Affordability Meets Quality
 
