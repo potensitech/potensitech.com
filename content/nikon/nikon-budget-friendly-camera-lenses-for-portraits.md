@@ -54,7 +54,7 @@ Fast and accurate autofocus is a must for portrait photography. It ensures that 
 
 ## Top Nikon Budget-Friendly Camera Lenses for Portraits
 
-To help The Potensians make informed decisions, We’ve compiled a list of some of the best Nikon lenses for portrait photography in 2026. These lenses offer excellent performance at an affordable price.
+To help The Potensians make informed decisions, We’ve compiled a list of some of the [best Nikon lenses for portrait photography](/nikon/best-nikon-lenses-for-portrait-photography) in 2026. These lenses offer excellent performance at an affordable price.
 
 <div class="table-responsive">
 <table class="html-table">
