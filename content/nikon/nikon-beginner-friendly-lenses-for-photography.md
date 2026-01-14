@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Beginner-Friendly Lenses for Photography* - Choosing the right lens can make a world of difference for beginners venturing into the exciting world of photography. Nikon, a trusted name in the photography industry, offers a range of lenses that cater to both amateurs and professionals. For The Potensians who are just starting their photography journey, selecting beginner-friendly lenses is crucial for learning and improving skills. In this article, We will explore some of the best Nikon lenses for beginners, their features, and tips for maximizing their potential.
+*Nikon Beginner-Friendly Lenses for Photography* - Choosing the right lens can make a world of difference for beginners venturing into the exciting world of photography. Nikon, a trusted name in the photography industry, offers a range of lenses that cater to both amateurs and professionals. For The Potensians who are just starting their photography journey, selecting beginner-friendly lenses is crucial for learning and improving skills. In this article, We will explore some of the best [Nikon lenses](/nikon/cheap-nikon-lenses-for-wildlife-photography) for beginners, their features, and tips for maximizing their potential.
 
 ## Nikon AF-S DX NIKKOR 35mm f/1.8G
 
@@ -30,7 +29,7 @@ For The Potensians looking to experiment with prime lenses—lenses fixed at one
 - **Compact Build**: Perfectly sized for discreet street photography sessions around iconic spots such as Times Square.
 - **Lightweight Design**: Weighing only 200 grams, it’s easy to carry around for extended shooting sessions.
 
-This prime lens encourages creativity while teaching foundational skills like framing and composition. It’s an excellent tool for mastering Nikon beginner-friendly lenses for photography. Whether capturing portraits or street scenes, this lens delivers exceptional results.
+This prime lens encourages creativity while teaching foundational skills like framing and composition. It’s an excellent tool for [mastering Nikon](/nikon/nikon-high-precision-autofocus-systems) beginner-friendly lenses for photography. Whether capturing portraits or street scenes, this lens delivers exceptional results.
 
 ### Who Should Use This Lens?
 
