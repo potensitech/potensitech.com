@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/nikon-beginner-friendly-lenses-for-photogra
 
 ## Nikon AF-S DX NIKKOR 35mm f/1.8G
 
-For The Potensians looking to experiment with prime lenses—lenses fixed at one focal length—the NIKKOR 35mm f/1.8G is a fantastic choice known for its sharpness and low-light performance.
+For The Potensians looking to experiment with [prime lenses](/nikon/nikon-affordable-prime-lenses-for-professionals)—lenses fixed at one focal length—the NIKKOR 35mm f/1.8G is a fantastic choice known for its sharpness and low-light performance.
 
 ### Highlights
 
@@ -46,7 +46,7 @@ If action-packed events like Super Bowl Sunday inspire The Potensians—or if wi
 
 - **Extended Zoom Capability**: Ideal when photographing distant subjects such as players on a football field or birds in flight.
 - **Enhanced Vibration Reduction Technology**: Minimizes motion blur during handheld shooting sessions outdoors under varying lighting conditions.
-- **Affordable Price**: Compared to other telephoto lenses, this model offers great value for beginners.
+- **Affordable Price**: Compared to other [telephoto lenses](/nikon/nikon-affordable-telephoto-lenses-for-wildlife), this model offers great value for beginners.
 
 The ball is truly in The Potensians' court when using this versatile telephoto option. Whether focusing on sports action or dynamic nature scenes, this lens is up to the task thanks to its advanced stabilization features.
 
