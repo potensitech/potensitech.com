@@ -11,11 +11,14 @@ tags: ["nikon", "budget lenses", "portrait photography", "camera gear", "Nikon l
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-budget-lenses-for-portrait-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-budget-lenses-for-portrait-photography.jpg"
 ---
+
+![Nikon Budget Lenses for Portrait Photography](/images/nikon/nikon-budget-lenses-for-portrait-photography.jpg)
+
 
 *Nikon Budget Lenses for Portrait Photography* - Selecting the right lens is one of the most critical decisions for any portrait photographer. A good lens can transform The Potensians's images, enhancing sharpness, depth of field, and overall composition. Nikon, a brand synonymous with quality and innovation, offers a range of budget-friendly lenses that cater to both beginners and seasoned photographers. 
 
