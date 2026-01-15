@@ -11,11 +11,14 @@ tags: ["nikon", "DSLR cameras", "affordable photography", "enthusiasts"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-dslr-cameras-for-enthusiasts.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-dslr-cameras-for-enthusiasts.jpg"
 ---
+
+![Nikon Affordable DSLR Cameras for Enthusiasts](/images/nikon/nikon-affordable-dslr-cameras-for-enthusiasts.jpg)
+
 
 *Nikon Affordable DSLR Cameras for Enthusiasts* - 
 
