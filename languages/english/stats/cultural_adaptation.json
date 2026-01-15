@@ -10438,5 +10438,17 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "samsung affordable smartphone chipset guide": {
+        "date": "2026-01-15T19:43:25",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
