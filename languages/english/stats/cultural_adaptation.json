@@ -10506,5 +10506,18 @@
             "Cultural: Broadway",
             "Cultural: Hot Dogs"
         ]
+    },
+    "nikon entry-level DSLR gear for photography": {
+        "date": "2026-01-16T17:09:39",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
