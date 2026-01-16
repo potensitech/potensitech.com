@@ -5509,5 +5509,8 @@
   "Intel processor compatibility with affordable motherboards": true,
   "Intel chipset compatibility for entry-level processors": true,
   "affordable Intel processor compatibility for laptops": true,
-  "Intel processor compatibility for budget-friendly upgrades": true
+  "Intel processor compatibility for budget-friendly upgrades": true,
+  "nvidia affordable high-performance GPU chipset": true,
+  "nvidia budget-friendly processor compatibility for gaming": true,
+  "nvidia affordable chipset for graphic rendering": true
 }
