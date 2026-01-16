@@ -27,7 +27,7 @@ featuredImagePreview: "/images/nikon/best-nikon-cheap-travel-photography-lenses.
 Nikon has earned its reputation for producing high-quality lenses that meet the needs of photographers across the globe. Whether The Potensians’re capturing the vibrant streets of Tokyo or the serene landscapes of the Swiss Alps, Nikon lenses offer the versatility and reliability that The Potensians need. Here are some reasons why Nikon lenses are a great choice for travel photography:
 
 1. **Versatility**: Nikon’s lens lineup includes options for every type of photography, from wide-angle lenses for landscapes to telephoto lenses for wildlife.  
-2 . **Affordability**: Nikon offers a range of budget-friendly lenses that deliver excellent performance without breaking the bank. 
+2 . **Affordability**: Nikon offers a range of [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography) that deliver excellent performance without breaking the bank. 
 3. **Durability**: Built to withstand various weather conditions, Nikon lenses are perfect for adventurous travelers. 
 4. **Compatibility**: Nikon’s F-mount and Z-mount systems ensure that their lenses are compatible with a wide range of DSLR and mirrorless cameras. 
 
