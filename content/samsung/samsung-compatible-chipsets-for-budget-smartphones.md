@@ -67,7 +67,7 @@ Moreover, the affordability factor makes these chipsets highly desirable among T
 
 ## How Do Samsung-Compatible Chipsets Compare with Competitors?
 
-When evaluating Samsung-compatible chipsets for budget smartphones against competitors like Qualcomm Snapdragon or MediaTek Helio series, several factors come into play.
+When evaluating Samsung-compatible chipsets for [budget smartphones](/samsung/samsung-chipset-compatibility-for-budget-smartphones) against competitors like Qualcomm Snapdragon or MediaTek Helio series, several factors come into play.
 
 ### Performance Metrics
 
