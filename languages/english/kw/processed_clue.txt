@@ -2515,3 +2515,5 @@ camera lenses
 chipset compatibility
 solid state
 dslr photography
+solid state
+chipset compatibility
