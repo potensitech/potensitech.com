@@ -2517,3 +2517,5 @@ solid state
 dslr photography
 solid state
 chipset compatibility
+chipset compatibility
+processor speed
