@@ -98,7 +98,7 @@ From Times Square’s bustling streets to serene countryside views reminiscent o
 
 ### Portrait Photography
 
-Nikon’s advanced lens technology and full-frame sensors make their DSLRs a favorite among portrait photographers. Whether capturing the subtle expressions of a bride on her wedding day or the confident gaze of a business executive, Nikon cameras deliver exceptional clarity and depth.
+Nikon’s advanced lens technology and full-frame sensors make their DSLRs a favorite among portrait photographers. Whether capturing the subtle expressions of a bride on her wedding day or the confident gaze of a business executive, [Nikon cameras](/nikon/cheap-alternatives-to-nikon-cameras) deliver exceptional clarity and depth.
 
 ### Wildlife Photography
 
