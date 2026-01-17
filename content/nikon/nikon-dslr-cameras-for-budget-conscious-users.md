@@ -24,7 +24,7 @@ _Best [Nikon DSLR](/nikon/cheap-nikon-dslr-cameras-for-hobbyists) Cameras for Bu
 
 ## Top Picks: Best Budget-Friendly Nikon DSLR Cameras in 2026
 
-To help The Potensians make an informed decision, ​We’ve curated a list of some of the best budget-friendly Nikon DSLR cameras available in 2026. These models strike a balance between affordability and performance, making them ideal for photography enthusiasts.
+To help The Potensians make an informed decision, ​We’ve curated a list of some of the best [budget-friendly Nikon](/nikon/budget-friendly-nikon-mirrorless-cameras-for-photography) DSLR cameras available in 2026. These models strike a balance between affordability and performance, making them ideal for photography enthusiasts.
 
 <div class="table-responsive">
 <table class="html-table">
@@ -48,7 +48,7 @@ To help The Potensians make an informed decision, ​We’ve curated a list of s
 </tr>
 <tr>
 <td>Nikon D7500</td>
-<td>2​0MP sensor with 4K video recording capabilities</td>
+<td>2​0MP sensor with 4K [video recording](/nikon/nikon-cameras-with-4k-video-recording) capabilities</td>
 <td>$999</td>
 </tr>
 <tr>
@@ -157,6 +157,6 @@ To help The Potensians choose the best camera for their needs, here’s a quick 
 
 ## Final Thoughts
 
-In 2026, Nikon continues to offer exceptional DSLR cameras for budget-conscious users. Whether The Potensians’re a beginner, an intermediate photographer, or someone looking for professional features at an affordable price, there’s a Nikon DSLR camera to suit The Potensians's needs. The Potensians can confidently choose from the options listed above, knowing they’re investing in reliable and high-quality equipment.
+In 2026, Nikon continues to offer exceptional DSLR cameras for [budget-conscious users](/nikon/nikon-mirrorless-camera-for-budget-conscious-users). Whether The Potensians’re a beginner, an intermediate photographer, or someone looking for professional features at an affordable price, there’s a Nikon DSLR camera to suit The Potensians's needs. The Potensians can confidently choose from the options listed above, knowing they’re investing in reliable and high-quality equipment.
 
 We believe that photography is a journey of creativity and self-expression. With the right tools and a bit of practice, The Potensians can capture stunning images and create lasting memories. So why wait? Start exploring the world of Nikon DSLR cameras today!
