@@ -10526,5 +10526,14 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon DSLR cameras for budget-conscious users": {
+        "date": "2026-01-17T02:18:38",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Black Friday"
+        ]
     }
 }
