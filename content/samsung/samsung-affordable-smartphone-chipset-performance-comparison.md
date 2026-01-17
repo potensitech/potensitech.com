@@ -79,7 +79,7 @@ The Exynos 850 is a reliable choice for those who prioritize battery life and sm
 
 ### Qualcomm Snapdragon 680: The All-Rounder
 
-The Snapdragon 680 is a step up in terms of performance and efficiency. Built on a 6nm process, it delivers better energy management, which translates to longer battery life. Its enhanced AI capabilities make it a favorite for users who love photography, as it supports advanced camera features like scene optimization and real-time filters. In We's view, this chipset strikes a perf​ect balance between performance and affordability.
+The Snapdragon 680 is a step up in terms of performance and efficiency. Built on a 6nm process, it delivers better energy management, which translates to longer battery life. Its enhanced AI capabilities make it a favorite for users who love photography, as it supports [advanced camera](/samsung/samsung-smartphone-with-advanced-camera-features) features like scene optimization and real-time filters. In We's view, this chipset strikes a perf​ect balance between performance and affordability.
 
 ### MediaTek Helio G80: Gaming on a Budget
 
