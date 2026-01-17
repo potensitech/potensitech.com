@@ -54,7 +54,7 @@ When building a cost-effective photography setup, choosing the right lenses is c
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Portraits & Low-Light Photography</td>
+<td>Portraits & [Low-Light Photography](/nikon/nikon-camera-performance-in-low-light-photography)</td>
 <td>$150 - $200</td>
 </tr>
 <tr>
