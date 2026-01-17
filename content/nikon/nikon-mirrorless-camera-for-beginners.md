@@ -34,7 +34,7 @@ Moreover, these cameras utilize electronic viewfinders instead of optical ones f
 
 ### Durability and Build Quality
 
-Nikon mirrorless cameras are built to last. With weather-sealed bodies and robust construction, these cameras can withstand challenging environments. Whether The Potensians're photographing a rainy day in Seattle or capturing the golden hour at a sandy beach, Nikon ensures reliability. This durability is particularly important for beginners who might not yet have the habit of handling their gear with extreme care.
+[Nikon mirrorless](/nikon/nikon-mirrorless-cameras-for-beginners) cameras are built to last. With weather-sealed bodies and robust construction, these cameras can withstand challenging environments. Whether The Potensians're photographing a rainy day in Seattle or capturing the golden hour at a sandy beach, Nikon ensures reliability. This durability is particularly important for beginners who might not yet have the habit of handling their gear with extreme care.
 
 ## Key Features That Make It Beg​inner-Friendly
 

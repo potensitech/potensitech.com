@@ -73,7 +73,7 @@ Nikon lenses are known for their durability, precision, and versatility. Here ar
 
 ## Tips to Maximize The Potensians' Low-Cost Photography Experience
 
-Photography is not just about the equipment; it’s about creativity, technique, and practice. Here are some tips to help The Potensians make the most of their Nikon camera lenses:
+Photography is not just about the equipment; it’s about creativity, technique, and practice. Here are some tips to help The Potensians make the most of their [Nikon camera](/nikon/affordable-nikon-camera-with-advanced-autofocus) lenses:
 
 ### Understand The Potensians's Photography Style
 
