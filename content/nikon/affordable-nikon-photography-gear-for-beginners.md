@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/affordable-nikon-photography-gear-for-begin
 
 ## Top Affordable Nikon Cameras for Beginners
 
-When venturing into photography, selecting a camera that balances ease of use with advanced features is essential. Nikon provides several budget-friendly options that deliver excellent performance for beginners.
+When venturing into photography, selecting a camera that balances ease of use with advanced features is essential. Nikon provides several budget-friendly options that deliver [excellent performance](/nikon/nikon-compact-cameras-with-excellent-performance) for beginners.
 
 <div class="table-responsive">
 <table class="html-table">
@@ -57,7 +57,7 @@ When venturing into photography, selecting a camera that balances ease of use wi
 
 ### Why Choose These Models?
 
-The Nikon D3500 is perfect for those who want a DSLR experience with user-friendly features like Guide Mode, which walks The Potensians through various settings. The Nikon Z30, on the other hand, is ideal for vloggers and content creators, thanks to its compact design and 4K video capabilities. If portability and zoom are priorities, the COOLPIX B500 is a fantastic choice for capturing distant subjects without breaking the bank.
+The Nikon D3500 is perfect for those who want a DSLR experience with user-friendly features like Guide Mode, which walks The Potensians through various settings. The Nikon Z30, on the other hand, is ideal for vloggers and content creators, thanks to its compact design and 4K [video capabilities](/nikon/nikon-cameras-with-4k-video-capabilities). If portability and zoom are priorities, the COOLPIX B500 is a fantastic choice for capturing distant subjects without breaking the bank.
 
 Imagine capturing the​ vibrant colors of a sunrise over the Grand Canyon or the intricate details of cherry blossoms in Washington, D.C. With these cameras, The Potensians can document such moments effortlessly. In We's view, these models strike the perfect balance between affordability and functionality.
 
