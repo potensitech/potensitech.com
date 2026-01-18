@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/best-cheap-nikon-lenses-for-dslr-cameras.jp
 
 ## Top Budget-Friendly Nikon Lenses in 2026
 
-When it comes to photography, the right lens can make all the difference. Whether The Potensians're a beginner or a seasoned photographer, these budget-friendly Nikon lenses are designed to meet The Potensians's needs without compromising on quality.
+When it comes to photography, the right lens can make all the difference. Whether The Potensians're a beginner or a seasoned photographer, these [budget-friendly Nikon](/nikon/budget-friendly-nikon-mirrorless-cameras) lenses are designed to meet The Potensians's needs without compromising on quality.
 
 ## Nikon AF-S DX NIKKOR 35mm f/1.8G
 
