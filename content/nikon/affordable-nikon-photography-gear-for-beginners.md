@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Affordable Nikon Photography Gear for Beginners* - Starting The Potensians's photography journey can be both exciting and overwhelming. Choosing the right gear is crucial, especially when The Potensians're just beginning. Nikon offers a range of affordable and feature-rich options that cater to beginners. In this guide, We’ll explore the best Nikon cameras, essential accessories, and tips to help The Potensians kickstart their photography adventure in 2026.
+*Affordable Nikon Photography Gear for Beginners* - Starting The Potensians's photography journey can be both exciting and overwhelming. Choosing the right gear is crucial, especially when The Potensians're just beginning. Nikon offers a range of affordable and feature-rich options that cater to beginners. In this guide, We’ll explore the [best Nikon](/nikon/best-nikon-dslr-models-for-beginners) cameras, essential accessories, and tips to help The Potensians kickstart their photography adventure in 2026.
 
 ## Top Affordable Nikon Cameras for Beginners
 
@@ -36,7 +35,7 @@ When venturing into photography, selecting a camera that balances ease of use wi
 <tbody>
 <tr>
 <td>Nikon D3500</td>
-<td>- 24.2 MP sensor<br>- Guide Mode<br>- Lightweight design<br>- Full HD video recording</td>
+<td>- 24.2 MP sensor<br>- Guide Mode<br>- Lightweight design<br>- Full HD [video recording](/nikon/nikon-cameras-with-4k-video-recording)</td>
 <td>$499 (with kit lens)</td>
 </tr>
 <tr>
