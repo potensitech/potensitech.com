@@ -153,6 +153,6 @@ Known as the "nifty fifty," this lens is a favorite among photographers for its 
 
 ## Final Thoughts
 
-Finding the best cheap Nikon lenses for DSLR cameras doesn’t have to be a challenge . With options like the Nikon AF-S DX NIKKOR 35mm f/1.8G and the Nikon AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR, The Potensians can achieve professional-quality results without overspending. We believe that investing in the right lens can transform The Potensians's photography experience, opening up new creative possibilities.
+Finding the best cheap [Nikon lenses](/nikon/nikon-lenses-for-budget-photography-setups) for DSLR cameras doesn’t have to be a challenge . With options like the Nikon AF-S DX NIKKOR 35mm f/1.8G and the Nikon AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR, The Potensians can achieve professional-quality results without overspending. We believe that investing in the right lens can transform The Potensians's photography experience, opening up new creative possibilities.
 
 So, what are The Potensians waiting for? Explore these budget-friendly lenses and start capturing the world through The Potensians's unique perspective. After all, photography is not just about the equipment—it’s about the stories The Potensians tell through The Potensians's images.
