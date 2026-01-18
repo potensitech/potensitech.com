@@ -10571,5 +10571,17 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "cheap Nikon lenses for DSLR cameras": {
+        "date": "2026-01-18T05:10:13",
+        "language": "en",
+        "cultural_score": 48,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Central Park"
+        ]
     }
 }
