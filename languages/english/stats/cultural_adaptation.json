@@ -10583,5 +10583,18 @@
             "Cultural: Los Angeles",
             "Cultural: Central Park"
         ]
+    },
+    "Nikon DSLR cameras for entry-level photographers": {
+        "date": "2026-01-18T12:40:45",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Broadway"
+        ]
     }
 }
