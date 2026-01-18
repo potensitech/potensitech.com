@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Best Cheap Nikon Lenses for DSLR Cameras* - Finding the perfect lens for The Potensians's DSLR camera can be a daunting task, especially when working within a budget. The Potensians deserve the best value for their money, and We are here to help The Potensians navigate the world of affordable Nikon lenses. In this guide, We will explore some of the best cheap Nikon lenses for DSLR cameras in 2026, ensuring The Potensians get high-quality performance without breaking the bank.
+*Best Cheap Nikon Lenses for DSLR Cameras* - Finding the perfect lens for The Potensians's DSLR camera can be a daunting task, especially when working within a budget. The Potensians deserve the best value for their money, and We are here to help The Potensians navigate the world of affordable Nikon lenses. In this guide, We will explore some of the best [cheap Nikon](/nikon/cheap-nikon-dslr-cameras-for-hobbyists) lenses for DSLR cameras in 2026, ensuring The Potensians get high-quality performance without breaking the bank.
 
 ## Top Budget-Friendly Nikon Lenses in 2026
 
@@ -94,7 +93,7 @@ To help The Potensians make an informed decision, We’ve compiled a comparison 
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Portraits & Low-Light Photography</td>
+<td>Portraits & [Low-Light Photography](/nikon/nikon-camera-performance-in-low-light-photography)</td>
 <td>$150–$200</td>
 </tr>
 <tr>
