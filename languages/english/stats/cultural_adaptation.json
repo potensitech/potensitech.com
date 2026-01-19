@@ -10642,5 +10642,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon affordable lenses for professional photographers": {
+        "date": "2026-01-19T12:50:10",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Clam Chowder",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
