@@ -10622,5 +10622,18 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "nikon beginner-friendly camera equipment": {
+        "date": "2026-01-19T07:51:05",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Burgers",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
