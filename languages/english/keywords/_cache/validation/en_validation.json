@@ -5588,5 +5588,10 @@
   "intel fast processor optimized for gaming": true,
   "intel processor optimized for multitasking speed": true,
   "intel high-speed processor for professional workloads": true,
-  "intel processor designed for efficient computing": true
+  "intel processor designed for efficient computing": true,
+  "nvidia affordable processor compatibility for gaming": true,
+  "nvidia affordable chipset optimization for speed": true,
+  "nvidia affordable GPU for budget gaming": true,
+  "nvidia affordable processor performance for multitasking": true,
+  "nvidia affordable chipset for high-speed computing": true
 }
