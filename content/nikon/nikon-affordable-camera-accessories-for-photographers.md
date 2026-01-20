@@ -11,11 +11,14 @@ tags: ["nikon", "camera accessories", "photography gear", "affordable accessorie
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-camera-accessories-for-photographers.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-camera-accessories-for-photographers.jpg"
 ---
+
+![Nikon Affordable Camera Accessories for Photographers](/images/nikon/nikon-affordable-camera-accessories-for-photographers.jpg)
+
 
 *Nikon Affordable Camera Accessories for Photographers* - 
 
