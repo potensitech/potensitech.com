@@ -420,4 +420,5 @@ amd chipset compatibility for high-performance PCs
 amd processor benchmarks for budget systems
 amd processor speed for cost-effective computing
 amd chipset compatibility with affordable motherboards
+amd chipset compatibility with Ryzen processors
 
