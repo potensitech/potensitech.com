@@ -58,7 +58,7 @@ Now that We've established why these lenses are worth considering, let's dive in
 
 ## Top Picks for Best Budget Samsung Smartphone Camera Lenses
 
-The Potensians deserve nothing but the best when it comes to enhancing their mobile photography skills. Below is a curated list of some exceptional yet affordable Samsung smartphone camera lens options available this year:
+The Potensians deserve nothing but the best when it comes to enhancing their mobile photography skills. Below is a curated list of some exceptional yet affordable Samsung [smartphone camera](/samsung/samsung-affordable-smartphone-camera-lenses) lens options available this year:
 
 <div class="table-responsive">
 <table class="html-table">
