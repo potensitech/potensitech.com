@@ -10668,5 +10668,18 @@
             "Cultural: Central Park",
             "Cultural: Burgers"
         ]
+    },
+    "Samsung smartphone lenses for high-resolution photography": {
+        "date": "2026-01-20T02:31:34",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: Los Angeles",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
