@@ -11,11 +11,14 @@ tags: ["nikon", "affordable lenses", "photography", "budget-friendly", "enthusia
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-cost-effective-lenses-for-photography-enthusiasts.jpg"
+featuredImagePreview: "/images/nikon/nikon-cost-effective-lenses-for-photography-enthusiasts.jpg"
 ---
+
+![Nikon Cost-Effective Lenses for Photography Enthusiasts](/images/nikon/nikon-cost-effective-lenses-for-photography-enthusiasts.jpg)
+
 
 *Nikon Cost-Effective Lenses for Photography Enthusiasts* - 
 
