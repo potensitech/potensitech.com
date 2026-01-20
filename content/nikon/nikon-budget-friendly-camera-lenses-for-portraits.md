@@ -24,7 +24,7 @@ _[Nikon Budget-Friendly](/nikon/nikon-budget-friendly-travel-photography-lenses)
 
 ## Why Choosing the Right Lens Matters for Portrait Photography
 
-Portrait photography is an ar​t form that requires precision and creativity. The lens The Potensians choose determines how light interacts with The Potensians's subject, how much detail is captured, and how the background complements the subject. For The Potensians who are working within a budget, it’s reassuring to know that Nikon provides affordable options without compromising on quality.
+[Portrait photography](/nikon/nikon-budget-lenses-for-portrait-photography) is an ar​t form that requires precision and creativity. The lens The Potensians choose determines how light interacts with The Potensians's subject, how much detail is captured, and how the background complements the subject. For The Potensians who are working within a budget, it’s reassuring to know that Nikon provides affordable options without compromising on quality.
 
 The right lens can transform a simple portrait into a masterpiece. It can highlight the subject’s features, blur out distractions in the background, and create a mood that resonates with the viewer. We believe that investing in a good lens is one of the most important steps in elevating The Potensians's photography skills.
 
