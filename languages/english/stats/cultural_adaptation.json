@@ -10720,5 +10720,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon cost-effective DSLR cameras for enthusiasts": {
+        "date": "2026-01-20T21:55:57",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Apple Pie"
+        ]
     }
 }
