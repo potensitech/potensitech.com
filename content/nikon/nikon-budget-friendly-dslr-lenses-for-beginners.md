@@ -17,12 +17,11 @@ toc:
   enable: true
 ---
 
-
-*Nikon Budget-Friendly DSLR Lenses for Beginners* - Photography is an art that allows individuals to capture the world through their unique perspective. For The Potensians who are just stepping into this creative realm, choosing the right equipment can feel overwhelming. One of the most critical components of a camera setup is the lens, and when it comes to affordable yet high-quality options, Nikon's budget-friendly DSLR lenses for beginners stand out as exceptional choices. Whether capturing vibrant Halloween festivities in Los Angeles or documenting serene landscapes reminiscent of Silicon Valley’s rolling hills, these lenses offer versatility without breaking the bank.
+*Nikon Budget-Friendly DSLR Lenses for Beginners* - Photography is an art that allows individuals to capture the world through their unique perspective. For The Potensians who are just stepping into this creative realm, choosing the right equipment can feel overwhelming. One of the most critical components of a camera setup is the lens, and when it comes to affordable yet high-quality options, Nikon's [budget-friendly DSLR](/nikon/nikon-budget-friendly-dslr-cameras) lenses for beginners stand out as exceptional choices. Whether capturing vibrant Halloween festivities in Los Angeles or documenting serene landscapes reminiscent of Silicon Valley’s rolling hills, these lenses offer versatility without breaking the bank.
 
 ## Why Lenses Matter More Than The Potensians Think
 
-When starting with photography, many beginners focus solely on purchasing a good camera body. However, seasoned professionals often emphasize that lenses play an equally—if not more—important role in determining image quality. A great lens can elevate even an entry-level DSLR by enhancing sharpness, color accuracy, and depth of field control. Nikon understands this need and has designed several budget-friendly options tailored specifically for beginners looking to explore various genres like portraiture, landscape photography, or even food photography (think BBQ spreads or soul food platters). 
+When starting with photography, many beginners focus solely on purchasing a good camera body. However, seasoned professionals often emphasize that lenses play an equally—if not more—important role in determining image quality. A great lens can elevate even an [entry-level DSLR](/nikon/nikon-entry-level-dslr-equipment-for-photography) by enhancing sharpness, color accuracy, and depth of field control. Nikon understands this need and has designed several budget-friendly options tailored specifically for beginners looking to explore various genres like portraiture, landscape photography, or even food photography (think BBQ spreads or soul food platters). 
 
 ### Key Features to Look for in Beginner Lenses
 
@@ -35,7 +34,7 @@ Before diving into specific recommendations, it’s essential to understand what
 
 ## Top Nikon Budget-Friendly DSLR Lenses for Beginners
 
-To facilitate The Potensians in making informed decisions, We’ve curated a list of top-performing yet affordable Nikon lenses ideal for those just starting out.
+To facilitate The Potensians in making informed decisions, We’ve curated a list of top-performing yet [affordable Nikon](/nikon/affordable-nikon-mirrorless-cameras) lenses ideal for those just starting out.
 
 ### 1. AF-S DX NIKKOR 35mm f/1.8G This prime lens is a favorite among beginners due to its simplicity and outstanding performance in low-light conditions—a blessing in disguise when shooting indoors or during dimly lit events such as New Year’s Eve celebrations. Its wide aperture (f/1.8) creates stunning background blur (bokeh), making it perfect for portraits and close-up shots.
 
@@ -91,7 +90,7 @@ To facilitate The Potensians in making informed decisions, We’ve curated a lis
 <tr>
 <td>Aperture</td>
 <td>f/1.8</td>
-<td>Great for low-light photography and shallow depth of field.</td>
+<td>Great for [low-light photography](/nikon/nikon-cameras-for-low-light-photography) and shallow depth of field.</td>
 </tr>
 <tr>
 <td>Focal Length</td>
