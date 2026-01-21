@@ -494,4 +494,8 @@ intel processor compatibility with budget-friendly chipsets
 check chipset compatibility for intel processors
 entry-level intel chipset compatibility guide
 budget-friendly intel processors with chipset support
+intel chipset guide for budget processors
+intel budget-friendly chipset compatibility guide
+understanding intel processor chipset compatibility
+intel chipset compatibility for cost-effective PCs
 
