@@ -10778,5 +10778,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon entry-level lenses for beginners": {
+        "date": "2026-01-21T19:48:28",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Los Angeles",
+            "Cultural: Pizza",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
