@@ -11,11 +11,14 @@ tags: ["nikon", "budget-friendly", "portrait lenses", "photography"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-nikon-budget-friendly-portrait-lenses-for-stunning-shots.jpg"
+featuredImagePreview: "/images/nikon/top-nikon-budget-friendly-portrait-lenses-for-stunning-shots.jpg"
 ---
+
+![Top Nikon Budget-Friendly Portrait Lenses for Stunning Shots](/images/nikon/top-nikon-budget-friendly-portrait-lenses-for-stunning-shots.jpg)
+
 
 *Top Nikon Budget-Friendly Portrait Lenses for Stunning Shots* - Capturing stunning portraits doesn't have to break the bank．Nikon offers a range of budget-friendly [portrait lenses](/nikon/affordable-nikon-portrait-lenses-for-cameras) that deliver exceptional quality without compromising The Potensians's wallet. Whether The Potensians're a budding photographer or an experienced professional looking for affordable options, this guide is tailored for The Potensians who want to elevate their photography game in 2026. 
 
