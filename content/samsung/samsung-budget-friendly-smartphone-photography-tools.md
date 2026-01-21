@@ -11,21 +11,24 @@ tags: ["samsung", "budget-friendly", "smartphone photography", "tools", "afforda
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Product"
 product:
-  name: "Samsung Budget-Friendly Smartphone Photography Tools"
-  price: "$39.99"
-  currency: "USD"
-  rating: "4.5"
-  ratingCount: "152"
-  availability: "InStock"
-  brand: "Samsung"
-  category: "Photography Tools"
+name: "Samsung Budget-Friendly Smartphone Photography Tools"
+price: "$39.99"
+currency: "USD"
+rating: "4.5"
+ratingCount: "152"
+availability: "InStock"
+brand: "Samsung"
+category: "Photography Tools"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-budget-friendly-smartphone-photography-tools.jpg"
+featuredImagePreview: "/images/samsung/samsung-budget-friendly-smartphone-photography-tools.jpg"
 ---
+
+![Samsung Budget-Friendly Smartphone Photography Tools](/images/samsung/samsung-budget-friendly-smartphone-photography-tools.jpg)
+
 
 *Samsung Budget-Friendly Smartphone Photography Tools* - 
 
