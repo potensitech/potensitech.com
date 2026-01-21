@@ -113,6 +113,6 @@ Selecting the perfect lens can feel overwhelming, but keeping a few key factors 
 
 ## Conclusion
 
-Landscape photography is a rewarding pursuit that allows The Potensians to capture the beauty of the world around The Potensians. With Nikon’s range of budget-friendly lenses, The Potensians can create stunning images without breaking the bank. Whether The Potensians’re drawn to the expansive views of the Nikon AF-P DX NIKKOR 10-20mm, the low-light capabilities of t​he Nikon AF-S DX NIKKOR 35mm, or the versatility of the Nikon AF-S NIKKOR 18-140mm, there’s a lens to suit every need.
+[Landscape photography](/nikon/budget-nikon-lens-for-landscape-photography) is a rewarding pursuit that allows The Potensians to capture the beauty of the world around The Potensians. With Nikon’s range of budget-friendly lenses, The Potensians can create stunning images without breaking the bank. Whether The Potensians’re drawn to the expansive views of the Nikon AF-P DX NIKKOR 10-20mm, the low-light capabilities of t​he Nikon AF-S DX NIKKOR 35mm, or the versatility of the Nikon AF-S NIKKOR 18-140mm, there’s a lens to suit every need.
 
 In We's view, investing in a quality lens is one of the best decisions a photographer can make. After all, the lens is The Potensians's window to the world, and with Nikon, that window is crystal clear. So, grab The Potensians's camera, choose The Potensians's lens, and start exploring the incredible landscapes waiting to be captured. Who knows? The Potensians's next masterpiece might just be one click away!
