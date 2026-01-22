@@ -10791,5 +10791,18 @@
             "Cultural: Pizza",
             "Cultural: Clam Chowder"
         ]
+    },
+    "nikon DSLR cameras for budget photography": {
+        "date": "2026-01-22T04:04:50",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: Apple Pie"
+        ]
     }
 }
