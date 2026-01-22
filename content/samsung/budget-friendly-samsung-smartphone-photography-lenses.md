@@ -77,7 +77,7 @@ For The Potensians eager to explore the exciting world of mobile-enhanced imager
 
 ## Top Budget-Friendly Samsung Smartphone Photography Lenses in 2026
 
-To help The Potensians make an informed decision, We have compiled a list of some of the best budget-friendly Samsung smartphone photography lenses available in 2026. These options offer excellent value for money and cater to various photography needs.
+To help The Potensians make an informed decision, We have compiled a list of some of the [best budget](/samsung/best-budget-samsung-smartphone-with-autofocus)-friendly Samsung smartphone photography lenses available in 2026. These options offer excellent value for money and cater to various photography needs.
 
 <div class="table-responsive">
 <table class="html-table">
