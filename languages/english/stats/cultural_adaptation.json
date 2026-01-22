@@ -10804,5 +10804,18 @@
             "Cultural: Times Square",
             "Cultural: Apple Pie"
         ]
+    },
+    "nikon low-cost professional camera lenses": {
+        "date": "2026-01-22T05:25:06",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Burgers"
+        ]
     }
 }
