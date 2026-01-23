@@ -26,7 +26,7 @@ Keep in mind that low-light photography is no longer a niche interest; it has be
 
 ## The Science Behind Low-Light Photography
 
-Low-light photography requires more than just a good camera—it demands precision engineering and innovative software integration. Samsung has mastered this art by combining larger sensors, wider apertures, and advanced image processing algorithms in their smartphones.
+Low-light photography requires more than just a good camera—it demands precision engineering and innovative software integration. Samsung has mastered this art by combining larger sensors, wider apertures, and [advanced image](/samsung/samsung-smartphone-with-advanced-image-stabilization) processing algorithms in their smartphones.
 
 ### Larger Sensors: Capturing More Light
 
