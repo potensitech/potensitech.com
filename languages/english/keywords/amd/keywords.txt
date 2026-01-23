@@ -427,4 +427,5 @@ amd chipset compatibility for gaming builds
 amd processor benchmarks for affordable systems
 amd processor speed for entry-level builds
 amd chipset compatibility for multitasking setups
+amd ryzen processor deals
 
