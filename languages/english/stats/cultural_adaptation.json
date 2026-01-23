@@ -10885,5 +10885,18 @@
             "Cultural: Burgers",
             "Cultural: Clam Chowder"
         ]
+    },
+    "nikon travel-friendly DSLR cameras": {
+        "date": "2026-01-23T17:12:08",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: BBQ"
+        ]
     }
 }
