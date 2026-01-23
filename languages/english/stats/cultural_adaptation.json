@@ -10850,5 +10850,14 @@
             "Cultural: Broadway",
             "Cultural: Tex-Mex"
         ]
+    },
+    "nikon affordable DSLR portrait lenses": {
+        "date": "2026-01-23T10:00:47",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
