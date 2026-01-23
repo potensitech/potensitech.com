@@ -5695,5 +5695,12 @@
   "intel affordable chipset compatibility for processors": true,
   "intel affordable chipset options for processors": true,
   "intel budget-friendly chipset compatibility for computers": true,
-  "intel affordable processor chipset compatibility explained": true
+  "intel affordable processor chipset compatibility explained": true,
+  "nvidia affordable chipsets for GPU compatibility": true,
+  "nvidia budget-friendly processors for gaming performance": true,
+  "nvidia high-performance GPU chipset compatibility": true,
+  "nvidia entry-level affordable GPUs for gaming": true,
+  "nvidia high-speed processors for AI development": true,
+  "nvidia gaming PC processor speed comparison": true,
+  "nvidia chipset compatibility for multi-monitor setups": true
 }
