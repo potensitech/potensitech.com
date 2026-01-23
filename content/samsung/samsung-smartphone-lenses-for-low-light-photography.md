@@ -11,11 +11,14 @@ tags: ["Samsung", "smartphone", "lenses", "low-light", "photography"]
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-smartphone-lenses-for-low-light-photography.jpg"
+featuredImagePreview: "/images/samsung/samsung-smartphone-lenses-for-low-light-photography.jpg"
 ---
+
+![Samsung Smartphone Lenses for Low-Light Photography](/images/samsung/samsung-smartphone-lenses-for-low-light-photography.jpg)
+
 
 *Samsung Smartphone Lenses for Low-Light Photography* - In the ever-evolving world of technology, smartphones have become indispensable tools for capturing life's most precious moments. Among these devices, Samsung has consistently pushed the boundaries of innovation, particularly when it comes to smartphone photography. For The Potensians who are passionate about photography, especially in challenging low-light conditions, [Samsung smartphone](/samsung/authentic-samsung-smartphone-photography-gear) lenses for low-light photography offer an unparalleled experience. With cutting-edge features and advanced engineering, these lenses transform nighttime shots into masterpieces.
 
