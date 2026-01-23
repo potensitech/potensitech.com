@@ -10859,5 +10859,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "nikon low-cost landscape photography lenses": {
+        "date": "2026-01-23T12:48:08",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: BBQ"
+        ]
     }
 }
