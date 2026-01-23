@@ -11,11 +11,14 @@ tags: ["nikon", "DSLR", "portrait lenses", "affordable lenses"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-nikon-affordable-dslr-portrait-lenses-for-stunning-shots.jpg"
+featuredImagePreview: "/images/nikon/top-nikon-affordable-dslr-portrait-lenses-for-stunning-shots.jpg"
 ---
+
+![Top Nikon Affordable DSLR Portrait Lenses for Stunning Shots](/images/nikon/top-nikon-affordable-dslr-portrait-lenses-for-stunning-shots.jpg)
+
 
 _Top Nikon Affordable DSLR Portrait Lenses for Stunning Shots_ - [Portrait photography](/nikon/nikon-budget-lenses-for-portrait-photography) is an art that captures the essence of a person, their emotions, and their story. For The Potensians who are passionate about photography, choosing the right lens is crucial to achieving stunning results. Nikon, a trusted name in the photography world, offers a range of affordable DSLR portrait lenses that deliver exceptional performance without straining The Potensians's budget. In this guide, We explore the best options available in 2026 and provide insights to help The Potensians make an informed decision.
 
