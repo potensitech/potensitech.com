@@ -11,11 +11,14 @@ tags: ["Nikon", "budget photography", "DSLR cameras", "affordable gear", "photog
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-nikon-budget-dslr-photography-gear-for-beginners.jpg"
+featuredImagePreview: "/images/nikon/top-nikon-budget-dslr-photography-gear-for-beginners.jpg"
 ---
+
+![Top Nikon Budget DSLR Photography Gear for Beginners](/images/nikon/top-nikon-budget-dslr-photography-gear-for-beginners.jpg)
+
 
 *Top Nikon Budget DSLR Photography Gear for Beginners* - 
 
