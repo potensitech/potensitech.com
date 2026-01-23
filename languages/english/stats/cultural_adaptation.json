@@ -10837,5 +10837,18 @@
             "Cultural: Thanksgiving",
             "Cultural: Times Square"
         ]
+    },
+    "Samsung smartphone lenses for low-light photography": {
+        "date": "2026-01-23T07:46:06",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: Hollywood",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
