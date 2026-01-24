@@ -5,7 +5,7 @@ lastmod: 2025-09-30T12:40:05
 draft: false
 author: "Kevin Wu"
 authorLink: "/profile/kevin-wu"
-description: ""Discover the best budget-friendly Samsung smartphone for gaming with top performance, stunning visuals, and unbeatable value. Find your perfect gaming phone..."
+description: "Discover the best budget-friendly Samsung smartphone for gaming with top performance, stunning visuals, and unbeatable value. Find your perfect gaming phone..."
 keywords: ["budget-friendly samsung smartphone for gaming", "top samsung smartphones for gaming 2025", "affordable samsung gaming phones"]
 tags: ["budget-friendly", "samsung", "smartphone", "gaming", "2025"]
 categories: ["samsung"]
