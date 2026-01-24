@@ -77,7 +77,7 @@ When it comes to Nikon entry-level DSLR lenses, there are several models that st
 
 ### AF-S DX NIKKOR 35mm f/1.8G Lens
 
-This prime lens is a favorite among beginners for its simplicity and performance. With a wide aperture of f/1.8, it excels in low-light conditions, making it ideal for indoor photography or evening street scenes. The lens produces sharp details and smooth bokeh effects, which are perfect for portraits and artistic shots. Imagine capturing the vibrant energy of a bustling city street or the serene beauty of a sunset—this lens makes it possible. 
+This prime lens is a favorite among beginners for its simplicity and performance. With a wide aperture of f/1.8, it excels in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions), making it ideal for indoor photography or evening street scenes. The lens produces sharp details and smooth bokeh effects, which are perfect for portraits and artistic shots. Imagine capturing the vibrant energy of a bustling city street or the serene beauty of a sunset—this lens makes it possible. 
 
 ### AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Lens
 
@@ -93,7 +93,7 @@ Selecting the right lens depends on individual needs, preferences, and the type 
 
 ### Consider Photography Style
 
-What kind of photography excites The Potensians the most? If landscapes and architecture are the focus, wide-angle lenses like the AF-P DX NIKKOR series are excellent choices.  For portrait enthusiasts, prime lenses such as the AF-S DX NIKKOR 35mm f/1.8G offer the ability to create stunning bokeh effects. Macro photographers, on the other hand, will appreciate the precision and detail provided by the AF-S DX Micro NIKKOR 40mm f/2.8G.
+What kind of photography excites The Potensians the most? If landscapes and architecture are the focus, [wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses-for-travel) like the AF-P DX NIKKOR series are excellent choices.  For portrait enthusiasts, prime lenses such as the AF-S DX NIKKOR 35mm f/1.8G offer the ability to create stunning bokeh effects. Macro photographers, on the other hand, will appreciate the precision and detail provided by the AF-S DX Micro NIKKOR 40mm f/2.8G.
 
 ### Budget and Value for Money
 
