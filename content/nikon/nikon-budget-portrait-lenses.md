@@ -32,7 +32,7 @@ Nikon’s budget portrait lenses are designed to deliver sharp, vibrant images w
 
 ### Versatility Across Different Settings
 
-One of the key advantages of Nikon budget portrait lenses is their versatility. Whether The Potensians’re capturing candid moments at a family gathering or shooting portraits in a bustling urban environment, these lenses adapt seamlessly to various scenarios. Their lightweight and compact design make them easy to carry, ensuring that The Potensians’re always ready to capture the perfect shot, whether it’s in a cozy café or a scenic outdoor location.
+One of the key advantages of Nikon budget [portrait lenses](/nikon/affordable-nikon-portrait-lenses-for-cameras) is their versatility. Whether The Potensians’re capturing candid moments at a family gathering or shooting portraits in a bustling urban environment, these lenses adapt seamlessly to various scenarios. Their lightweight and compact design make them easy to carry, ensuring that The Potensians’re always ready to capture the perfect shot, whether it’s in a cozy café or a scenic outdoor location.
 
 ## Top Picks: Best Nikon Budget Portrait Lenses
 
