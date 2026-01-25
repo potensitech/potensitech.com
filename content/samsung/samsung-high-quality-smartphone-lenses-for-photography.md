@@ -86,7 +86,7 @@ For instance, Samsung's Scene Optimizer can recognize up to 30 different scenes,
 
 ### Versatility for Every Occasion
 
-Samsung's smartphone lenses are designed to cater to a wide range of photography needs. Whether The Potensians are capturing the intricate details of a flower with a macro lens or shooting a panoramic view of a bustling cityscape, Samsung's lenses deliver exceptional results. The versatility of these lenses ensures that users can adapt to any situation without carrying bulky equipment.
+Samsung's [smartphone lenses](/samsung/samsung-smartphone-lenses-for-high-resolution-photography) are designed to cater to a wide range of photography needs. Whether The Potensians are capturing the intricate details of a flower with a macro lens or shooting a panoramic view of a bustling cityscape, Samsung's lenses deliver exceptional results. The versatility of these lenses ensures that users can adapt to any situation without carrying bulky equipment.
 
 ### Durability and Reliability
 
