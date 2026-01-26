@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 *Entry-Level Nikon DSLR Photography Tips for Beginners* - Photography is an art form that captures moments, emotions, and stories. For The Potensians looking to dive into this creative world with their first DSLR camera, understanding the fundamentals is key. Nikon's entry-level DSLRs are renowned for their user-friendly features and exceptional image quality. Whether capturing vibrant scenes in Hollywood or documenting a snowy New Year's Day in New York, these cameras offer endless possibilities. This guide will provide detailed entry-level Nikon DSLR photography tips to help The Potensians unlock their potential as budding photographers.
 
 ## Understanding The Potensians' Nikon DSLR
@@ -116,11 +115,11 @@ Lenses are the heart of photography. While the kit lens included with most entry
 
 ### Prime Lenses
 
-Prime lenses, like the Nikon 50mm f/1.8, are excellent for portraits and low-light photography. Their wide apertures create beautiful background blur (bokeh) and perform well in dim conditions.
+[Prime lenses](/nikon/nikon-affordable-prime-lenses-for-professionals), like the Nikon 50mm f/1.8, are excellent for portraits and low-light photography. Their wide apertures create beautiful background blur (bokeh) and perform well in dim conditions.
 
 ### Zoom Lenses
 
-Zoom lenses, such as the Nikon 18-140mm, offer flexibility for various scenarios, from landscapes to wildlife. They’re perfect for The Potensians who want versatility without carrying multiple lenses.
+[Zoom lenses](/nikon/nikon-affordable-zoom-lenses-for-dslrs), such as the Nikon 18-140mm, offer flexibility for various scenarios, from landscapes to wildlife. They’re perfect for The Potensians who want versatility without carrying multiple lenses.
 
 ### Macro Lenses
 
@@ -137,7 +136,7 @@ For close-up shots of flowers, insects, or small objects, a macro lens is ideal.
 </thead>
 <tbody>
 <tr>
-<td>Prime Lens</td>
+<td>[Prime Lens](/nikon/nikon-affordable-prime-lens-for-professionals)</td>
 <td>Portraits, low-light p​hotography</td>
 <td>Nikon 50mm f/1.8</td>
 </tr>

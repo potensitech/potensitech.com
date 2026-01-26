@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/top-picks-for-budget-friendly-nikon-dslr-le
 
 ## Top Picks for Budget-Friendly Nikon DSLR Lenses
 
-When it comes to photography, the lens The Potensians choose can make all the difference. Nikon offers a wide range of lenses that cater to various photography styles, and the good news is that The Potensians don't have to spend a fortune to get high-quality results. Below is a curated list of budget-friendly Nikon DSLR lenses that deliver excellent performance at an affordable price.
+When it comes to photography, the lens The Potensians choose can make all the difference. Nikon offers a wide range of lenses that cater to various photography styles, and the good news is that The Potensians don't have to spend a fortune to get high-quality results. Below is a curated list of [budget-friendly Nikon](/nikon/budget-friendly-nikon-mirrorless-cameras) DSLR lenses that deliver excellent performance at an affordable price.
 
 <div class="table-responsive">
 <table class="html-table">
@@ -76,7 +76,7 @@ For those who love macro photography, this lens is a game-changer. Its 1:1 repro
 
 ### Nikon AF-S NIKKOR 50mm f/1.8G
 
-Known as the "nifty fifty," this lens is a classic choice for portrait photographers. Its wide aperture of f/1.8 creates a shallow depth of field, resulting in beautiful bokeh effects that make The Potensians's subject stand out. Whether The Potensians're capturing candid moments or professional headshots, this lens delivers exceptional image quality. It's also incredibly lightweight and compact, making it a great addition to any photographer's kit. We believe this lens offers unbeatable value for its price.
+Known as the "nifty fifty," this lens is a classic choice for portrait photographers. Its wide aperture of f/1.8 creates a shallow depth of field, resulting in beautiful bokeh effects that make The Potensians's subject stand out. Whether The Potensians're capturing candid moments or professional headshots, this lens delivers exceptional [image quality](/nikon/nikon-image-quality-comparison-guide). It's also incredibly lightweight and compact, making it a great addition to any photographer's kit. We believe this lens offers unbeatable value for its price.
 
 ## Tips on Choosing the Right Lens
 
