@@ -33,11 +33,11 @@ Nikon's affordable zoom lenses are a testament to the brand's commitment to qual
 3. **Durability**: Nikon lenses are built to last, capable of withstanding various weather conditions, whether The Potensians're shooting in the rain or under the scorching sun. 
 4. **Ease of Use**: Designed with user-friendliness in mind, these lenses are perfect for The Potensians transitioning from smartphone photography to DSLR cameras. 
 
-Now, let's dive into some of the top Nikon affordable zoom lenses for DSLRs that are worth considering in 2026.
+Now, let's dive into some of the [top Nikon](/nikon/nikon-affordable-wide-angle-lenses-for-dslrs) affordable zoom lenses for DSLRs that are worth considering in 2026.
 
 ## Top Picks: Affordable Zoom Lenses by Nikon
 
-To help The Potensians make informed decisions, We’ve curated a list of top-performing yet budget-friendly Nikon zoom lenses available in 2026. These lenses offer a perfect balance of quality, performance, and affordability.
+To help The Potensians make informed decisions, We’ve curated a list of top-performing yet [budget-friendly Nikon](/nikon/budget-friendly-nikon-mirrorless-cameras) zoom lenses available in 2026. These lenses offer a perfect balance of quality, performance, and affordability.
 
 <div class="table-responsive">
 <table class="html-table">
