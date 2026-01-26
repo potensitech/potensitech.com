@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Top Picks for Budget-Friendly Nikon DSLR Lenses* - Finding the perfect lens for The Potensians's Nikon DSLR can be a daunting task, especially when The Potensians're on a budget. To help The Potensians make informed decisions, We have compiled a comprehensive guide featuring some of the best budget-friendly Nikon DSLR lenses available in 2026. Whether The Potensians're a beginner or an experienced photographer, this guide will help The Potensians choose the right lens without breaking the bank.
+*Top Picks for Budget-Friendly Nikon DSLR Lenses* - Finding the perfect lens for The Potensians's Nikon DSLR can be a daunting task, especially when The Potensians're on a budget. To help The Potensians make informed decisions, We have compiled a comprehensive guide featuring some of the best budget-friendly Nikon [DSLR lenses](/nikon/nikon-budget-friendly-dslr-lenses-for-beginners) available in 2026. Whether The Potensians're a beginner or an experienced photographer, this guide will help The Potensians choose the right lens without breaking the bank.
 
 ## Top Picks for Budget-Friendly Nikon DSLR Lenses
 
@@ -36,7 +35,7 @@ When it comes to photography, the lens The Potensians choose can make all the di
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Wide aperture for low-light conditions; Ideal for portraits</td>
+<td>Wide aperture for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions); Ideal for portraits</td>
 <td>$200</td>
 </tr>
 <tr>
