@@ -510,4 +510,8 @@ budget-friendly Intel chipset compatibility
 affordable Intel processor solutions for computers
 Intel chipset compatibility for cost-effective builds
 Intel entry-level processor compatibility guide
+intel entry-level processor chipset compatibility guide
+intel gaming processor chipset compatibility guide
+intel desktop processor chipset compatibility guide
+intel high-performance processor chipset compatibility guide
 
