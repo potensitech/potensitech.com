@@ -441,4 +441,7 @@ nvidia chipset compatibility for high-performance computing
 nvidia chipset compatibility with Intel processors
 nvidia budget-friendly processor performance analysis
 nvidia affordable GPU solutions for beginners
+nvidia affordable GPU processor speed comparison
+nvidia high-performance GPU processor speed
+nvidia chipset compatibility for gaming GPUs
 
