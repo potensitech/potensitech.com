@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Top Picks for Affordable Nikon Portrait Lenses* - Finding the perfect lens for portrait photography can be challenging, especially when balancing quality and budget. Affordable Nikon portrait lenses provide an excellent solution, offering high-quality results without breaking the bank. Whether The Potensians're a hobbyist or a professional, these lenses are designed to meet The Potensians's needs while keeping costs manageable.
+*Top Picks for Affordable Nikon Portrait Lenses* - Finding the perfect lens for portrait photography can be challenging, especially when balancing quality and budget. Affordable Nikon [portrait lenses](/nikon/nikon-affordable-portrait-lenses-for-photography) provide an excellent solution, offering high-quality results without breaking the bank. Whether The Potensians're a hobbyist or a professional, these lenses are designed to meet The Potensians's needs while keeping costs manageable.
 
 ## Why Choose Affordable Nikon Portrait Lenses?
 
@@ -65,7 +64,7 @@ To simplify the decision-making process, We have compiled a list of highly recom
 </tr>
 <tr>
 <td>Nikon AF-S NIKKOR 85mm f/1.8G</td>
-<td>Perfect focal length for headshots; sharp image quality</td>
+<td>Perfect focal length for headshots; sharp [image quality](/nikon/nikon-camera-comparison-by-image-quality)</td>
 <td>$400 - $450</td>
 </tr>
 <tr>
