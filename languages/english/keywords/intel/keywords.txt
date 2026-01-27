@@ -514,4 +514,7 @@ intel entry-level processor chipset compatibility guide
 intel gaming processor chipset compatibility guide
 intel desktop processor chipset compatibility guide
 intel high-performance processor chipset compatibility guide
+how to check intel chipset compatibility
+budget-friendly intel chipset compatibility guide
+affordable PC builds with intel chipsets
 
