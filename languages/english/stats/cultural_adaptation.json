@@ -11053,5 +11053,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone photography on a budget": {
+        "date": "2026-01-27T07:48:51",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Pizza",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
