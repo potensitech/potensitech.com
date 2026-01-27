@@ -24,7 +24,7 @@ featuredImagePreview: "/images/samsung/affordable-samsung-photography-gear-for-s
 
 ## Top Affordable Photography Gear by Samsung
 
-Samsung has consistently delivered innovative and high-quality products, and their photography gear for smartphones is no exception. Whether The Potensians’re a budding photographer or someone who simply loves capturing memories, these affordable tools are designed to elevate The Potensians's photography game.
+Samsung has consistently delivered innovative and high-quality products, and their [photography gear](/samsung/affordable-samsung-smartphone-photography-gear) for smartphones is no exception. Whether The Potensians’re a budding photographer or someone who simply loves capturing memories, these affordable tools are designed to elevate The Potensians's photography game.
 
 ## Clip-On Lenses for Versatile Shots
 
@@ -115,7 +115,7 @@ Imagine filming a bustling street market or a family gathering with smooth, prof
 
 ## Essential Accessories for Smartphone Photography
 
-In addition to lenses, lighting, and stabilizers, there are other affordable Samsung accessories that can enhance The Potensians's smartphone photography experience.
+In addition to lenses, lighting, and stabilizers, there are other [affordable Samsung](/samsung/affordable-samsung-smartphone-photography-accessories) accessories that can enhance The Potensians's smartphone photography experience.
 
 ### Tripods A sturdy tripod is a must-have for capturing long-exposure shots or group photos. Samsung offers compact and lightweight tripods that are easy to carry and set up.
 
