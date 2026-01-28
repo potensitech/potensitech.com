@@ -11080,5 +11080,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "samsung smartphone lenses for budget photography": {
+        "date": "2026-01-28T07:47:06",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: Burgers"
+        ]
     }
 }
