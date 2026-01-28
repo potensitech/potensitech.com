@@ -81,7 +81,7 @@ To help The Potensians sift through the myriad of options available in 2026, Weâ
 
 ## Nikon AF-S DX NIKKOR 35mm f/1.8G
 
-This prime lens is a favorite among The Potensians who are looking for versatility at an affordable price. Its wide aperture of f/1.8 ensures excellent performance in low-light conditions, making it perfect for indoor photography, evening events, or capturing the vibrant city lights during the holiday season.
+This prime lens is a favorite among The Potensians who are looking for versatility at an affordable price. Its wide aperture of f/1.8 ensures [excellent performance](/nikon/nikon-compact-cameras-with-excellent-performance) in low-light conditions, making it perfect for indoor photography, evening events, or capturing the vibrant city lights during the holiday season.
 
 ### Key Features:
 - **Lightweight and Compact**: Ideal for photographers on the go.
