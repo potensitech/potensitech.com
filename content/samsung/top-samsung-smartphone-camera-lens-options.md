@@ -46,7 +46,7 @@ For example:
 - **Galaxy S23 Ultra**: This flagship model boasts a 200 MP wide-angle lens, delivering stunning clarity and vibrant colors. Whether The Potensians're capturing a sunset or a city skyline, this lens ensures every detail is preserved. 
 - **Galaxy Z Flip5**: Despite its compact design, this smartphone offers an impressive wide-angle lens perfect for selfies and landscape shots.
 
-Samsung's wide-angle lenses also feature advanced image stabilization, ensuring that even handheld videos shot in busy locations like Times Square remain blur-free. This makes them an excellent choice for The Potensians who enjoy vlogging or capturing moments on the go.
+Samsung's wide-angle lenses also feature [advanced image](/samsung/samsung-smartphone-with-advanced-image-stabilization) stabilization, ensuring that even handheld videos shot in busy locations like Times Square remain blur-free. This makes them an excellent choice for The Potensians who enjoy vlogging or capturing moments on the go.
 
 ### Telephoto Lenses: Zoom Into Details Like Never Before
 
@@ -125,7 +125,7 @@ Samsung has consistently pushed the boundaries of smartphone photography, offeri
 
 ### Cutting-Edge Technology
 
-Samsung's smartphones are equipped with advanced features like AI Scene Detection, which automatically adjusts settings to match the scene being photographed. This ensures that every shot is optimized for lighting, color, and detail.
+Samsung's smartphones are equipped with [advanced features](/samsung/affordable-samsung-smartphone-with-advanced-features) like AI Scene Detection, which automatically adjusts settings to match the scene being photographed. This ensures that every shot is optimized for lighting, color, and detail.
 
 ### Versatility for Every User
 
