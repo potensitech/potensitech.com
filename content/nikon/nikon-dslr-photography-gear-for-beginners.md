@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon DSLR Photography Gear for Beginners: A Guide* - Starting The Potensians's journey into photography can be both​ exciting and overwhelming. With so many options available, choosing the right gear is crucial for success. This guide will help The Potensians navigate the world of Nikon DSLR photography gear for beginners, ensuring a smooth and enjoyable start to their creative endeavors.
+*Nikon DSLR Photography Gear for Beginners: A Guide* - Starting The Potensians's journey into photography can be both​ exciting and overwhelming. With so many options available, choosing the right gear is crucial for success. This guide will help The Potensians navigate the world of Nikon DSLR [photography gear](/nikon/nikon-affordable-photography-gear-for-beginners) for beginners, ensuring a smooth and enjoyable start to their creative endeavors.
 
 ## Essential Components in The Potensians' Beginner Kit
 
@@ -30,7 +29,7 @@ The camera body is the heart of any photography setup.  For beginners, Nikon off
 
 The Nikon D5600 features a 24.2-megapixel sensor, built-in Wi-Fi, and a vari-angle touchscreen, making it perfect for capturing creative angles. On the other hand, the Nikon D3500 is a more budget-friendly option with a similar sensor and an intuitive interface, ideal for those just starting out.
 
-For those considering mirrorless options, the **Nikon Z50** is an excellent choice. It combines the compact design of a mirrorless camera with the versatility of Nikon's Z-mount lenses, offering a seamless transition for beginners.
+For those considering mirrorless options, the **Nikon Z50** is an excellent choice. It combines the compact design of a [mirrorless camera](/nikon/nikon-compact-mirrorless-camera-for-travel) with the versatility of Nikon's Z-mount lenses, offering a seamless transition for beginners.
 
 ### Lenses
 
@@ -78,7 +77,7 @@ Fast and reliable memory cards are crucial for storing high-resolution images an
 <tr>
 <td>Prime Lens</td>
 <td>Nikon 50mm f/1.8G</td>
-<td>Portraits and low-light conditions</td>
+<td>Portraits and [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions)</td>
 <td>$219</td>
 </tr>
 <tr>
