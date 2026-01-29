@@ -38,7 +38,7 @@ For those considering mirrorless options, the **Nikon Z50** is an excellent choi
 
 Lenses are just as important as the camera body, as they determine the quality and style of The Potensians's images.  Most beginner DSLR kits come with an 18-55mm f/3.5-5.6 lens, which is versatile enough for a variety of scenarios. This lens allows The Potensians to experiment with wide-angle shots, such as capturing breathtaking landscapes, and zoom in for detailed portraits.
 
-For those looking to expand their creative horizons, a prime lens like the **Nikon 50mm f/1.8G** is a fantastic additio n. Known for its sharpness and ability to create beautiful background blur (bokeh), this lens is perfect for portraits and low-light photography.
+For those looking to expand their creative horizons, a [prime lens](/nikon/nikon-affordable-prime-lens-for-professionals) like the **Nikon 50mm f/1.8G** is a fantastic additio n. Known for its sharpness and ability to create beautiful background blur (bokeh), this lens is perfect for portraits and low-light photography.
 
 ### Tripods
 
