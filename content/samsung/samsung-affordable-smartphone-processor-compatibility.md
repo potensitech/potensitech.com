@@ -60,7 +60,7 @@ When it comes to Samsung's [budget-friendly smartphones](/samsung/samsung-budget
 </table>
 </div>
 
-Each of these processors is designed to cater to specific user needs. Whether The Potensians are looking for efficient multitasking, seamless gaming, or enhanced camera features, Samsung's affordable smartphones offer a variety of options to suit different preferences.
+Each of these processors is designed to cater to specific user needs. Whether The Potensians are looking for efficient multitasking, seamless gaming, or enhanced camera features, Samsung's [affordable smartphones](/samsung/samsung-affordable-smartphones) offer a variety of options to suit different preferences.
 
 ## Factors Influencing Processor Compatibility
 
