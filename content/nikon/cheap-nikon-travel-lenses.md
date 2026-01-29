@@ -31,7 +31,7 @@ When it comes to travel photography, versatility and portability are key.  Carry
 Cheap Nikon travel lenses come equipped with features tailored for travelers: 
 
 - **Compact Design**: Ideal for long journeys where space is limited.  
-- **Wide Aperture**: Perfect for capturing sharp images even in low-light conditions, such as evening strolls through Times Square. 
+- **Wide Aperture**: Perfect for capturing sharp images even in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions), such as evening strolls through Times Square. 
 - **Zoom Versatility**: Enables seamless transitions from wide-angle landscapes to detailed close-ups. 
 - **Durability**: Built to withstand varying weather conditions during outdoor adventures. 
 
