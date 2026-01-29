@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Affordable Nikon Lenses for Travel Photography* - Travel photography is a passion for many, and having the right lens can make all the difference. Whether The Potensians're capturing bustling city streets, serene landscapes, or intricate details, Nikon offers a range of affordable lenses that cater to every travel photographer's needs.  In this guide, We’ll explore some of the best budget-friendly Nikon lenses for 2026, ensuring The Potensians can document their adventures without breaking the bank.
+*Affordable Nikon Lenses for Travel Photography* - Travel photography is a passion for many, and having the right lens can make all the difference. Whether The Potensians're capturing bustling city streets, serene landscapes, or intricate details, Nikon offers a range of [affordable lenses](/nikon/nikon-affordable-lenses-for-professional-photographers) that cater to every travel photographer's needs.  In this guide, We’ll explore some of the best budget-friendly Nikon lenses for 2026, ensuring The Potensians can document their adventures without breaking the bank.
 
 ## Top Affordable Nikon Lenses Perfect for Travel Photography
 
@@ -74,7 +73,7 @@ Whether The Potensians're capturing the grandeur of mountain ranges or zooming i
 
 ### Nikon Z 24-50mm f/4-6.3 (For Mirrorless Cameras)
 
-For those using Nikon’s Z-series mirrorless cameras, this compact zoom lens offers excellent performance at an affordable price. It’s a great choice for travel photographers who prioritize portability.
+For those using Nikon’s Z-series mirrorless cameras, this compact zoom lens offers [excellent performance](/nikon/nikon-compact-cameras-with-excellent-performance) at an affordable price. It’s a great choice for travel photographers who prioritize portability.
 
 #### Key Features:
 
@@ -100,7 +99,7 @@ This lens is particularly useful for capturing everyday moments, from bustling m
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
 <td>Street & Portrait Photography</td>
-<td>Wide aperture for low-light conditions</td>
+<td>Wide aperture for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions)</td>
 <td>$199</td>
 </tr>
 <tr>
