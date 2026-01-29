@@ -34,7 +34,7 @@ Moreover, these cameras provide excellent low-light performance—a crucial feat
 
 ### User-Friendly Design
 
-For budding photographers among The Potensians, ease of use is often a top priority. Many entry-level Nikon DSLRs come equipped with intuitive controls and guided modes that help users understand settings like aperture, shutter speed, and ISO without feeling overwhelmed.
+For budding photographers among The Potensians, ease of use is often a top priority. Many [entry-level Nikon](/nikon/entry-level-nikon-camera-with-excellent-autofocus) DSLRs come equipped with intuitive controls and guided modes that help users understand settings like aperture, shutter speed, and ISO without feeling overwhelmed.
 
 For example:
 
