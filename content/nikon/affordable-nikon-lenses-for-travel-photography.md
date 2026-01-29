@@ -151,6 +151,6 @@ While affordability is key, it’s essential to balance cost with performance. I
 
 ## Why Affordable Nikon Lenses Are Perfect for Travel Photography
 
-Affordable Nikon lenses combine quality, versatility, and portability, making them ideal for travel photography . In We's view, these lenses empower The Potensians to capture stunning images without compromising on performance or budget. Whether The Potensians’re a seasoned photographer or a beginner, Nikon’s range of budget-friendly lenses ensures there’s something for everyon e.
+Affordable Nikon lenses combine quality, versatility, and portability, making them ideal for travel photography . In We's view, these lenses empower The Potensians to capture stunning images without compromising on performance or budget. Whether The Potensians’re a seasoned photographer or a beginner, Nikon’s range of [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography) ensures there’s something for everyon e.
 
 So, what are The Potensians waiting for? Pack The Potensians's camera bag, choose the perfect lens, and embark on The Potensians's next adventure. After all, every journey deserves to be remembered through breathtaking photographs!
