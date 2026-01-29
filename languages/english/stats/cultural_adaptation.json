@@ -11126,5 +11126,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "cheap Nikon travel lenses": {
+        "date": "2026-01-29T04:23:34",
+        "language": "en",
+        "cultural_score": 53,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
