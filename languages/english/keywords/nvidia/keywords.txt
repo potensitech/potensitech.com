@@ -444,4 +444,6 @@ nvidia affordable GPU solutions for beginners
 nvidia affordable GPU processor speed comparison
 nvidia high-performance GPU processor speed
 nvidia chipset compatibility for gaming GPUs
+nvidia high-speed GPU processor for gaming
+nvidia optimized GPU for creative professionals
 
