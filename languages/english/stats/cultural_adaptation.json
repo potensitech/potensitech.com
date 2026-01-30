@@ -11216,5 +11216,18 @@
             "Cultural: Wall Street",
             "Cultural: Innovation"
         ]
+    },
+    "samsung budget smartphone chipset insights": {
+        "date": "2026-01-30T05:43:25",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Pizza",
+            "Cultural: Innovation"
+        ]
     }
 }
