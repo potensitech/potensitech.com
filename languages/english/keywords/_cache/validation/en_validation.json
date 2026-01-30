@@ -5868,5 +5868,6 @@
   "nvidia high-performance GPU for laptops": true,
   "nvidia processor compatibility for creative professionals": true,
   "nvidia chipset compatibility for 4K gaming": true,
-  "nvidia GPU optimized for AI applications": true
+  "nvidia GPU optimized for AI applications": true,
+  "amd chipset compatibility with gaming motherboards": true
 }

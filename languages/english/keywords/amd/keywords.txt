@@ -434,4 +434,5 @@ amd low-cost chipsets for gaming performance
 amd compatible chipsets for budget builds
 amd affordable CPUs for high performance
 amd gaming laptop
+amd chipset compatibility with gaming motherboards
 
