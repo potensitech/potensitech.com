@@ -5864,5 +5864,9 @@
   "intel chipset compatibility with Nvidia GPUs": true,
   "intel processor compatibility for budget computing": true,
   "intel chipset compatibility for gaming builds": true,
-  "affordable intel processor and chipset solutions": true
+  "affordable intel processor and chipset solutions": true,
+  "nvidia high-performance GPU for laptops": true,
+  "nvidia processor compatibility for creative professionals": true,
+  "nvidia chipset compatibility for 4K gaming": true,
+  "nvidia GPU optimized for AI applications": true
 }

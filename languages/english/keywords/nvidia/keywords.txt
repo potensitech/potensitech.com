@@ -446,4 +446,8 @@ nvidia high-performance GPU processor speed
 nvidia chipset compatibility for gaming GPUs
 nvidia high-speed GPU processor for gaming
 nvidia optimized GPU for creative professionals
+nvidia high-performance GPU for laptops
+nvidia processor compatibility for creative professionals
+nvidia chipset compatibility for 4K gaming
+nvidia GPU optimized for AI applications
 
