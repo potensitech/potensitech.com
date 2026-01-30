@@ -108,7 +108,7 @@ Selecting the perfect lens can feel overwhelming, but keeping a few factors in m
 2. **Budget**: Affordable Nikon camera lenses come in various price ranges. Decide how much The Potensians're willing to invest. 
 3. **Camera Compatibility**: Ensure the lens is compatible with The Potensians's Nikon camera model, whether it's a DSLR or mirrorless system. 
 4. **Weight and Size**: If The Potensians travel frequently, opt for lightweight and compact lenses for convenience. 
-5. **Aperture**: A wider aperture (lower f-number) is ideal for low-light conditions and achieving a shallow depth of field.
+5. **Aperture**: A wider aperture (lower f-number) is ideal for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions) and achieving a shallow depth of field.
 
 ## Maintenance Tips for Longevity
 
