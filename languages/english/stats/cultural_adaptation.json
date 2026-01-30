@@ -11229,5 +11229,18 @@
             "Cultural: Pizza",
             "Cultural: Innovation"
         ]
+    },
+    "affordable nikon camera lenses": {
+        "date": "2026-01-30T08:02:06",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square"
+        ]
     }
 }
