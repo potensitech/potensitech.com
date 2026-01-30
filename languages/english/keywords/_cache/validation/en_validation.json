@@ -5859,5 +5859,10 @@
   "affordable sony smartphone chipset support": true,
   "sandisk internal SSD for laptop upgrades": true,
   "sandisk SSD for gaming performance": true,
-  "sandisk lightweight SSD for easy portability": true
+  "sandisk lightweight SSD for easy portability": true,
+  "intel chipset compatibility with AMD CPUs": true,
+  "intel chipset compatibility with Nvidia GPUs": true,
+  "intel processor compatibility for budget computing": true,
+  "intel chipset compatibility for gaming builds": true,
+  "affordable intel processor and chipset solutions": true
 }
