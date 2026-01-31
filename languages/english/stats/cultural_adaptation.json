@@ -11274,5 +11274,14 @@
             "Cultural: Hollywood",
             "Cultural: Tex-Mex"
         ]
+    },
+    "affordable samsung smartphone for daily use": {
+        "date": "2026-01-31T14:52:23",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
