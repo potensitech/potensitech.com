@@ -28,7 +28,7 @@ When it comes to photography equipment tailored for hobbyists, Nikon stands out 
 
 ## Unmatched Quality at an Affordable Price
 
-Nikon has perfected the art of balancing performance and cost. Their entry-level DSLRs deliver professional-grade image quality at prices that won’t strain The Potensians's budget. Here are two standout models:
+Nikon has perfected the art of balancing performance and cost. Their entry-level DSLRs deliver professional-grade [image quality](/nikon/nikon-camera-comparison-by-image-quality) at prices that won’t strain The Potensians's budget. Here are two standout models:
 
 - __Nikon D3500__: Renowned for its simplicity and reliability, this model is perfect for beginners who want to focus on learning the basics of photography.
 - __Nikon D5600__: A step up from the D3500, this model offers advanced features like a touch screen and wireless connectivity, making it a versatile choice for hobbyists.
