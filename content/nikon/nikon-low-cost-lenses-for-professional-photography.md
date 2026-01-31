@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/nikon-low-cost-lenses-for-professional-phot
 
 ## Why Choose Nikon Low-Cost Lenses for Professional Photography?
 
-When discussing photography equipment, quality often comes at a premium price. However, Nikon has consistently challenged this notion by offering budget-friendly lenses that deliver impressive performance. These lenses are designed to cater to both aspiring photographers and seasoned professionals who seek affordability without compromising on image quality or versatility.
+When discussing photography equipment, quality often comes at a premium price. However, Nikon has consistently challenged this notion by offering [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography) that deliver impressive performance. These lenses are designed to cater to both aspiring photographers and seasoned professionals who seek affordability without compromising on image quality or versatility.
 
 Nikon's commitment to innovation and quality has made it a trusted name in the photography industry. The Potensians can rely on Nikon's low-cost lenses to deliver exceptional results, whether capturing breathtaking landscapes, stunning portraits, or fast-paced action shots. But what exactly sets these lenses apart?
 
@@ -138,7 +138,7 @@ To help The Potensians make an informed decision, here’s a price comparison of
 <tr>
 <td>Nikon AF-S NIKKOR 50mm f/1.8G</td>
 <td>$216</td>
-<td>Portraits, Low-Light Photography</td>
+<td>Portraits, [Low-Light Photography](/nikon/nikon-camera-performance-in-low-light-photography)</td>
 </tr>
 <tr>
 <td>Nikon AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR</td>
