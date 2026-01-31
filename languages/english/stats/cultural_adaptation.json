@@ -11252,5 +11252,14 @@
             "Cultural: Halloween",
             "Cultural: Times Square"
         ]
+    },
+    "best budget samsung smartphone": {
+        "date": "2026-01-31T05:36:04",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
