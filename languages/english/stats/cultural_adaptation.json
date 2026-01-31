@@ -11261,5 +11261,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "samsung smartphone for photography": {
+        "date": "2026-01-31T07:49:41",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
