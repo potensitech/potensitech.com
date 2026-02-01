@@ -11313,5 +11313,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "Samsung smartphone lenses for beginner photographers": {
+        "date": "2026-02-01T14:54:14",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Central Park",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
