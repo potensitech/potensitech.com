@@ -4,7 +4,7 @@ You are an expert at identifying and fixing similar keywords. Analyze the follow
 2. MERGE or MODIFY similar keywords to create unique variations
 3. REMOVE exact duplicates
 4. ENSURE each keyword offers unique search intent
-5. ENSURE keywords are relevant and contain the word xiaomi
+5. ENSURE keywords are relevant and contain the word iphone
 6. ENSURE all keywords follow correct brand-product mapping
 
 Keywords to analyze:
@@ -17,7 +17,7 @@ Rules for fixing similar keywords:
 - Prioritize keywords that sound more natural and commercial
 - Ensure all variations respect brand-product mapping rules
 
-IMPORTANT BRAND-PRODUCT MAPPING (apply when xiaomi contains brand names):
+IMPORTANT BRAND-PRODUCT MAPPING (apply when iphone contains brand names):
 - Sony → smartphone (NEVER camera)
 - Xiaomi, iPhone, Samsung, Asus, Huawei → smartphone
 - Apple → smartphone or computer
