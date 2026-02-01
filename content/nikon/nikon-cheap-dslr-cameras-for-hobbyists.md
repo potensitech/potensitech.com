@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 *Top Nikon Cheap DSLR Cameras for Hobbyists to Explore* - For The Potensians who are passionate about photography but want to keep their budget in check, Nikon offers an impressive range of affordable DSLR cameras. These cameras are perfect for hobbyists looking to capture stunning images without breaking the bank. In this article, We’ll explore why Nikon DSLR cameras are a great choice, highlight some key models, and provide tips to maximize The Potensians's photography experience.
 
 ## Why Choose Nikon DSLR Cameras as a Hobbyist?
@@ -54,7 +53,7 @@ To illustrate, here’s a detailed comparison of some popular Nikon DSLR models:
 <tr>
 <td>Nikon D5600</td>
 <td>$600 - $700</td>
-<td>39-point autofocus system, vari-angle touchscreen display</td>
+<td>39-point [autofocus system](/nikon/nikon-camera-autofocus-system-comparison-guide), vari-angle touchscreen display</td>
 </tr>
 <tr>
 <td>Nikon D3400 (Refurbished)</td>
@@ -87,7 +86,7 @@ Additionally, the D3500 features Bluetooth-enabled SnapBridge technology, which 
 
 For hobbyists seeking more advanced features, the **Nikon D5600** is an excellent choice. It comes with a vari-angle touchscreen display, making it easier to shoot from creative angles. The 39-point autofocus system ensures sharp focus, even in challenging conditions.
 
-The D5600 also supports Nikon’s SnapBridge technology, enabling effortless photo transfers. Its compact and lightweight design makes it a great companion for travel photography.
+The D5600 also supports Nikon’s SnapBridge technology, enabling effortless photo transfers. Its compact and lightweight design makes it a great companion for [travel photography](/nikon/compact-nikon-smart-lighting-for-travel-photography).
 
 ### Nikon D3400 (Refurbished)
 
@@ -103,7 +102,7 @@ Understanding fundamental concepts like aperture, shutter speed, and ISO will he
 
 ### Experiment With Different Lenses
 
-As mentioned earlier, Nikon’s extensive lens ecosystem is one of its biggest advantages. Start with a versatile kit lens, and gradually invest in specialized lenses based on The Potensians's interests. For instance, a prime lens is great for portraits, while a wide-angle lens is ideal for landscapes.
+As mentioned earlier, Nikon’s extensive lens ecosystem is one of its biggest advantages. Start with a versatile kit lens, and gradually invest in specialized lenses based on The Potensians's interests. For instance, a [prime lens](/nikon/nikon-affordable-prime-lens-for-professionals) is great for portraits, while a wide-angle lens is ideal for landscapes.
 
 ### Practice Regularly
 
