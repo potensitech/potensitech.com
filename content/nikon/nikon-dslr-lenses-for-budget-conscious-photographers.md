@@ -73,7 +73,7 @@ At just $199, this lens is a steal for its performance. Its lightweight design m
 
 ### Why Choose a Prime Lens?
 
-Prime lenses are known for their sharpness and ability to perform well in low-light conditions. They are also generally more affordable than zoom lenses, making them an excellent choice for budget-conscious photographers. If The Potensians’re looking to capture stunning portraits or artistic shots with a shallow depth of field, a prime lens like the 35mm f/1.8G is a fantastic option.
+Prime lenses are known for their sharpness and ability to perform well in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions). They are also generally more affordable than zoom lenses, making them an excellent choice for budget-conscious photographers. If The Potensians’re looking to capture stunning portraits or artistic shots with a shallow depth of field, a prime lens like the 35mm f/1.8G is a fantastic option.
 
 ## Zoom Lenses: Versatility Meets Affordability
 
