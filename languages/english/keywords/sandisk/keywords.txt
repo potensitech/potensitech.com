@@ -500,4 +500,7 @@ sandisk external SSD for additional storage
 sandisk durable SSD for professional workloads
 sandisk SSD for faster boot times
 sandisk affordable SSD for daily use
+sandisk portable external SSD
+sandisk internal SSD for desktop upgrades
+sandisk premium SSD for professional use
 
