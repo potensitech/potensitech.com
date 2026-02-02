@@ -437,4 +437,6 @@ amd gaming laptop
 amd chipset compatibility with gaming motherboards
 amd affordable processor and chipset guide
 amd budget processor speed optimization tips
+amd affordable desktop chipset options
+amd entry-level processors for budget users
 
