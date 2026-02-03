@@ -503,4 +503,6 @@ sandisk affordable SSD for daily use
 sandisk portable external SSD
 sandisk internal SSD for desktop upgrades
 sandisk premium SSD for professional use
+sandisk compact SSD for travel storage
+sandisk entry-level SSD for basic storage
 
