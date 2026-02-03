@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Affordable Lenses for Travel Photography* - Travel photography is a passion for many, and having the right gear can make all the difference. Nikon offers a range of affordable lenses that cater to both amateur and professional photographers.  These lenses are designed to deliver exceptional image quality without breaking the bank, making them ideal for capturing stunning travel memories. In this guide, We’ll explore the best Nikon affordable lenses for travel photography, their real-world applications, and tips to maximize their potential.
+*Nikon Affordable Lenses for Travel Photography* - Travel photography is a passion for many, and having the right gear can make all the difference. Nikon offers a range of [affordable lenses](/nikon/nikon-beginner-friendly-affordable-lenses) that cater to both amateur and professional photographers.  These lenses are designed to deliver exceptional image quality without breaking the bank, making them ideal for capturing stunning travel memories. In this guide, We’ll explore the best Nikon affordable lenses for travel photography, their real-world applications, and tips to maximize their potential.
 
 ## Top Affordable Nikon Lenses Perfect for Travel Photography
 
@@ -36,7 +35,7 @@ Nikon has a reputation for producing high-quality lenses that suit various photo
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Lightweight prime lens; excellent low-light performance; sharp image quality.</td>
+<td>Lightweight prime lens; excellent low-light performance; sharp [image quality](/nikon/nikon-camera-comparison-by-image-quality).</td>
 <td>$199 - $249</td>
 </tr>
 <tr>
@@ -109,7 +108,7 @@ While the lenses mentioned above are excellent choices, Nikon offers other budge
 <td>Nikon AF-S NIKKOR 50mm f/1.8G</td>
 <td>50mm</td>
 <td>$219 - $269</td>
-<td>Portraits and low-light photography</td>
+<td>Portraits and [low-light photography](/nikon/nikon-cameras-for-low-light-photography)</td>
 </tr>
 </tbody>
 </table>
