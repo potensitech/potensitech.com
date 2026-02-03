@@ -11359,5 +11359,14 @@
             "Cultural: Times Square",
             "Cultural: Apple Pie"
         ]
+    },
+    "samsung chipset compatibility for affordable smartphones": {
+        "date": "2026-02-03T04:32:43",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
