@@ -11,11 +11,14 @@ tags: ["nikon", "affordable lenses", "travel photography", "budget lenses"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-affordable-lenses-for-travel-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-affordable-lenses-for-travel-photography.jpg"
 ---
+
+![Nikon Affordable Lenses for Travel Photography](/images/nikon/nikon-affordable-lenses-for-travel-photography.jpg)
+
 
 *Nikon Affordable Lenses for Travel Photography* - Travel photography is a passion for many, and having the right gear can make all the difference. Nikon offers a range of [affordable lenses](/nikon/nikon-beginner-friendly-affordable-lenses) that cater to both amateur and professional photographers.  These lenses are designed to deliver exceptional image quality without breaking the bank, making them ideal for capturing stunning travel memories. In this guide, We’ll explore the best Nikon affordable lenses for travel photography, their real-world applications, and tips to maximize their potential.
 
