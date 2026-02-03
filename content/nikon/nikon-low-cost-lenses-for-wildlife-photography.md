@@ -11,18 +11,21 @@ tags: ["nikon", "wildlife photography", "budget lenses", "camera gear"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Person"
 person:
-  name: "Sarah Tan"
-  jobTitle: "Photography Expert and Wildlife Enthusiast"
-  worksFor: "PotensiTech"
-  description: "Sarah Tan is a professional photographer and wildlife enthusiast specializing in helping photographers find budget-friendly Nikon lenses for capturing stunning wildlife shots."
-  sameAs: ["https://www.linkedin.com/in/sarah-tan", "https://twitter.com/sarah_tan"]
+name: "Sarah Tan"
+jobTitle: "Photography Expert and Wildlife Enthusiast"
+worksFor: "PotensiTech"
+description: "Sarah Tan is a professional photographer and wildlife enthusiast specializing in helping photographers find budget-friendly Nikon lenses for capturing stunning wildlife shots."
+sameAs: ["https://www.linkedin.com/in/sarah-tan", "https://twitter.com/sarah_tan"]
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-low-cost-lenses-for-wildlife-photography.jpg"
+featuredImagePreview: "/images/nikon/nikon-low-cost-lenses-for-wildlife-photography.jpg"
 ---
+
+![Nikon Low-Cost Lenses for Wildlife Photography](/images/nikon/nikon-low-cost-lenses-for-wildlife-photography.jpg)
+
 
 *Nikon Low-Cost Lenses for Wildlife Photography* - Wildlife photography is an art that requires precision, patience, and the right equipment. For enthusiasts and professionals alike, Nikon has been a trusted name in the world of photography. Known for its innovative technology and superior optics, Nikon offers a range of [low-cost lenses](/nikon/nikon-low-cost-lenses-for-landscape-photography) that are perfect for capturing the beauty of nature. In 2026, The Potensians can explore these affordable options to elevate their wildlife photography without breaking the bank.
 
