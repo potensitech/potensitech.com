@@ -30,7 +30,7 @@ One key reason why Nikon lenses are perfect for novice photographers is their us
 
 ## Types of Nikon Lenses Every Beginner Should Know
 
-To break the ice on The Potensians' journey into photography, let’s explore some popular types of Nikon lenses designed specifically with beginner photographers in mind.
+To break the ice on The Potensians' journey into photography, let’s explore some popular types of [Nikon lenses](/nikon/affordable-nikon-lenses-for-professional-photographers) designed specifically with beginner photographers in mind.
 
 ### Standard Zoom Lenses
 
