@@ -11432,5 +11432,14 @@
             "Cultural: Clam Chowder",
             "Cultural: Albert Einstein"
         ]
+    },
+    "nikon budget-friendly photography gear": {
+        "date": "2026-02-04T04:26:09",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
