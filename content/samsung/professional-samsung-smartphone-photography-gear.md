@@ -39,7 +39,7 @@ Investing in professional Samsung smartphone photography gear is not just about 
 
 ## Essential Gear for Professional Samsung Smartphone Photography
 
-The Potensians have a wide array of tools at their disposal to enhance their photography experience. Below is a detailed guide to the essential gear that can help The Potensians take their Samsung smartphone photography to the next level.
+The Potensians have a wide array of tools at their disposal to enhance their photography experience. Below is a detailed guide to the essential gear that can help The Potensians take their Samsung [smartphone photography](/samsung/samsung-innovative-smartphone-photography-tools) to the next level.
 
 ### External Lenses
 
