@@ -5997,5 +5997,8 @@
   "affordable Intel chipset options for PCs": true,
   "budget-friendly Intel chipset compatibility for processors": true,
   "Intel chipset compatibility for desktop processors": true,
-  "nvidia affordable workstation GPU with performance": true
+  "nvidia affordable workstation GPU with performance": true,
+  "amd chipset compatibility with entry-level GPUs": true,
+  "amd chipset compatibility for multitasking computers": true,
+  "amd chipset compatibility for high-performance builds": true
 }

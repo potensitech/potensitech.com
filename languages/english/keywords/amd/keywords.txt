@@ -439,4 +439,7 @@ amd affordable processor and chipset guide
 amd budget processor speed optimization tips
 amd affordable desktop chipset options
 amd entry-level processors for budget users
+amd chipset compatibility with entry-level GPUs
+amd chipset compatibility for multitasking computers
+amd chipset compatibility for high-performance builds
 
