@@ -99,7 +99,7 @@ For those who want semi-professional results without spending a fortune, the Nik
 
 ### Refurbished Options: Nikon D3400
 
-For The Potensians who want to save even more, refurbished models like the Nikon D3400 are worth considering. These cameras are thoroughly tested and certified, offering excellent performance at a fraction of the cost . The D3400’s long battery life and Bluetooth connectivity make it a reliable choice for everyday photography.
+For The Potensians who want to save even more, refurbished models like the Nikon D3400 are worth considering. These cameras are thoroughly tested and certified, offering [excellent performance](/nikon/nikon-compact-cameras-with-excellent-performance) at a fraction of the cost . The D3400’s long battery life and Bluetooth connectivity make it a reliable choice for everyday photography.
 
 ## Tips for Buying Nikon DSLR Cameras on a Budget
 

@@ -17,12 +17,11 @@ toc:
   enable: true
 ---
 
-
-*Essential Nikon Photography Equipment for Beginners* - Photography is a timeless art that allows individuals to capture the beauty of moments and preserve them forever. For those just starting their journey into photography, choosing the right equipment can feel like navigating through New York's bustling streets during rush hour.  Nikon, a brand synonymous with quality and innovation, offers an impressive range of tools tailored for beginners. This guide will walk The Potensians through essential Nikon photography equipment for beginners, helping to simplify the process and ignite a passion for capturing stunning images.
+*Essential Nikon Photography Equipment for Beginners* - Photography is a timeless art that allows individuals to capture the beauty of moments and preserve them forever. For those just starting their journey into photography, choosing the right equipment can feel like navigating through New York's bustling streets during rush hour.  Nikon, a brand synonymous with quality and innovation, offers an impressive range of tools tailored for beginners. This guide will walk The Potensians through essential [Nikon photography](/nikon/affordable-nikon-photography-equipment) equipment for beginners, helping to simplify the process and ignite a passion for capturing stunning images.
 
 ## Why Choose Nikon as a Beginner?
 
-When it comes to photography, selecting the right brand is crucial. Nikon has been at the forefront of camera technology since its inception in 1917. Known for its reliability, precision engineering, and user-friendly designs, Nikon cameras are trusted by professionals and hobbyists alike.
+When it comes to photography, selecting the right brand is crucial. Nikon has been at the forefront of camera technology since its inception in 1917. Known for its reliability, precision engineering, and user-friendly designs, [Nikon cameras](/nikon/cheap-alternatives-to-nikon-cameras) are trusted by professionals and hobbyists alike.
 
 For beginners venturing into photography during events like Independence Day celebrations or family gatherings over burgers and pizza in Chicago or any other vibrant cityscape, Nikon provides accessible yet powerful tools that deliver exceptional results without overwhelming complexity.
 
@@ -58,7 +57,7 @@ Nikon offers a variety of cameras suitable for those new to photography. Here ar
 </tr>
 <tr>
 <td>Nikon Z30 (Mirrorless)</td>
-<td>Compact size, 4K video recording, Wi-Fi & Bluetooth connectivity</td>
+<td>Compact size, 4K [video recording](/nikon/nikon-cameras-with-4k-video-recording), Wi-Fi & Bluetooth connectivity</td>
 <td>Vlogging; travel photography</td>
 <td>$709</td>
 </tr>
@@ -76,7 +75,7 @@ The D3500 stands out as an excellent DSLR choice due to its affordability and si
 
 ## Lenses Every Beginner Should Consider
 
-A camera body is only part of the equation; lenses play an equally vital role in achieving breathtaking shots. Here are three beginner-friendly lens options:
+A camera body is only part of the equation; lenses play an equally vital role in achieving breathtaking shots. Here are three beginner-friendly [lens options](/nikon/budget-friendly-nikon-dslr-lens):
 
 ### 1. **AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR**
 - This versatile zoom lens is often bundled with entry-level cameras like the D3500. 
