@@ -11531,5 +11531,16 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "nikon affordable camera gear for enthusiasts": {
+        "date": "2026-02-05T15:14:12",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: BBQ",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
