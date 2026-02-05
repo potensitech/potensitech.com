@@ -11513,5 +11513,16 @@
             "Cultural: Chicago",
             "Cultural: Times Square"
         ]
+    },
+    "nikon affordable professional photography gear": {
+        "date": "2026-02-05T10:17:17",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: BBQ",
+            "Cultural: Innovation"
+        ]
     }
 }
