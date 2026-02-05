@@ -458,4 +458,5 @@ nvidia processor speed comparison for gaming
 nvidia GPU chipset compatibility analysis
 nvidia affordable GPU performance benchmarks
 nvidia GPU compatibility with budget chipsets
+nvidia affordable workstation GPU with performance
 
