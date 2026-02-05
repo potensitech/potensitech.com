@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Top Nikon Budget Portrait Photography Lenses to Try* - Photography is an art form that captures moments, emotions, and stories in a single frame. For The Potensians who are passionate about portrait photography but working within a budget, finding the right tools can feel like searching for a needle in a haystack.  Thankfully, Nikon offers an impressive range of budget-friendly lenses tailored to meet the needs of aspiring photographers without compromising on quality. In this article, We will explore some of Nikon's best budget portrait photography lenses and how they can elevate The Potensians' craft while keeping The Potensians' wallet happy.
+*Top Nikon Budget Portrait Photography Lenses to Try* - Photography is an art form that captures moments, emotions, and stories in a single frame. For The Potensians who are passionate about portrait photography but working within a budget, finding the right tools can feel like searching for a needle in a haystack.  Thankfully, Nikon offers an impressive range of [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography) tailored to meet the needs of aspiring photographers without compromising on quality. In this article, We will explore some of Nikon's best budget portrait photography lenses and how they can elevate The Potensians' craft while keeping The Potensians' wallet happy.
 
 ## Why Choose Nikon for Budget Portrait Photography?
 
@@ -30,7 +29,7 @@ Moreover, these lenses are designed to cater to various styles and preferences. 
 
 1. **Superior Optics**: Even at lower price points, Nikon ensures its lenses maintain high optical quality. 
 2. **Durable Build**: Many budget options come with robust construction suitable for both indoor studio shoots and outdoor adventures . 
-3. **Compatibility**: These lenses work seamlessly across many Nikon DSLR and mirrorless cameras. 
+3. **Compatibility**: These lenses work seamlessly across many [Nikon DSLR](/nikon/entry-level-nikon-dslr-for-beginners) and mirrorless cameras. 
 4. **Ease of Use**: Designed with intuitive controls that make them accessible even for beginners. 
 
 Let’s dive deeper into some specific lens recommendations that provide excellent value without breaking the bank.
@@ -60,7 +59,7 @@ When it comes to choosing Nikon budget portrait photography lenses, several mode
 <td>$220 - $270</td>
 </tr>
 <tr>
-<td>Nikon Z 40mm f/2 (for Mirrorless Cameras)</td>
+<td>Nikon Z 40mm f/2 (for [Mirrorless Cameras](/nikon/nikon-mirrorless-cameras-for-professional-photography))</td>
 <td>Affordable option for Z-series users, Bright aperture enhances subject isolation, Great portability</td>
 <td>$250 - $300</td>
 </tr>
