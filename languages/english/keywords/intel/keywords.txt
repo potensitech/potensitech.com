@@ -539,4 +539,6 @@ intel processor chipset compatibility overview
 affordable Intel chipset options for PCs
 budget-friendly Intel chipset compatibility for processors
 Intel chipset compatibility for desktop processors
+Intel chipset compatibility with AMD GPUs
+affordable Intel chipset compatibility for laptops
 

@@ -6027,5 +6027,7 @@
   "asus affordable processor for students": true,
   "asus processor for lightweight portable laptops": true,
   "sandisk affordable SSD for professional workflows": true,
-  "sandisk durable SSD for everyday use": true
+  "sandisk durable SSD for everyday use": true,
+  "Intel chipset compatibility with AMD GPUs": true,
+  "affordable Intel chipset compatibility for laptops": true
 }
