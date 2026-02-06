@@ -11610,5 +11610,17 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "nikon affordable wide-angle camera lenses": {
+        "date": "2026-02-06T22:01:42",
+        "language": "en",
+        "cultural_score": 48,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street"
+        ]
     }
 }
