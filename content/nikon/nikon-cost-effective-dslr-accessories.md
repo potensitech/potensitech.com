@@ -30,7 +30,7 @@ Lenses are arguably one of the most critical components in any photographer’s 
 
 [Prime lenses](/nikon/nikon-affordable-prime-lenses-for-professionals) are celebrated for their sharpness and ability to capture stunning details. One standout option among Nikon cost-effective DSLR accessories is the **Nikon AF-S DX NIKKOR 35mm f/1.8G Lens**. Priced reasonably under $200, this lens offers:
 
-- A wide aperture (f/1.8) perfect for low-light conditions.
+- A wide aperture (f/1.8) perfect for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions).
 - Exceptional bokeh effects ideal for portrait photography.
 
 Imagine photographing friends enjoying a cozy New Year’s Eve gathering – this lens ensures every detail pops beautifully against blurred backgrounds! In We's view, this lens is a must-have for any photographer looking to enhance their portrait and low-light photography.
