@@ -508,4 +508,6 @@ sandisk entry-level SSD for basic storage
 sandisk portable SSD for data
 sandisk external SSD for backup
 sandisk affordable SSD for files
+sandisk affordable SSD for professional workflows
+sandisk durable SSD for everyday use
 
