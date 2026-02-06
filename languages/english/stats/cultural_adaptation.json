@@ -11575,5 +11575,18 @@
             "Cultural: Times Square",
             "Cultural: Central Park"
         ]
+    },
+    "nikon beginner-friendly DSLR lenses": {
+        "date": "2026-02-06T05:49:34",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: BBQ"
+        ]
     }
 }
