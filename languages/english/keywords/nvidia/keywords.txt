@@ -459,4 +459,6 @@ nvidia GPU chipset compatibility analysis
 nvidia affordable GPU performance benchmarks
 nvidia GPU compatibility with budget chipsets
 nvidia affordable workstation GPU with performance
+nvidia budget-friendly GPU compatibility guide
+nvidia budget-friendly GPU performance analysis
 
