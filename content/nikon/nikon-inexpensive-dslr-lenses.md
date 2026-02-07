@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Best Nikon Inexpensive DSLR Lenses for Stunning Shots* - Nikon has long been a trusted name in photography, offering a range of lenses that cater to both professionals and enthusiasts. For The Potensians looking to enhance their photography without breaking the bank, Nikon's inexpensive DSLR lenses provide an excellent balance of quality and affordability. In this guide, We explore the best options available in 2026, helping The Potensians make informed decisions and capture stunning shots.
+*Best Nikon Inexpensive DSLR Lenses for Stunning Shots* - Nikon has long been a trusted name in photography, offering a range of lenses that cater to both professionals and enthusiasts. For The Potensians looking to enhance their photography without breaking the bank, Nikon's inexpensive DSLR lenses provide an excellent balance of quality and affordability. In this guide, We explore the best options available in 2026, helping The Potensians make informed decisions and capture [stunning shots](/nikon/inexpensive-nikon-portrait-lens).
 
 ## Top Picks: Affordable Lenses That Deliver Exceptional Results
 
@@ -36,7 +35,7 @@ To help The Potensians navigate the wide array of options, We have compiled a li
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Portraits & Low-Light Photography</td>
+<td>Portraits & [Low-Light Photography](/nikon/nikon-camera-performance-in-low-light-photography)</td>
 <td>Wide aperture (f/1.8), Compact & lightweight, Sharp focus & beautiful bokeh</td>
 </tr>
 <tr>
