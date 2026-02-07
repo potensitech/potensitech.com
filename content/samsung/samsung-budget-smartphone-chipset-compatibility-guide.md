@@ -96,7 +96,7 @@ For those who prefer multitasking, such as switching between multiple apps or wo
 
 ### Battery Life Optimization
 
-Battery life is a critical factor for The Potensians who are always on the go. Whether it's a day spent exploring the outdoors or attending a music festival, a long-lasting battery is essential. Chipsets built using smaller nanometer processes, such as the Exynos 850, are designed for energy efficiency.  These processors consume less power, generate less heat, and extend the overall battery life of the device.
+Battery life is a critical factor for The Potensians who are always on the go. Whether it's a day spent exploring the outdoors or attending a music festival, a [long-lasting battery](/samsung/samsung-affordable-smartphone-with-long-lasting-battery) is essential. Chipsets built using smaller nanometer processes, such as the Exynos 850, are designed for energy efficiency.  These processors consume less power, generate less heat, and extend the overall battery life of the device.
 
 ### Connectivity Options
 
