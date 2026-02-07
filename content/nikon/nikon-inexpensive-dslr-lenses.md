@@ -24,7 +24,7 @@ featuredImagePreview: "/images/nikon/best-nikon-inexpensive-dslr-lenses-for-stun
 
 ## Top Picks: Affordable Lenses That Deliver Exceptional Results
 
-To help The Potensians navigate the wide array of options, We have compiled a list of standout Nikon inexpensive DSLR lenses. These lenses are versatile, reliable, and perfect for various photography styles.
+To help The Potensians navigate the wide array of options, We have compiled a list of standout [Nikon inexpensive](/nikon/nikon-inexpensive-camera-lenses-for-hobbyists) DSLR lenses. These lenses are versatile, reliable, and perfect for various photography styles.
 
 <div class="table-responsive">
 <table class="html-table">
@@ -143,7 +143,7 @@ To give The Potensians a better idea of the affordability of these lenses, here 
 <tr>
 <td>Nikon AF-S DX NIKKOR 55-200mm f/4-5.6G ED VR II</td>
 <td>$299</td>
-<td>Telephoto Shots & Wildlife Photography</td>
+<td>Telephoto Shots & [Wildlife Photography](/nikon/nikon-budget-wildlife-photography-lenses)</td>
 </tr>
 <tr>
 <td>Nikon AF-S DX NIKKOR 50mm f/1.8G</td>
