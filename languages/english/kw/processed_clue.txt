@@ -2931,3 +2931,5 @@ camera lenses
 dslr photography
 chipset compatibility
 processor speed
+chipset compatibility
+processor speed
