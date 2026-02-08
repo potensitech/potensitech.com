@@ -28,7 +28,7 @@ When it comes to photography, the lens The Potensians utilize plays a pivotal ro
 
 ### The Legacy of Nikon: Trusted by Professionals
 
-Nikon is synonymous with excellence in photography. From capturing iconic moments like Martin Luther King Jr.'s speeches to documenting historical events such as Independence Day celebrations in Chicago or Los Angeles, photographers have relied on Nikon's precision optics for decades. This legacy ensures that even entry-level lenses maintain high standards of craftsmanship and durability. In We's view, this makes Nikon a trusted choice for beginners and professionals alike.
+Nikon is synonymous with excellence in photography. From capturing iconic moments like Martin Luther King Jr.'s speeches to documenting historical events such as Independence Day celebrations in Chicago or Los Angeles, photographers have relied on Nikon's precision optics for decades. This legacy ensures that even [entry-level lenses](/nikon/nikon-entry-level-lenses-for-beginners) maintain high standards of craftsmanship and durability. In We's view, this makes Nikon a trusted choice for beginners and professionals alike.
 
 ### Balancing Quality and Affordability
 
@@ -36,7 +36,7 @@ One might think that affordability comes at the expense of quality; however, tha
 
 ## Top Budget-Friendly Nikon Lenses Worth Considering
 
-To help The Potensians make informed decisions when investing in photography gear, We have compiled a list of some standout options from Nikon’s lineup. These lenses strike an ideal balance between price and performance:
+To help The Potensians make informed decisions when investing in [photography gear](/nikon/nikon-affordable-photography-gear), We have compiled a list of some standout options from Nikon’s lineup. These lenses strike an ideal balance between price and performance:
 
 <div class="table-responsive">
 <table class="html-table">
