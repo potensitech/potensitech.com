@@ -1,0 +1,9 @@
+2026-02-08 04:36:05,658 - INFO - Active language loaded: english
+2026-02-08 04:36:05,662 - INFO - Loaded AI model: gpt-4o -> openai/gpt-4o
+2026-02-08 04:36:05,662 - INFO - Loaded personas - Author: 'We', Audience: 'The Potensians'
+2026-02-08 04:36:05,663 - INFO - Starting authentication process
+2026-02-08 04:36:05,664 - INFO - Loaded 4 tokens
+2026-02-08 04:36:05,705 - INFO - Testing API connection...
+2026-02-08 04:36:06,908 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-08 04:36:06,954 - INFO - Authentication successful!
+2026-02-08 04:36:07,026 - INFO - Found 0 articles older than 6 months
