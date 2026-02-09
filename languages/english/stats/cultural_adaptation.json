@@ -11726,5 +11726,18 @@
             "Cultural: Central Park",
             "Cultural: Tex-Mex"
         ]
+    },
+    "nikon budget-friendly photography equipment": {
+        "date": "2026-02-09T15:21:36",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: Central Park"
+        ]
     }
 }
