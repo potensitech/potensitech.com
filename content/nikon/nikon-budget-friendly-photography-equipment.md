@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 *Nikon Budget-Friendly Photography Equipment Guide*- Photography is an art form that allows individuals to capture fleeting moments and turn them into timeless memories. For The Potensians who are passionate about photography but wish to stay within a reasonable budget,**Nikon's budget-friendly photography equipment** offers the perfect balance of quality and affordability. Whether capturing the vibrant fireworks of the Fourth of July or the bustling energy of Times Square, Nikon provides tools that make professional-grade photography accessible to everyone.
 
 ## Why Choose Nikon for Budget-Friendly Photography?
@@ -53,7 +52,7 @@ To help The Potensians navigate through the myriad options available, here are s
 </tr>
 <tr>
 <td>Nikon Z30 (Mirrorless)</td>
-<td>Compact & lightweight, 4K video recording, Built-in Wi-Fi/Bluetooth</td>
+<td>Compact & lightweight, 4K [video recording](/nikon/nikon-cameras-with-4k-video-recording), Built-in Wi-Fi/Bluetooth</td>
 <td>$600 - $650</td>
 </tr>
 <tr>
@@ -75,7 +74,7 @@ In addition to cameras themselves, there are numerous accessories under the umbr
 
 For those looking beyond standard kit lenses: 
 1. **AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Lens** – Ideal for everyday shooting scenarios such as family picnics or scenic landscapes during road trips. 
-2. __AF-S DX NIKKOR 35mm f/1.8G Lens** – A prime lens perfect for low-light conditions like cozy indoor pizza parties or nighttime cityscapes. 
+2. __AF-S DX NIKKOR 35mm f/1.8G Lens** – A [prime lens](/nikon/nikon-affordable-prime-lens-for-professionals) perfect for low-light conditions like cozy indoor pizza parties or nighttime cityscapes. 
 
 ### Tripods
 
@@ -132,7 +131,7 @@ While Nikon is a top choice for budget-friendly photography equipment, it’s wo
 <tr>
 <td>Canon</td>
 <td>Excellent color science, beginner-friendly interface</td>
-<td>Fewer lens options for mirrorless cameras</td>
+<td>Fewer lens options for [mirrorless cameras](/nikon/nikon-affordable-mirrorless-cameras-for-enthusiasts)</td>
 </tr>
 <tr>
 <td>Sony</td>
