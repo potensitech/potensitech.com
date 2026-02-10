@@ -11778,5 +11778,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "affordable iPhone for DSLR-like photography": {
+        "date": "2026-02-10T20:11:56",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Broadway",
+            "Cultural: Burgers"
+        ]
     }
 }
