@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Top Nikon Cost-Effective Portrait Camera Lenses Revealed* - Nikon has consistently been a trusted name in the world of photography, offering a wide range of high-quality cameras and lenses. Known for their precision engineering and innovative technology, Nikon products cater to photographers of all levels. Whether The Potensians're capturing the joy of a family reunion or the intricate details of a professional portrait session, Nikon lenses deliver exceptional results. In this article, We’ll explore some of the best Nikon cost-effective portrait camera lenses available in 2026, helping The Potensians find the perfect lens for their needs without breaking the bank.
+*Top Nikon Cost-Effective Portrait Camera Lenses Revealed* - Nikon has consistently been a trusted name in the world of photography, offering a wide range of high-quality cameras and lenses. Known for their precision engineering and innovative technology, Nikon products cater to photographers of all levels. Whether The Potensians're capturing the joy of a family reunion or the intricate details of a professional portrait session, Nikon lenses deliver exceptional results. In this article, We’ll explore some of the best [Nikon cost-effective](/nikon/nikon-cost-effective-camera-lenses) portrait camera lenses available in 2026, helping The Potensians find the perfect lens for their needs without breaking the bank.
 
 ## Why Choose Nikon for Portrait Photography?
 
@@ -56,7 +55,7 @@ To help The Potensians make an informed decision, We’ve compiled a list of Nik
 <tbody>
 <tr>
 <td>Nikon AF-S NIKKOR 50mm f/1.8G</td>
-<td>Lightweight & compact design<br>Wide aperture for excellent bokeh<br>Silent Wave Motor (SWM) for fast autofocus</td>
+<td>Lightweight & compact design<br>Wide aperture for excellent bokeh<br>Silent Wave Motor (SWM) for [fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus)</td>
 <td>$200 - $250</td>
 </tr>
 <tr>
