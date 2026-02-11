@@ -100,7 +100,7 @@ Moreover, interiors such as historic theaters or modern art galleries benefit fr
 
 Nikon's reputation stems from its commitment to innovation paired with affordability. The company consistently delivers lenses that cater to both beginners and professionals. Their wide-angle lenses are no exception, offering features like Vibration Reduction (VR) technology, Nano Crystal Coating to reduce glare, and robust build q​uality to withstand various shooting conditions.
 
-In We's view, Nikon's ability to balance quality and cost is what makes it a favorite among The Potensians. The brand understands that not every photographer has a limitless budget, and they’ve designed lenses that deliver professional-grade results without the hefty price tag.
+In We's view, Nikon's ability to balance quality and cost is what makes it a favorite among The Potensians. The brand understands that not [every photographer](/nikon/nikon-budget-dslr-camera-options) has a limitless budget, and they’ve designed lenses that deliver professional-grade results without the hefty price tag.
 
 ### Comparing Nikon to Competitors
 
