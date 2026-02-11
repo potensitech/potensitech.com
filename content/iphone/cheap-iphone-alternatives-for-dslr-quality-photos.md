@@ -105,7 +105,7 @@ Or picture yourself on a scenic hike through the Grand Canyon, where the Poco X5
 
 ## How Do These Alternatives Compare to iPhones?
 
-While iPhones are known for their seamless integration of hardware and software, these affordable alternatives are catching up fast. Many of them now feature advanced AI capabilities, high-resolution sensors, and even unique features like periscope zoom lenses, which are not yet standard on iPhones.
+While iPhones are known for their seamless integration of hardware and software, these [affordable alternatives](/iphone/affordable-alternatives-to-iphone) are catching up fast. Many of them now feature advanced AI capabilities, high-resolution sensors, and even unique features like periscope zoom lenses, which are not yet standard on iPhones.
 
 ### Performance in Low Light
 
@@ -117,7 +117,7 @@ Unlike iPhones, which often focus on simplicity, many of these alternatives offe
 
 ### Price Advantage
 
-The most significant advantage is, of course, the price. While the latest iPhone models can cost upwards of $1,000, these alternatives are available for less than half that amount, making them accessible to a broader audience.
+The most significant advantage is, of course, the price. While the latest [iPhone models](/iphone/low-cost-iphone-models) can cost upwards of $1,000, these alternatives are available for less than half that amount, making them accessible to a broader audience.
 
 ## Tips for Maximizing Smartphone Photography
 
