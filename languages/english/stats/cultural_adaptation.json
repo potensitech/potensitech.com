@@ -11820,5 +11820,18 @@
             "Cultural: Central Park",
             "Cultural: Hot Dogs"
         ]
+    },
+    "best budget samsung smartphones": {
+        "date": "2026-02-11T13:08:29",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Christmas",
+            "Cultural: Hollywood",
+            "Cultural: BBQ",
+            "Cultural: Martin Luther King Jr."
+        ]
     }
 }
