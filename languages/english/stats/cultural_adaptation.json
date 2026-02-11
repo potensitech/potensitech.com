@@ -11833,5 +11833,15 @@
             "Cultural: BBQ",
             "Cultural: Martin Luther King Jr."
         ]
+    },
+    "samsung smartphones with excellent camera features": {
+        "date": "2026-02-11T20:05:25",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
