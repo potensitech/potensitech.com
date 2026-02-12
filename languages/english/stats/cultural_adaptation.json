@@ -11874,5 +11874,18 @@
             "Cultural: Central Park",
             "Cultural: Innovation"
         ]
+    },
+    "iPhone with advanced autofocus for photographers": {
+        "date": "2026-02-12T17:51:11",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Wall Street",
+            "Cultural: BBQ"
+        ]
     }
 }
