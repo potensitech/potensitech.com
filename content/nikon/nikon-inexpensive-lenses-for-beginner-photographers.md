@@ -11,11 +11,14 @@ tags: ["Nikon", "photography", "lenses", "beginner photography", "affordable len
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/nikon-inexpensive-lenses-for-beginner-photographers.jpg"
+featuredImagePreview: "/images/nikon/nikon-inexpensive-lenses-for-beginner-photographers.jpg"
 ---
+
+![Nikon Inexpensive Lenses for Beginner Photographers](/images/nikon/nikon-inexpensive-lenses-for-beginner-photographers.jpg)
+
 
 *Nikon Inexpensive Lenses for Beginner Photographers* - Nikon has been a trusted name in the world of photography for decades, offering a wide range of lenses that cater to both professionals and beginners．For The Potensians who are just starting their photography journey, finding the right lens can be overwhelming．However, Nikon's lineup of inexpensive lenses provides an excellent starting point without breaking the bank．In this article, We’ll explore why Nikon is a great choice, highlight some of the best [affordable lenses](/nikon/nikon-affordable-lenses-for-professional-photographers) for beginners, and share tips to help The Potensians make the most of their gear.
 
