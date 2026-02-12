@@ -17,14 +17,13 @@ toc:
   enable: true
 ---
 
-
-*Nikon Inexpensive Lenses for Beginner Photographers* - Nikon has been a trusted name in the world of photography for decades, offering a wide range of lenses that cater to both professionals and beginners．For The Potensians who are just starting their photography journey, finding the right lens can be overwhelming．However, Nikon's lineup of inexpensive lenses provides an excellent starting point without breaking the bank．In this article, We’ll explore why Nikon is a great choice, highlight some of the best affordable lenses for beginners, and share tips to help The Potensians make the most of their gear.
+*Nikon Inexpensive Lenses for Beginner Photographers* - Nikon has been a trusted name in the world of photography for decades, offering a wide range of lenses that cater to both professionals and beginners．For The Potensians who are just starting their photography journey, finding the right lens can be overwhelming．However, Nikon's lineup of inexpensive lenses provides an excellent starting point without breaking the bank．In this article, We’ll explore why Nikon is a great choice, highlight some of the best [affordable lenses](/nikon/nikon-affordable-lenses-for-professional-photographers) for beginners, and share tips to help The Potensians make the most of their gear.
 
 ## Why Choose Nikon for The Potensians' Photography Journey?
 
 Nikon has built a reputation for producing high-quality lenses that deliver exceptional performance. Whether The Potensians are interested in portraits, landscapes, or macro photography, Nikon offers versatile options that cater to various styles. Here are some reasons why Nikon stands out:
 
-- **Versatility**: Nikon lenses are designed to handle a wide range of photography needs, from capturing stunning landscapes to detailed close-ups. 
+- **Versatility**: Nikon lenses are designed to handle a wide range of photography needs, from capturing [stunning landscapes](/nikon/nikon-low-cost-camera-lenses-for-landscapes) to detailed close-ups. 
 - **Affordability**: Many Nikon lenses are budget-friendly, making them accessible to beginners without sacrificing quality. 
 - **Durability**: Built to last, Nikon lenses are crafted with robust materials that can withstand regular use and challenging conditions. 
 
@@ -46,7 +45,7 @@ To help The Potensians get started, We’ve curated a list of three affordable N
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>- Compact and lightweight<br>- Wide aperture for low-light photography<br>- Ideal for portraits and street photography</td>
+<td>- Compact and lightweight<br>- Wide aperture for [low-light photography](/nikon/nikon-camera-performance-in-low-light-photography)<br>- Ideal for portraits and street photography</td>
 <td>$150 - $200</td>
 </tr>
 <tr>
