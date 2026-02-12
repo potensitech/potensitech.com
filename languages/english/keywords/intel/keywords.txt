@@ -549,4 +549,6 @@ intel processor with optimal budget performance
 entry-level intel processor with good performance
 intel processor for affordable computing
 cost-effective intel processor for everyday use
+intel processor compatibility guide for laptops
+intel budget-friendly chipset guide for desktops
 
