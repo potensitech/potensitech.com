@@ -112,7 +112,7 @@ While the three lenses mentioned earlier are excellent starting points, Nikon of
 </tr>
 <tr>
 <td>Nikon AF-S DX NIKKOR 10-20mm f/4.5-5.6G VR</td>
-<td>- Ultra-wide-angle lens<br>- Great for landscapes and architecture<br>- Vibration Reduction (VR) technology</td>
+<td>- Ultra-[wide-angle lens](/nikon/nikon-affordable-wide-angle-lens-for-cameras)<br>- Great for landscapes and architecture<br>- Vibration Reduction (VR) technology</td>
 <td>$300 - $400</td>
 </tr>
 </tbody>
