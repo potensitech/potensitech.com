@@ -11887,5 +11887,17 @@
             "Cultural: Wall Street",
             "Cultural: BBQ"
         ]
+    },
+    "Apple computer with affordable processor options": {
+        "date": "2026-02-12T22:08:16",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Innovation"
+        ]
     }
 }
