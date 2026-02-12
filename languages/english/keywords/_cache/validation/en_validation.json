@@ -6183,5 +6183,8 @@
   "nvidia affordable graphics card options": true,
   "nvidia GPU compatibility for gaming PCs": true,
   "nvidia budget GPUs for entry-level gaming": true,
-  "nvidia high-speed processors for multitasking": true
+  "nvidia high-speed processors for multitasking": true,
+  "amd chipset for entry-level build compatibility": true,
+  "amd chipset for cost-effective upgrade compatibility": true,
+  "amd chipset for high-performance budget builds": true
 }
