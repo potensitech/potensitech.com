@@ -107,7 +107,7 @@ From weddings to festivals, Samsung’s lenses excel in capturing the essence of
 
 ### Travel Photography
 
-For travelers, Samsung’s lightweight and portable lenses are a blessing. They allow The Potensians to document The Potensians's adventures without the need for bulky equipment. As the saying goes, “The best camera is the one The Potensians have with The Potensians,” and Samsung ensures that The Potensians's smartphone is always ready for the perfect shot.
+For travelers, Samsung’s lightweight and portable lenses are a blessing. They allow The Potensians to document The Potensians's adventures without the need for bulky equipment. As the saying goes, “The [best camera](/samsung/samsung-smartphone-with-best-camera-quality) is the one The Potensians have with The Potensians,” and Samsung ensures that The Potensians's smartphone is always ready for the perfect shot.
 
 ## Tips for Choosing the Right Lens
 

@@ -62,7 +62,7 @@ The "Nifty Fifty" is a prime lens celebrated for its exceptional performance and
 
 ### Why It’s Great for Beginners
 
-- **Wide Aperture:** With an aperture of f/1.8, this lens excels in low-light conditions, such as cozy indoor settings or evening outdoor shoots.
+- **Wide Aperture:** With an aperture of f/1.8, this lens excels in [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions), such as cozy indoor settings or evening outdoor shoots.
 - **Bokeh Effect:** Creates beautifully blur​red backgrounds, adding depth and artistic flair to The Potensians's photos.
 - **Portability:** Compact and lightweight, it’s easy to carry for casual outings or professional shoots.
 

@@ -38,7 +38,7 @@ featuredImagePreview: "/images/samsung/best-samsung-smartphones-for-authentic-ph
 
 ## Why Choose Samsung for Photography?
 
-Samsung has long been synonymous with innovation, blending cutting-edge technology with user-centric designs. Their smartphone cameras are engineered to provide superior image quality that rivals professional-grade equipment. Speaking of which, advancements like multi-lens setups and AI-driven enhancements ensure every shot captures the essence of reality—be it a Broadway performance or a Fourth of July fireworks display.
+Samsung has long been synonymous with innovation, blending cutting-edge technology with user-centric designs. Their smartphone cameras are engineered to provide superior [image quality](/samsung/samsung-smartphone-image-quality) that rivals professional-grade equipment. Speaking of which, advancements like multi-lens setups and AI-driven enhancements ensure every shot captures the essence of reality—be it a Broadway performance or a Fourth of July fireworks display.
 
 ### Key Features That Make Samsung Stand Out
 
@@ -131,7 +131,7 @@ Samsung smartphones come with a Pro Mode that allows The Potensians to manually 
 
 ### Utilize Nightography Features
 
-Low-light photography can be challenging, but Samsung’s Nightography mode ensures The Potensians's photos remain sharp and vibrant. ​Whether The Potensians’re capturing a candlelit dinner or a city skyline, this feature is a game-changer.
+[Low-light photography](/samsung/samsung-smartphone-lenses-for-low-light-photography) can be challenging, but Samsung’s Nightography mode ensures The Potensians's photos remain sharp and vibrant. ​Whether The Potensians’re capturing a candlelit dinner or a city skyline, this feature is a game-changer.
 
 ### Leverage AI Scene Optimization
 
