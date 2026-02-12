@@ -1,0 +1,7 @@
+2026-02-12 04:29:16,784 - INFO - Active language loaded: english
+2026-02-12 04:29:16,787 - INFO - Loaded AI model: gpt-4o -> openai/gpt-4o
+2026-02-12 04:29:16,787 - INFO - Loaded personas - Author: 'We', Audience: 'The Potensians'
+2026-02-12 04:29:16,788 - INFO - Starting authentication process
+2026-02-12 04:29:16,788 - INFO - ✅ Token is still valid. Skipping re-authentication.
+2026-02-12 04:29:16,790 - INFO - Loaded 4 tokens
+2026-02-12 04:29:16,898 - INFO - Found 0 articles older than 6 months
