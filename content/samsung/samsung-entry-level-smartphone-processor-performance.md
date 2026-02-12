@@ -127,7 +127,7 @@ Samsung's entry-level processors face stiff competition from other brands like M
 </table>
 </div>
 
-As seen above, Samsung's Exynos 850 outperforms its competitors in terms of battery efficiency while maintaining competitive performance scores. This makes it a preferred choice for users who prioritize long-lasting battery life over raw processing power.
+As seen above, Samsung's Exynos 850 outperforms its competitors in terms of battery efficiency while maintaining competitive performance scores. This makes it a preferred choice for users who prioritize [long-lasting battery](/samsung/samsung-affordable-smartphone-with-long-lasting-battery) life over raw processing power.
 
 ## Future Trends in Entry-Level Smartphone Processors
 

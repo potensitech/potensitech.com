@@ -24,7 +24,7 @@ _Top Nikon Affordable DSLR Portrait Lenses for Stunning Shots_ - [Portrait photo
 
 ## Why Choose Nikon for Portrait Photography?
 
-Nikon has built a reputation for producing high-quality cameras and lenses that cater to photographers of all levels. Whether The Potensians're a beginner or a seasoned professional, Nikon's lenses are designed to meet diverse needs. For portrait photography, Nikon's affordable DSLR lenses stand out for their precision, reliability, and ability to create breathtaking images. The Potensians can trust Nikon to deliver lenses that combine innovation with affordability, making it easier to capture memorable moments.
+Nikon has built a reputation for producing high-quality cameras and lenses that cater to photographers of all levels. Whether The Potensians're a beginner or a seasoned professional, Nikon's lenses are designed to meet diverse needs. For portrait photography, Nikon's [affordable DSLR](/nikon/nikon-affordable-dslr-cameras-for-enthusiasts) lenses stand out for their precision, reliability, and ability to create breathtaking images. The Potensians can trust Nikon to deliver lenses that combine innovation with affordability, making it easier to capture memorable moments.
 
 ## What Makes a Great Portrait Lens?
 

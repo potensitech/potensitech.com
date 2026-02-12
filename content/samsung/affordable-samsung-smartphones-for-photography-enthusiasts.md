@@ -138,7 +138,7 @@ Pro Mode is a game-changer for photography enthusiasts. By manually adjusting se
 
 ### Use Accessories for Enhanced Results
 
-Pairing The Potensians's Samsung smartphone with accessories like a tripod or external lens can elevate The Potensians's photography game. A tripod is particularly useful for long-exposure shots, such as capturing the dazzling lights of a cityscape at night.
+Pairing The Potensians's [Samsung smartphone](/samsung/best-samsung-smartphone-photography-accessories) with accessories like a tripod or external lens can elevate The Potensians's photography game. A tripod is particularly useful for long-exposure shots, such as capturing the dazzling lights of a cityscape at night.
 
 ### Keep The Potensians's Lens Clean
 

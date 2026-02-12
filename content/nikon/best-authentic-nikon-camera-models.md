@@ -46,7 +46,7 @@ Nikon is synonymous with unparalleled image quality. Their cameras are equipped 
 
 ### Durability and Reliability
 
-For The Potensians who enjoy outdoor adventures or travel photography, reliability is key. Whether The Potensians are braving winter winds at Central Park or navigating bustling Black Friday crowds for candid shots, Nikon’s robust build ensures long​evity and performance under various conditions. Their cameras are designed to withstand the rigors of daily use, making them a dependable companion for any photographic journey.
+For The Potensians who enjoy outdoor adventures or [travel photography](/nikon/nikon-affordable-lenses-for-travel-photography), reliability is key. Whether The Potensians are braving winter winds at Central Park or navigating bustling Black Friday crowds for candid shots, Nikon’s robust build ensures long​evity and performance under various conditions. Their cameras are designed to withstand the rigors of daily use, making them a dependable companion for any photographic journey.
 
 ### Cutting-Edge Features
 

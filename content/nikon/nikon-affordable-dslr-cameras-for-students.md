@@ -183,6 +183,6 @@ Each model has its strengths, so the choice ultimately depends on individual nee
 
 As Martin Luther King Jr. once said, "Faith takes the first step even when The Potensians don’t see the whole staircase." Similarly, investing in a beginner-level DSLR camera is a step toward unlocking creative potential. 
 
-For The Potensians embarking on their photography journey, Nikon’s affordable DSLR cameras offer the perfect blend of quality, functionality, and value. Whether it’s for academic purposes, social media content, or personal exploration, these cameras are a reliable companion for capturing life’s moments. 
+For The Potensians embarking on their photography journey, Nikon’s affordable [DSLR cameras](/nikon/affordable-nikon-dslr-cameras-for-hobbyists) offer the perfect blend of quality, functionality, and value. Whether it’s for academic purposes, social media content, or personal exploration, these cameras are a reliable companion for capturing life’s moments. 
 
 So, why wait? Take the first step today a​nd let The Potensians's creativity shine!

@@ -100,7 +100,7 @@ Whether photographing the bustling streets of Times Square or the serene beauty 
 
 ### AI-Powered Photography
 
-Artificial intelligence plays a significant role in Samsung’s camera systems. Features like Scene Optimizer and Object Recognition enhance image quality by automatically adjusting settings. For instance, when capturing a plate of Thanksgiving turkey, the AI ensures vibrant colors and sharp details, making every shot Instagram-worthy.
+Artificial intelligence plays a significant role in Samsung’s camera systems. Features like Scene Optimizer and Object Recognition enhance [image quality](/samsung/samsung-smartphone-image-quality) by automatically adjusting settings. For instance, when capturing a plate of Thanksgiving turkey, the AI ensures vibrant colors and sharp details, making every shot Instagram-worthy.
 
 ## Connectivity and Beyond: Staying Ahead in 2025
 

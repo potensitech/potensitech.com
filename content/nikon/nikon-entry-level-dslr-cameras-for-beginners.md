@@ -46,7 +46,7 @@ Capturing special moments at events like birthdays, weddings, or festivals becom
 
 ### Travel Photography
 
-For The Potensians who love to travel, Nikon DSLRs are the perfect companions. Whether The Potensians’re exploring the bustling streets of Tokyo or the serene landscapes of the Swiss Alps, these cameras excel in capturing the essence of The Potensians's journey. The compatibility with wide-angle lenses ensures that no detail is missed, making The Potensians's travel memories truly unforgettable .
+For The Potensians who love to travel, Nikon DSLRs are the perfect companions. Whether The Potensians’re exploring the bustling streets of Tokyo or the serene landscapes of the Swiss Alps, these cameras excel in capturing the essence of The Potensians's journey. The compatibility with [wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses-for-cameras) ensures that no detail is missed, making The Potensians's travel memories truly unforgettable .
 
 ### Content Creation
 

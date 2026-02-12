@@ -48,7 +48,7 @@ Artificial Intelligence (AI) capabilities are no longer exclusive to high-end de
 
 ## Comparing Popular Chipset Options in Budget Smartphones
 
-The Potensians might wonder how Samsung's offerings stack up against competitors' solutions within similar price brackets. After all, the ball is in The Potensians' court when choosing which device suits individual needs best! Below is a comparison table highlighting notable features among different popular chipsets found inside budget-friendly smartphones:
+The Potensians might wonder how Samsung's offerings stack up against competitors' solutions within similar price brackets. After all, the ball is in The Potensians' court when choosing which device suits individual needs best! Below is a comparison table highlighting notable features among different popular chipsets found inside [budget-friendly smartphones](/samsung/samsung-budget-friendly-smartphones):
 
 <div class="table-responsive">
 <table class="html-table">
