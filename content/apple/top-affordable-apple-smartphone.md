@@ -71,7 +71,7 @@ The mid-range smartphone market is highly competitive, with options from brands 
 
 ### Seamless Ecosystem Integration
 
-One of Apple’s biggest strengths is its ecosystem. The iPhone SE integrates seamlessly with other Apple devices, such as the Apple Watch, iPad, and MacBook. Features like AirDrop, iCloud, and Handoff enhance productivity and convenience, offering a level of integration that competitors struggle to match.
+One of Apple’s biggest strengths is its ecosystem. The iPhone SE integrates seamlessly with other [Apple devices](/apple/sandisk-storage-solutions-for-apple-devices), such as the Apple Watch, iPad, and MacBook. Features like AirDrop, iCloud, and Handoff enhance productivity and convenience, offering a level of integration that competitors struggle to match.
 
 ### Timely Software Updates
 
