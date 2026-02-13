@@ -449,4 +449,5 @@ amd high-performance and affordable processors
 amd chipset for entry-level build compatibility
 amd chipset for cost-effective upgrade compatibility
 amd chipset for high-performance budget builds
+amd chipset guide for budget-friendly systems
 

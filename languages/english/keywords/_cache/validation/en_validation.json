@@ -6213,5 +6213,6 @@
   "asus affordable chipset compatibility": true,
   "intel entry-level processor and chipset compatibility": true,
   "nvidia processor benchmarks for affordable GPUs": true,
-  "nvidia graphics card performance for gaming": true
+  "nvidia graphics card performance for gaming": true,
+  "amd chipset guide for budget-friendly systems": true
 }
