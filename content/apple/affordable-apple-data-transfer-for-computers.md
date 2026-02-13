@@ -11,11 +11,14 @@ tags: ["affordable", "Apple", "data transfer", "computers", "migration"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/affordable-apple-data-transfer-for-computers-made-easy.jpg"
+featuredImagePreview: "/images/apple/affordable-apple-data-transfer-for-computers-made-easy.jpg"
 ---
+
+![Affordable Apple Data Transfer for Computers Made Easy](/images/apple/affordable-apple-data-transfer-for-computers-made-easy.jpg)
+
 
 *Affordable Apple Data Transfer for Computers Made Easy* - 
 
