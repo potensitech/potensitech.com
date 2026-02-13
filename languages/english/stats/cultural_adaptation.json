@@ -11953,5 +11953,16 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "affordable Apple data transfer for computers": {
+        "date": "2026-02-13T17:37:38",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: Martin Luther King Jr."
+        ]
     }
 }
