@@ -6211,5 +6211,7 @@
   "best samsung chipset for budget smartphones": true,
   "asus affordable camera lenses": true,
   "asus affordable chipset compatibility": true,
-  "intel entry-level processor and chipset compatibility": true
+  "intel entry-level processor and chipset compatibility": true,
+  "nvidia processor benchmarks for affordable GPUs": true,
+  "nvidia graphics card performance for gaming": true
 }

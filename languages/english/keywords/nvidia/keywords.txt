@@ -469,4 +469,6 @@ nvidia affordable graphics card options
 nvidia GPU compatibility for gaming PCs
 nvidia budget GPUs for entry-level gaming
 nvidia high-speed processors for multitasking
+nvidia processor benchmarks for affordable GPUs
+nvidia graphics card performance for gaming
 
