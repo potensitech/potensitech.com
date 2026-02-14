@@ -11977,5 +11977,14 @@
             "Cultural: Times Square",
             "Cultural: Clam Chowder"
         ]
+    },
+    "buy fresh apple online": {
+        "date": "2026-02-14T02:52:10",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
