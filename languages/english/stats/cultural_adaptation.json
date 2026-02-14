@@ -11995,5 +11995,16 @@
         "matches": [
             "Cultural: Black Friday"
         ]
+    },
+    "organic apple delivery": {
+        "date": "2026-02-14T12:46:25",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
