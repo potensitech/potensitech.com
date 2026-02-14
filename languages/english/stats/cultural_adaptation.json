@@ -11986,5 +11986,14 @@
         "matches": [
             "Cultural: Buffalo Wings"
         ]
+    },
+    "best apple deals today": {
+        "date": "2026-02-14T10:03:19",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Black Friday"
+        ]
     }
 }
