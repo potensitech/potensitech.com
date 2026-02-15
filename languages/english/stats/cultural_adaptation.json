@@ -12093,5 +12093,14 @@
             "Cultural: Wall Street",
             "Cultural: Hollywood"
         ]
+    },
+    "affordable apple smartphone specifications": {
+        "date": "2026-02-15T21:59:58",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
