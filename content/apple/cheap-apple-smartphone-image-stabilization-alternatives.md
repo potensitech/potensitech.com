@@ -56,7 +56,7 @@ Picture this: capturing the breathtaking sunset over the Grand Canyon or filming
 
 ### Why Choose Samsung Galaxy A Series?
 
-In We's view, the Galaxy A series is a great choice for those who value versatility and reliability. Its combination of OIS and Super Steady Mode makes it a top contender for anyone looking for cheap Apple smartphone image stabilization alternatives.
+In We's view, the Galaxy A series is a great choice for those who value versatility and reliability. Its combination of OIS and Super Steady Mode makes it a top contender for anyone looking for cheap [Apple smartphone](/apple/top-affordable-apple-smartphone) image stabilization alternatives.
 
 ## Sony Xperia L4 – Budget-Friendly Quality
 
