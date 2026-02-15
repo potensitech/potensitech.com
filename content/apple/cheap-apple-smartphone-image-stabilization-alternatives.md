@@ -28,7 +28,7 @@ In this article, We will explore some of the best alternatives to Apple smartpho
 
 ## Xiaomi Redmi Note Series – Affordable Innovation
 
-Xiaomi has gained a reputation for delivering feature-packed smartphones at budget-friendly prices.  The Redmi Note series, in particular, stands out as one of the most reliable cheap Apple smartphone image stabilization alternatives.
+Xiaomi has gained a reputation for delivering feature-packed smartphones at budget-friendly prices.  The Redmi Note series, in particular, stands out as one of the most reliable [cheap Apple](/apple/cheap-apple-smartphone-camera-lens-alternatives) smartphone image stabilization alternatives.
 
 ### Key Features of Xiaomi Redmi Note Series
 
