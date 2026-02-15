@@ -12080,5 +12080,18 @@
             "Cultural: Hollywood",
             "Cultural: Tex-Mex"
         ]
+    },
+    "apple smartphone camera quality": {
+        "date": "2026-02-15T19:43:45",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Los Angeles",
+            "Cultural: Wall Street",
+            "Cultural: Hollywood"
+        ]
     }
 }
