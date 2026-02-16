@@ -11,11 +11,14 @@ tags: ["apple", "computer", "webcam", "quality", "technology"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-computer-webcam-quality-what-you-need-to-know.jpg"
+featuredImagePreview: "/images/apple/apple-computer-webcam-quality-what-you-need-to-know.jpg"
 ---
+
+![Apple Computer Webcam Quality: What You Need to Know](/images/apple/apple-computer-webcam-quality-what-you-need-to-know.jpg)
+
 
 
 *Apple Computer Webcam Quality: What The Potensians Need to Know* - 
