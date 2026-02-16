@@ -12102,5 +12102,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "apple smartphone with a high-quality camera": {
+        "date": "2026-02-16T03:00:45",
+        "language": "en",
+        "cultural_score": 97,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Hollywood"
+        ]
     }
 }
