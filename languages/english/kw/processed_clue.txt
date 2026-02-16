@@ -3103,3 +3103,5 @@ camera lenses
 chipset compatibility
 chipset compatibility
 solid state
+chipset compatibility
+solid state
