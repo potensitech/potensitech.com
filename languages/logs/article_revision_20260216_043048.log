@@ -1,0 +1,437 @@
+2026-02-16 04:30:48,874 - INFO - Active language loaded: english
+2026-02-16 04:30:48,877 - INFO - Loaded AI model: gpt-4o -> openai/gpt-4o
+2026-02-16 04:30:48,878 - INFO - Loaded personas - Author: 'We', Audience: 'The Potensians'
+2026-02-16 04:30:48,879 - INFO - Starting authentication process
+2026-02-16 04:30:48,879 - INFO - ✅ Token is still valid. Skipping re-authentication.
+2026-02-16 04:30:48,880 - INFO - Loaded 4 tokens
+2026-02-16 04:30:48,979 - INFO - Found 26 articles older than 6 months
+2026-02-16 04:30:48,980 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/page/about-us.md
+2026-02-16 04:30:48,980 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:30:48,981 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:30:48,986 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:30:48,987 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:30:48,987 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:30:48,987 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:30:55,328 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:30:55,336 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:30:55,337 - INFO - Persona replacements made: enthusiasts → The Potensians (2x), \byou\b → The Potensians (1x)
+2026-02-16 04:30:55,339 - INFO - Persona consistency validation passed - Audience: 3x, Author: 14x
+2026-02-16 04:30:55,339 - INFO - Persona consistency applied and validated successfully
+2026-02-16 04:30:55,340 - INFO - Persona consistency validation passed - Audience: 3x, Author: 14x
+2026-02-16 04:30:55,340 - INFO - Revision validation passed
+2026-02-16 04:30:55,340 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/page/about-us.md.backup.1771216255
+2026-02-16 04:30:55,340 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/page/about-us.md
+2026-02-16 04:30:58,341 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/page/privacy-policy.md
+2026-02-16 04:30:58,341 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:30:58,342 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:30:58,347 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:30:58,347 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:30:58,347 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:30:58,347 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:31:06,742 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:31:06,745 - INFO - Persona consistency validation passed - Audience: 7x, Author: 18x
+2026-02-16 04:31:06,745 - INFO - Content already meets persona consistency requirements, skipping fixes
+2026-02-16 04:31:06,747 - INFO - Persona consistency validation passed - Audience: 7x, Author: 18x
+2026-02-16 04:31:06,747 - INFO - Revision validation passed
+2026-02-16 04:31:06,747 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/page/privacy-policy.md.backup.1771216266
+2026-02-16 04:31:06,747 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/page/privacy-policy.md
+2026-02-16 04:31:09,748 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-models.md
+2026-02-16 04:31:09,748 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:31:09,748 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:31:09,755 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:31:09,756 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:31:09,756 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:31:09,756 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:31:19,820 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:31:19,823 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:31:19,826 - INFO - Persona replacements made: enthusiasts → The Potensians (2x), \bour\b → We's (1x)
+2026-02-16 04:31:19,828 - INFO - Persona consistency validation passed - Audience: 14x, Author: 2x
+2026-02-16 04:31:19,828 - INFO - Persona consistency applied and validated successfully
+2026-02-16 04:31:19,831 - INFO - Persona consistency validation passed - Audience: 14x, Author: 2x
+2026-02-16 04:31:19,831 - INFO - Revision validation passed
+2026-02-16 04:31:19,831 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-models.md.backup.1771216279
+2026-02-16 04:31:19,831 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-models.md
+2026-02-16 04:31:22,832 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/profile/sarah-tan.md
+2026-02-16 04:31:22,832 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:31:22,832 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:31:22,835 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:31:22,835 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:31:22,836 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:31:22,836 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:31:27,560 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:31:27,562 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:31:27,565 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:31:27,565 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:31:27,566 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:31:27,566 - WARNING - Persona consistency validation failed
+2026-02-16 04:31:27,566 - INFO - Revision validation passed
+2026-02-16 04:31:27,566 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/profile/sarah-tan.md.backup.1771216287
+2026-02-16 04:31:27,567 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/profile/sarah-tan.md
+2026-02-16 04:31:30,567 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/cheap-iphone-options.md
+2026-02-16 04:31:30,568 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:31:30,568 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:31:30,575 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:31:30,575 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:31:30,575 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:31:30,575 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:31:40,740 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:31:40,743 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:31:40,746 - INFO - Persona replacements made: enthusiasts → The Potensians (1x)
+2026-02-16 04:31:40,748 - INFO - Persona consistency validation passed - Audience: 10x, Author: 3x
+2026-02-16 04:31:40,748 - INFO - Persona consistency applied and validated successfully
+2026-02-16 04:31:40,750 - INFO - Persona consistency validation passed - Audience: 10x, Author: 3x
+2026-02-16 04:31:40,750 - INFO - Revision validation passed
+2026-02-16 04:31:40,751 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/cheap-iphone-options.md.backup.1771216300
+2026-02-16 04:31:40,751 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/cheap-iphone-options.md
+2026-02-16 04:31:43,751 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/low-cost-iphone-models.md
+2026-02-16 04:31:43,752 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:31:43,752 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:31:43,759 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:31:43,759 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:31:43,759 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:31:43,759 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:31:53,141 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:31:53,144 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:31:53,147 - INFO - Persona replacements made: enthusiasts → The Potensians (1x)
+2026-02-16 04:31:53,149 - INFO - Persona consistency validation passed - Audience: 13x, Author: 3x
+2026-02-16 04:31:53,149 - INFO - Persona consistency applied and validated successfully
+2026-02-16 04:31:53,151 - INFO - Persona consistency validation passed - Audience: 13x, Author: 3x
+2026-02-16 04:31:53,151 - INFO - Revision validation passed
+2026-02-16 04:31:53,151 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/low-cost-iphone-models.md.backup.1771216313
+2026-02-16 04:31:53,152 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/low-cost-iphone-models.md
+2026-02-16 04:31:56,152 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/profile/kevin-wu.md
+2026-02-16 04:31:56,152 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:31:56,153 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:31:56,155 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:31:56,156 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:31:56,156 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:31:56,156 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:32:00,694 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:32:00,696 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:32:00,698 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:32:00,698 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:32:00,699 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:32:00,699 - WARNING - Persona consistency validation failed
+2026-02-16 04:32:00,699 - INFO - Revision validation passed
+2026-02-16 04:32:00,700 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/profile/kevin-wu.md.backup.1771216320
+2026-02-16 04:32:00,700 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/profile/kevin-wu.md
+2026-02-16 04:32:03,700 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/profile/alex-johnson.md
+2026-02-16 04:32:03,701 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:32:03,701 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:32:03,704 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:32:03,704 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:32:03,705 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:32:03,705 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:32:09,132 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:32:09,134 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:32:09,137 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:32:09,137 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:32:09,138 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:32:09,138 - WARNING - Persona consistency validation failed
+2026-02-16 04:32:09,138 - INFO - Revision validation passed
+2026-02-16 04:32:09,138 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/profile/alex-johnson.md.backup.1771216329
+2026-02-16 04:32:09,138 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/profile/alex-johnson.md
+2026-02-16 04:32:12,139 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphone-deals-for-budget-shoppers.md
+2026-02-16 04:32:12,139 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:32:12,140 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:32:12,146 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:32:12,147 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:32:12,147 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:32:12,147 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:32:23,106 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:32:23,109 - INFO - Persona consistency validation passed - Audience: 10x, Author: 2x
+2026-02-16 04:32:23,110 - INFO - Content already meets persona consistency requirements, skipping fixes
+2026-02-16 04:32:23,112 - INFO - Persona consistency validation passed - Audience: 10x, Author: 2x
+2026-02-16 04:32:23,112 - INFO - Revision validation passed
+2026-02-16 04:32:23,112 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphone-deals-for-budget-shoppers.md.backup.1771216343
+2026-02-16 04:32:23,112 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphone-deals-for-budget-shoppers.md
+2026-02-16 04:32:26,113 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/profile/maria-lopez.md
+2026-02-16 04:32:26,113 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:32:26,113 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:32:26,116 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:32:26,116 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:32:26,117 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:32:26,117 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:32:30,607 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:32:30,610 - WARNING - Audience persona 'The Potensians' used only 1 times (minimum 3)
+2026-02-16 04:32:30,612 - WARNING - Audience persona 'The Potensians' used only 1 times (minimum 3)
+2026-02-16 04:32:30,612 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:32:30,613 - WARNING - Audience persona 'The Potensians' used only 1 times (minimum 3)
+2026-02-16 04:32:30,613 - WARNING - Persona consistency validation failed
+2026-02-16 04:32:30,613 - INFO - Revision validation passed
+2026-02-16 04:32:30,613 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/profile/maria-lopez.md.backup.1771216350
+2026-02-16 04:32:30,614 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/profile/maria-lopez.md
+2026-02-16 04:32:33,614 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphones-under--500.md
+2026-02-16 04:32:33,614 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:32:33,615 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:32:33,621 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:32:33,621 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:32:33,621 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:32:33,621 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:32:45,031 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:32:45,035 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:32:45,037 - INFO - Persona replacements made: enthusiasts → The Potensians (1x), \bour\b → We's (1x)
+2026-02-16 04:32:45,040 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:32:45,040 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:32:45,042 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:32:45,042 - WARNING - Persona consistency validation failed
+2026-02-16 04:32:45,042 - INFO - Revision validation passed
+2026-02-16 04:32:45,042 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphones-under--500.md.backup.1771216365
+2026-02-16 04:32:45,043 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphones-under--500.md
+2026-02-16 04:32:48,043 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/profile/james-smith.md
+2026-02-16 04:32:48,043 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:32:48,044 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:32:48,046 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:32:48,047 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:32:48,047 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:32:48,047 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:32:54,181 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:32:54,183 - WARNING - Audience persona 'The Potensians' used only 0 times (minimum 3)
+2026-02-16 04:32:54,184 - INFO - Persona replacements made: \byour\b → The Potensians's (1x)
+2026-02-16 04:32:54,185 - WARNING - Audience persona 'The Potensians' used only 1 times (minimum 3)
+2026-02-16 04:32:54,185 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:32:54,186 - WARNING - Audience persona 'The Potensians' used only 1 times (minimum 3)
+2026-02-16 04:32:54,186 - WARNING - Persona consistency validation failed
+2026-02-16 04:32:54,186 - INFO - Revision validation passed
+2026-02-16 04:32:54,187 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/profile/james-smith.md.backup.1771216374
+2026-02-16 04:32:54,187 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/profile/james-smith.md
+2026-02-16 04:32:57,187 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/economical-iphone-options.md
+2026-02-16 04:32:57,188 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:32:57,188 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:32:57,195 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:32:57,196 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:32:57,196 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:32:57,196 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:32:57,424 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-16 04:32:57,424 - INFO - Retrying request to /chat/completions in 0.375033 seconds
+2026-02-16 04:32:57,984 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-16 04:32:57,984 - INFO - Retrying request to /chat/completions in 0.899421 seconds
+2026-02-16 04:32:59,056 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-16 04:32:59,056 - ERROR - API call error: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+2026-02-16 04:32:59,056 - WARNING - API call attempt 1 failed: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+2026-02-16 04:32:59,056 - INFO - Rotated to token 2/4
+2026-02-16 04:33:15,035 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:33:15,039 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:33:15,043 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:33:15,044 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:33:15,046 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:33:15,046 - WARNING - Persona consistency validation failed
+2026-02-16 04:33:15,046 - INFO - Revision validation passed
+2026-02-16 04:33:15,046 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/economical-iphone-options.md.backup.1771216395
+2026-02-16 04:33:15,046 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/economical-iphone-options.md
+2026-02-16 04:33:18,047 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-features.md
+2026-02-16 04:33:18,047 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:33:18,048 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:33:18,054 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:33:18,054 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:33:18,055 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:33:18,055 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:33:28,883 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:33:28,887 - WARNING - Found forbidden personas: enthusiasts, friends
+2026-02-16 04:33:28,889 - INFO - Persona replacements made: friends → The Potensians (1x)
+2026-02-16 04:33:28,891 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:33:28,891 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:33:28,893 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:33:28,893 - WARNING - Persona consistency validation failed
+2026-02-16 04:33:28,893 - INFO - Revision validation passed
+2026-02-16 04:33:28,894 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-features.md.backup.1771216408
+2026-02-16 04:33:28,894 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-features.md
+2026-02-16 04:33:31,894 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/best-affordable-iphones.md
+2026-02-16 04:33:31,895 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:33:31,895 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:33:31,901 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:33:31,902 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:33:31,902 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:33:31,902 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:33:43,597 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:33:43,601 - INFO - Persona consistency validation passed - Audience: 18x, Author: 2x
+2026-02-16 04:33:43,601 - INFO - Content already meets persona consistency requirements, skipping fixes
+2026-02-16 04:33:43,603 - INFO - Persona consistency validation passed - Audience: 18x, Author: 2x
+2026-02-16 04:33:43,603 - INFO - Revision validation passed
+2026-02-16 04:33:43,604 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/best-affordable-iphones.md.backup.1771216423
+2026-02-16 04:33:43,604 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/best-affordable-iphones.md
+2026-02-16 04:33:46,604 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-flagship.md
+2026-02-16 04:33:46,605 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:33:46,605 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:33:46,612 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:33:46,612 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:33:46,612 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:33:46,613 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:33:57,473 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:33:57,477 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:33:57,481 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:33:57,481 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:33:57,484 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:33:57,484 - WARNING - Persona consistency validation failed
+2026-02-16 04:33:57,484 - INFO - Revision validation passed
+2026-02-16 04:33:57,484 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-flagship.md.backup.1771216437
+2026-02-16 04:33:57,484 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-iphone-flagship.md
+2026-02-16 04:34:00,485 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/alternative-gadgets-to-iphone.md
+2026-02-16 04:34:00,485 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:34:00,485 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:34:00,492 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:34:00,492 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:34:00,493 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:34:00,493 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:34:10,770 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:34:10,774 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:34:10,776 - INFO - Persona replacements made: enthusiasts → The Potensians (2x)
+2026-02-16 04:34:10,778 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:34:10,778 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:34:10,781 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:34:10,781 - WARNING - Persona consistency validation failed
+2026-02-16 04:34:10,781 - INFO - Revision validation passed
+2026-02-16 04:34:10,781 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/alternative-gadgets-to-iphone.md.backup.1771216450
+2026-02-16 04:34:10,781 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/alternative-gadgets-to-iphone.md
+2026-02-16 04:34:13,782 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/top-gadgets-similar-to-iphone.md
+2026-02-16 04:34:13,782 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:34:13,783 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:34:13,789 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:34:13,790 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:34:13,790 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:34:13,790 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:34:27,416 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:34:27,425 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:34:27,428 - INFO - Persona replacements made: enthusiasts → The Potensians (3x)
+2026-02-16 04:34:27,430 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:34:27,430 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:34:27,433 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:34:27,433 - WARNING - Persona consistency validation failed
+2026-02-16 04:34:27,433 - INFO - Revision validation passed
+2026-02-16 04:34:27,433 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/top-gadgets-similar-to-iphone.md.backup.1771216467
+2026-02-16 04:34:27,433 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/top-gadgets-similar-to-iphone.md
+2026-02-16 04:34:30,434 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/best-alternatives-to-iphone.md
+2026-02-16 04:34:30,434 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:34:30,435 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:34:30,441 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:34:30,442 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:34:30,442 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:34:30,442 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:34:43,774 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:34:43,778 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:34:43,781 - INFO - Persona replacements made: enthusiasts → The Potensians (1x)
+2026-02-16 04:34:43,784 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:34:43,784 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:34:43,786 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:34:43,786 - WARNING - Persona consistency validation failed
+2026-02-16 04:34:43,786 - INFO - Revision validation passed
+2026-02-16 04:34:43,787 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/best-alternatives-to-iphone.md.backup.1771216483
+2026-02-16 04:34:43,787 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/best-alternatives-to-iphone.md
+2026-02-16 04:34:46,787 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-alternatives-to-iphone.md
+2026-02-16 04:34:46,788 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:34:46,788 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:34:46,795 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:34:46,795 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:34:46,795 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:34:46,795 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:34:56,507 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:34:56,510 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:34:56,513 - INFO - Persona replacements made: enthusiasts → The Potensians (2x)
+2026-02-16 04:34:56,515 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:34:56,515 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:34:56,517 - WARNING - Author persona 'We' used only 1 times (minimum 2)
+2026-02-16 04:34:56,517 - WARNING - Persona consistency validation failed
+2026-02-16 04:34:56,517 - INFO - Revision validation passed
+2026-02-16 04:34:56,518 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-alternatives-to-iphone.md.backup.1771216496
+2026-02-16 04:34:56,518 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/affordable-alternatives-to-iphone.md
+2026-02-16 04:34:59,518 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/premium-alternatives-to-iphone.md
+2026-02-16 04:34:59,519 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:34:59,519 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:34:59,526 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:34:59,526 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:34:59,526 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:34:59,527 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:35:11,254 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:35:11,258 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:35:11,261 - INFO - Persona replacements made: enthusiasts → The Potensians (3x)
+2026-02-16 04:35:11,263 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:35:11,263 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:35:11,265 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:35:11,265 - WARNING - Persona consistency validation failed
+2026-02-16 04:35:11,265 - INFO - Revision validation passed
+2026-02-16 04:35:11,266 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/premium-alternatives-to-iphone.md.backup.1771216511
+2026-02-16 04:35:11,266 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/premium-alternatives-to-iphone.md
+2026-02-16 04:35:14,266 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/innovative-gadgets-like-iphone.md
+2026-02-16 04:35:14,267 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:35:14,267 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:35:14,274 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:35:14,275 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:35:14,275 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:35:14,275 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:35:24,802 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:35:24,806 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:35:24,808 - INFO - Persona replacements made: enthusiasts → The Potensians (1x)
+2026-02-16 04:35:24,810 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:35:24,810 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:35:24,812 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:35:24,812 - WARNING - Persona consistency validation failed
+2026-02-16 04:35:24,812 - INFO - Revision validation passed
+2026-02-16 04:35:24,813 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/innovative-gadgets-like-iphone.md.backup.1771216524
+2026-02-16 04:35:24,813 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/innovative-gadgets-like-iphone.md
+2026-02-16 04:35:27,813 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphone-replacement-options.md
+2026-02-16 04:35:27,814 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:35:27,814 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:35:27,821 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:35:27,822 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:35:27,822 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:35:27,822 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:35:46,308 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:35:46,311 - WARNING - Author persona 'We' used only 0 times (minimum 2)
+2026-02-16 04:35:46,316 - WARNING - Author persona 'We' used only 0 times (minimum 2)
+2026-02-16 04:35:46,316 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:35:46,318 - WARNING - Author persona 'We' used only 0 times (minimum 2)
+2026-02-16 04:35:46,318 - WARNING - Persona consistency validation failed
+2026-02-16 04:35:46,318 - INFO - Revision validation passed
+2026-02-16 04:35:46,319 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphone-replacement-options.md.backup.1771216546
+2026-02-16 04:35:46,319 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/iphone-replacement-options.md
+2026-02-16 04:35:49,319 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/popular-gadgets-like-iphone.md
+2026-02-16 04:35:49,320 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:35:49,320 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:35:49,327 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:35:49,327 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:35:49,327 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:35:49,327 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:36:02,461 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:36:02,465 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:36:02,467 - INFO - Persona replacements made: \byou\b → The Potensians (1x)
+2026-02-16 04:36:02,469 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:36:02,469 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:36:02,472 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:36:02,472 - WARNING - Persona consistency validation failed
+2026-02-16 04:36:02,472 - INFO - Revision validation passed
+2026-02-16 04:36:02,472 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/popular-gadgets-like-iphone.md.backup.1771216562
+2026-02-16 04:36:02,472 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/popular-gadgets-like-iphone.md
+2026-02-16 04:36:05,473 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/cheap-iphone-alternatives.md
+2026-02-16 04:36:05,474 - INFO - Found 5 markdown formatting issues
+2026-02-16 04:36:05,475 - INFO - Fixed markdown formatting issues
+2026-02-16 04:36:05,476 - INFO - Applied markdown formatting fixes
+2026-02-16 04:36:05,476 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:36:05,482 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:36:05,482 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:36:05,482 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:36:05,482 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:36:16,596 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:36:16,599 - INFO - Persona consistency validation passed - Audience: 12x, Author: 2x
+2026-02-16 04:36:16,599 - INFO - Content already meets persona consistency requirements, skipping fixes
+2026-02-16 04:36:16,602 - INFO - Persona consistency validation passed - Audience: 12x, Author: 2x
+2026-02-16 04:36:16,602 - INFO - Revision validation passed
+2026-02-16 04:36:16,603 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/cheap-iphone-alternatives.md.backup.1771216576
+2026-02-16 04:36:16,603 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/cheap-iphone-alternatives.md
+2026-02-16 04:36:19,603 - INFO - Starting comprehensive revision of article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/latest-gadgets-competing-with-iphone.md
+2026-02-16 04:36:19,604 - INFO - Found 0 markdown formatting issues
+2026-02-16 04:36:19,604 - INFO - Loaded outdated patterns from /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/outdated_patterns.json
+2026-02-16 04:36:19,611 - INFO - Found 0 outdated year references (including headings)
+2026-02-16 04:36:19,611 - INFO - Loaded system update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/system_update.txt
+2026-02-16 04:36:19,611 - INFO - Loaded articles update prompt from: /home/runner/work/potensitech.com/potensitech.com/languages/english/prompt/update/articles_update.txt
+2026-02-16 04:36:19,611 - INFO - Sending comprehensive revision request to AI...
+2026-02-16 04:36:30,969 - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 04:36:30,973 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:36:30,975 - INFO - Persona replacements made: enthusiasts → The Potensians (2x)
+2026-02-16 04:36:30,977 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:36:30,978 - WARNING - Persona consistency validation failed after fixes, but returning fixed content
+2026-02-16 04:36:30,980 - WARNING - Found forbidden personas: enthusiasts
+2026-02-16 04:36:30,980 - WARNING - Persona consistency validation failed
+2026-02-16 04:36:30,980 - INFO - Revision validation passed
+2026-02-16 04:36:30,980 - INFO - Created backup: /home/runner/work/potensitech.com/potensitech.com/content/iphone/latest-gadgets-competing-with-iphone.md.backup.1771216590
+2026-02-16 04:36:30,980 - INFO - Successfully revised article: /home/runner/work/potensitech.com/potensitech.com/content/iphone/latest-gadgets-competing-with-iphone.md
+2026-02-16 04:36:30,981 - INFO - Auto revision completed. Success: 26, Failed: 0
