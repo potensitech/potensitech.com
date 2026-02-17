@@ -12175,5 +12175,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "top-rated apple smartphone cameras": {
+        "date": "2026-02-17T19:59:04",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: BBQ"
+        ]
     }
 }
