@@ -12138,5 +12138,18 @@
             "Cultural: Super Bowl Sunday",
             "Cultural: Innovation"
         ]
+    },
+    "apple smartphone with best camera features": {
+        "date": "2026-02-17T02:57:17",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
