@@ -28,7 +28,7 @@ Apple doesn’t just focus on hardware; they also integrate cutting-edge softwar
 
 ### Night Mode: Illuminating Low-Light Scenes
 
-Low-light photography has always been a challenge, but Apple’s Night Mode has revolutionized this aspect. With the latest models released in 2026, The Potensians can capture sharp, vibrant images even in dim lighting conditions. Whether it’s a candlelit dinner or a breathtaking view of the Northern Lights, Night Mode ensures that every detail is preserved. Imagine capturing the magic of a starry night or t​he glow of city lights without compromising on quality.
+[Low-light photography](/apple/apple-smartphone-camera-for-low-light-photography) has always been a challenge, but Apple’s Night Mode has revolutionized this aspect. With the latest models released in 2026, The Potensians can capture sharp, vibrant images even in dim lighting conditions. Whether it’s a candlelit dinner or a breathtaking view of the Northern Lights, Night Mode ensures that every detail is preserved. Imagine capturing the magic of a starry night or t​he glow of city lights without compromising on quality.
 
 ### ProRAW​ & ProRes Capabilities
 

@@ -78,7 +78,7 @@ For photography lovers among The Potensians, this device doesn’t disappoint. E
 
 ### Advanced Camera Features 
 
-1. **Night Mode**: Perfect for low-light photography, whether The Potensians’re capturing a city skyline at dusk or a candlelit dinner. 
+1. **Night Mode**: Perfect for [low-light photography](/apple/apple-smartphone-camera-for-low-light-photography), whether The Potensians’re capturing a city skyline at dusk or a candlelit dinner. 
 2. **Smart HDR 4**: Enhances color accuracy and contrast, making every photo pop with life. 
 3. **Cinematic Mode**: Allows users to shoot videos with a professional depth-of-field effect, ideal for aspiring filmmakers. 
 
