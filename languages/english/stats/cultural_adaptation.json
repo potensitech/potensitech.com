@@ -12164,5 +12164,16 @@
             "Cultural: Broadway",
             "Cultural: BBQ"
         ]
+    },
+    "apple smartphone camera comparison": {
+        "date": "2026-02-17T17:49:39",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
