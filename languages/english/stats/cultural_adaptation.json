@@ -12188,5 +12188,18 @@
             "Cultural: Broadway",
             "Cultural: BBQ"
         ]
+    },
+    "apple smartphone camera for low-light photography": {
+        "date": "2026-02-17T22:06:21",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Memorial Day",
+            "Cultural: Silicon Valley",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie"
+        ]
     }
 }
