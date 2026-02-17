@@ -54,7 +54,7 @@ Exploring iPhone alternatives opens up a world of possibilities, offering unique
 
 ## Top iPhone Alternatives in 2026
 
-Here’s We's curated list of the best iPhone alternatives in 2026, each offering standout features and advantages:
+Here’s We's curated list of the [best iPhone](/iphone/best-iphone-for-precise-autofocus-photography) alternatives in 2026, each offering standout features and advantages:
 
 ### 1. Samsung Galaxy S23 Ultra
 
