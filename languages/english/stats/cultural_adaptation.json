@@ -12151,5 +12151,18 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "apple computer with high-quality webcam": {
+        "date": "2026-02-17T15:16:23",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Christmas",
+            "Cultural: Wall Street",
+            "Cultural: Broadway",
+            "Cultural: BBQ"
+        ]
     }
 }
