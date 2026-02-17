@@ -122,7 +122,7 @@ While brands like Samsung offer similar mid-range options under the Galaxy A-ser
 <td>Tensor G2</td>
 </tr>
 <tr>
-<td>Camera Features</td>
+<td>[Camera Features](/apple/apple-smartphone-with-best-camera-features)</td>
 <td>Night Mode, HDR</td>
 <td>Basic HDR</td>
 <td>Advanced HDR</td>
