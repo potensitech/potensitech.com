@@ -12237,5 +12237,18 @@
             "Cultural: Steve Jobs",
             "Cultural: Innovation"
         ]
+    },
+    "affordable apple smartphone with image stabilization": {
+        "date": "2026-02-18T17:48:04",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie",
+            "Cultural: Pizza"
+        ]
     }
 }
