@@ -457,4 +457,6 @@ amd processor for budget-conscious buyers
 amd affordable everyday computing processor
 amd chipset optimized for seamless compatibility
 amd cost-effective chipset for custom builds
+amd affordable motherboard compatibility with chipsets
+amd processor benchmarks for low-cost builds
 

@@ -6310,5 +6310,7 @@
   "Intel chipset compatibility guide for laptops": true,
   "budget-friendly Intel processors guide for students": true,
   "nvidia budget-friendly GPU with compatibility": true,
-  "nvidia affordable graphics processor with compatibility": true
+  "nvidia affordable graphics processor with compatibility": true,
+  "amd affordable motherboard compatibility with chipsets": true,
+  "amd processor benchmarks for low-cost builds": true
 }
