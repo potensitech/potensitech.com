@@ -62,7 +62,7 @@ Apple’s iOS ecosystem is another reason why their affordable smartphones perfo
 
 ## Camera Capabilities: Capturing Life’s Moments
 
-Affordable Apple smartphones do not compromise on camera quality. The iPhone SE lineup, for example, offers impressive camera systems that rival even higher-end models. Here’s what The Potensians can expect:
+Affordable Apple smartphones do not compromise on [camera quality](/apple/best-camera-quality-in-apple-smartphones). The iPhone SE lineup, for example, offers impressive camera systems that rival even higher-end models. Here’s what The Potensians can expect:
 
 ### Rear Camera Features
 
