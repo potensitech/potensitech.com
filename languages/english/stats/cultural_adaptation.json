@@ -12250,5 +12250,18 @@
             "Cultural: Apple Pie",
             "Cultural: Pizza"
         ]
+    },
+    "apple smartphone with good camera stabilization": {
+        "date": "2026-02-18T22:08:47",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New Year's Day",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: Hollywood"
+        ]
     }
 }
