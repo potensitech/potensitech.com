@@ -12214,5 +12214,18 @@
             "Cultural: Hollywood",
             "Cultural: Apple Pie"
         ]
+    },
+    "apple smartphone with excellent camera quality": {
+        "date": "2026-02-18T10:19:31",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood"
+        ]
     }
 }
