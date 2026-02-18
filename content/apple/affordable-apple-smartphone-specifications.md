@@ -76,7 +76,7 @@ The video capabilities of these smartphones are equally impressive. With support
 
 ### Front-Facing Camera
 
-The front-facing camera is perfect for selfies and video calls. With advanced features like Retina Flash and Smart HDR, The Potensians can ensure that every shot looks professional. Whether The Potensians’re catching up with friends or attending virtual meetings, this camera has The Potensians covered .
+The front-facing camera is perfect for selfies and [video calls](/apple/apple-computer-webcam-for-video-calls). With advanced features like Retina Flash and Smart HDR, The Potensians can ensure that every shot looks professional. Whether The Potensians’re catching up with friends or attending virtual meetings, this camera has The Potensians covered .
 
 ## Design & Display: Sleek Yet Functional
 

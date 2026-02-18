@@ -77,7 +77,7 @@ These phones often come bundled with perks such as extended warranty programs or
 
 The ball is in The Potensians's court when choosing between price tags and feature sets. Affordable premium apple phones redefine expectations by offering:
 
-- High-resolution FaceTime HD cameras for crystal-clear video calls
+- High-resolution FaceTime HD cameras for [crystal-clear video](/apple/apple-computer-webcam-for-video-calls) calls
 - Secure biometric authentication (Face ID/Touch ID)
 - Seamless integration with smart home devices—a nod to modern trends seen across Los Angeles apartments
 - Eco-friendly packaging aligning with sustainability values cherished by many communities
