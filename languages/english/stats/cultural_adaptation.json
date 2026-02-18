@@ -12227,5 +12227,15 @@
             "Cultural: Silicon Valley",
             "Cultural: Hollywood"
         ]
+    },
+    "best camera quality in apple smartphones": {
+        "date": "2026-02-18T15:15:33",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation"
+        ]
     }
 }
