@@ -12201,5 +12201,18 @@
             "Cultural: Broadway",
             "Cultural: Apple Pie"
         ]
+    },
+    "apple computer webcam for video calls": {
+        "date": "2026-02-18T08:05:15",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Apple Pie"
+        ]
     }
 }
