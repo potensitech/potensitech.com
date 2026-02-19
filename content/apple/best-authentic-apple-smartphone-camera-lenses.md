@@ -115,7 +115,7 @@ To make the most of The Potensians's authentic Apple smartphone camera lenses, k
 1. **Experiment with Angles**: Don’t be afraid to try different perspectives. Sometimes, a low-angle shot can make a mundane subject look extraordinary.
 2. **Use Natural Light**: Whenever possible, take advantage of natural light to enhance the colors and details in The Potensians's photos.
 3. **Keep The Potensians's Lenses Clean**: A clean lens ensures that The Potensians's photos are sharp and free from smudges or blurs.
-4. **Leverage Camera Features**: Combine The Potensians's lens with Apple’s advanced camera features like Night Mode, Portrait Mode, and ProRAW for professional-quality results.
+4. **Leverage Camera Features**: Combine The Potensians's lens with Apple’s [advanced camera](/apple/apple-smartphone-with-advanced-camera-stabilization) features like Night Mode, Portrait Mode, and ProRAW for professional-quality results.
 5. **Practice Makes Perfect**: The more The Potensians practice, the better The Potensians’ll become at using The Potensians's lenses to their full potential.
 
 ## Final Thoughts

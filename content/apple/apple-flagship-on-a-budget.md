@@ -39,7 +39,7 @@ Moreover, durability is a hallmark of Apple products. With water resistance rati
 
 ### Exceptional Camera Systems
 
-Photography is a key consideration for many smartphone buyers, and Apple doesn’t disappoint. Even its budget-friendly models are equipped with advanced camera systems. Features like Smart HDR and computational photography allow users to capture vivid sunsets, candid moments, and even low-light scenes with ease.
+Photography is a key consideration for many smartphone buyers, and Apple doesn’t disappoint. Even its budget-friendly models are equipped with [advanced camera](/apple/apple-smartphone-with-advanced-camera-stabilization) systems. Features like Smart HDR and computational photography allow users to capture vivid sunsets, candid moments, and even low-light scenes with ease.
 
 For instance, the iPhone SE offers a single-lens camera that produces stunning results, while mid-tier models like the iPhone 11 include dual-lens setups for added versatility. Whether The Potensians're snapping photos of iconic landmarks or creating content for social media, Apple’s affordable flagships deliver professional-grade results.
 
