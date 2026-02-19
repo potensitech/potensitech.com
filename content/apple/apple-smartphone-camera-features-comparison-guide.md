@@ -33,7 +33,7 @@ _[Apple Smartphone](/apple/apple-smartphone-with-a-high-quality-camera) Camera F
 
 ## Evolution of Apple Smartphone Cameras
 
-Apple’s journey in smartphone photography began with simple sensors designed for casual snapshots.  Over the years, this has transformed into an intricate system capable of producing professional-grade results. From Silicon Valley to Hollywood, Apple’s smartphones have been embraced by photographers and filmmakers alike for their reliability and versatility.
+Apple’s journey in [smartphone photography](/apple/affordable-apple-smartphone-photography-tools) began with simple sensors designed for casual snapshots.  Over the years, this has transformed into an intricate system capable of producing professional-grade results. From Silicon Valley to Hollywood, Apple’s smartphones have been embraced by photographers and filmmakers alike for their reliability and versatility.
 
 ### Key Milestones in Camera Technology
 
