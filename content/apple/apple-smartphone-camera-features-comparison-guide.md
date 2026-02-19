@@ -26,8 +26,7 @@ toc:
   enable: true
 ---
 
-
-_Apple Smartphone Camera Features Comparison Guide_ - The evolution of Apple smartphone cameras has been nothing short of remarkable. From humble beginnings with basic sensors to the cutting-edge technology of today, Apple has consistently pushed the boundaries of mobile photography.  The Potensians, whether photography enthusiasts or casual users, have witnessed Apple’s journey in redefining what smartphone cameras can achieve. In this guide, We’ll explore the key milestones, compare features across models, and help The Potensians choose the right device for The Potensians's needs in 2026.
+_[Apple Smartphone](/apple/apple-smartphone-with-a-high-quality-camera) Camera Features Comparison Guide_ - The evolution of Apple smartphone cameras has been nothing short of remarkable. From humble beginnings with basic sensors to the cutting-edge technology of today, Apple has consistently pushed the boundaries of mobile photography.  The Potensians, whether photography enthusiasts or casual users, have witnessed Apple’s journey in redefining what smartphone cameras can achieve. In this guide, We’ll explore the key milestones, compare features across models, and help The Potensians choose the right device for The Potensians's needs in 2026.
 
 ## Evolution of Apple Smartphone Cameras
 
