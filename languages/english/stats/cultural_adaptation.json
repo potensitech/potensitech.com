@@ -12301,5 +12301,17 @@
             "Cultural: Apple Pie",
             "Cultural: Soul Food"
         ]
+    },
+    "apple smartphone camera features comparison guide": {
+        "date": "2026-02-19T10:19:07",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
