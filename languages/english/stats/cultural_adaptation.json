@@ -12263,5 +12263,18 @@
             "Cultural: Times Square",
             "Cultural: Hollywood"
         ]
+    },
+    "apple smartphone for photography lovers": {
+        "date": "2026-02-19T02:59:47",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
