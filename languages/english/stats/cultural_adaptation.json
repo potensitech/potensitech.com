@@ -12288,5 +12288,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "apple smartphone with advanced camera stabilization": {
+        "date": "2026-02-19T08:04:08",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Apple Pie",
+            "Cultural: Soul Food"
+        ]
     }
 }
