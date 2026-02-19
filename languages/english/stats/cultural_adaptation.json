@@ -12313,5 +12313,14 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "affordable Apple computer graphics performance": {
+        "date": "2026-02-19T15:17:29",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
