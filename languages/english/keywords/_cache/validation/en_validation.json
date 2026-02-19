@@ -6342,5 +6342,8 @@
   "nvidia processor optimization for budget builds": true,
   "nvidia GPU compatibility with budget-friendly chipsets": true,
   "nvidia chipset compatibility for budget GPUs": true,
-  "nvidia processor benchmarks for budget-friendly systems": true
+  "nvidia processor benchmarks for budget-friendly systems": true,
+  "amd gaming performance processor": true,
+  "amd chipset with advanced compatibility": true,
+  "amd budget-friendly processor with optimal performance": true
 }
