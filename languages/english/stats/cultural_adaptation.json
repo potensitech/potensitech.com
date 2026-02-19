@@ -12276,5 +12276,17 @@
             "Cultural: Hollywood",
             "Cultural: Hot Dogs"
         ]
+    },
+    "apple smartphone with high-resolution camera": {
+        "date": "2026-02-19T05:54:18",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
