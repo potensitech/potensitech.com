@@ -477,4 +477,8 @@ nvidia affordable graphics card compatibility tips
 nvidia GPU compatibility with affordable options
 nvidia budget-friendly GPU with compatibility
 nvidia affordable graphics processor with compatibility
+nvidia processor optimization for budget builds
+nvidia GPU compatibility with budget-friendly chipsets
+nvidia chipset compatibility for budget GPUs
+nvidia processor benchmarks for budget-friendly systems
 
