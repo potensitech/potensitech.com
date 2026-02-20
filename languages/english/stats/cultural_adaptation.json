@@ -12358,5 +12358,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung budget smartphone chipset support": {
+        "date": "2026-02-20T08:04:15",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
