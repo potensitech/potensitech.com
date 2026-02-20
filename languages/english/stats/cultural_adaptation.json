@@ -12384,5 +12384,18 @@
             "Cultural: Clam Chowder",
             "Cultural: Innovation"
         ]
+    },
+    "samsung affordable smartphone with chipset options": {
+        "date": "2026-02-20T19:54:10",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: BBQ",
+            "Cultural: Martin Luther King Jr."
+        ]
     }
 }
