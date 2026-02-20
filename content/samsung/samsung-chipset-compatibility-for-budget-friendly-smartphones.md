@@ -109,7 +109,7 @@ To help The Potensians make informed decisions, We’ve compiled a comparison of
 <td>8nm</td>
 <td>Octa-core (4x2.0 GHz Cortex-A55 + 4x2.0 GHz Cortex-A55)</td>
 <td>Mali-G52</td>
-<td>Samsung Galaxy A13</td>
+<td>[Samsung Galaxy](/samsung/samsung-galaxy-s23-deals) A13</td>
 </tr>
 <tr>
 <td>Exynos 9611</td>
