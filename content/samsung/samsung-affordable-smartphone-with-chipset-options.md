@@ -84,7 +84,7 @@ Snapdragon chipsets are often the go-to choice for gamers and photography enthus
 <tr>
 <td>Galaxy A23 (5G​)</td>
 <td>Snapdragon 695 (5G)</td>
-<td>Fast connectivity; great camera features</td>
+<td>Fast connectivity; [great camera](/samsung/budget-samsung-smartphone-with-great-camera) features</td>
 <td>$299</td>
 </tr>
 </tbody>
