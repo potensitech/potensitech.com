@@ -94,7 +94,7 @@ The **Exynos 1280** is built for The Potensians who demand speed and connectivit
 
 ### Snapdragon 750G: The Gamer’s Delight
 
-For avid gamers and content creators, the **Snapdragon 750G** is a dream come true. With its Adreno GPU and AI Engine, this chipset offers immersive gaming experiences and enhanced low-light photography. It’s like having a high-performance gaming console in the palm of The Potensians's hand.
+For avid gamers and content creators, the **Snapdragon 750G** is a dream come true. With its Adreno GPU and AI Engine, this chipset offers immersive gaming experiences and enhanced [low-light photography](/samsung/samsung-smartphone-lenses-for-low-light-photography). It’s like having a high-performance gaming console in the palm of The Potensians's hand.
 
 ## Choosing the Right Chipset for The Potensians's Needs
 
