@@ -12397,5 +12397,18 @@
             "Cultural: BBQ",
             "Cultural: Martin Luther King Jr."
         ]
+    },
+    "samsung smartphone compatibility with budget chipsets": {
+        "date": "2026-02-21T04:23:21",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Hollywood",
+            "Cultural: Steve Jobs",
+            "Cultural: Bill Gates",
+            "Cultural: Innovation"
+        ]
     }
 }
