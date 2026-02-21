@@ -6373,5 +6373,12 @@
   "sandisk reliable solid state drive": true,
   "sandisk compact SSD storage device": true,
   "sandisk gaming solid state drive": true,
-  "sandisk SSD for reliable backups": true
+  "sandisk SSD for reliable backups": true,
+  "intel fast-performance laptop processor": true,
+  "intel affordable multitasking CPU": true,
+  "intel high-speed desktop processor": true,
+  "intel low-cost processor for everyday use": true,
+  "intel optimal-speed workstation processor": true,
+  "intel processor for budget PC builds": true,
+  "intel cost-effective reliable-speed processor": true
 }
