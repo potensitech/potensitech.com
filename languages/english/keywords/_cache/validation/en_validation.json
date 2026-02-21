@@ -6381,5 +6381,8 @@
   "intel optimal-speed workstation processor": true,
   "intel processor for budget PC builds": true,
   "intel cost-effective reliable-speed processor": true,
-  "amd chipset compatibility for entry-level PCs": true
+  "amd chipset compatibility for entry-level PCs": true,
+  "canon budget travel lenses for photography": true,
+  "canon budget DSLR lenses for professionals": true,
+  "canon cost-effective lenses for video recording": true
 }
