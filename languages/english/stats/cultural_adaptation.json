@@ -12434,5 +12434,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung smartphones with affordable chipsets": {
+        "date": "2026-02-21T19:42:22",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Pizza"
+        ]
     }
 }
