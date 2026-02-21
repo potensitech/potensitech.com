@@ -6380,5 +6380,6 @@
   "intel low-cost processor for everyday use": true,
   "intel optimal-speed workstation processor": true,
   "intel processor for budget PC builds": true,
-  "intel cost-effective reliable-speed processor": true
+  "intel cost-effective reliable-speed processor": true,
+  "amd chipset compatibility for entry-level PCs": true
 }
