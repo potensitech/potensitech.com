@@ -12423,5 +12423,16 @@
             "Cultural: Apple Pie",
             "Cultural: Soul Food"
         ]
+    },
+    "samsung budget-friendly smartphone models": {
+        "date": "2026-02-21T07:52:04",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
