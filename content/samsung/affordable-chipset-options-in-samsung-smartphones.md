@@ -24,7 +24,7 @@ featuredImagePreview: "/images/samsung/affordable-chipset-options-in-samsung-sma
 
 ## Exynos 850 – Budget-Friendly Efficiency
 
-The Exynos 850 is a standout choice for those seeking an affordable yet reliable chipset. Designed for entry-level smartphones, this octa-core processor is built on an efficient 8nm architecture, a feature that is often reserved for higher-end processors. This architecture ensures lower power consumption, making it ideal for users who prioritize battery life over high-end performance.
+The Exynos 850 is a standout choice for those seeking an affordable yet reliable chipset. Designed for [entry-level smartphones](/samsung/samsung-entry-level-smartphones-with-reliable-performance), this octa-core processor is built on an efficient 8nm architecture, a feature that is often reserved for higher-end processors. This architecture ensures lower power consumption, making it ideal for users who prioritize battery life over high-end performance.
 
 ### Key Features of Exynos 850
 

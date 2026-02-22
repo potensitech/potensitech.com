@@ -54,7 +54,7 @@ Samsung's budget smartphones are powered by two main types of processors: Exynos
 
 ### Exynos Processors
 
-Exynos processors are designed by Samsung and are commonly found in its budget and mid-range smartphones. These chipsets are known for their cost-effectiveness and reliable performance.
+Exynos processors are designed by Samsung and are commonly found in its budget and mid-range smartphones. These chipsets are known for their cost-effectiveness and [reliable performance](/samsung/samsung-entry-level-smartphones-with-reliable-performance).
 
 #### Example: Exynos 850
 
