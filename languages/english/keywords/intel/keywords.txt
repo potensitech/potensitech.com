@@ -571,4 +571,6 @@ intel low-cost processor for everyday use
 intel optimal-speed workstation processor
 intel processor for budget PC builds
 intel cost-effective reliable-speed processor
+intel chipset compatibility for cost-effective upgrades
+intel affordable motherboard compatibility for processors
 
