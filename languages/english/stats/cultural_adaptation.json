@@ -12458,5 +12458,18 @@
             "Cultural: Innovation",
             "Cultural: Diversity"
         ]
+    },
+    "samsung smartphones featuring budget chipsets": {
+        "date": "2026-02-22T05:47:47",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Fourth of July",
+            "Cultural: Times Square",
+            "Cultural: Central Park"
+        ]
     }
 }
