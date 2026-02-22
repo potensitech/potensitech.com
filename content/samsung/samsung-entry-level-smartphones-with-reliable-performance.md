@@ -11,11 +11,14 @@ tags: ["samsung", "entry-level smartphones", "budget phones", "reliable performa
 categories: ["samsung"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/samsung/samsung-entry-level-smartphones-with-reliable-performance.jpg"
+featuredImagePreview: "/images/samsung/samsung-entry-level-smartphones-with-reliable-performance.jpg"
 ---
+
+![Samsung Entry-Level Smartphones with Reliable Performance](/images/samsung/samsung-entry-level-smartphones-with-reliable-performance.jpg)
+
 
 *Samsung Entry-Level Smartphones with Reliable Performance* - 
 
