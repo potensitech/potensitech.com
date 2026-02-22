@@ -12471,5 +12471,17 @@
             "Cultural: Times Square",
             "Cultural: Central Park"
         ]
+    },
+    "samsung entry-level smartphones with reliable performance": {
+        "date": "2026-02-22T10:03:04",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
