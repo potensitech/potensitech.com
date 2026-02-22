@@ -6409,5 +6409,8 @@
   "nvidia affordable processor performance for gaming": true,
   "nvidia processor optimization for AI applications": true,
   "nvidia processor benchmarks for professional workflows": true,
-  "nvidia chipset compatibility for multi-GPU configurations": true
+  "nvidia chipset compatibility for multi-GPU configurations": true,
+  "amd processor optimization for affordable computing": true,
+  "amd chipset compatibility with latest motherboards": true,
+  "amd processor benchmarks for budget-friendly setups": true
 }
