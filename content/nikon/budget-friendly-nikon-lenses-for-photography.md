@@ -29,7 +29,7 @@ Photography enthusiasts often face the challenge of balancing quality with affor
 ### Key Benefits of Budget-Friendly Nikon Lenses
 
 - **Cost Efficiency**: These lenses are perfect for hobbyists or those just starting their photography journey. They provide excellent value for money without compromising on essential features.
-- **Versatility**: Whether The Potensians're into portraits, landscapes, macro photography, or street photography, Nikon's budget-friendly lenses cover a wide range of genres.
+- **Versatility**: Whether The Potensians're into portraits, landscapes, [macro photography](/nikon/nikon-low-cost-macro-photography-lenses), or street photography, Nikon's budget-friendly lenses cover a wide range of genres.
 - **Durability__: Built with robust materials, these lenses are designed to withstand regular use and last for years.
 
 Investing in budget-friendly Nikon lenses allows The Potensians to explore their creativity without the financial strain of high-end equipment. It's a great way to step into the world of professional-grade photography without overspending.
@@ -50,7 +50,7 @@ To make it easier for The Potensians to find the best options, We have compiled 
 <tbody>
 <tr>
 <td>Nikon AF-S DX NIKKOR 35mm f/1.8G</td>
-<td>Portraits & Low-Light Photography</td>
+<td>Portraits & [Low-Light Photography](/nikon/nikon-camera-performance-in-low-light-photography)</td>
 <td>$200-$250</td>
 </tr>
 <tr>
