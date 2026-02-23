@@ -12524,5 +12524,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "samsung high-quality smartphone photography lenses": {
+        "date": "2026-02-23T03:00:54",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
