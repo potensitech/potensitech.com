@@ -12563,5 +12563,16 @@
             "Cultural: Central Park",
             "Cultural: BBQ"
         ]
+    },
+    "samsung low-cost smartphone chipset compatibility": {
+        "date": "2026-02-23T13:03:28",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
