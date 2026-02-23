@@ -573,4 +573,10 @@ intel processor for budget PC builds
 intel cost-effective reliable-speed processor
 intel chipset compatibility for cost-effective upgrades
 intel affordable motherboard compatibility for processors
+intel affordable CPU for everyday computing
+intel high-performance workstation processor
+intel optimized processor for gaming laptops
+intel affordable processor for home office
+intel energy-efficient processor for small desktops
+intel enhanced processor for creative professionals
 

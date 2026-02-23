@@ -6429,5 +6429,11 @@
   "asus optimized processor for productivity": true,
   "asus processor for budget-conscious buyers": true,
   "asus fast processor for everyday use": true,
-  "sandisk internal SSD drive": true
+  "sandisk internal SSD drive": true,
+  "intel affordable CPU for everyday computing": true,
+  "intel high-performance workstation processor": true,
+  "intel optimized processor for gaming laptops": true,
+  "intel affordable processor for home office": true,
+  "intel energy-efficient processor for small desktops": true,
+  "intel enhanced processor for creative professionals": true
 }
