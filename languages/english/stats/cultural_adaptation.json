@@ -12620,5 +12620,18 @@
             "Cultural: New Year's Day",
             "Cultural: Los Angeles"
         ]
+    },
+    "Apple graphics performance for budget-friendly computers": {
+        "date": "2026-02-25T20:01:15",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
