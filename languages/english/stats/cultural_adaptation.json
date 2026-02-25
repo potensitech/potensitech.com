@@ -12610,5 +12610,15 @@
             "Cultural: New York",
             "Cultural: Los Angeles"
         ]
+    },
+    "cheap Apple graphics upgrades for computers": {
+        "date": "2026-02-25T17:51:29",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Los Angeles"
+        ]
     }
 }
