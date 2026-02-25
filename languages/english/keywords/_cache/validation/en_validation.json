@@ -6465,5 +6465,6 @@
   "intel high-speed multitasking processor": true,
   "intel cost-effective processor for everyday use": true,
   "intel optimized processor for workstations": true,
-  "intel entry-level processor with good performance": true
+  "intel entry-level processor with good performance": true,
+  "nvidia GPU compatibility with budget-friendly builds": true
 }
