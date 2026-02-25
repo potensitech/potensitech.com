@@ -72,7 +72,7 @@ Despite being budget-friendly, Nikon lenses are built to last. They feature dura
 
 ### Versatility for Various Photography Styles
 
-From wide-angle lenses for breathtaking landscapes to prime lenses for stunning portraits, Nikon offers a diverse range of options. This versatility allows photographers to experiment with different styles and techniques without needing to invest in expensive equipmen t.
+From [wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses-for-cameras) for breathtaking landscapes to prime lenses for stunning portraits, Nikon offers a diverse range of options. This versatility allows photographers to experiment with different styles and techniques without needing to invest in expensive equipmen t.
 
 ### Advanced Features
 
