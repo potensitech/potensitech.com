@@ -540,4 +540,5 @@ sandisk entry-level SSD for beginner users
 sandisk internal SSD drive
 sandisk internal SSD for PCs
 sandisk reliable external SSD for backups
+sandisk durable SSD for heavy use
 
