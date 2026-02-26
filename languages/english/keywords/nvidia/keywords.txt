@@ -488,4 +488,6 @@ nvidia chipset compatibility for multi-GPU configurations
 nvidia budget-friendly GPU performance review
 nvidia high-speed GPU comparison
 nvidia GPU compatibility with budget-friendly builds
+nvidia high-performance GPU for gaming
+nvidia budget-friendly GPU for gaming compatibility
 
