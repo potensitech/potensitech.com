@@ -12646,5 +12646,14 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "Apple budget-friendly SSD storage for computers": {
+        "date": "2026-02-26T08:07:14",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
