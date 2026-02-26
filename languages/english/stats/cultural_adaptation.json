@@ -12633,5 +12633,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Abraham Lincoln"
         ]
+    },
+    "Apple affordable graphics performance for computers": {
+        "date": "2026-02-26T02:55:38",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex",
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }
