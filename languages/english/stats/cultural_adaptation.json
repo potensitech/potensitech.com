@@ -12668,5 +12668,18 @@
             "Cultural: Broadway",
             "Cultural: Apple Pie"
         ]
+    },
+    "Best SSD storage for Apple computers": {
+        "date": "2026-02-27T04:30:35",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: BBQ",
+            "Cultural: Innovation"
+        ]
     }
 }
