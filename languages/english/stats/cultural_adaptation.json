@@ -12705,5 +12705,17 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "affordable Apple portable SSD for computers": {
+        "date": "2026-02-27T17:27:18",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Innovation"
+        ]
     }
 }
