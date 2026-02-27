@@ -12681,5 +12681,18 @@
             "Cultural: BBQ",
             "Cultural: Innovation"
         ]
+    },
+    "Apple high-performance graphics for budget computers": {
+        "date": "2026-02-27T05:49:32",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: BBQ",
+            "Cultural: Martin Luther King Jr."
+        ]
     }
 }
