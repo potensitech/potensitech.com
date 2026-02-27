@@ -72,7 +72,7 @@ The Potensians deserve nothing but excellence when choosing upgrades for their b
 <td>$70 – $300</td>
 </tr>
 <tr>
-<td>SanDisk Extreme Pro Portable SSD</td>
+<td>SanDisk Extreme Pro [Portable SSD](/apple/affordable-apple-portable-ssd-for-computers)</td>
 <td>500GB – 4TB</td>
 <td>Portable design; USB-C compatibility; Rugged build ideal for travel.</td>
 <td>$100 – $700</td>
