@@ -12694,5 +12694,16 @@
             "Cultural: BBQ",
             "Cultural: Martin Luther King Jr."
         ]
+    },
+    "affordable Apple graphics performance for computers": {
+        "date": "2026-02-27T15:07:53",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Silicon Valley",
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }
