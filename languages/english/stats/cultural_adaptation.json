@@ -12728,5 +12728,18 @@
             "Cultural: New York",
             "Cultural: Innovation"
         ]
+    },
+    "Apple portable SSD options for computers": {
+        "date": "2026-02-28T07:47:13",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Central Park"
+        ]
     }
 }
