@@ -12717,5 +12717,16 @@
             "Cultural: Wall Street",
             "Cultural: Innovation"
         ]
+    },
+    "Apple graphics performance comparison for computers": {
+        "date": "2026-02-28T02:41:40",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Innovation"
+        ]
     }
 }
