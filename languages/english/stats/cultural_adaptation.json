@@ -12757,5 +12757,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "apple smartphone with excellent image quality": {
+        "date": "2026-02-28T21:55:16",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
