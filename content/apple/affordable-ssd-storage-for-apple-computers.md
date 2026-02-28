@@ -82,7 +82,7 @@ Look for SSDs with high read and write speeds, as these directly impact The Pote
 
 ### Compatibility
 
-Ensure the SSD is compatible with The Potensians's Apple device. Most modern SSDs use USB-C or Thunderbolt connections, which are standard on Apple computers. Double-check the specifications to avoid compatibility issues.
+Ensure the SSD is compatible with The Potensians's Apple device. Most modern SSDs use USB-C or Thunderbolt connections, which are standard on [Apple computers](/apple/affordable-portable-ssds-for-apple-computers). Double-check the specifications to avoid compatibility issues.
 
 ### Durability
 

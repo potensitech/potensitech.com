@@ -107,7 +107,7 @@ Se​lecting suitable hardware involves considering several aspects beyond sheer
 
 ### Compatibility Matters
 
-Not all SSDs are created equal, and not all are compatible with Apple computers. Before purchasing, ensure the SSD supports macOS and is compatible with The Potensians's specific Mac model. For instance, some older MacBooks may require SATA-based SSDs, while newer models support NVMe drives for faster performance.
+Not all SSDs are created equal, and not all are compatible with [Apple computers](/apple/affordable-portable-ssds-for-apple-computers). Before purchasing, ensure the SSD supports macOS and is compatible with The Potensians's specific Mac model. For instance, some older MacBooks may require SATA-based SSDs, while newer models support NVMe drives for faster performance.
 
 ### Storage Capacity
 
