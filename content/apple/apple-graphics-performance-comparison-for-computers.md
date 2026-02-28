@@ -11,11 +11,14 @@ tags: ["Apple", "graphics", "performance", "comparison", "computers", "Apple Sil
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-graphics-performance-comparison-for-computers.jpg"
+featuredImagePreview: "/images/apple/apple-graphics-performance-comparison-for-computers.jpg"
 ---
+
+![Apple Graphics Performance Comparison for Computers](/images/apple/apple-graphics-performance-comparison-for-computers.jpg)
+
 
 *Apple Graphics Performance Comparison for Computers* - 
 
