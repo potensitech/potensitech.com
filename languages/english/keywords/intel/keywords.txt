@@ -585,4 +585,5 @@ intel high-speed multitasking processor
 intel cost-effective processor for everyday use
 intel optimized processor for workstations
 intel entry-level processor with good performance
+intel affordable processor options for workstations
 
