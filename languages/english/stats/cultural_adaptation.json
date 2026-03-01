@@ -12779,5 +12779,14 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "apple smartphone ideal for photography enthusiasts": {
+        "date": "2026-03-01T04:39:56",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
