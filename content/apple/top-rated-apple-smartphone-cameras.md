@@ -72,7 +72,7 @@ These innovations ensure that every photo taken on an Apple smartphone tells a s
 </tr>
 <tr>
 <td>Night Mode</td>
-<td>Improves image quality in low-light settings.</td>
+<td>Improves [image quality](/apple/best-apple-computer-for-image-quality) in low-light settings.</td>
 <td>Candlelit dinners or nighttime cityscapes.</td>
 </tr>
 </tbody>

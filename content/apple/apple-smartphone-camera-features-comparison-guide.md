@@ -97,7 +97,7 @@ Apple’s software innovations are just as critical as its hardware advancements
 
 ### Computational Photography Techniques
 
-Apple leverages advanced computational methods such as Smart HDR, Deep Fusion, and Night Mode to enhance image quality. These techniques blend multiple exposures, preserving detail in shadows and highlights seamlessly. For example, Smart HDR ensures that a photo of a sunrise captures both the vibrant colors of the sky and the intricate details of the landscape below.
+Apple leverages advanced computational methods such as Smart HDR, Deep Fusion, and Night Mode to enhance [image quality](/apple/best-apple-computer-for-image-quality). These techniques blend multiple exposures, preserving detail in shadows and highlights seamlessly. For example, Smart HDR ensures that a photo of a sunrise captures both the vibrant colors of the sky and the intricate details of the landscape below.
 
 ### Cinematic Video Recording
 
