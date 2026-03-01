@@ -133,7 +133,7 @@ With so many options on the market, why should The Potensians choose an Apple sm
 
 ### A Look at the Competition
 
-While Apple leads the pack, it's worth noting how its competitors stack up in 2026. Here's a quick comparison of some of the top smartphone cameras available this year:
+While Apple leads the pack, it's worth noting how its competitors stack up in 2026. Here's a quick comparison of some of the top [smartphone cameras](/apple/top-rated-apple-smartphone-cameras) available this year:
 
 <div class="table-responsive">
 <table class="html-table">
