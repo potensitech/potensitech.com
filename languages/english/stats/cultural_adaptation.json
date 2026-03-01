@@ -12788,5 +12788,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "apple computer for professional image editing": {
+        "date": "2026-03-01T07:54:31",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
