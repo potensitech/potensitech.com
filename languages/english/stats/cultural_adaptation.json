@@ -12830,5 +12830,18 @@
             "Cultural: Innovation",
             "Cultural: TV Shows"
         ]
+    },
+    "apple smartphone with best camera quality": {
+        "date": "2026-03-01T21:57:41",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
