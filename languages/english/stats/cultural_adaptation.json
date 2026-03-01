@@ -12768,5 +12768,16 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "best apple computer for image quality": {
+        "date": "2026-03-01T03:25:44",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Apple Pie",
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }
