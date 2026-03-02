@@ -11,27 +11,30 @@ tags: ["apple", "smartphone", "camera", "photography", "review"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Review"
 review:
-  name: "Apple Smartphone Camera Quality Review: Is It Worth It?"
-  reviewBody: "This comprehensive review evaluates the camera quality of Apple smartphones, focusing on their advanced features, performance in various conditions, and overall value for photography enthusiasts."
-  author: "Kevin Wu"
-  datePublished: "2026-03-02T12:58:19"
-  publisher: "PotensiTech"
-  itemReviewed:
-    name: "Apple Smartphone Camera"
-    description: "A detailed review of the camera quality in Apple smartphones, highlighting cutting-edge features such as computational photography, night mode, and video stabilization."
-  reviewRating:
-    ratingValue: "4.7"
-    bestRating: "5"
-    worstRating: "1"
-    positiveNotes: "Exceptional low-light performance, advanced computational photography, and seamless video stabilization."
-    negativeNotes: "Limited manual controls for professional photographers and higher price point compared to competitors."
+name: "Apple Smartphone Camera Quality Review: Is It Worth It?"
+reviewBody: "This comprehensive review evaluates the camera quality of Apple smartphones, focusing on their advanced features, performance in various conditions, and overall value for photography enthusiasts."
+author: "Kevin Wu"
+datePublished: "2026-03-02T12:58:19"
+publisher: "PotensiTech"
+itemReviewed:
+name: "Apple Smartphone Camera"
+description: "A detailed review of the camera quality in Apple smartphones, highlighting cutting-edge features such as computational photography, night mode, and video stabilization."
+reviewRating:
+ratingValue: "4.7"
+bestRating: "5"
+worstRating: "1"
+positiveNotes: "Exceptional low-light performance, advanced computational photography, and seamless video stabilization."
+negativeNotes: "Limited manual controls for professional photographers and higher price point compared to competitors."
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-smartphone-camera-quality-review-is-it-worth-it.jpg"
+featuredImagePreview: "/images/apple/apple-smartphone-camera-quality-review-is-it-worth-it.jpg"
 ---
+
+![Apple Smartphone Camera Quality Review: Is It Worth It?](/images/apple/apple-smartphone-camera-quality-review-is-it-worth-it.jpg)
+
 
 *Apple Smartphone Camera Quality Review: Is It Worth It?* - 
 
