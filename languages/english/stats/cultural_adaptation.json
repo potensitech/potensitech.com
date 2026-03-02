@@ -12856,5 +12856,18 @@
             "Cultural: Los Angeles",
             "Cultural: Tex-Mex"
         ]
+    },
+    "best high-resolution image quality apple smartphone": {
+        "date": "2026-03-02T08:02:53",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
