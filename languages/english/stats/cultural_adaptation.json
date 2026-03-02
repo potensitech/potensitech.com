@@ -12882,5 +12882,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "best Apple smartphone for photography": {
+        "date": "2026-03-02T15:10:08",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Hollywood",
+            "Cultural: Central Park"
+        ]
     }
 }
