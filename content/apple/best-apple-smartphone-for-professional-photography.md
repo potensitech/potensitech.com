@@ -94,7 +94,7 @@ These innovations ensure that whether The Potensians are photographing New York'
 
 ## Top Recommendations: Best Apple Smartphone Models in 2026
 
-When searching for the best Apple smartphone for professional photography this year, several models stand out due to their exceptional capabilities tailored specifically toward photographers. Below are We's top recommendations:
+When searching for the best [Apple smartphone](/apple/apple-smartphone-with-a-high-quality-camera) for professional photography this year, several models stand out due to their exceptional capabilities tailored specifically toward photographers. Below are We's top recommendations:
 
 ### iPhone 15 Pro Max – A Photographer’s Dream
 
