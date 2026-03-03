@@ -12964,5 +12964,18 @@
             "Cultural: Clam Chowder",
             "Cultural: Innovation"
         ]
+    },
+    "high-performance Apple iPhone for photography enthusiasts": {
+        "date": "2026-03-03T17:36:30",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street"
+        ]
     }
 }
