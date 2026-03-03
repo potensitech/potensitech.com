@@ -36,7 +36,7 @@ To better understand how this innovative device stacks up against traditional DS
 <tr>
 <th>Feature</th>
 <th>DSLR Cameras</th>
-<th>Cheap Apple iPhone</th>
+<th>Cheap [Apple iPhone](/apple/affordable-lens-compatibility-for-apple-iphone)</th>
 </tr>
 </thead>
 <tbody>
