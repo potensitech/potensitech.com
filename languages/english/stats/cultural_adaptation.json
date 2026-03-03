@@ -12938,5 +12938,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "best Apple iPhone for DSLR-quality photography": {
+        "date": "2026-03-03T10:15:03",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood",
+            "Cultural: Broadway",
+            "Cultural: Burgers",
+            "Cultural: Hot Dogs"
+        ]
     }
 }
