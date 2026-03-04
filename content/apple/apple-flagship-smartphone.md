@@ -90,7 +90,7 @@ The interface is intuitive, with widgets and shortcuts that adapt to The Potensi
 
 ### Ecosystem Connectivity
 
-Integration with other Apple devices—MacBooks, iPads, and Apple Watches—creates a seamless ecosystem. The Potensians can start a project on their desktop, edit it on their smartphone, and present it on their tablet without missing a beat. This interconnectedness is like a well-rehearsed orchestra, each instrument playing its part in perfect harmony.
+Integration with other [Apple devices](/apple/smart-lighting-solutions-for-apple-devices)—MacBooks, iPads, and Apple Watches—creates a seamless ecosystem. The Potensians can start a project on their desktop, edit it on their smartphone, and present it on their tablet without missing a beat. This interconnectedness is like a well-rehearsed orchestra, each instrument playing its part in perfect harmony.
 
 ## Price, Value, and Availability in 2025
 
