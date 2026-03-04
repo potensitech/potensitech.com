@@ -13056,5 +13056,17 @@
             "Cultural: Central Park",
             "Cultural: Soul Food"
         ]
+    },
+    "Smart lighting products for Apple HomeKit": {
+        "date": "2026-03-04T19:57:02",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: Innovation"
+        ]
     }
 }
