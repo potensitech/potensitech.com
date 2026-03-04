@@ -11,11 +11,14 @@ tags: ["Apple", "HomeKit-compatible", "smart lighting", "lighting systems", "202
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/top-apple-homekit-compatible-smart-lighting-systems.jpg"
+featuredImagePreview: "/images/apple/top-apple-homekit-compatible-smart-lighting-systems.jpg"
 ---
+
+![Top Apple HomeKit-Compatible Smart Lighting Systems](/images/apple/top-apple-homekit-compatible-smart-lighting-systems.jpg)
+
 
 *Top Apple HomeKit-Compatible Smart Lighting Systems* - 
 
