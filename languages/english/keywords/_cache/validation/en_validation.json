@@ -6622,5 +6622,7 @@
   "sandisk external SSD storage solution": true,
   "sandisk high-capacity SSD": true,
   "best Intel chipsets for gaming processors": true,
-  "Intel processor compatibility with affordable chipsets": true
+  "Intel processor compatibility with affordable chipsets": true,
+  "nvidia affordable GPU compatibility with chipsets": true,
+  "nvidia affordable GPUs with high compatibility": true
 }

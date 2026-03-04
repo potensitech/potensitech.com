@@ -498,4 +498,6 @@ nvidia affordable processor for graphic-intensive tasks
 nvidia low-cost GPU for gaming
 nvidia budget-friendly GPU compatibility solutions
 nvidia gaming GPU processor speed comparison
+nvidia affordable GPU compatibility with chipsets
+nvidia affordable GPUs with high compatibility
 
