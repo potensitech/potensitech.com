@@ -12990,5 +12990,14 @@
             "Cultural: Broadway",
             "Cultural: Soul Food"
         ]
+    },
+    "affordable Apple iPhone for high-quality photos": {
+        "date": "2026-03-04T04:26:56",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
