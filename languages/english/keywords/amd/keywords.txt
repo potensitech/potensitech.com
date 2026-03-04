@@ -475,4 +475,5 @@ amd affordable chipsets for gaming compatibility
 amd compatibility guide for budget-friendly chipsets
 amd chipset compatibility with high-performance GPUs
 amd affordable chipset for gaming builds
+amd chipset compatibility for budget-friendly builds
 

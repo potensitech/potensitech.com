@@ -6624,5 +6624,6 @@
   "best Intel chipsets for gaming processors": true,
   "Intel processor compatibility with affordable chipsets": true,
   "nvidia affordable GPU compatibility with chipsets": true,
-  "nvidia affordable GPUs with high compatibility": true
+  "nvidia affordable GPUs with high compatibility": true,
+  "amd chipset compatibility for budget-friendly builds": true
 }
