@@ -13008,5 +13008,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Smart lighting solutions for Apple devices": {
+        "date": "2026-03-04T07:59:38",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: BBQ"
+        ]
     }
 }
