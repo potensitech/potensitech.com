@@ -594,4 +594,6 @@ intel affordable processor and chipset compatibility
 intel processor compatibility with low-cost chipsets
 intel budget-friendly processor and chipset compatibility
 intel affordable processor solutions for PCs
+best Intel chipsets for gaming processors
+Intel processor compatibility with affordable chipsets
 
