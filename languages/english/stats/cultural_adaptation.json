@@ -13106,5 +13106,18 @@
             "Cultural: Thanksgiving",
             "Cultural: Benjamin Franklin"
         ]
+    },
+    "affordable Apple smartphone with great camera": {
+        "date": "2026-03-05T13:01:49",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Innovation"
+        ]
     }
 }
