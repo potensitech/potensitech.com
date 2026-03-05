@@ -73,7 +73,7 @@ While free storage space may be limited (5GB), additional plans start as low as 
 </tr>
 <tr>
 <td>iCloud Backup</td>
-<td>Convenient; Accessible anywhere; Affordable storage plans</td>
+<td>Convenient; Accessible anywhere; [Affordable storage](/apple/affordable-storage-capacity-for-apple-computers) plans</td>
 <td>Limited free storage; Requires stable internet</td>
 </tr>
 </tbody>
