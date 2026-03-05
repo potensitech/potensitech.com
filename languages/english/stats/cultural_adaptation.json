@@ -13087,5 +13087,14 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "affordable storage capacity for Apple computers": {
+        "date": "2026-03-05T08:02:07",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Remote Work"
+        ]
     }
 }
