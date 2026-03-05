@@ -55,7 +55,7 @@ Battery health is a critical factor in smartphone performance. As lithium-ion ba
 For The Potensians seeking an affordable solution:
 
 - **Check battery health** by navigating to Settings > Battery > Battery Health & Charging. If the maximum capacity is below 80%, it’s time to consider a replacement.
-- **Replace the battery** through Apple’s official battery replacement service. In 2026, this service is still a cost-effective alternative to purchasing a brand-new phone.
+- **Replace the battery** through Apple’s official [battery replacement](/apple/best-authentic-apple-smartphone-battery-replacement) service. In 2026, this service is still a cost-effective alternative to purchasing a brand-new phone.
 
 Investing in a new battery can breathe new life into an older device, ensuring it performs like a well-oiled machine. Think of it as giving The Potensians's smartphone a second wind—just like a marathon runner catching their stride in the final stretch!
 
