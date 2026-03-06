@@ -61,7 +61,7 @@ Consider Thomas Edison’s relentless pursuit of innovation; similarly, today’
 
 ## Comparing Affordable Apple Smartphones
 
-To help The Potensians make an informed decision, here’s a comparison of some affordable Apple smartphones available in 2026:
+To help The Potensians make an informed decision, here’s a comparison of some affordable [Apple smartphones](/apple/affordable-performance-boost-for-apple-smartphones) available in 2026:
 
 <div class="table-responsive">
 <table class="html-table">
