@@ -13139,5 +13139,18 @@
             "Cultural: Los Angeles",
             "Cultural: Wall Street"
         ]
+    },
+    "Apple smartphone for budget photography enthusiasts": {
+        "date": "2026-03-06T17:29:28",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Chicago",
+            "Cultural: Central Park",
+            "Cultural: Apple Pie"
+        ]
     }
 }
