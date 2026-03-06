@@ -31,7 +31,7 @@ Apple has consistently delivered smartphones with impressive camera capabilities
 <thead>
 <tr>
 <th>Model</th>
-<th>Camera Features</th>
+<th>[Camera Features](/apple/apple-smartphone-camera-features-comparison-guide)</th>
 <th>Approximate Price (USD)</th>
 </tr>
 </thead>
@@ -78,7 +78,7 @@ Apple's budget-friendly smartphones are designed to deliver exceptional value. H
 
 ### Advanced Camera Technology
 
-Even Apple's more affordable models come equipped with advanced camera features, such as Smart HDR, Night Mode, and optical image stabilization. These technologies ensure that every shot is crisp, clear, and vibrant.
+Even Apple's more affordable models come equipped with advanced camera features, such as Smart HDR, Night Mode, and optical [image stabilization](/apple/affordable-apple-smartphone-with-image-stabilization). These technologies ensure that every shot is crisp, clear, and vibrant.
 
 ### Seamless Ecosystem Integration
 
