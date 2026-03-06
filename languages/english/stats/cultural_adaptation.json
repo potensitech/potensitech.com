@@ -13152,5 +13152,17 @@
             "Cultural: Central Park",
             "Cultural: Apple Pie"
         ]
+    },
+    "Apple smartphone with advanced camera features": {
+        "date": "2026-03-06T22:03:42",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
