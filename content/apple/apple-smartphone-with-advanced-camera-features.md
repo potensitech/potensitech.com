@@ -11,11 +11,14 @@ tags: ["Apple", "smartphone", "camera technology", "mobile photography", "featur
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-smartphone-with-advanced-camera-features-shines.jpg"
+featuredImagePreview: "/images/apple/apple-smartphone-with-advanced-camera-features-shines.jpg"
 ---
+
+![Apple Smartphone with Advanced Camera Features Shines](/images/apple/apple-smartphone-with-advanced-camera-features-shines.jpg)
+
 
 
 *Apple Smartphone with Advanced Camera Features Shines* - 
