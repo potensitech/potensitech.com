@@ -13230,5 +13230,18 @@
             "Cultural: New York",
             "Cultural: Broadway"
         ]
+    },
+    "affordable apple GPU performance": {
+        "date": "2026-03-07T19:39:07",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex",
+            "Cultural: Abraham Lincoln",
+            "Cultural: Innovation"
+        ]
     }
 }
