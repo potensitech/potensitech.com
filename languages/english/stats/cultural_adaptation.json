@@ -13207,5 +13207,15 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "budget-friendly Apple computers for GPU-intensive tasks": {
+        "date": "2026-03-07T14:51:22",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Innovation"
+        ]
     }
 }
