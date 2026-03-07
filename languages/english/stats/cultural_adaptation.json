@@ -13243,5 +13243,16 @@
             "Cultural: Abraham Lincoln",
             "Cultural: Innovation"
         ]
+    },
+    "affordable Apple processor speed for computers": {
+        "date": "2026-03-07T21:56:16",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media",
+            "Cultural: Remote Work"
+        ]
     }
 }
