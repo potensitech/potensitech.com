@@ -13186,5 +13186,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone for budget-conscious photography enthusiasts": {
+        "date": "2026-03-07T09:59:54",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
