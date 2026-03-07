@@ -13217,5 +13217,18 @@
             "Cultural: Black Friday",
             "Cultural: Innovation"
         ]
+    },
+    "affordable apple camera lens": {
+        "date": "2026-03-07T17:05:34",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Broadway"
+        ]
     }
 }
