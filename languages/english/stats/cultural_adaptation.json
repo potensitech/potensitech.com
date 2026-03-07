@@ -13196,5 +13196,16 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "cheap Apple computers for GPU performance": {
+        "date": "2026-03-07T12:46:05",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
