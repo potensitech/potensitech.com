@@ -6670,5 +6670,11 @@
   "affordable Intel chipsets compatible with processors": true,
   "high-performance processors with affordable Intel chipsets": true,
   "budget-friendly Intel chipsets for compatible processors": true,
-  "Intel chipset compatibility for workstation processors": true
+  "Intel chipset compatibility for workstation processors": true,
+  "nvidia affordable GPU for budget builds": true,
+  "nvidia processor performance for high-end computing": true,
+  "nvidia processor speed for creative software": true,
+  "nvidia processor compatibility with AMD GPUs": true,
+  "nvidia GPU optimization for gaming laptops": true,
+  "nvidia processor compatibility for creative applications": true
 }
