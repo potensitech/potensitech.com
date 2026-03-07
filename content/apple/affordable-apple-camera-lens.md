@@ -109,7 +109,7 @@ Ensure the lens is compatible with The Potensians's specific iPhone model. Most 
 
 ### Build Quality
 
-Look for lenses made from high-quality materials like aluminum and multi-coated glass. These materials not only enhance durability but also improve image quality by reducing distortion and glare.
+Look for lenses made from high-quality materials like aluminum and multi-coated glass. These materials not only enhance durability but also improve [image quality](/apple/best-apple-computer-for-image-quality) by reducing distortion and glare.
 
 ### Purpose
 
