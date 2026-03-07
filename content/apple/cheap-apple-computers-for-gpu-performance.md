@@ -11,11 +11,14 @@ tags: ["cheap Apple computers", "GPU performance", "affordable Apple computers",
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/cheap-apple-computers-for-gpu-performance-unleashed.jpg"
+featuredImagePreview: "/images/apple/cheap-apple-computers-for-gpu-performance-unleashed.jpg"
 ---
+
+![Cheap Apple Computers for GPU Performance Unleashed](/images/apple/cheap-apple-computers-for-gpu-performance-unleashed.jpg)
+
 
 *Cheap Apple Computers for GPU Performance Unleashed* - 
 
