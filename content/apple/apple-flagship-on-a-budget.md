@@ -35,7 +35,7 @@ In 2025, Apple continues to prioritize longevity, making their devices ideal for
 
 Apple’s commitment to design excellence is evident even in its budget-friendly models. Devices like the iPhone XR and iPhone SE feature sleek aluminum frames and vibrant Retina displays that rival the aesthetics of their pricier counterparts. 
 
-Moreover, durability is a hallmark of Apple products. With water resistance ratings of IP67 or higher, these devices can withstand accidental spills—whether it’s coffee during a morning rush or a soda at a family picnic. Apple ensures that affordability doesn’t mean compromising on quality.
+Moreover, durability is a hallmark of [Apple products](/apple/buy-apple-products-online). With water resistance ratings of IP67 or higher, these devices can withstand accidental spills—whether it’s coffee during a morning rush or a soda at a family picnic. Apple ensures that affordability doesn’t mean compromising on quality.
 
 ### Exceptional Camera Systems
 
