@@ -6676,5 +6676,9 @@
   "nvidia processor speed for creative software": true,
   "nvidia processor compatibility with AMD GPUs": true,
   "nvidia GPU optimization for gaming laptops": true,
-  "nvidia processor compatibility for creative applications": true
+  "nvidia processor compatibility for creative applications": true,
+  "amd processor speed for budget computing": true,
+  "amd processor performance for budget systems": true,
+  "amd affordable processors for gaming": true,
+  "amd affordable processor solutions for multitasking": true
 }
