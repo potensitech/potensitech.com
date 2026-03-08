@@ -13261,5 +13261,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "best Apple processor performance for computers": {
+        "date": "2026-03-08T04:29:10",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: BBQ",
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation"
+        ]
     }
 }
