@@ -481,4 +481,5 @@ amd processor speed for budget computing
 amd processor performance for budget systems
 amd affordable processors for gaming
 amd affordable processor solutions for multitasking
+amd entry-level processors for gaming setups
 
