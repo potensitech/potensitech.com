@@ -13274,5 +13274,17 @@
             "Cultural: Steve Jobs",
             "Cultural: Innovation"
         ]
+    },
+    "affordable Apple processor speed for smartphones": {
+        "date": "2026-03-08T12:48:27",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Fourth of July",
+            "Cultural: Central Park",
+            "Cultural: Innovation"
+        ]
     }
 }
