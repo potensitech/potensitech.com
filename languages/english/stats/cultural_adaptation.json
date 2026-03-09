@@ -13295,5 +13295,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "best Apple processor performance for smartphones": {
+        "date": "2026-03-09T02:59:29",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Central Park",
+            "Cultural: Apple Pie"
+        ]
     }
 }
