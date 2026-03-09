@@ -118,7 +118,7 @@ Apple is likely to expand its support for virtual reality (VR) and augmented rea
 
 ### Enhanced Battery Life
 
-Battery life is a critical factor for mobile professionals and students. Apple’s focus on energy efficiency ensures that its devices can handle intensive tasks without compromising battery performance. By 2026, We can expect even longer battery life, making Apple devices ideal for those with fast-paced lifestyles.
+Battery life is a critical factor for mobile professionals and students. Apple’s focus on energy efficiency ensures that its devices can handle intensive tasks without compromising battery performance. By 2026, We can expect even longer battery life, making [Apple devices](/apple/best-apple-devices-for-smartphone-photography) ideal for those with fast-paced lifestyles.
 
 ## Conclusion
 
