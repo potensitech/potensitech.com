@@ -13334,5 +13334,16 @@
             "Cultural: Broadway",
             "Cultural: Burgers"
         ]
+    },
+    "apple processor speed for affordable computers": {
+        "date": "2026-03-09T13:02:16",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Albert Einstein",
+            "Cultural: Innovation"
+        ]
     }
 }
