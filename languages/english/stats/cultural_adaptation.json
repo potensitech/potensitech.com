@@ -13308,5 +13308,18 @@
             "Cultural: Central Park",
             "Cultural: Apple Pie"
         ]
+    },
+    "apple affordable smartphone with processor speed": {
+        "date": "2026-03-09T04:36:01",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Wall Street"
+        ]
     }
 }
