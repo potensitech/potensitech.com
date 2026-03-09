@@ -13321,5 +13321,18 @@
             "Cultural: Los Angeles",
             "Cultural: Wall Street"
         ]
+    },
+    "apple computer with fast processor speed": {
+        "date": "2026-03-09T05:54:35",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Burgers"
+        ]
     }
 }
