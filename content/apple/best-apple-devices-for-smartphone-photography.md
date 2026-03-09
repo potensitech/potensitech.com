@@ -11,25 +11,28 @@ tags: ["Apple", "smartphone photography", "best devices", "iPhone cameras"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Review"
 review:
-  name: "Best Apple Devices for Smartphone Photography"
-  reviewBody: "In 2026, Apple continues to lead the smartphone photography industry with devices that feature advanced camera technology, ProRAW support, and seamless integration with creative tools. This review highlights the top Apple devices for capturing stunning photos and videos."
-  author: "James Smith"
-  datePublished: "2026-03-09T22:04:52"
-  publisher: "PotensiTech"
-  itemReviewed:
-    name: "Best Apple Devices for Smartphone Photography"
-    description: "A comprehensive review of the best Apple devices for smartphone photography in 2026, featuring models like the iPhone 15 Pro Max and iPhone 15 Plus with cutting-edge camera systems and innovative features."
-  reviewRating:
-    ratingValue: "4.7"
-    bestRating: "5"
-    worstRating: "1"
+name: "Best Apple Devices for Smartphone Photography"
+reviewBody: "In 2026, Apple continues to lead the smartphone photography industry with devices that feature advanced camera technology, ProRAW support, and seamless integration with creative tools. This review highlights the top Apple devices for capturing stunning photos and videos."
+author: "James Smith"
+datePublished: "2026-03-09T22:04:52"
+publisher: "PotensiTech"
+itemReviewed:
+name: "Best Apple Devices for Smartphone Photography"
+description: "A comprehensive review of the best Apple devices for smartphone photography in 2026, featuring models like the iPhone 15 Pro Max and iPhone 15 Plus with cutting-edge camera systems and innovative features."
+reviewRating:
+ratingValue: "4.7"
+bestRating: "5"
+worstRating: "1"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/best-apple-devices-for-smartphone-photography.jpg"
+featuredImagePreview: "/images/apple/best-apple-devices-for-smartphone-photography.jpg"
 ---
+
+![Best Apple Devices for Smartphone Photography](/images/apple/best-apple-devices-for-smartphone-photography.jpg)
+
 
 *Best Apple Devices for Smartphone Photography* - 
 
