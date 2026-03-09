@@ -13352,5 +13352,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "best Apple devices for smartphone photography": {
+        "date": "2026-03-09T22:05:17",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Los Angeles",
+            "Cultural: Tex-Mex",
+            "Cultural: Innovation"
+        ]
     }
 }
