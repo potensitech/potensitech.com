@@ -65,7 +65,7 @@ The __iPhone 15 Pro Max** is Apple’s latest flagship device, ​and it has alr
 <tr>
 <td>A17 Bionic Chip</td>
 <td>Enhanced computational photography algorithms.</td>
-<td>Smoother HDR processing and faster photo editing.</td>
+<td>Smoother HDR processing and faster [photo editing](/apple/affordable-apple-computers-for-photo-editing).</td>
 </tr>
 <tr>
 <td>ProRAW & ProRes Support</td>

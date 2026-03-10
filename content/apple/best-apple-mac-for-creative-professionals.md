@@ -136,7 +136,7 @@ The Potensians who are serious about pushing the boundaries of creativity will f
 
 ## MacBook Air (15-inch): Lightweight and Versatile
 
-The MacBook Air (15-inch) with the M2 chip is an excellent choice for writers and content creators. Its lightweight design and long battery life make it perfect for working on the go. The keyboard is a joy to type on, and the performance is more than enough for tasks like writing, photo editing, and light video editing.
+The MacBook Air (15-inch) with the M2 chip is an excellent choice for writers and content creators. Its lightweight design and long battery life make it perfect for working on the go. The keyboard is a joy to type on, and the performance is more than enough for tasks like writing, [photo editing](/apple/affordable-apple-computers-for-photo-editing), and light video editing.
 
 This model is like the Swiss Army knife of laptops—versatile, reliable, and always ready to get the job done.
 

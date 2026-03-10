@@ -28,7 +28,7 @@ Refurbished Macs are an excellent way to access [premium Apple](/apple/affordabl
 
 ### Why Choose Refurbished Macs?
 
-Refurbished Macs offer the same high-quality performance as new models but at significantly reduced prices. For instance, a refurbished **MacBook Pro M1 (2020)**, known for its exceptional graphics capabilities, can be purchased at nearly half the price of a brand-new model. Similarly, refurbished iMacs with stunning Retina displays are perfect for photo editing, video editing, and other creative tasks.
+Refurbished Macs offer the same high-quality performance as new models but at significantly reduced prices. For instance, a refurbished **MacBook Pro M1 (2020)**, known for its exceptional graphics capabilities, can be purchased at nearly half the price of a brand-new model. Similarly, refurbished iMacs with stunning Retina displays are perfect for [photo editing](/apple/affordable-apple-computers-for-photo-editing), video editing, and other creative tasks.
 
 ### Popular Refurbished Models in 2026
 

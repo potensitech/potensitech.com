@@ -70,7 +70,7 @@ Below is an overview of some top-performing iPhones tailored to meet diverse pho
 <tr>
 <td>iPhone 15 Plus</td>
 <td>Dual-Camera System with Ultra-Wide Lens; Night Mode enhancements</td>
-<td>Everyday use and low-light photography</td>
+<td>Everyday use and [low-light photography](/apple/apple-smartphone-camera-for-low-light-photography)</td>
 <td>$899</td>
 </tr>
 <tr>
