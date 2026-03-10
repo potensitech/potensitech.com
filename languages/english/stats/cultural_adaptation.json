@@ -13411,5 +13411,12 @@
             "Cultural: Apple Pie",
             "Cultural: Social Media"
         ]
+    },
+    "top-rated Apple computers for photographers": {
+        "date": "2026-03-10T19:57:07",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
