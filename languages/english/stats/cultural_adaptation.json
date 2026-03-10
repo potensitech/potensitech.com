@@ -13365,5 +13365,14 @@
             "Cultural: Tex-Mex",
             "Cultural: Innovation"
         ]
+    },
+    "affordable Apple computers for photo editing": {
+        "date": "2026-03-10T02:50:56",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: New York"
+        ]
     }
 }
