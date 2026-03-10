@@ -13374,5 +13374,18 @@
         "matches": [
             "Cultural: New York"
         ]
+    },
+    "top Apple smartphones for DSLR-like photos": {
+        "date": "2026-03-10T04:27:00",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: Burgers"
+        ]
     }
 }
