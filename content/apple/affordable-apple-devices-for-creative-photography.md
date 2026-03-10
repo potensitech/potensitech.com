@@ -89,7 +89,7 @@ For The Potensians looking to maximize value without compromising on quality, re
 
 ### Popular Refurbished Options
 
-- **Refurbished iPad Air**: Paired with the Apple Pencil, it allows for intuitive photo editing and sketching directly on images.
+- **Refurbished iPad Air**: Paired with the Apple Pencil, it allows for intuitive [photo editing](/apple/affordable-apple-computers-for-photo-editing) and sketching directly on images.
 - **Refurbished MacBooks**: Older-generation MacBooks still deliver excellent performance for basic photo editing tasks.
 
 ### When to Buy
@@ -98,7 +98,7 @@ Refurbished devices are often available at significant discounts during events l
 
 ## How Apple Devices Enhance Creative Photography
 
-Apple devices are designed with creatives in mind, offering features that elevate photography to the n​ext level. Here are some ways these devices enhance creativity:
+[Apple devices](/apple/best-apple-devices-for-smartphone-photography) are designed with creatives in mind, offering features that elevate photography to the n​ext level. Here are some ways these devices enhance creativity:
 
 ### Night Mode Photography
 
