@@ -99,7 +99,7 @@ To provide a clearer picture of why Apple smartphones are ideal for photography 
 </tr>
 <tr>
 <td>A16 Bionic Chip</td>
-<td>High-performance processor with advanced AI capabilities.</td>
+<td>[High-performance processor](/apple/apple-computer-with-high-performance-processor) with advanced AI capabilities.</td>
 <td>Ensures smooth performance and efficient multitasking.</td>
 </tr>
 <tr>
