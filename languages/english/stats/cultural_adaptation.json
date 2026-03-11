@@ -13418,5 +13418,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "Apple smartphone with high-performance processor": {
+        "date": "2026-03-11T02:51:00",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Black Friday",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: Innovation"
+        ]
     }
 }
