@@ -13476,5 +13476,18 @@
             "Cultural: Steve Jobs",
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer with affordable processor performance": {
+        "date": "2026-03-11T17:43:45",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: BBQ"
+        ]
     }
 }
