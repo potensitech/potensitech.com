@@ -13489,5 +13489,14 @@
             "Cultural: Wall Street",
             "Cultural: BBQ"
         ]
+    },
+    "cheap Apple smartphone alternatives": {
+        "date": "2026-03-11T19:57:04",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
