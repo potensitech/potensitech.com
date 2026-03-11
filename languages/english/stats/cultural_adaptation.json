@@ -13464,5 +13464,17 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone with affordable processor performance": {
+        "date": "2026-03-11T15:15:43",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Elon Musk",
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation"
+        ]
     }
 }
