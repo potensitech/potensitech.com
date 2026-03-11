@@ -13453,5 +13453,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "best processor speed in Apple computers": {
+        "date": "2026-03-11T10:17:24",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Wall Street",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
