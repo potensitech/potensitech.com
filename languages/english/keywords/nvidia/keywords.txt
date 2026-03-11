@@ -513,4 +513,6 @@ nvidia affordable GPU options for gaming
 nvidia processor performance for budget builds
 nvidia processor compatibility for high-speed computing
 nvidia GPU performance for budget-friendly builds
+nvidia processor compatibility for gaming setups
+nvidia processor compatibility for affordable systems
 
