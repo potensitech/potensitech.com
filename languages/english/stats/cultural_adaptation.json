@@ -13431,5 +13431,18 @@
             "Cultural: Central Park",
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer with high-performance processor": {
+        "date": "2026-03-11T04:29:03",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street",
+            "Cultural: Innovation"
+        ]
     }
 }
