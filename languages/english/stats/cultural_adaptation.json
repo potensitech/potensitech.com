@@ -13539,5 +13539,18 @@
             "Cultural: Times Square",
             "Cultural: Hollywood"
         ]
+    },
+    "apple affordable computer processor speed": {
+        "date": "2026-03-12T22:06:18",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Silicon Valley",
+            "Cultural: Innovation",
+            "Cultural: Green Technology"
+        ]
     }
 }
