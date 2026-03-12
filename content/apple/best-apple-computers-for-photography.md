@@ -114,7 +114,7 @@ Apple has long been a favorite among photographers, and for good reason. Here ar
 
 ### Seamless Integration with Creative Software
 
-Apple computers are optimized for popular photography and editing software, including Adobe Photoshop, Lightroom, and Final Cut Pro. The M3 chips ensure these applications run smoothly, even when handling large files or complex edits.
+[Apple computers](/apple/affordable-apple-computers-for-photo-editing) are optimized for popular photography and editing software, including Adobe Photoshop, Lightroom, and Final Cut Pro. The M3 chips ensure these applications run smoothly, even when handling large files or complex edits.
 
 ### Exceptional Displays
 
