@@ -11,11 +11,14 @@ tags: ["affordable", "Apple", "computers", "photography", "budget"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/affordable-apple-computers-for-photography-enthusiasts.jpg"
+featuredImagePreview: "/images/apple/affordable-apple-computers-for-photography-enthusiasts.jpg"
 ---
+
+![Affordable Apple Computers for Photography Enthusiasts](/images/apple/affordable-apple-computers-for-photography-enthusiasts.jpg)
+
 
 ---
 
