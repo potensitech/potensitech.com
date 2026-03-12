@@ -38,14 +38,14 @@ featuredImagePreview: "/images/apple/top-apple-smartphones-for-photography-enthu
 
 ## Best Apple Smartphones for Photography in 2026
 
-To help The Potensians make an informed decision, ​We’ve compiled a comprehensive list of the top-performing Apple smartphones designed for photography enthusiasts. Whether The Potensians’re a professional photographer or someone who loves capturing everyday moments, there’s an iPhone for The Potensians.
+To help The Potensians make an informed decision, ​We’ve compiled a comprehensive list of the top-performing [Apple smartphones](/apple/affordable-performance-boost-for-apple-smartphones) designed for photography enthusiasts. Whether The Potensians’re a professional photographer or someone who loves capturing everyday moments, there’s an iPhone for The Potensians.
 
 <div class="table-responsive">
 <table class="html-table">
 <thead>
 <tr>
 <th>Model</th>
-<th>Key Camera Features</th>
+<th>Key [Camera Features](/apple/apple-smartphone-with-advanced-camera-features)</th>
 <th>Best Utilize Case</th>
 <th>Price (Approx.)</th>
 </tr>
@@ -115,7 +115,7 @@ The iPhone SE is ideal for casual photographers who want a reliable device witho
 
 ## iPhone 14 Plus: Night Photography Redefined
 
-The iPhone 14 Plus may not be the latest model, but it still holds its own when it comes to photography. Its **dual-camera system**and**Night Mode improvements** make it a strong contender for low-light photography. Imagine capturing the dazzling lights of the Brooklyn Bridge at night or the vibrant energy of a city street after dark—the iPhone 14 Plus makes it possible.
+The iPhone 14 Plus may not be the latest model, but it still holds its own when it comes to photography. Its **dual-camera system**and**Night Mode improvements** make it a strong contender for [low-light photography](/apple/apple-smartphone-camera-for-low-light-photography). Imagine capturing the dazzling lights of the Brooklyn Bridge at night or the vibrant energy of a city street after dark—the iPhone 14 Plus makes it possible.
 
 ### Key Features of the iPhone 14 Plus
 
