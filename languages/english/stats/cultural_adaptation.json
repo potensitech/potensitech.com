@@ -13508,5 +13508,12 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "best Apple computers for photography": {
+        "date": "2026-03-12T04:30:51",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
