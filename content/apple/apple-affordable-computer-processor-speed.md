@@ -79,7 +79,7 @@ For professionals working remotely or collaborating across global teams—from b
 
 ### Enhanced Gaming and Entertainment
 
-Gaming enthusiasts and media consumers will also appreciate the performance boost. With Apple’s M-series chips, The Potensians can enjoy graphically demanding games and 4K streaming without lag or buffering. The processors ensure that even the most resource-intensive applications run seamlessly, providing an immersive experience.
+Gaming enthusiasts and media consumers will also appreciate the [performance boost](/apple/best-performance-boost-for-apple-smartphones). With Apple’s M-series chips, The Potensians can enjoy graphically demanding games and 4K streaming without lag or buffering. The processors ensure that even the most resource-intensive applications run seamlessly, providing an immersive experience.
 
 ### Accessibility for Students and Educators
 
