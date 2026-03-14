@@ -13561,5 +13561,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "apple affordable processor options for computers": {
+        "date": "2026-03-14T07:57:49",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Silicon Valley",
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation"
+        ]
     }
 }
