@@ -488,4 +488,7 @@ amd entry-level processor speed comparison
 amd custom PC chipset compatibility guide
 amd multitasking processor speed analysis tutorial
 amd overclocking processor speed testing tips
+amd chipset options for entry-level computers
+amd processors for multitasking performance
+amd high-performance processors for computing tasks
 

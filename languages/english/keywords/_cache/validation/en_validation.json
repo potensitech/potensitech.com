@@ -6842,5 +6842,8 @@
   "intel budget-friendly processor with optimized performance": true,
   "intel entry-level processor for daily tasks": true,
   "intel affordable processor for gaming": true,
-  "intel processor for budget-friendly high-performance tasks": true
+  "intel processor for budget-friendly high-performance tasks": true,
+  "amd chipset options for entry-level computers": true,
+  "amd processors for multitasking performance": true,
+  "amd high-performance processors for computing tasks": true
 }
