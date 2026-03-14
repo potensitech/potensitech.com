@@ -13552,5 +13552,14 @@
             "Cultural: Innovation",
             "Cultural: Green Technology"
         ]
+    },
+    "apple smartphone processor speed comparison": {
+        "date": "2026-03-14T05:42:44",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
