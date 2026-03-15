@@ -491,4 +491,6 @@ amd overclocking processor speed testing tips
 amd chipset options for entry-level computers
 amd processors for multitasking performance
 amd high-performance processors for computing tasks
+amd affordable processor performance evaluation
+amd processor speed for budget multitasking
 

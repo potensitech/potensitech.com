@@ -6875,5 +6875,7 @@
   "nvidia processor compatibility for gaming PCs": true,
   "nvidia affordable chipset for gaming builds": true,
   "nvidia GPU performance for 4K gaming": true,
-  "nvidia GPU speed for creative workflows": true
+  "nvidia GPU speed for creative workflows": true,
+  "amd affordable processor performance evaluation": true,
+  "amd processor speed for budget multitasking": true
 }
