@@ -516,4 +516,9 @@ nvidia GPU performance for budget-friendly builds
 nvidia processor compatibility for gaming setups
 nvidia processor compatibility for affordable systems
 nvidia affordable GPU for entry-level gaming
+nvidia affordable GPU for performance
+nvidia processor compatibility for gaming PCs
+nvidia affordable chipset for gaming builds
+nvidia GPU performance for 4K gaming
+nvidia GPU speed for creative workflows
 
