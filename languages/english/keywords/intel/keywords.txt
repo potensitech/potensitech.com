@@ -617,4 +617,7 @@ intel affordable processor compatibility options
 intel high-performance processor chipset compatibility
 intel affordable gaming processor chipset options
 intel budget processor chipset compatibility guide
+intel cost-effective processor for performance
+intel budget-friendly processor for desktop computers
+intel high-speed processor for professional use
 
