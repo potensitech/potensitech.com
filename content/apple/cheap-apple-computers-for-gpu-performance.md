@@ -114,7 +114,7 @@ Investing in a computer with higher specifications can save The Potensians money
 
 ## Tips for Maximizing GPU Performance on Apple Computers
 
-Even the best machines require proper maintenance and optimization to perform at their peak. Here are some tips to get the most out of The Potensians's Apple computer:
+Even the best machines require proper maintenance and optimization to perform at their peak. Here are some tips to get the most out of The Potensians's [Apple computer](/apple/apple-computer-processor-speed-optimization):
 
 ### Keep Software Updated
 
