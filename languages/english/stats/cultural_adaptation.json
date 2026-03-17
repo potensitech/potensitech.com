@@ -13619,5 +13619,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "affordable Apple computer with fast processor": {
+        "date": "2026-03-17T15:26:20",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Innovation"
+        ]
     }
 }
