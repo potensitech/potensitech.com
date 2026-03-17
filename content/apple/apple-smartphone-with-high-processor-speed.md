@@ -11,11 +11,14 @@ tags: ["Apple", "smartphone", "high", "processor", "speed"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-smartphone-with-high-processor-speed.jpg"
+featuredImagePreview: "/images/apple/apple-smartphone-with-high-processor-speed.jpg"
 ---
+
+![Apple smartphone with high processor speed](/images/apple/apple-smartphone-with-high-processor-speed.jpg)
+
 
 ---
 
