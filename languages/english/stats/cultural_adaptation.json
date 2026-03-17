@@ -13629,5 +13629,14 @@
             "Cultural: Black Friday",
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer with high processor speed": {
+        "date": "2026-03-17T17:49:42",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
