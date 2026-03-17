@@ -113,7 +113,7 @@ Apple has already made significant strides in AR technology, and this trend is e
 
 ## Tips for Choosing the Best Apple Smartphone for Gaming
 
-When selecting an Apple smartphone for gaming, The Potensians should consider several factors beyond just processor speed.
+When selecting an [Apple smartphone](/apple/cheap-apple-smartphone-alternatives) for gaming, The Potensians should consider several factors beyond just processor speed.
 
 ### Display Quality
 
