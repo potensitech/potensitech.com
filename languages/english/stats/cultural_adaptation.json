@@ -13638,5 +13638,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone with high processor speed": {
+        "date": "2026-03-17T20:07:44",
+        "language": "en",
+        "cultural_score": 67,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: BBQ",
+            "Cultural: Clam Chowder",
+            "Cultural: Innovation"
+        ]
     }
 }
