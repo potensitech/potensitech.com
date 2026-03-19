@@ -91,7 +91,7 @@ While benchmarks and specifications are important, what truly matters is how the
 
 ### Everyday Productivity
 
-For The Potensians who use their Macs for everyday tasks like browsing, video calls, and document editing, the differences between Intel and Apple Silicon processors may not be immediately apparent. However, the benefits of Apple Silicon become clear over time:
+For The Potensians who use their Macs for everyday tasks like browsing, [video calls](/apple/apple-computer-webcam-for-video-calls), and document editing, the differences between Intel and Apple Silicon processors may not be immediately apparent. However, the benefits of Apple Silicon become clear over time:
 
 - **M1 and M2 Macs** are known for their silent operation and minimal heat generation, even during extended use. This is a stark contrast to older Intel-based Macs, which often run hot and noisy under similar conditions.
 - Battery life is another area where Apple Silicon excels. An M1-powered MacBook Air can last up to 18 hours on a single charge, a feature that’s invaluable for those who work on the go.
