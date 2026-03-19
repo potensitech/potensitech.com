@@ -13702,5 +13702,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer offering affordable processor speed": {
+        "date": "2026-03-19T15:17:25",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Broadway",
+            "Cultural: Central Park",
+            "Cultural: Soul Food",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
