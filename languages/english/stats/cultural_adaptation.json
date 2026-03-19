@@ -13693,5 +13693,14 @@
             "Cultural: BBQ",
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone with fast processor speed": {
+        "date": "2026-03-19T13:03:33",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
