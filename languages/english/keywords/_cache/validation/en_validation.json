@@ -6994,5 +6994,8 @@
   "intel chipset compatibility guide for processors": true,
   "intel affordable SSDs for PCs": true,
   "intel chipsets for budget-friendly processors": true,
-  "nvidia chipset compatibility with high-performance GPUs": true
+  "nvidia chipset compatibility with high-performance GPUs": true,
+  "amd entry-level chipsets for affordable PCs": true,
+  "amd processor optimization for overclocking performance": true,
+  "amd energy-efficient processors for affordable computing": true
 }

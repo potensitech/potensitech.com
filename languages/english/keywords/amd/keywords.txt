@@ -500,4 +500,7 @@ amd budget-friendly processor for multitasking performance
 amd affordable chipset for desktop builds
 amd low-cost processor for home computing
 amd affordable chipset for gaming PCs
+amd entry-level chipsets for affordable PCs
+amd processor optimization for overclocking performance
+amd energy-efficient processors for affordable computing
 
