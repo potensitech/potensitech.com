@@ -11,21 +11,24 @@ tags: ["Apple", "computer", "offering", "affordable", "processor"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Product"
 product:
-  name: "Apple computer offering affordable processor speed"
-  price: "$ 88.99"
-  currency: "USD"
-  rating: "4.7"
-  ratingCount: "127"
-  availability: "InStock"
-  brand: "apple"
-  category: "apple"
+name: "Apple computer offering affordable processor speed"
+price: "$ 88.99"
+currency: "USD"
+rating: "4.7"
+ratingCount: "127"
+availability: "InStock"
+brand: "apple"
+category: "apple"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-computer-offering-affordable-processor-speed.jpg"
+featuredImagePreview: "/images/apple/apple-computer-offering-affordable-processor-speed.jpg"
 ---
+
+![Apple computer offering affordable processor speed](/images/apple/apple-computer-offering-affordable-processor-speed.jpg)
+
 
 ---
 
