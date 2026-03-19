@@ -13660,5 +13660,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer for budget-friendly processor needs": {
+        "date": "2026-03-19T04:40:36",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
