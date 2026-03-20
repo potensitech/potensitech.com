@@ -13758,5 +13758,18 @@
             "Cultural: Black Friday",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "cheap alternatives to Apple flash drives": {
+        "date": "2026-03-20T22:04:21",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Hollywood",
+            "Cultural: BBQ",
+            "Cultural: Martin Luther King Jr.",
+            "Cultural: Bill Gates"
+        ]
     }
 }
