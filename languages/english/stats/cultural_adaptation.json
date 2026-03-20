@@ -13715,5 +13715,18 @@
             "Cultural: Soul Food",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "Apple smartphone offering affordable processor speed": {
+        "date": "2026-03-20T05:48:57",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
