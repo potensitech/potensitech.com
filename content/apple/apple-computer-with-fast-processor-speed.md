@@ -91,7 +91,7 @@ Apple continues its commitment toward sustainability without compromising power 
 
 ## How Does It Compare?
 
-When assessing competitors’ offerings against an apple computer featuring fast processor speed capabilities:
+When assessing competitors’ offerings against an apple computer featuring fast [processor speed](/apple/apple-smartphone-offering-affordable-processor-speed) capabilities:
 - Intel-based PCs may struggle under intense workloads due largely due outdated architectures.
 - AMD Ryzen-powered laptops provide decent alternatives but fall short regarding integration between hardware/software ecosystems found exclusively within macOS environments.
   
