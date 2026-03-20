@@ -11,11 +11,14 @@ tags: ["cheap", "alternatives", "Apple", "flash", "drives"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/cheap-alternatives-to-apple-flash-drives-that-work.jpg"
+featuredImagePreview: "/images/apple/cheap-alternatives-to-apple-flash-drives-that-work.jpg"
 ---
+
+![Cheap Alternatives to Apple Flash Drives That Work](/images/apple/cheap-alternatives-to-apple-flash-drives-that-work.jpg)
+
 
 ---
 
