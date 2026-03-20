@@ -13728,5 +13728,16 @@
             "Cultural: Hollywood",
             "Cultural: Tex-Mex"
         ]
+    },
+    "apple computer with affordable processor speed": {
+        "date": "2026-03-20T08:01:48",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Christmas",
+            "Cultural: Innovation"
+        ]
     }
 }
