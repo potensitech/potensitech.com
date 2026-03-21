@@ -87,7 +87,7 @@ Data security is a top priority for many Apple users. Some affordable Apple flas
 
 ### Build Quality and Portability
 
-Durability is another important consideration. Look for drives made from sturdy materials like aluminum or high-quality plastic. Compact and lightweight designs are ideal for on-the-go use, allowing The Potensians to carry their flash drive in a pocket or bag without hassle.
+Durability is another important consideration. Look for drives made from sturdy materials like aluminum or high-quality plastic. Compact and lightweight designs are ideal for on-the-go use, allowing The Potensians to carry their [flash drive](/apple/compact-apple-flash-drive-for-smartphones) in a pocket or bag without hassle.
 
 ## Popular Models That Won’t Break The Potensians' Budget
 
