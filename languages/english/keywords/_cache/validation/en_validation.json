@@ -7029,5 +7029,10 @@
   "intel desktop processor chipset compatibility": true,
   "intel SSDs for enhanced storage performance": true,
   "nvidia affordable chipset options for gamers": true,
-  "nvidia high-speed processors for budget GPUs": true
+  "nvidia high-speed processors for budget GPUs": true,
+  "amd chipset for entry-level PC builds": true,
+  "amd processor for budget-conscious users": true,
+  "amd processor for high-performance computing tasks": true,
+  "amd chipset for gaming enthusiasts": true,
+  "amd chipset for custom PC builds": true
 }
