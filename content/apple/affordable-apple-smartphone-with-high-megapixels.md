@@ -64,7 +64,7 @@ This affordable Apple smartphone doesn’t compromise on aesthetics. It features
 
 ## Competitive Pricing Without Compromise
 
-One of the most exciting aspects of this new Apple smartphone is its price. For years, owning an iPhone was synonymous with a hefty price tag, making it inaccessible to many. However, in 2026, Apple has shattered this notion by offering a device that combines premium features with affordability.
+One of the most exciting aspects of this new [Apple smartphone](/apple/apple-smartphone-camera-features-comparison-guide) is its price. For years, owning an iPhone was synonymous with a hefty price tag, making it inaccessible to many. However, in 2026, Apple has shattered this notion by offering a device that combines premium features with affordability.
 
 <div class="table-responsive">
 <table class="html-table">
