@@ -7027,5 +7027,7 @@
   "intel high-speed SSDs for storage": true,
   "intel budget SSD options for users": true,
   "intel desktop processor chipset compatibility": true,
-  "intel SSDs for enhanced storage performance": true
+  "intel SSDs for enhanced storage performance": true,
+  "nvidia affordable chipset options for gamers": true,
+  "nvidia high-speed processors for budget GPUs": true
 }
