@@ -59,7 +59,7 @@ When searching for inexpensive yet efficient substitutes for Apple's pricey offe
 <td>$15 - $50</td>
 </tr>
 <tr>
-<td>Kootion USB Flash Drive Set</td>
+<td>Kootion USB [Flash Drive](/apple/affordable-apple-flash-drive) Set</td>
 <td>Pack of five drives; various capacities (8GB–64GB); durable plastic build.</td>
 <td>$10 - $30 per set</td>
 </tr>
