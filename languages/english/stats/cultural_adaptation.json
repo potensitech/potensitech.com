@@ -13824,5 +13824,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "affordable Apple computer with high resolution": {
+        "date": "2026-03-21T22:00:09",
+        "language": "en",
+        "cultural_score": 72,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Memorial Day",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Times Square"
+        ]
     }
 }
