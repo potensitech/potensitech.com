@@ -13780,5 +13780,14 @@
         "matches": [
             "Cultural: Thanksgiving"
         ]
+    },
+    "reliable Apple flash drive for computers": {
+        "date": "2026-03-21T07:53:31",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Times Square"
+        ]
     }
 }
