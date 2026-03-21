@@ -13771,5 +13771,14 @@
             "Cultural: Martin Luther King Jr.",
             "Cultural: Bill Gates"
         ]
+    },
+    "best authentic Apple flash drive": {
+        "date": "2026-03-21T05:39:30",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Thanksgiving"
+        ]
     }
 }
