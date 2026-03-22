@@ -13837,5 +13837,17 @@
             "Cultural: Wall Street",
             "Cultural: Times Square"
         ]
+    },
+    "apple affordable smartphone with great performance": {
+        "date": "2026-03-22T07:57:16",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
