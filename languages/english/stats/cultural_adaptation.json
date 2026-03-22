@@ -13869,5 +13869,16 @@
             "Cultural: Innovation",
             "Cultural: Remote Work"
         ]
+    },
+    "apple smartphone with budget-friendly performance features": {
+        "date": "2026-03-22T14:55:36",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Hollywood",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
