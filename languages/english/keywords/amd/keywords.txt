@@ -508,4 +508,6 @@ amd processor for budget-conscious users
 amd processor for high-performance computing tasks
 amd chipset for gaming enthusiasts
 amd chipset for custom PC builds
+amd budget-friendly chipset for motherboard compatibility
+amd high-performance processors for video editing
 

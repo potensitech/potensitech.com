@@ -7072,5 +7072,7 @@
   "intel compatibility guide for budget-friendly chipsets": true,
   "nvidia affordable GPU with compatibility": true,
   "nvidia processor for budget-friendly gaming PCs": true,
-  "nvidia chipset for entry-level gaming PCs": true
+  "nvidia chipset for entry-level gaming PCs": true,
+  "amd budget-friendly chipset for motherboard compatibility": true,
+  "amd high-performance processors for video editing": true
 }
