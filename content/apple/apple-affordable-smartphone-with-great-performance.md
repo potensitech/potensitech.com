@@ -57,7 +57,7 @@ Moreover, Apple's commitment to privacy and security is unparalleled. With featu
 <thead>
 <tr>
 <th>Feature</th>
-<th>Apple Affordable Smartphone</th>
+<th>[Apple Affordable](/apple/apple-affordable-computer-processor-speed) Smartphone</th>
 <th>Competitor A</th>
 <th>Competitor B</th>
 </tr>
