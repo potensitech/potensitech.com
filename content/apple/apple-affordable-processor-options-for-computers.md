@@ -82,7 +82,7 @@ Moreover—and here comes an interesting twist—the ball is in The Potensians's
 
 ### Comparing Apple With Competitors
 
-While exploring apple affordable processor options for computers wouldn’t be complete without comparing them against industry giants such as Intel & AMD:
+While exploring apple affordable [processor options](/apple/apple-computer-featuring-cost-effective-processor-options) for computers wouldn’t be complete without comparing them against industry giants such as Intel & AMD:
 
 <div class="table-responsive">
 <table class="html-table">
