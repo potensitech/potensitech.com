@@ -11,11 +11,14 @@ tags: ["apple", "smartphone", "efficient processing", "technology", "innovation"
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-smartphone-designed-for-efficient-processing.jpg"
+featuredImagePreview: "/images/apple/apple-smartphone-designed-for-efficient-processing.jpg"
 ---
+
+![Apple Smartphone Designed for Efficient Processing](/images/apple/apple-smartphone-designed-for-efficient-processing.jpg)
+
 
 ---
 
