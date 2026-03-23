@@ -13906,5 +13906,18 @@
             "Cultural: Martin Luther King Jr.",
             "Cultural: Innovation"
         ]
+    },
+    "apple computer delivering top-tier processing performance": {
+        "date": "2026-03-23T06:09:22",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Tex-Mex",
+            "Cultural: Soul Food",
+            "Cultural: Martin Luther King Jr.",
+            "Cultural: Freedom"
+        ]
     }
 }
