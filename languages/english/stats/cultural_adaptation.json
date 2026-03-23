@@ -13893,5 +13893,18 @@
             "Cultural: Hollywood",
             "Cultural: Abraham Lincoln"
         ]
+    },
+    "apple smartphone designed for efficient processing": {
+        "date": "2026-03-23T04:46:41",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: Martin Luther King Jr.",
+            "Cultural: Innovation"
+        ]
     }
 }
