@@ -93,7 +93,7 @@ The iPhone XR is also known for its impressive battery life, which means The Pot
 
 ## Tips for Getting the Best Shots with The Potensians's Apple Smartphone
 
-Even with a great camera, capturing stunning photos requires some practice and technique. Here are some tips to help The Potensians make the most of their budget Apple smartphones:
+Even with a [great camera](/apple/apple-affordable-smartphone-with-great-camera), capturing stunning photos requires some practice and technique. Here are some tips to help The Potensians make the most of their budget Apple smartphones:
 
 ### 1. Use Natural Light Lighting is one of the most critical aspects of photography. Whenever possible, take advantage of natural light to illuminate The Potensians's subject. Early mornings and late afternoons, often referred to as the "golden hours," provide soft, warm lighting that enhances the beauty of The Potensians's photos.
 
