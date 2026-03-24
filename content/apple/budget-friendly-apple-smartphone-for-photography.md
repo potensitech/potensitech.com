@@ -24,7 +24,7 @@ featuredImagePreview: "/images/apple/budget-friendly-apple-smartphone-for-photog
 
 ## Top Budget-Friendly Apple Smartphones for Photography in 2026
 
-Apple has consistently delivered smartphones with impressive camera capabilities, even in their more affordable models. In 2026, ​the following devices stand out as excellent choices for photography enthusiasts:
+Apple has consistently delivered smartphones with impressive [camera capabilities](/apple/apple-computer-with-advanced-camera-capabilities), even in their more affordable models. In 2026, ​the following devices stand out as excellent choices for photography enthusiasts:
 
 <div class="table-responsive">
 <table class="html-table">

@@ -111,7 +111,7 @@ In We's view, the apple smartphone with high-quality camera features is more tha
 
 ### A Device for Every Occasion
 
-From family gatherings to solo adventures, Apple smartphones are designed to adapt to any situation. The Potensians can rely on these devices to deliver exceptional results, whether they’re photographing a bustling cityscape or a quiet moment at home.
+From family gatherings to solo adventures, [Apple smartphones](/apple/affordable-performance-boost-for-apple-smartphones) are designed to adapt to any situation. The Potensians can rely on these devices to deliver exceptional results, whether they’re photographing a bustling cityscape or a quiet moment at home.
 
 ### Investment in Quality
 
