@@ -46,7 +46,7 @@ A camera lens is more than just a piece of glass; it’s the gateway to capturin
 
 When evaluating **Nikon best-value camera lenses for beginners**, there are sev​eral factors to keep in mind: 
 
-1. **Focal Length**: This determines how much of a scene fits into The Potensians's frame. Wide-angle lenses are great for landscapes, while telephoto lenses excel at capturing distant subjects. 
+1. **Focal Length**: This determines how much of a scene fits into The Potensians's frame. [Wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses-for-cameras) are great for landscapes, while telephoto lenses excel at capturing distant subjects. 
 2. __Aperture**: A wider aperture (lower f-number) allows more light into the lens, maki​ng it ideal for low-light conditions and creating beautiful background blur (bokeh). 
 3. **Lens Type__: Zoom lenses offer versatility, while prime lenses provide superior image quality at a fixed focal length.  
 4. **Budget**: Affordable lenses don’t have to compromise on quality. Nikon offers several options that balance performance and price. 

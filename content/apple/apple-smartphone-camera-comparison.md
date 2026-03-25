@@ -36,7 +36,7 @@ Apple’s ultra-wide lenses have also seen significant improvements. These lense
 
 ## Computational Photography: Smart HDR and Deep Fusion
 
-Apple’s computational photography features are where the magic truly happens. By leveraging AI-driven technologies, Apple has redefined what smartphone cameras can achieve. Two standout features are Smart HDR and Deep Fusion.
+Apple’s computational [photography features](/apple/apple-smartphone-with-advanced-photography-features) are where the magic truly happens. By leveraging AI-driven technologies, Apple has redefined what smartphone cameras can achieve. Two standout features are Smart HDR and Deep Fusion.
 
 ### Smart HDR
 
@@ -48,7 +48,7 @@ Deep Fusion focuses on enhancing texture and detail. It’s particularly effecti
 
 ## Real-Life Applications: Why It Matters
 
-For The Potensians, the true value of a smartphone camera lies in its real-world applications. Beyond the technical specifications, it’s about how these features enhance everyday life. Whether it’s capturing a child’s first steps, documenting a family vacation, or creating content for social media, Apple’s cameras deliver unparalleled quality.
+For The Potensians, the true value of a [smartphone camera](/apple/apple-smartphone-camera-quality-review) lies in its real-world applications. Beyond the technical specifications, it’s about how these features enhance everyday life. Whether it’s capturing a child’s first steps, documenting a family vacation, or creating content for social media, Apple’s cameras deliver unparalleled quality.
 
 ## Low-Light Photography Redefined
 

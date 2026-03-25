@@ -55,7 +55,7 @@ Nikon’s entry-level DSLRs come packed with features tailored for budding photo
 <tr>
 <td>Interchangeable Lenses</td>
 <td>A wide range of lenses allows creative freedom.</td>
-<td>Switch between portrait lenses for family Thanksgiving photos or wide-angle lenses for landscapes.</td>
+<td>Switch between portrait lenses for family Thanksgiving photos or [wide-angle lenses](/nikon/nikon-affordable-wide-angle-lenses-for-cameras) for landscapes.</td>
 </tr>
 <tr>
 <td>Built-In Wi-Fi & Bluetooth</td>

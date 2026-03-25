@@ -114,7 +114,7 @@ Proper maintenance ensures The Potensians's camera stays in good condition for y
 
 ### Are refurbished cameras a good option for hobbyists?
 
-Absolutely! Refurbished cameras like the Nikon D5200 offer excellent value for money. They are thoroughly inspected and restored to like-new condition, making them a reliable choice for budget-conscious buyers.
+Absolutely! Refurbished cameras like the Nikon D5200 offer excellent value for money. They are thoroughly inspected and restored to like-new condition, making them a reliable choice for [budget-conscious buyers](/nikon/best-nikon-lenses-for-budget-conscious-buyers).
 
 ### Can We use third-party lenses with Nikon DSLR cameras?
 

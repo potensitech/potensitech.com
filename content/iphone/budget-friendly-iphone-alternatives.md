@@ -33,7 +33,7 @@ Budget-friendly alternatives offer a middle ground, providing high-quality camer
 
 ---
 
-The Google Pixel 7a is a standout choice for those seeking a budget-friendly iPhone alternative. Priced at approximately $499 during major sales events, this device offers features that rival premium smartphones:
+The Google Pixel 7a is a standout choice for those seeking a [budget-friendly iPhone](/iphone/budget-friendly-iphone-for-professional-photography) alternative. Priced at approximately $499 during major sales events, this device offers features that rival premium smartphones:
 
 - **Camera Performance:** The Pixel 7a’s dual-camera system, powered by Google’s computational photography, captures stunning images even in challenging lighting conditions.  Whether it’s a sunset over the Grand Canyon or a dimly lit café, this phone delivers.
 - **Software Longevity:** With guaranteed Android updates for five years, users can enjoy a secure and up-to-date experience well into the future.
