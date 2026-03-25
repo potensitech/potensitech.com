@@ -13983,5 +13983,16 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "apple smartphone for stunning photo capture": {
+        "date": "2026-03-25T05:56:02",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
