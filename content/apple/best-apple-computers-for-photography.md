@@ -58,7 +58,7 @@ Below is a curated selection of Apple computers tailored specifically for photog
 <tr>
 <td>iMac (24-inch)</td>
 <td>M3 chip, 4.5K Retina display, Sleek all-in-one design</td>
-<td>Home studios and everyday photo editing tasks</td>
+<td>Home studios and everyday [photo editing](/apple/apple-affordable-computer-for-photo-editing) tasks</td>
 </tr>
 <tr>
 <td>Mac Studio + Studio Display</td>
