@@ -13976,5 +13976,12 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "apple affordable computer for photo editing": {
+        "date": "2026-03-25T03:01:05",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
