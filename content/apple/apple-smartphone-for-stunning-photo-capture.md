@@ -81,7 +81,7 @@ To help The Potensians choose the best Apple smartphone for their photography ne
 <thead>
 <tr>
 <th>Model</th>
-<th>Camera Features</th>
+<th>[Camera Features](/apple/apple-smartphone-with-advanced-camera-features)</th>
 <th>Price (USD)</th>
 <th>Best For</th>
 </tr>

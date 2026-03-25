@@ -39,7 +39,7 @@ This technology ensures that every pixel contributes to a seamless visual experi
 
 ### P3 Wide Color Gamut
 
-Apple’s support for the **P3 wide color gamut** is another standout feature that enhances image quality. Unlike the standard sRGB color space, P3 offers a broader range of colors, particularly richer reds and greens. This makes it a go-to choice for creative professionals who require precise color accuracy.
+Apple’s support for the **P3 wide color gamut** is another standout feature that enhances image quality. Unlike the standard sRGB color space, P3 offers a broader range of colors, particularly richer reds and greens. This makes it a go-to choice for [creative professionals](/apple/apple-computer-designed-for-creative-professionals) who require precise color accuracy.
 
 For example:
 
