@@ -14004,5 +14004,18 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "apple smartphone for photography enthusiasts": {
+        "date": "2026-03-25T10:34:35",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Wall Street",
+            "Cultural: Hollywood",
+            "Cultural: Broadway"
+        ]
     }
 }
