@@ -7143,5 +7143,9 @@
   "nvidia GPU compatibility for gaming systems": true,
   "nvidia processor optimized for multitasking performance": true,
   "nvidia chipset for high-performance computing tasks": true,
-  "nvidia affordable processor for entry-level computers": true
+  "nvidia affordable processor for entry-level computers": true,
+  "amd budget processor speed for multitasking": true,
+  "amd high-performance processor for video editing": true,
+  "amd chipset for entry-level gaming PCs": true,
+  "amd affordable chipset for motherboard compatibility": true
 }

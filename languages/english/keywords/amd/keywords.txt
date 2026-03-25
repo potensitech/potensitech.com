@@ -515,4 +515,8 @@ amd processor optimization tips for multitasking
 amd compatible chipsets for budget gamers
 amd processor speeds for affordable desktops
 amd budget chipsets for gaming enthusiasts
+amd budget processor speed for multitasking
+amd high-performance processor for video editing
+amd chipset for entry-level gaming PCs
+amd affordable chipset for motherboard compatibility
 
