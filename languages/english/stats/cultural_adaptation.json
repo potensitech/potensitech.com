@@ -14046,5 +14046,14 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "cheap lens options compatible with iPhone": {
+        "date": "2026-03-26T15:51:01",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Freedom"
+        ]
     }
 }
