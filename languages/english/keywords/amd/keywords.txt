@@ -519,4 +519,7 @@ amd budget processor speed for multitasking
 amd high-performance processor for video editing
 amd chipset for entry-level gaming PCs
 amd affordable chipset for motherboard compatibility
+amd budget processors for multitasking
+amd low-cost processors for everyday computing
+amd processors for budget-conscious gamers
 
