@@ -8769,5 +8769,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "Apple laptops with built-in high-resolution cameras": {
+        "date": "2026-03-27T03:29:26",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }

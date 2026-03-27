@@ -14074,5 +14074,18 @@
         "matches": [
             "Cultural: New York"
         ]
+    },
+    "Apple laptops with built-in high-resolution cameras": {
+        "date": "2026-03-27T03:29:26",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Silicon Valley",
+            "Cultural: Burgers",
+            "Cultural: BBQ",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
