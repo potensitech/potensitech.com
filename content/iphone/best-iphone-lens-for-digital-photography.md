@@ -66,7 +66,7 @@ The compact and lightweight design makes it easy to carry, while the clip-on mec
 
 ## Key Features to Consider When Choosing The Potensians's Ideal Lens
 
-Selecting the best iPhone lens for digital photography involves more than just picking the most popular brand. Here are some crucial factors to consider:
+Selecting the [best iPhone](/iphone/best-iphone-for-precise-autofocus-photography) lens for digital photography involves more than just picking the most popular brand. Here are some crucial factors to consider:
 
 ### Compatibility
 
