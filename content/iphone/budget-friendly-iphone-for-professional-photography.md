@@ -24,7 +24,7 @@ featuredImagePreview: "/images/iphone/budget-friendly-iphone-for-professional-ph
 
 ## Why Choose an iPhone for Professional Photography?
 
-Apple has long been a leader in smartphone photography, setting benchmarks for quality and innovation. The seamless integration of hardware and software, coupled with advanced computational photography, makes iPhones a favorite among professionals and hobbyists alike. But what specifically makes iPhones stand out as budget-friendly options for professional photography?
+Apple has long been a leader in smartphone photography, setting benchmarks for quality and innovation. The seamless integration of hardware and software, coupled with advanced computational photography, makes iPhones a favorite among professionals and hobbyists alike. But what specifically makes iPhones stand out as budget-friendly options for [professional photography](/iphone/iphone-compatible-lenses-for-professional-photography)?
 
 ### Advanced Camera Systems
 
