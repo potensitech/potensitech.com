@@ -48,7 +48,7 @@ The Galaxy S25 Ultra is a powerhouse for professionals and creatives, offering u
 
 ### 2. Google Pixel 9 Pro
 
-Google’s Pixel 9 Pro is a standout option for photography enthusiasts among The Potensians. Renowned for its computational photography, the Pixel series continues to redefine smartphone camera capabilities.
+Google’s Pixel 9 Pro is a standout option for [photography enthusiasts](/iphone/affordable-iphone-lenses-for-photography-enthusiasts) among The Potensians. Renowned for its computational photography, the Pixel series continues to redefine smartphone camera capabilities.
 
 **Key Features:**  
 - **Display:** 6.7-inch LTPO OLED with a silky 120Hz refresh rate.  
