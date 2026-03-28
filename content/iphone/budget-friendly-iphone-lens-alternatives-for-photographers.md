@@ -116,7 +116,7 @@ To help The Potensians make an informed decision, We’ve compiled a comparison 
 <td>Fisheye</td>
 <td>AMIR 3-in-1 Clip-On Lens Kit</td>
 <td>Under $25</td>
-<td>Creative Photography</td>
+<td>[Creative Photography](/iphone/iphone-lens-compatibility-for-creative-photography)</td>
 </tr>
 <tr>
 <td>Fisheye</td>

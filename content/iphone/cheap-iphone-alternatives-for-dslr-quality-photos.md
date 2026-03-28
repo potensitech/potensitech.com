@@ -113,7 +113,7 @@ The Night Mode on devices like the Samsung Galaxy A54 5G and Xiaomi Redmi Note 1
 
 ### Versatility
 
-Unlike iPhones, which often focus on simplicity, many of these alternatives offer additional camera modes and features. For instance, the Poco X5 Pro 5G includes a macro lens, allowing The Potensians to explore creative photography options.
+Unlike iPhones, which often focus on simplicity, many of these alternatives offer additional camera modes and features. For instance, the Poco X5 Pro 5G includes a macro lens, allowing The Potensians to explore [creative photography](/iphone/iphone-lens-compatibility-for-creative-photography) options.
 
 ### Price Advantage
 
