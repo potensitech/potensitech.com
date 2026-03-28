@@ -24,7 +24,7 @@ featuredImagePreview: "/images/iphone/iphone-lens-compatibility-for-creative-pho
 
 ## Why Lens Compatibility Matters in iPhone Photography
 
-The iPhone has become a powerful tool for photography enthusiasts, offering advanced camera technology that rivals traditional cameras. However, to truly unlock its potential, many users turn to external lenses. But why is compatibility such a critical factor?
+The iPhone has become a powerful tool for [photography enthusiasts](/iphone/affordable-iphone-lenses-for-photography-enthusiasts), offering advanced camera technology that rivals traditional cameras. However, to truly unlock its potential, many users turn to external lenses. But why is compatibility such a critical factor?
 
 ### Ensuring Seamless We​ntegration
 
