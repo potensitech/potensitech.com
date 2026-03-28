@@ -41,7 +41,7 @@ The iPhone SE has long been a favorite for those seeking a compact yet powerful 
 - **Key Features**:
   - 4.7-inch Retina HD display for stunning visuals
   - A15 Bionic chip for smooth performance
-  - 12MP rear camera with Smart HDR 4 for high-quality photos
+  - 12MP rear camera with Smart HDR 4 for [high-quality photos](/iphone/best-iphone-lens-for-high-quality-photos)
   - 5G connectivity for ultra-fast browsing and streaming
 - **Price**: Starting at $429
 

@@ -121,7 +121,7 @@ For multitasking, gaming, or running demanding apps, look for a model with a pow
 
 ### Camera Quality
 
-If capturing high-quality photos and videos is a priority, the iPhone 12 Mini and iPhone 11 are excellent options. Both feature advanced camera systems capable of delivering stunning results, even in low-light conditions.
+If capturing [high-quality photos](/iphone/best-iphone-lens-for-high-quality-photos) and videos is a priority, the iPhone 12 Mini and iPhone 11 are excellent options. Both feature advanced camera systems capable of delivering stunning results, even in low-light conditions.
 
 ### Display Size
 
