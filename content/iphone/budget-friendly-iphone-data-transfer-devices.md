@@ -58,7 +58,7 @@ To help The Potensians make informed decisions, We’ve curated a list of top-ra
 </tr>
 <tr>
 <td>RAVPower FileHub Wireless Travel Router</td>
-<td>Wireless data transfer; SD card reader; Portable and lightweight</td>
+<td>Wireless [data transfer](/iphone/affordable-iphone-data-transfer-solutions); SD card reader; Portable and lightweight</td>
 <td>$40–$60</td>
 </tr>
 </tbody>
