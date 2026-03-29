@@ -89,7 +89,7 @@ To help The Potensians make an informed decision, We’ve compiled a comparison 
 <tr>
 <td>Provider A</td>
 <td>$30 - $50</td>
-<td>Full data transfer, cross-platform compatibility, cloud integration</td>
+<td>Full [data transfer](/iphone/reliable-iphone-data-transfer-methods), cross-platform compatibility, cloud integration</td>
 <td>24/7 live chat and phone support</td>
 </tr>
 <tr>
