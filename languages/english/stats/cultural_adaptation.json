@@ -14190,5 +14190,18 @@
             "Cultural: Steve Jobs",
             "Cultural: Social Media"
         ]
+    },
+    "reliable iphone data transfer methods": {
+        "date": "2026-03-29T03:35:10",
+        "language": "en",
+        "cultural_score": 72,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Central Park"
+        ]
     }
 }
