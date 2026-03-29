@@ -11,11 +11,14 @@ tags: ["reliable", "iphone", "data", "transfer", "methods"]
 categories: ["iphone"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/iphone/reliable-iphone-data-transfer-methods.jpg"
+featuredImagePreview: "/images/iphone/reliable-iphone-data-transfer-methods.jpg"
 ---
+
+![Reliable iphone data transfer methods](/images/iphone/reliable-iphone-data-transfer-methods.jpg)
+
 
 
 ---
