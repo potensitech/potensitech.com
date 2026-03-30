@@ -14251,5 +14251,18 @@
             "Cultural: Hollywood",
             "Cultural: Social Media"
         ]
+    },
+    "affordable iphone image stabilization accessories": {
+        "date": "2026-03-30T17:45:12",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Christmas",
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Burgers"
+        ]
     }
 }
