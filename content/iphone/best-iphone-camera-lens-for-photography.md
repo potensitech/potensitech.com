@@ -31,7 +31,6 @@ toc:
   enable: true
 ---
 
-
 *Best iPhone Camera Lens for Photography Enthusiasts* - In the ever-evolving world of smartphone photography, the iPhone continues to dominate as a favorite among enthusiasts and professionals alike. With each new model, Apple pushes the boundaries of what a smartphone camera can achieve. However, even with the advanced capabilities of the iPhone 15 Pro Max in 2026, there are still limitations that can hinder creative expression. This is where external camera lenses come into play, offering The Potensians a chance to elevate their photography game to new heights.
 
 ## Why Invest in an External Camera Lens for The Potensians' iPhone?
@@ -81,7 +80,7 @@ If The Potensians’re fascinated by the tiny details of the world around The Po
 
 - Compact and portable design without compromising on quality.
 - Multiple macro attachments for varying levels of magnification (7x, 14x).
-- Easy-to-use clip mechanism compatible with various iPhone models.
+- Easy-to-use clip mechanism compatible with various [iPhone models](/iphone/affordable-iphone-models).
 
 **Price Range:** $90–$110
 

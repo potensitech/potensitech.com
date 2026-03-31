@@ -117,7 +117,7 @@ Enable the grid feature in The Potensians's iPhone’s camera settings to follow
 
 ### Keep The Potensians's Lens Clean
 
-It may sound obvious, but a smudged lens can ruin even the best autofocus system. Regularly clean The Potensians's iPhone’s camera lens with a microfiber cloth to ensure optimal performance.
+It may sound obvious, but a smudged lens can ruin even the best autofocus system. Regularly clean The Potensians's iPhone’s [camera lens](/iphone/best-iphone-camera-lens-for-photography) with a microfiber cloth to ensure optimal performance.
 
 ### Take Advantag​e of Burst Mode
 
