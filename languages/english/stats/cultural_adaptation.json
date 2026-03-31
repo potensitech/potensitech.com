@@ -14321,5 +14321,14 @@
             "Cultural: Innovation",
             "Cultural: Diversity"
         ]
+    },
+    "authentic iPhone with reliable battery performance": {
+        "date": "2026-03-31T17:48:36",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
