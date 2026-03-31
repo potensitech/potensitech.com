@@ -149,7 +149,7 @@ Closing unused apps and disabling background app refresh can prevent unnecessary
 
 ### Keep Software Updated
 
-Apple regularly releases updates to improve battery performance and fix bugs. Ensuring the iPhone is running the latest software version can help maintain optimal battery life.
+Apple regularly releases updates to improve [battery performance](/iphone/authentic-iphone-with-reliable-battery-performance) and fix bugs. Ensuring the iPhone is running the latest software version can help maintain optimal battery life.
 
 ## Why This iPhone is Perfect for The Potensians
 
