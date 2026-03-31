@@ -130,7 +130,7 @@ When selecting a budget-friendly iPhone alternative, it’s essential to conside
 
 1. **Performance:** Look fo​r devices with reliable processors and sufficient RAM to handle multitasking and gaming.
 2. **Camera Quality:** If photography is a priority, choose a phone with advanced camera features and software.
-3. **Battery Life:** A long-lasting battery is crucial for all-day use, especially for those constantly on the go.
+3. **Battery Life:** A [long-lasting battery](/iphone/affordable-iphone-with-a-long-lasting-battery) is crucial for all-day use, especially for those constantly on the go.
 4. **Software Support:** Ensure the device offers regular updates to stay secure and functional over time.
 5. **Build Quality:** Durability matters, particularly for users who lead active lifestyles.
 

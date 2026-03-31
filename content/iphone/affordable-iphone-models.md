@@ -65,7 +65,7 @@ For those who value both sustainability and affordability, refurbished iPhones a
 
 ### iPhone 11 Pro: Affordable Flagship Experience
 
-Even in 2026, the iPhone 11 Pro remains a strong contender, offering premium features at a more accessible price. Its triple-camera system and long-lasting battery make it a top choice for users seeking a flagship experience without the hefty price tag.
+Even in 2026, the iPhone 11 Pro remains a strong contender, offering premium features at a more accessible price. Its triple-camera system and [long-lasting battery](/iphone/affordable-iphone-with-a-long-lasting-battery) make it a top choice for users seeking a flagship experience without the hefty price tag.
 
 #### Highlights:
 

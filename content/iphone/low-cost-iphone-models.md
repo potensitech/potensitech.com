@@ -65,7 +65,7 @@ The iPhone 11 continues to offer reliable performance and affordability, making 
   - A13 Bionic chip for smooth and efficient performance
   - 6.1-inch Liquid Retina HD display for an immersive viewing experience
   - Dual-camera system with Night mode for stunning low-light photography
-  - Long-lasting battery for all-day use
+  - [Long-lasting battery](/iphone/affordable-iphone-with-a-long-lasting-battery) for all-day use
 - **Why It’s Great**: Despite its older release, the iPhone 11 delivers a well-rounded experience, making it a solid option for budget-conscious buyers.
 
 ---
