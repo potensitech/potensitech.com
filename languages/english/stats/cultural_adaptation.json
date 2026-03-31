@@ -14295,5 +14295,18 @@
         "matches": [
             "Cultural: Social Media"
         ]
+    },
+    "affordable iPhone with a long-lasting battery": {
+        "date": "2026-03-31T13:17:55",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Innovation",
+            "Cultural: Remote Work",
+            "Cultural: TV Shows"
+        ]
     }
 }
