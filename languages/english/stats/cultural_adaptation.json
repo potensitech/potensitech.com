@@ -14359,5 +14359,18 @@
         "matches": [
             "Cultural: Social Media"
         ]
+    },
+    "comparison of iphone camera quality": {
+        "date": "2026-04-01T22:14:17",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Central Park",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
