@@ -14330,5 +14330,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "iphone camera quality reviews": {
+        "date": "2026-04-01T05:17:36",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
