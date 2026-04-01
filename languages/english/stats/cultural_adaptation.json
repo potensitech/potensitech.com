@@ -14350,5 +14350,14 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "affordable iphone smartphones with great features": {
+        "date": "2026-04-01T20:08:35",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
