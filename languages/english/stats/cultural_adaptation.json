@@ -14416,5 +14416,17 @@
         "matches": [
             "Cultural: Social Media"
         ]
+    },
+    "iphone camera quality review guide": {
+        "date": "2026-04-02T20:03:15",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
