@@ -566,4 +566,5 @@ nvidia affordable GPU for optimal performance
 nvidia budget GPU for gaming
 nvidia chipset compatibility for gaming laptops
 nvidia budget GPU for cryptocurrency mining
+nvidia processor performance for gaming PCs
 
