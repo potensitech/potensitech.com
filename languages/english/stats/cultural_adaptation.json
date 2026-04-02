@@ -14394,5 +14394,18 @@
             "Cultural: Thanksgiving",
             "Cultural: Hollywood"
         ]
+    },
+    "iphone camera features for photography lovers": {
+        "date": "2026-04-02T15:25:35",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Soul Food",
+            "Cultural: Innovation"
+        ]
     }
 }
