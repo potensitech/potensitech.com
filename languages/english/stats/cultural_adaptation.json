@@ -14384,5 +14384,15 @@
             "Cultural: Silicon Valley",
             "Cultural: Innovation"
         ]
+    },
+    "affordable iphone smartphone with excellent camera": {
+        "date": "2026-04-02T13:11:54",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Hollywood"
+        ]
     }
 }
