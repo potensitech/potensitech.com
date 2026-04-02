@@ -14428,5 +14428,18 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "affordable iphone with fast autofocus feature": {
+        "date": "2026-04-02T22:11:42",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Wall Street"
+        ]
     }
 }
