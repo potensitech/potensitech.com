@@ -14372,5 +14372,17 @@
             "Cultural: Central Park",
             "Cultural: Clam Chowder"
         ]
+    },
+    "top-rated performance of iphone cameras": {
+        "date": "2026-04-02T03:24:22",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Innovation"
+        ]
     }
 }
