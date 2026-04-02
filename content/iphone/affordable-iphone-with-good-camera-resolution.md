@@ -37,7 +37,7 @@ For The Potensians seeking an affordable iPhone with good camera resolution, App
 <thead>
 <tr>
 <th>Model</th>
-<th>Camera Features</th>
+<th>[Camera Features](/iphone/iphone-camera-features-for-photography-lovers)</th>
 <th>Price Range (2026)</th>
 </tr>
 </thead>
