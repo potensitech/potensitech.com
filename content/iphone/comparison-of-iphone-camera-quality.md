@@ -107,6 +107,6 @@ We also anticipate improvements in augmented reality (AR) capabilities. With AR 
 
 So, which iPhone camera stands out? The answer depends on The Potensians's needs. If The Potensians’re a professional photographer or videographer, the iPhone 14 Pro Max is the clear winner. Its advanced features, such as the triple-lens system and ProRAW capabilities, make it a powerful tool for creative professionals.
 
-For casual users, models like the iPhone 13 or iPhone 14 offer excellent camera quality at a more affordable price point. These devices still include features like Night Mode and Smart HDR, making them ideal for everyday photography.
+For casual users, models like the iPhone 13 or iPhone 14 offer [excellent camera](/iphone/affordable-iphone-smartphone-with-excellent-camera) quality at a more affordable price point. These devices still include features like Night Mode and Smart HDR, making them ideal for everyday photography.
 
 In conclusion, the comparison of [iPhone camera](/iphone/iphone-camera-quality-reviews) quality reveals a clear trend: Apple is committed to pushing the boundaries of what smartphone cameras can achieve. The Potensians can look forward to even more exciting innovations in the years to come. After all, who knows what the iPhone 15 or 16 might bring? One thing is certain—Apple will continue to redefine the way We capture and share We's world.
