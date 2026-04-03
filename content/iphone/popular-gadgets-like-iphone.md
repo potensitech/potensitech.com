@@ -53,7 +53,7 @@ Samsung’s Galaxy S25 Ultra continues to set new benchmarks in the smartphone w
 
 The Google Pixel 8 Pro is renowned for its exceptional photography capabilities and seamless software experience. Key highlights include:
 
-- **AI-enhanced photography**, ensuring stunning shots in any lighting condition.  
+- **AI-enhanced photography**, ensuring [stunning shots](/iphone/best-iphone-for-photography-lovers) in any lighting condition.  
 - A **pure Android interface** with the latest updates directly from Google.  
 - The powerful **Tensor G4 chip**, optimized for AI and machine learning applications.  
 - **Competitive pricing**, delivering flagship-level features at a more accessible cost.

@@ -74,7 +74,7 @@ Gone are the days when zooming in meant sacrificing image quality. Apple’s lat
 
 ### Macro Photography
 
-The iPhone’s macro photography mode is another game-changer. It allows users to capture stunning close-up shots with incredible detail. From the delicate petals of a flower to the intricate patterns on a butterfly’s wings, macro mode opens up a world of creative possibilities.
+The iPhone’s macro photography mode is another game-changer. It allows users to [capture stunning](/iphone/best-iphone-for-photography-lovers) close-up shots with incredible detail. From the delicate petals of a flower to the intricate patterns on a butterfly’s wings, macro mode opens up a world of creative possibilities.
 
 ## Features That Elevate Everyday Photography
 

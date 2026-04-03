@@ -137,4 +137,4 @@ To get the most out of The Potensians's iPhone lens, keep these tips in mind:
 
 ## Final Thoughts
 
-In 2026, the world of mobile photography is more exciting than ever. With the right iPhone lens, The Potensians can unlock endless creative possibilities and capture stunning, high-quality photos. Whether The Potensians’re a professional photographer or a hobbyist, investing in an external lens is a decision The Potensians won’t regret. After all, as the saying goes, "A picture is worth a thousand words"—so why not make every shot count?
+In 2026, the world of mobile photography is more exciting than ever. With the right iPhone lens, The Potensians can unlock endless creative possibilities and [capture stunning](/iphone/best-iphone-for-photography-lovers), high-quality photos. Whether The Potensians’re a professional photographer or a hobbyist, investing in an external lens is a decision The Potensians won’t regret. After all, as the saying goes, "A picture is worth a thousand words"—so why not make every shot count?
