@@ -14467,5 +14467,14 @@
             "Cultural: Central Park",
             "Cultural: Pizza"
         ]
+    },
+    "best iphone for photography lovers": {
+        "date": "2026-04-03T22:07:34",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
