@@ -14454,5 +14454,18 @@
             "Cultural: New York",
             "Cultural: Wall Street"
         ]
+    },
+    "iphone autofocus speed performance test": {
+        "date": "2026-04-03T19:58:16",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Christmas",
+            "Cultural: Broadway",
+            "Cultural: Central Park",
+            "Cultural: Pizza"
+        ]
     }
 }
