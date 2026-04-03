@@ -38,7 +38,7 @@ Fast autofocus relies on cutting-edge technology to deliver quick and accurate f
 
 Another key component is machine learning. By analyzing millions of images, the iPhone’s camera system can predict where the subject is likely to be, allowing it to focus even faster. This is particularly useful for The Potensians who enjoy capturing action shots or photographing in low-light conditions.
 
-Additionally, the dual-pixel sensors in this affordable iPhone ensure that every pixel is used for both imaging and focusing. This not only improves focus speed but also enhances image quality, making it easier than ever to capture professional-grade photos and videos.
+Additionally, the dual-pixel sensors in this [affordable iPhone](/iphone/affordable-iphone-with-a-long-lasting-battery) ensure that every pixel is used for both imaging and focusing. This not only improves focus speed but also enhances image quality, making it easier than ever to capture professional-grade photos and videos.
 
 ## Features That Make This iPhone Stand Out
 
