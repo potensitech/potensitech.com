@@ -14441,5 +14441,18 @@
             "Cultural: Silicon Valley",
             "Cultural: Wall Street"
         ]
+    },
+    "iphone camera quality comparison guide": {
+        "date": "2026-04-03T15:11:45",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Wall Street"
+        ]
     }
 }
