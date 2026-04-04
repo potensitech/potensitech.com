@@ -7440,5 +7440,10 @@
   "intel SSD options for budget-conscious users": true,
   "nvidia budget-friendly processor for compatibility": true,
   "nvidia processor speed for high-performance computing": true,
-  "nvidia processor compatibility with Intel systems": true
+  "nvidia processor compatibility with Intel systems": true,
+  "amd budget processors for multitasking performance": true,
+  "amd budget-friendly chipsets for motherboard compatibility": true,
+  "amd high-performance processors for laptops": true,
+  "amd chipset compatibility with new GPUs": true,
+  "amd processors for entry-level computers": true
 }
