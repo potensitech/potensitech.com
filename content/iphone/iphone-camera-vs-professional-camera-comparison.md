@@ -68,7 +68,7 @@ Professional cameras, such as DSLRs and mirrorless systems, are designed for pho
 
 #### Image Quality Beyond Compare
 
-Professional cameras are equipped with larger sensors, which allow them to capture more light and detail. This results in superior image quality, especially in low-light conditions. For example, a professional camera can capture the intricate details of a starry night sky or the subtle textures of a flower petal, which might be challenging for a smartphone camera.
+Professional cameras are equipped with larger sensors, which allow them to capture more light and detail. This results in superior image quality, especially in [low-light conditions](/iphone/iphone-camera-performance-in-low-light-conditions). For example, a professional camera can capture the intricate details of a starry night sky or the subtle textures of a flower petal, which might be challenging for a smartphone camera.
 
 #### Interchangeable Lenses
 

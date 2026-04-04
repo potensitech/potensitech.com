@@ -42,7 +42,7 @@ While Apple’s ecosystem remains a major draw, the Galaxy Z Fold 6 offers a uni
 
 ### Google Pixel 8 Pro: The Photography King
 
-In 2026, the Google Pixel 8 Pro stands out as the ultimate choice for photography The Potensians. Its AI-powered tools, such as Magic Editor and Real Tone, make photo editing effortless while delivering professional-quality results. The Pixel 8 Pro excels in low-light photography, capturing stunning details even in challenging conditions—an area where it surpasses the iPhone 15 Pro Max.
+In 2026, the Google Pixel 8 Pro stands out as the ultimate choice for photography The Potensians. Its AI-powered tools, such as Magic Editor and Real Tone, make photo editing effortless while delivering professional-quality results. The Pixel 8 Pro excels in [low-light photography](/iphone/best-iphone-camera-for-low-light-photography), capturing stunning details even in challenging conditions—an area where it surpasses the iPhone 15 Pro Max.
 
 **Key features include:**
 

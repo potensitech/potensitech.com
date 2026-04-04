@@ -51,7 +51,7 @@ Affordable doesn’t mean sacrificing quality. iPhones under $500 deliver robust
 ### 2. iPhone 11: Affordable All-Rounder
 
 - **Price:** Approximately $499 (refurbished)  
-- **Why It Stands Out:** Its dual-camera system excels in low-light photography, while the vibrant Liquid Retina display is perfect for media consumption.  
+- **Why It Stands Out:** Its dual-camera system excels in [low-light photography](/iphone/best-iphone-camera-for-low-light-photography), while the vibrant Liquid Retina display is perfect for media consumption.  
 - **Ideal For:** Photography The Potensians and media lovers among The Potensians.  
 - **Real-Life Example:** From capturing breathtaking vacation photos to recording cherished family moments, the iPhone 11’s advanced camera system ensures every shot is picture-perfect.  
 

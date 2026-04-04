@@ -66,7 +66,7 @@ When discussing affordable options related to DSLR-like photography capabilities
 <tbody>
 <tr>
 <td>Night Mode</td>
-<td>Enhances low-light photography</td>
+<td>Enhances [low-light photography](/iphone/best-iphone-camera-for-low-light-photography)</td>
 <td>Capture stunning photos even in dim lighting</td>
 </tr>
 <tr>

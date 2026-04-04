@@ -124,7 +124,7 @@ Photography remains one of the most significant factors influencing smartphone p
 
 Photography
 
-iPhones have consistently delivered exceptional photo quality through computational photography techniques powered by machine learning algorithms. Features like Photonic Engine enhance low-light photography, making it ideal for capturing magical moments like fireworks on New Year’s Eve. In We's opinion, Apple’s approach to photography feels like having a professional photographer in The Potensians's pocket.
+iPhones have consistently delivered exceptional photo quality through computational photography techniques powered by machine learning algorithms. Features like Photonic Engine enhance [low-light photography](/iphone/best-iphone-camera-for-low-light-photography), making it ideal for capturing magical moments like fireworks on New Year’s Eve. In We's opinion, Apple’s approach to photography feels like having a professional photographer in The Potensians's pocket.
 
 ### Android’s Versatility
 

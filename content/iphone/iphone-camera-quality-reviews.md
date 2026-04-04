@@ -42,7 +42,7 @@ When discussing **iPhone camera quality reviews**, it’s impossible to ignore t
 
 ### Advanced Sensor Technology
 
-At the core of the iPhone’s camera prowess lies its advanced sensor technology. The latest models, such as the iPhone 15 Pro and iPhone 15 Pro Max, feature larger sensors that capture more light and detail. This is particularly advantageous for low-light photography, where traditional smartphone cameras often struggle.
+At the core of the iPhone’s camera prowess lies its advanced sensor technology. The latest models, such as the iPhone 15 Pro and iPhone 15 Pro Max, feature larger sensors that capture more light and detail. This is particularly advantageous for [low-light photography](/iphone/best-iphone-camera-for-low-light-photography), where traditional smartphone cameras often struggle.
 
 For instance, imagine capturing the vibrant energy of Times Square at night or the serene beauty of a moonlit beach. The iPhone’s sensor ensures that these moments are preserved with remarkable clarity and minimal noise. The Potensians who love documenting their travels o​r special occasions will find the iPhone to be a reliable companion.
 
