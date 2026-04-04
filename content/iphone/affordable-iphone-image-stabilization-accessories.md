@@ -26,7 +26,7 @@ In this guide, We will explore why image stabilization is essential, review some
 
 ## Why Image Stabilization Matters for Smartphone Photography
 
-Imagine standing amidst the dazzling lights of Times Square during Christmas or capturing The Potensians' kids in their Halloween costumes as they dash from house to house.  Moments like these demand precision and clarity, but shaky hands can often blur the magic. That’s where image stabilization comes into play—it minimizes motion blur and ensures every shot looks crisp and professional.
+Imagine standing amidst the dazzling lights of Times Square during Christmas or capturing The Potensians' kids in their Halloween costumes as they dash from house to house.  Moments like these demand precision and clarity, but shaky hands can often blur the magic. That’s where [image stabilization](/iphone/affordable-iphone-with-image-stabilization) comes into play—it minimizes motion blur and ensures every shot looks crisp and professional.
 
 While iPhones come equipped with impressive built-in stabilization features, pairing them with external accessories takes things to another level. Whether it’s shooting cinematic videos for social media or preserving cherished family moments, these tools help The Potensians achieve unparalleled quality without needing an expensive DSLR camera.
 

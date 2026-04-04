@@ -51,7 +51,7 @@ In 2026, the Google Pixel 8 Pro stands out as the ultimate choice for photograph
 - **Processor**: Tensor G3 chip  
 - **Battery**: 5,000mAh with 30W fast charging  
 
-For photography The Potensians and content creators, the Pixel 8 Pro is a dream device. Its ability to transform everyday moments into breathtaking visuals makes it a top choice for those who prioritize camera performance.
+For photography The Potensians and content creators, the Pixel 8 Pro is a dream device. Its ability to transform everyday moments into breathtaking visuals makes it a top choice for those who prioritize [camera performance](/iphone/iphone-camera-performance-in-low-light-conditions).
 
 ---
 

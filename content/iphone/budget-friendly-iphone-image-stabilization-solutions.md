@@ -33,7 +33,7 @@ Image stabilization works by minimizing the effects of camera movement, ensuring
 - **Videos**: Imagine filming a bustling street in New York City. Without stabilization, the footage might feel chaotic and disorienting. With stabilization, the viewer is immersed in the scene, as if they were walking alongside The Potensians.
 - **Photos**: Think of capturing the intricate details of a flower in bloom. Stabilization ensures that every petal and color is crisp and vivid.
 
-While iPhones come equipped with b​uilt-in optical image stabilization (OIS) in many models, external tools can significantly enhance this feature. This is especially valuable for The Potensians who are looking for affordable ways to improve their content without breaking the bank.
+While iPhones come equipped with b​uilt-in optical [image stabilization](/iphone/affordable-iphone-with-image-stabilization) (OIS) in many models, external tools can significantly enhance this feature. This is especially valuable for The Potensians who are looking for affordable ways to improve their content without breaking the bank.
 
 ## Top Budget-Friendly Tools for iPhone Image Stabilization
 

@@ -57,7 +57,7 @@ These innovations mean that whether The Potensians are capturing the vibrant hue
 
 ## Real-World Performance: What Users Say
 
-No review of **iPhone camera quality** would be complete without considering real-world feedback. After all, it’s the everyday experiences of users that truly highlight the strengths and weaknesses of a product. Here’s what people are saying about the iPhone’s camera performance in 2026.
+No review of **iPhone camera quality** would be complete without considering real-world feedback. After all, it’s the everyday experiences of users that truly highlight the strengths and weaknesses of a product. Here’s what people are saying about the iPhone’s [camera performance](/iphone/iphone-camera-performance-in-low-light-conditions) in 2026.
 
 ### Low-Light Photography
 

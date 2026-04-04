@@ -44,7 +44,7 @@ Apple has consistently pushed the boundaries of smartphone photography, and its 
 
 ## Features That Define Low-Light Excellence
 
-When determining the best iPhone camera for low-light photography, several key features stand out. These innovations work together to deliver stunning results, even in the dimmest settings.
+When determining the [best iPhone](/iphone/best-iphone-camera-lens-for-photography) camera for low-light photography, several key features stand out. These innovations work together to deliver stunning results, even in the dimmest settings.
 
 ### Night Mode
 
@@ -54,7 +54,7 @@ For example, imagine strolling through a holiday market in December, with twinkl
 
 ### Larger Sensors and Wide Apertures
 
-The size of a camera sensor plays a crucial role in low-light photography. Larger sensors can absorb more light, resulting in brighter and clearer images. Recent flagship models like the iPhone 14 Pro feature larger sensors paired with wide apertures (such as f/1.5), allowing more light to enter the lens. This combination significantly enhances image quality in low-light conditions.
+The size of a camera sensor plays a crucial role in low-light photography. Larger sensors can absorb more light, resulting in brighter and clearer images. Recent flagship models like the iPhone 14 Pro feature larger sensors paired with wide apertures (such as f/1.5), allowing more light to enter the lens. This combination significantly enhances image quality in [low-light conditions](/iphone/iphone-camera-performance-in-low-light-conditions).
 
 ### Computational Photography
 
