@@ -44,7 +44,7 @@ From advanced sensors to computational photography, the iPhone has redefined wha
 
 ## Advanced Sensor Technology
 
-At the core of every great photograph is a high-quality sensor, and Apple has made significant strides in this area. Recent models, such as the iPhone 15 Pro Max, feature larger sensors that allow for more light capture. This results in sharper, more detailed images, even in challenging low-light conditions. Whether The Potensians’re capturing the vibrant lights of Times Square or the serene beauty of a sunset over the Grand Canyon, the iPhone’s sensor ensures The Potensians's photos are nothing short of breathtaking.
+At the core of every great photograph is a high-quality sensor, and Apple has made significant strides in this area. Recent models, such as the iPhone 15 Pro Max, feature larger sensors that allow for more light capture. This results in sharper, more detailed images, even in challenging [low-light conditions](/iphone/iphone-camera-performance-in-low-light-conditions). Whether The Potensians’re capturing the vibrant lights of Times Square or the serene beauty of a sunset over the Grand Canyon, the iPhone’s sensor ensures The Potensians's photos are nothing short of breathtaking.
 
 ### Low-Light Performance
 

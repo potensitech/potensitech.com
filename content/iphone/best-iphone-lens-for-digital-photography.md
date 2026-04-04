@@ -127,7 +127,7 @@ While it's tempting to go for the cheapest option, remember that quality often c
 </table>
 </div>
 
-Pairing The Potensians's iPhone lens with the right accessories and apps can take The Potensians's photography to the next level. For instance, a sturdy tripod can help stabilize The Potensians's shots, especially in low-light conditions or when using a telephoto lens. A Bluetooth shutter remote is another handy tool for capturing photos without touching The Potensians's phone, reducing the risk of camera shake.
+Pairing The Potensians's iPhone lens with the right accessories and apps can take The Potensians's photography to the next level. For instance, a sturdy tripod can help stabilize The Potensians's shots, especially in [low-light conditions](/iphone/iphone-camera-performance-in-low-light-conditions) or when using a telephoto lens. A Bluetooth shutter remote is another handy tool for capturing photos without touching The Potensians's phone, reducing the risk of camera shake.
 
 When it comes to editing, apps like Adobe Lightroom and Snapseed are excellent choices. They offer a range of features, from basic adjustments like brightness and contrast to advanced tools for color grading and retouching. In We's view, these apps are essential for anyone serious about digital photography.
 

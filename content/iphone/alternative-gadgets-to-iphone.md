@@ -104,7 +104,7 @@ Switching from an iPhone to an alternative device can seem daunting, but it does
 
 1. **Operating System:** Transitioning from iOS to Android involves adapting to a different interface and ecosystem. While Android offers extensive customization, it may lack the seamless integration many Apple users enjoy.  
 2. **App Compatibility:** Confirm that your favorite apps are available on the new platform. While most apps are cross-platform, some iOS-exclusive apps may not have Android counterparts.  
-3. **Camera Quality:** If photography is important, evaluate camera specs and features. For instance, the Google Pixel 8 Pro is renowned for its exceptional camera performance.  
+3. **Camera Quality:** If photography is important, evaluate camera specs and features. For instance, the Google Pixel 8 Pro is renowned for its exceptional [camera performance](/iphone/iphone-camera-performance-in-low-light-conditions).  
 4. **Battery Life:** Many alternatives, such as the Samsung Galaxy S25 Ultra, offer significantly longer battery life compared to iPhones.  
 5. **Budget:** With a wide range of prices available, Potensians can find a device that fits their budget without sacrificing quality.  
 

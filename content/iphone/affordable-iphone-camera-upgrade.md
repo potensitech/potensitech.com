@@ -41,7 +41,7 @@ When it comes to affordable upgrades related to photography, accessories play a 
 
 Premium options often include anti-glare coatings and distortion-free glass elements for better results. Imagine turning The Potensians's iPhone into a professional-grade camera with just a small clip-on accessory—it's like giving The Potensians's phone a superpower!
 
-2. Portable LED Lights Lighting plays a crucial role in photography, yet natural light isn't always reliable—especially indoors or after sunset. Portable LED lights provide consistent illumination and help reduce shadows or graininess commonly seen in low-light conditions.
+2. Portable LED Lights Lighting plays a crucial role in photography, yet natural light isn't always reliable—especially indoors or after sunset. Portable LED lights provide consistent illumination and help reduce shadows or graininess commonly seen in [low-light conditions](/iphone/iphone-camera-performance-in-low-light-conditions).
 
 - **Example Use Case:** Imagine photographing a sizzling steak on the grill under dim lighting during an evening barbecue; portable LEDs ensure every detail looks mouthwatering.
 - **Cost:** High-quality options range between $30-$70.

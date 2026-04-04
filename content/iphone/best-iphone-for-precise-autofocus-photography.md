@@ -48,7 +48,7 @@ Apple’s approach to autofocus is a blend of hardware excellence and software i
 
 ### Focus Pixels and LiDAR Scanners
 
-Focus Pixels, a technology embedded in Apple’s camera sensors, ensures faster and more accurate focus by utilizing phase detection. This is particularly useful for portrait photography, where depth and clarity are crucial. Meanwhile, the LiDAR scanner, introduced in recent iPhone models, enhances autofocus performance in low-light conditions by measuring the distance between the camera and the subject with incredible precision.
+Focus Pixels, a technology embedded in Apple’s camera sensors, ensures faster and more accurate focus by utilizing phase detection. This is particularly useful for portrait photography, where depth and clarity are crucial. Meanwhile, the LiDAR scanner, introduced in recent iPhone models, enhances autofocus performance in [low-light conditions](/iphone/iphone-camera-performance-in-low-light-conditions) by measuring the distance between the camera and the subject with incredible precision.
 
 ### Computational Photography
 
