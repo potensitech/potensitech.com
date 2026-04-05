@@ -14526,5 +14526,16 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "iphone camera features for professional photographers": {
+        "date": "2026-04-05T17:23:44",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Freedom",
+            "Cultural: Innovation"
+        ]
     }
 }
