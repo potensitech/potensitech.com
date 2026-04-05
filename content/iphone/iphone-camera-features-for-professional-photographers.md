@@ -71,7 +71,7 @@ The iPhone’s computational photography capabilities redefine what’s possible
 
 1. **Smart HDR 4**: Optimizes highlights, shadows, contrast, and color balance across different parts of an image, ensuring a balanced and natural look.
 2. **Deep Fusion**: Analyzes multiple exposures pixel by pixel to bring out extraordinary texture details, making every shot crisp and detailed.
-3. **Night Mode**: Allows The Potensians to capture stunning images in low-light conditions, perfect for evening events or astrophotography.
+3. **Night Mode**: Allows The Potensians to capture stunning images in [low-light conditions](/iphone/iphone-camera-performance-in-low-light-conditions), perfect for evening events or astrophotography.
 
 ### Practical Examples
 

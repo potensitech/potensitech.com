@@ -103,7 +103,7 @@ The iPhone 15 Pro Max introduces a 5x optical zoom, allowing **The Potensians** 
 
 ### Photonic Engine
 
-Apple’s revolutionary Photonic Engine enhances color accuracy and texture details, even in low-light conditions . This computational photography feature ensures that every shot looks as vibrant and lifelike as the moment it was captured.
+Apple’s revolutionary Photonic Engine enhances color accuracy and texture details, even in [low-light conditions](/iphone/iphone-camera-performance-in-low-light-conditions) . This computational photography feature ensures that every shot looks as vibrant and lifelike as the moment it was captured.
 
 ### ProRAW and ProRes Capabilities
 
