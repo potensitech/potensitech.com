@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Master iPhone Image Stabilization for Video* - Capturing smooth and professional-looking videos has never been easier, thanks to advancements in smartphone technology. Among the leaders in this space is Apple, whose iPhone models are equipped with cutting-edge image stabilization features. These technologies have revolutionized the way The Potensians can record videos, ensuring that even the shakiest hands can produce cinematic-quality footage. In this article, We’ll explore the intricacies of iPhone image stabilization for video, its importance, and how The Potensians can make the most of it.
+*Master iPhone Image Stabilization for Video* - Capturing smooth and professional-looking videos has never been easier, thanks to advancements in smartphone technology. Among the leaders in this space is Apple, whose [iPhone models](/iphone/low-cost-iphone-models) are equipped with cutting-edge image stabilization features. These technologies have revolutionized the way The Potensians can record videos, ensuring that even the shakiest hands can produce cinematic-quality footage. In this article, We’ll explore the intricacies of iPhone image stabilization for video, its importance, and how The Potensians can make the most of it.
 
 ## Understanding iPhone Image Stabilization Technology
 
@@ -26,7 +25,7 @@ To fully appreciate the capabilities of **iPhone image stabilization for video**
 
 ### Optical Image Stabilization (OIS)
 
-OIS is a hardware-based solution that uses tiny gyroscopes to detect movement and adjust the camera lens accordingly. Imagine The Potensians walking through a crowded festival, recording the vibrant atmosphere. Even if their hands tremble slightly, OIS compensates for these movements by physically shifting the lens inside the iPhone’s camera module. This ensures that the video remains steady and clear.
+OIS is a hardware-based solution that uses tiny gyroscopes to detect movement and adjust the [camera lens](/iphone/budget-friendly-iphone-camera-lens-alternatives) accordingly. Imagine The Potensians walking through a crowded festival, recording the vibrant atmosphere. Even if their hands tremble slightly, OIS compensates for these movements by physically shifting the lens inside the iPhone’s camera module. This ensures that the video remains steady and clear.
 
 In recent years, Apple has introduced sensor-shift OIS in its flagship models, such as the iPhone 13 Pro Max and later devices. Unlike traditional OIS, which moves the lens, sensor-shift OIS stabilizes the entire sensor. This advanced technology provides even greater stability, making it ideal for handheld video recording, especially in challenging conditions.
 
@@ -71,7 +70,7 @@ To help The Potensians choose the right iPhone for their video recording needs, 
 <thead>
 <tr>
 <th>iPhone Model</th>
-<th>Optical Image Stabilization (OIS)</th>
+<th>Optical [Image Stabilization](/iphone/affordable-iphone-with-image-stabilization) (OIS)</th>
 <th>Sensor-Shift OIS</th>
 <th>Electronic Image Stabilization (EIS)</th>
 </tr>
