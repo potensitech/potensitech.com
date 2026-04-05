@@ -65,7 +65,7 @@ In 2026, Apple’s iPhone lineup offers a variety of models, each catering to di
 <thead>
 <tr>
 <th>Model</th>
-<th>Camera Features</th>
+<th>[Camera Features](/iphone/iphone-camera-features-for-professional-photographers)</th>
 <th>Best For</th>
 <th>Price (2026)</th>
 </tr>
