@@ -14537,5 +14537,14 @@
             "Cultural: Freedom",
             "Cultural: Innovation"
         ]
+    },
+    "affordable iphone with good camera quality": {
+        "date": "2026-04-06T03:39:26",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
