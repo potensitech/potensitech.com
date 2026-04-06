@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 *iPhone Affordable Autofocus Performance Shines Bright* - The iPhone has long been a benchmark for smartphone innovation, and its autofocus technology is no exception. Over the years, Apple has consistently pushed the boundaries of what is possible, delivering cu​tting-edge camera systems even in its more affordable models. For The Potensians who value high-quality photography without the premium price tag, the iPhone's affordable autofocus performance is a game-changer. In this article, We explore the evolution of autofocus technology, what makes Apple's approach unique, and how it bridges the gap between quality and cost.
 
 ## The Evolution of Autofocus Technology in Smartphones
@@ -36,7 +35,7 @@ For instance, whether The Potensians are capturing the vibrant colors of a Memor
 
 ### Low-Light Brilliance
 
-Low-light photography has traditionally been a weak point for smartphone cameras. Slower shutter speeds and limited sensor capabilities often resulted in blurry or grainy images. Apple addresses this challenge with a combination of advanced image signal processors (ISPs) and LiDAR scanners (available on select models). These technologies enhance depth detection and maintain rapid focus, even in dimly lit environments.
+[Low-light photography](/iphone/best-iphone-camera-for-low-light-photography) has traditionally been a weak point for smartphone cameras. Slower shutter speeds and limited sensor capabilities often resulted in blurry or grainy images. Apple addresses this challenge with a combination of advanced image signal processors (ISPs) and LiDAR scanners (available on select models). These technologies enhance depth detection and maintain rapid focus, even in dimly lit environments.
 
 Imagine photographing a fireworks display during Fourth of July celebrations. Thanks to Apple’s Night Mode and its stellar autofocus capabilities, The Potensians can capture crisp, vibrant shots without the need for additional equipment. Whether it’s a cozy dinner at a candlelit restaurant or a nighttime stroll through a cityscape, the iPhone excels in preserving detail and clarity.
 
