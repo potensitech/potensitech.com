@@ -14571,5 +14571,14 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "iphone fast autofocus for photography": {
+        "date": "2026-04-06T22:09:47",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
