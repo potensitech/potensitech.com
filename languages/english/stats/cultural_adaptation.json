@@ -14558,5 +14558,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "iphone budget-friendly graphics speed": {
+        "date": "2026-04-06T20:05:20",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Christmas",
+            "Cultural: Tex-Mex",
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }
