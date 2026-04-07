@@ -14602,5 +14602,16 @@
             "Cultural: Times Square",
             "Cultural: Hollywood"
         ]
+    },
+    "iphone budget graphics optimization": {
+        "date": "2026-04-07T22:15:29",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Broadway",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
