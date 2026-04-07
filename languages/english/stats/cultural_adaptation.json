@@ -14589,5 +14589,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "iphone high-speed autofocus for videos": {
+        "date": "2026-04-07T20:08:10",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: Hollywood"
+        ]
     }
 }
