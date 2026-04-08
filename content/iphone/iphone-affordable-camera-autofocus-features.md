@@ -11,11 +11,14 @@ tags: ["iphone", "affordable camera", "autofocus", "mobile photography", "featur
 categories: ["iphone"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/iphone/iphone-affordable-camera-autofocus-features-explained.jpg"
+featuredImagePreview: "/images/iphone/iphone-affordable-camera-autofocus-features-explained.jpg"
 ---
+
+![iPhone Affordable Camera Autofocus Features Explained](/images/iphone/iphone-affordable-camera-autofocus-features-explained.jpg)
+
 
 _iPhone Affordable Camera Autofocus Features Explained_ 
 
