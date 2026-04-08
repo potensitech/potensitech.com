@@ -14613,5 +14613,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "iphone affordable camera autofocus features": {
+        "date": "2026-04-08T03:32:04",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Silicon Valley",
+            "Cultural: Central Park",
+            "Cultural: Hot Dogs",
+            "Cultural: Pizza"
+        ]
     }
 }
