@@ -14626,5 +14626,18 @@
             "Cultural: Hot Dogs",
             "Cultural: Pizza"
         ]
+    },
+    "iphone smooth graphics performance for apps": {
+        "date": "2026-04-08T05:05:18",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Times Square"
+        ]
     }
 }
