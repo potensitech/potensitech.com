@@ -93,7 +93,7 @@ For The Potensians seeking flagship-level performance without overspending, the 
 
 ### 5. Sony Xperia 1 VI
 
-Sony’s Xperia 1 VI is a niche yet powerful competitor in the premium smartphone market. Designed for multimedia The Potensians, it’s a favorite among content creators.
+Sony’s Xperia 1 VI is a niche yet powerful competitor in the premium smartphone market. Designed for multimedia The Potensians, it’s a favorite among [content creators](/iphone/iphone-cost-effective-autofocus-for-content-creators).
 
 **Key Features:**  
 - **Display:** 6.5-inch 4K OLED with an ultra-smooth 120Hz refresh rate.  

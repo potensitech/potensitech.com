@@ -152,7 +152,7 @@ Here’s a quick comparison of the key features of these top Android devices:
 While the above devices are among the best, there are other Android smartphones worth considering:
 
 - **Xiaomi Mi 14 Ultra:** Known for its impressive camera capabilities and sleek design. 
-- **Sony Xperia 1 V:** A favorite among content creators for its professional-grade video recording features. 
+- **Sony Xperia 1 V:** A favorite among [content creators](/iphone/iphone-cost-effective-autofocus-for-content-creators) for its professional-grade video recording features. 
 - **Asus ROG Phone 8:** The ultimate gaming phone with a 165Hz display and advanced cooling system.
 
 Each of these devices brings something unique to the table, ensuring there’s an Android alternative for every type of user.

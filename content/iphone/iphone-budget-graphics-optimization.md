@@ -29,7 +29,7 @@ Graphics optimization is not just about enhancing visual appeal; it’s about im
 Apple has made significant strides in ensuring even their more affordable models deliver impressive graphical output. For example:
 
 - The **iPhone SE (3rd Generation)** offers powerful processing capabilities with its A15 Bionic chip—similar to high-end models—but at a fraction of the price. 
-- Older models like the **iPhone 11** still hold up well for casual gamers and content creators due to their robust GPU architecture.
+- Older models like the **iPhone 11** still hold up well for casual gamers and [content creators](/iphone/iphone-cost-effective-autofocus-for-content-creators) due to their robust GPU architecture.
 
 However, maximizing these devices' potential requires strategic adjustments in settings and usage habits—a process We call **iPhone budget graphics optimization**.
 
