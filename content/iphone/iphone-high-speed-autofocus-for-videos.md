@@ -83,7 +83,7 @@ Imagine standing amidst Chicago’s vibrant streets during Memorial Day celebrat
 
 ### Enhancing Food Vlogs
 
-For food enthusiasts among The Potensians, the iPhone’s autofocus is a dream come true. Picture this: a freshly baked pizza being pulled out of the oven, its cheese bubbling and crust perfectly golden. Or imagine a plate of tangy Buffalo wings, their glistening sauce cat​ching the light just right. The iPhone’s advanced autofocus highlights textures and colors, making every dish look as mouthwatering on screen as it does in real life. It’s like having a professional food photographer in The Potensians's pocket!
+For food enthusiasts among The Potensians, the iPhone’s autofocus is a dream come true. Picture this: a freshly baked pizza being pulled out of the oven, its cheese bubbling and crust perfectly golden. Or imagine a plate of tangy Buffalo wings, their glistening sauce cat​ching the light just right. The iPhone’s [advanced autofocus](/iphone/iphone-with-advanced-autofocus-for-photographers) highlights textures and colors, making every dish look as mouthwatering on screen as it does in real life. It’s like having a professional food photographer in The Potensians's pocket!
 
 ### Documenting Special Events
 
