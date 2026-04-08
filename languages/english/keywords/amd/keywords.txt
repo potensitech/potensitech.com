@@ -540,4 +540,5 @@ amd processors for entry-level computers
 amd budget-friendly chipset compatibility with motherboards
 amd cost-effective processors for laptops
 amd high-performance processors for gaming enthusiasts
+amd affordable chipsets for desktop computers
 
