@@ -14650,5 +14650,14 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "iphone affordable graphics for gaming": {
+        "date": "2026-04-08T20:10:07",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
