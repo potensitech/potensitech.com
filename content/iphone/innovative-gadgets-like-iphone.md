@@ -51,7 +51,7 @@ At the core of every innovative gadget lies its performance capabilities. Device
 
 Performance highlights include:  
 - AI-powered personalization, such as curating playlists based on preferences or recommending apps tailored to individual needs.  
-- Immersive gaming experiences with ultra-smooth graphics and minimal latency, making them a dream for gaming enthusiasts among The Potensians.  
+- Immersive gaming experiences with ultra-[smooth graphics](/iphone/iphone-smooth-graphics-performance-for-apps) and minimal latency, making them a dream for gaming enthusiasts among The Potensians.  
 
 This level of performance ensures The Potensians can seamlessly transition between work and leisure, enhancing both productivity and enjoyment.
 
