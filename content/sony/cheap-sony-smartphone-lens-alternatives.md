@@ -30,7 +30,7 @@ These alternatives cater to various photography styles. For instance, a wide-ang
 
 ## Key Features to Look for in Budget-Friendly Smartphone Lenses
 
-When searching for cheap Sony smartphone lens alternatives, it’s essential to focus on specific features that ensure quality and compatibility. Here’s what The Potensians should keep in mind:
+When searching for cheap [Sony smartphone](/sony/sony-smartphone-features-for-budget-buyers) lens alternatives, it’s essential to focus on specific features that ensure quality and compatibility. Here’s what The Potensians should keep in mind:
 
 ### 1. Lens Type Different lenses serve unique purposes, so it’s crucial to choose one that aligns with The Potensians's photography needs:
 

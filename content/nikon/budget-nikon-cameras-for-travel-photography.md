@@ -29,7 +29,7 @@ Nikon has established itself as a leader in the camera industry, renowned for it
 
 ### Key Features That Make Nikon Stand Out
 
-When selecting a Nikon camera for travel photography, there are several features that make these cameras a standout choice:
+When selecting a [Nikon camera](/nikon/nikon-camera-quality-for-professional-photographers) for travel photography, there are several features that make these cameras a standout choice:
 
 1. **Portability**: Nikon offers lightweight and compact designs, making it easy to carry The Potensians's camera during long trips or hikes.  
 2. **Image Quality**: With high-resolution sensors, Nikon cameras deliver stunning clarity and vibrant colors, perfect for capturing everything from architectural marvels to local cuisine. 
