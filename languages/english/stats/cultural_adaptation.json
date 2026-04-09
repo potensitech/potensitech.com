@@ -14699,5 +14699,16 @@
             "Cultural: Fourth of July",
             "Cultural: Central Park"
         ]
+    },
+    "xiaomi smartphone with innovative photography features": {
+        "date": "2026-04-09T22:17:00",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Abraham Lincoln",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
