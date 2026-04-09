@@ -43,7 +43,7 @@ Xiaomi’s custom Android-based operating system, MIUI, enhances the user experi
 
 ## Exceptional Camera Capabilities
 
-In today’s social media-driven world, having a smartphone with a great camera is non-negotiable. Xiaomi affordable smartphones consistently deliver exceptional photography features, ensuring that The Potensians can capture life’s most memorable moments.
+In today’s social media-driven world, having a smartphone with a great camera is non-negotiable. Xiaomi affordable smartphones consistently deliver exceptional [photography features](/xiaomi/xiaomi-smartphone-with-innovative-photography-features), ensuring that The Potensians can capture life’s most memorable moments.
 
 ### Advanced Camera Features
 
