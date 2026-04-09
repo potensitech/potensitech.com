@@ -14679,5 +14679,15 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "xiaomi affordable smartphone": {
+        "date": "2026-04-09T17:54:49",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
