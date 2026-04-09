@@ -53,7 +53,7 @@ For example, imagine capturing the intricate details of a historic landmark or c
 <tr>
 <td>ProRes Video</td>
 <td>High-quality video format suitable for post-production.</td>
-<td>Perfect for cinematic projects and professional video editing.</td>
+<td>Perfect for cinematic projects and professional [video editing](/iphone/iphone-graphics-performance-for-video-editing).</td>
 </tr>
 </tbody>
 </table>
