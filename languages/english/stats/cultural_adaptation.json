@@ -14710,5 +14710,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "xiaomi smartphone for DSLR-like photography": {
+        "date": "2026-04-10T03:40:04",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Apple Pie"
+        ]
     }
 }
