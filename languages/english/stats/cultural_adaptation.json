@@ -14723,5 +14723,18 @@
             "Cultural: Hollywood",
             "Cultural: Apple Pie"
         ]
+    },
+    "xiaomi smartphone with advanced camera features": {
+        "date": "2026-04-10T05:17:43",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie"
+        ]
     }
 }
