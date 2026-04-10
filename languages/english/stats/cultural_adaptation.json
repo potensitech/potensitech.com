@@ -14736,5 +14736,14 @@
             "Cultural: Broadway",
             "Cultural: Apple Pie"
         ]
+    },
+    "xiaomi smartphone for creative photography enthusiasts": {
+        "date": "2026-04-10T20:00:10",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
