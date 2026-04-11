@@ -7642,5 +7642,7 @@
   "intel affordable processor for small businesses": true,
   "nvidia budget-friendly GPU compatibility": true,
   "nvidia chipset compatibility for AI workloads": true,
-  "nvidia processor performance for multitasking": true
+  "nvidia processor performance for multitasking": true,
+  "amd processor speed for entry-level PCs": true,
+  "amd chipset compatibility for overclocking setups": true
 }
