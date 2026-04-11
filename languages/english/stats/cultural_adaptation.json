@@ -14745,5 +14745,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone for capturing DSLR-quality photos": {
+        "date": "2026-04-11T03:02:53",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Los Angeles",
+            "Cultural: Chicago",
+            "Cultural: Innovation"
+        ]
     }
 }
