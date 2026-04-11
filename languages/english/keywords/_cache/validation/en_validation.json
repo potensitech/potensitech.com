@@ -7639,5 +7639,8 @@
   "intel entry-level processor for multitasking": true,
   "intel budget-friendly chipset for desktop computers": true,
   "intel high-speed processor for daily computing": true,
-  "intel affordable processor for small businesses": true
+  "intel affordable processor for small businesses": true,
+  "nvidia budget-friendly GPU compatibility": true,
+  "nvidia chipset compatibility for AI workloads": true,
+  "nvidia processor performance for multitasking": true
 }

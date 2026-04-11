@@ -587,4 +587,7 @@ nvidia entry-level processor for gaming
 nvidia budget GPU for smooth performance
 nvidia affordable graphics processor for gamers
 nvidia chipset for cost-effective GPU builds
+nvidia budget-friendly GPU compatibility
+nvidia chipset compatibility for AI workloads
+nvidia processor performance for multitasking
 
