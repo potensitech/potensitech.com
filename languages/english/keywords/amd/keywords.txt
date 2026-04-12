@@ -547,4 +547,5 @@ amd affordable processors for everyday tasks
 amd chipset compatibility for gaming performance
 amd processor speed for entry-level PCs
 amd chipset compatibility for overclocking setups
+amd affordable chipset compatibility with motherboards
 
