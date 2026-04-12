@@ -14756,5 +14756,16 @@
             "Cultural: Chicago",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi affordable smartphone for photography": {
+        "date": "2026-04-12T03:43:42",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
