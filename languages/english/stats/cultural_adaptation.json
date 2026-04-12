@@ -14767,5 +14767,15 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "xiaomi budget-friendly smartphone with lens compatibility": {
+        "date": "2026-04-12T05:15:57",
+        "language": "en",
+        "cultural_score": 24,
+        "rating": "Good",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween"
+        ]
     }
 }
