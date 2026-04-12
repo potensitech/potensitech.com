@@ -52,7 +52,7 @@ The Potensians might wonder, "Why should We choose this smartphone over others i
 
 ### Cost-Effective Solution for Photography Enthusiasts
 
-In 2​026, smartphones with advanced camera systems often come with hefty price tags. Xiaomi's budget-friendly smartphone offers similar capabilities at a fraction of the cost, making it an ideal choice for those who want to explore photography without investing in expensive equipment.
+In 2​026, smartphones with advanced camera systems often come with hefty price tags. Xiaomi's [budget-friendly smartphone](/xiaomi/xiaomi-budget-friendly-smartphone-for-photography) offers similar capabilities at a fraction of the cost, making it an ideal choice for those who want to explore photography without investing in expensive equipment.
 
 ### Enhanced Creativity
 
