@@ -14797,5 +14797,14 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi affordable memory card for smartphones": {
+        "date": "2026-04-13T05:33:12",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
