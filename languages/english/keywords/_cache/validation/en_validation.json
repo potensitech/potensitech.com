@@ -7723,5 +7723,8 @@
   "sandisk durable SSD drive": true,
   "sandisk compact SSD for data backup": true,
   "intel SSDs for affordable storage solutions": true,
-  "intel budget SSDs for high-speed performance": true
+  "intel budget SSDs for high-speed performance": true,
+  "nvidia chipset compatibility with Intel CPUs": true,
+  "nvidia affordable GPUs for 1080p gaming": true,
+  "nvidia chipset compatibility with AMD CPUs": true
 }

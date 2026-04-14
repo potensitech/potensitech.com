@@ -593,4 +593,7 @@ nvidia processor performance for multitasking
 nvidia budget-friendly processor with high speed
 nvidia GPU compatibility for gaming laptops
 nvidia processor speed for gaming computers
+nvidia chipset compatibility with Intel CPUs
+nvidia affordable GPUs for 1080p gaming
+nvidia chipset compatibility with AMD CPUs
 
