@@ -14815,5 +14815,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi affordable smartphone with high-resolution camera": {
+        "date": "2026-04-14T03:39:56",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Broadway"
+        ]
     }
 }
