@@ -7726,5 +7726,12 @@
   "intel budget SSDs for high-speed performance": true,
   "nvidia chipset compatibility with Intel CPUs": true,
   "nvidia affordable GPUs for 1080p gaming": true,
-  "nvidia chipset compatibility with AMD CPUs": true
+  "nvidia chipset compatibility with AMD CPUs": true,
+  "amd processor for multitasking performance": true,
+  "amd chipset for budget-friendly PC builds": true,
+  "amd processor for entry-level computers": true,
+  "amd high-performance chipset for gaming setups": true,
+  "amd processor comparison for budget builds": true,
+  "amd workstation chipset for affordable setups": true,
+  "amd processor for energy-efficient computing": true
 }
