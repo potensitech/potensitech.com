@@ -14828,5 +14828,14 @@
             "Cultural: Hollywood",
             "Cultural: Broadway"
         ]
+    },
+    "xiaomi smartphone offering DSLR-quality camera features": {
+        "date": "2026-04-14T22:33:46",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
