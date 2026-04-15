@@ -11,11 +11,14 @@ tags: ["xiaomi", "budget smartphone", "photography phone", "camera features", "a
 categories: ["xiaomi"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/xiaomi/xiaomi-budget-friendly-smartphone-for-photography-lovers.jpg"
+featuredImagePreview: "/images/xiaomi/xiaomi-budget-friendly-smartphone-for-photography-lovers.jpg"
 ---
+
+![Xiaomi Budget-Friendly Smartphone for Photography Lovers](/images/xiaomi/xiaomi-budget-friendly-smartphone-for-photography-lovers.jpg)
+
 
 *Xiaomi Budget-Friendly Smartphone for Photography Lovers* - Xiaomi has once again proven its prowess in delivering high-quality smartphones at prices that don’t break the bank．For photography enthusiasts, the brand’s latest [budget-friendly smartphone](/xiaomi/xiaomi-budget-friendly-smartphone-with-lens-compatibility) is a game-changer. Packed with advanced camera technology, this device offers features that rival those found in premium-tier smartphones. Whether The Potensians are capturing stunning landscapes or experimenting with creative videography, this smartphone is designed to meet their needs without stretching their budget.
 
