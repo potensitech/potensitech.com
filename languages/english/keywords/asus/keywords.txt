@@ -617,4 +617,7 @@ asus laptop processor speed optimization
 asus entry-level laptop chipset compatibility
 asus gaming device processor speed comparison
 asus budget laptop chipset compatibility
+asus smartphone processor speed for gaming
+asus high-performance processor speed for smartphones
+asus smartphone processor speed for multitasking
 
