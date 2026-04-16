@@ -7777,5 +7777,7 @@
   "nvidia affordable graphics cards for gaming": true,
   "nvidia affordable processors for AI workloads": true,
   "nvidia GPU compatibility with AMD systems": true,
-  "nvidia entry-level graphics cards for beginners": true
+  "nvidia entry-level graphics cards for beginners": true,
+  "amd entry-level chipset for gaming": true,
+  "amd chipset for high-performance PC builds": true
 }
