@@ -620,4 +620,6 @@ asus budget laptop chipset compatibility
 asus smartphone processor speed for gaming
 asus high-performance processor speed for smartphones
 asus smartphone processor speed for multitasking
+asus budget-friendly chipset compatibility for smartphones
+asus energy-efficient processor speed for ultrabooks
 
