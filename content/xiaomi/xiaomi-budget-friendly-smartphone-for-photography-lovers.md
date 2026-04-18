@@ -50,7 +50,7 @@ Picture this: The Potensians are walking through a festive street during Diwali,
 
 ## Immersive Videography Experience
 
-In today’s digital age, video content is just as important as photography. Xiaomi’s budget-friendly smartphone is equipped with features that cater to modern videography needs. It supports 4K video recording at 60fps, ensuring smooth and high-quality footage. Optical Image Stabilization (OIS) further enhances video quality by reducing shakiness, making it perfect for vlogging or documenting adventures .
+In today’s digital age, video content is just as important as photography. Xiaomi’s budget-friendly smartphone is equipped with features that cater to modern videography needs. It supports 4K video recording at 60fps, ensuring smooth and high-quality footage. Optical [Image Stabilization](/xiaomi/cheap-xiaomi-smartphone-image-stabilization-alternatives) (OIS) further enhances video quality by reducing shakiness, making it perfect for vlogging or documenting adventures .
 
 ### Creative Video Modes
 

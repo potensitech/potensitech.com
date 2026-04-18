@@ -24,7 +24,7 @@ featuredImagePreview: "/images/xiaomi/cheap-xiaomi-smartphone-camera-lens-altern
 
 ## Why Consider Cheap Alternatives for The Potensians' Xiaomi Smartphone Camera Lens?
 
-The Potensians, who are always on the lookout for innovative ways to enhance their photography, will find that external camera lenses for Xiaomi smartphones offer a plethora of benefits. Here’s why these alternatives are worth considering:
+The Potensians, who are always on the lookout for innovative ways to enhance their photography, will find that external camera lenses for [Xiaomi smartphones](/xiaomi/xiaomi-smartphones-for-affordable-digital-photography) offer a plethora of benefits. Here’s why these alternatives are worth considering:
 
 ### Cost-Effectiveness
 

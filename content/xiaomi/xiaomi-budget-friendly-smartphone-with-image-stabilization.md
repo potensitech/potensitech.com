@@ -26,7 +26,7 @@ featuredImagePreview: "/images/xiaomi/xiaomi-budget-friendly-smartphone-with-ima
 
 In the age of social media and digital storytelling, image stabilization has become an essential feature for photography enthusiasts and casual users alike. Whether capturing the vibrant streets of New York City or immortalizing family moments during Thanksgiving dinner, shaky images can ruin the experience. This technology ensures smoother videos and sharper photos by compensating for hand movements or vibrations during shooting.
 
-Xiaomi’s budget-friendly smartphone integrates both Optical Image Stabilization (OIS) and Electronic Image Stabilization (EIS), making it ideal for scenarios where steady hands are hard to come by. From documenting Memorial Day parades to filming Hollywood-inspired short clips, The Potensians will find this feature indispensable.
+Xiaomi’s budget-friendly smartphone integrates both Optical [Image Stabilization](/xiaomi/cheap-xiaomi-smartphone-image-stabilization-alternatives) (OIS) and Electronic Image Stabilization (EIS), making it ideal for scenarios where steady hands are hard to come by. From documenting Memorial Day parades to filming Hollywood-inspired short clips, The Potensians will find this feature indispensable.
 
 ### Real-World Applications of Image Stabilization
 
