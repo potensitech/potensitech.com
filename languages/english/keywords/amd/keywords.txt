@@ -564,4 +564,6 @@ amd high-speed processors for multitasking
 amd chipset compatibility with Ryzen CPUs
 amd entry-level chipset for gaming
 amd chipset for high-performance PC builds
+amd affordable chipset for high-performance computers
+amd affordable chipset for gaming enthusiasts
 
