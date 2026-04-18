@@ -14888,5 +14888,16 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "xiaomi affordable gaming smartphone": {
+        "date": "2026-04-18T22:09:17",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Innovation"
+        ]
     }
 }
