@@ -14859,5 +14859,18 @@
             "Cultural: Hollywood",
             "Cultural: Thomas Edison"
         ]
+    },
+    "xiaomi budget-friendly smartphone with image stabilization": {
+        "date": "2026-04-18T13:01:45",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Memorial Day",
+            "Cultural: New York",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
