@@ -68,7 +68,7 @@ This versatile setup ensures that The Potensians can document every moment with 
 
 ### Video Capabilities
 
-For video enthusiasts, Xiaomi's flagship phone supports 8K video recording, allowing users to create cinematic-quality content. Features like optical image stabilization (OIS) and advanced editing tools make it easy to produce professional-looking videos directly from The Potensians's smartphone.
+For video enthusiasts, Xiaomi's flagship phone supports 8K video recording, allowing users to create cinematic-quality content. Features like optical [image stabilization](/xiaomi/xiaomi-budget-friendly-smartphone-with-image-stabilization) (OIS) and advanced editing tools make it easy to produce professional-looking videos directly from The Potensians's smartphone.
 
 ## Comparing Xiaomi to Competitors
 
