@@ -14846,5 +14846,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi affordable smartphone with camera lens": {
+        "date": "2026-04-18T10:16:37",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Fourth of July",
+            "Cultural: Chicago",
+            "Cultural: Hollywood",
+            "Cultural: Thomas Edison"
+        ]
     }
 }
