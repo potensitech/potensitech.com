@@ -14899,5 +14899,14 @@
             "Cultural: Chicago",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi budget smartphone for photography": {
+        "date": "2026-04-19T03:48:24",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Freedom"
+        ]
     }
 }
