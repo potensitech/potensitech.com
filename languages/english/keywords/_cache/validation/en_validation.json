@@ -7874,5 +7874,10 @@
   "intel processor compatibility for gaming computers": true,
   "intel chipset compatibility for laptop devices": true,
   "intel SSD for high-speed data performance": true,
-  "intel chipset compatibility for desktop PCs": true
+  "intel chipset compatibility for desktop PCs": true,
+  "nvidia high-performance laptop processor": true,
+  "nvidia processor compatibility with gaming PCs": true,
+  "nvidia low-cost desktop processor": true,
+  "nvidia affordable GPU for 4K rendering": true,
+  "nvidia processor speed for high-end gaming": true
 }
