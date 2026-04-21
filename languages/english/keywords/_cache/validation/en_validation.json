@@ -7879,5 +7879,8 @@
   "nvidia processor compatibility with gaming PCs": true,
   "nvidia low-cost desktop processor": true,
   "nvidia affordable GPU for 4K rendering": true,
-  "nvidia processor speed for high-end gaming": true
+  "nvidia processor speed for high-end gaming": true,
+  "amd chipset for entry-level GPU compatibility": true,
+  "amd affordable processors for everyday computing": true,
+  "amd processor benchmarks for cost-effective CPUs": true
 }
