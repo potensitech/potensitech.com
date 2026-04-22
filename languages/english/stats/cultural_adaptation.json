@@ -14931,5 +14931,18 @@
             "Cultural: BBQ",
             "Cultural: Clam Chowder"
         ]
+    },
+    "affordable Intel processors for fast charging": {
+        "date": "2026-04-22T10:56:39",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Los Angeles",
+            "Cultural: Broadway",
+            "Cultural: Pizza",
+            "Cultural: Steve Jobs"
+        ]
     }
 }

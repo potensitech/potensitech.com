@@ -13,3 +13,4 @@ intel gaming processor chipset compatibility
 intel affordable processor for multitasking tasks
 intel high-performance build chipset compatibility
 intel advanced user chipset compatibility guide
+affordable Intel processors for fast charging
