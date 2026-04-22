@@ -125,7 +125,7 @@ The Snapdragon 680 powers devices like the Galaxy M32 Prime Edition, offering a 
 <tr>
 <td>Battery Efficiency</td>
 <td>Superb (6nm process)</td>
-<td>Long-lasting battery life</td>
+<td>[Long-lasting battery](/samsung/samsung-affordable-smartphone-with-long-lasting-battery) life</td>
 </tr>
 <tr>
 <td>AnTuTu Benchmark Score</td>
