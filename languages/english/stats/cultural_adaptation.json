@@ -14944,5 +14944,14 @@
             "Cultural: Pizza",
             "Cultural: Steve Jobs"
         ]
+    },
+    "xiaomi budget-friendly smartphone with AI": {
+        "date": "2026-04-22T13:25:42",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
