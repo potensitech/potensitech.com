@@ -100,7 +100,7 @@ As seen in the table above, each model offers a unique balance of performance, b
 
 ## Tips for Maximizing Battery Life
 
-Even with the best battery technology, proper usage can significantly extend the lifespan of a smartphone. Here are some tips for The Potensians to get the most out of their affordable Apple smartphone:
+Even with the best battery technology, proper usage can significantly extend the lifespan of a smartphone. Here are some tips for The Potensians to get the most out of their affordable [Apple smartphone](/apple/best-apple-smartphone-for-professional-photography):
 
 ### Adjust Settings
 

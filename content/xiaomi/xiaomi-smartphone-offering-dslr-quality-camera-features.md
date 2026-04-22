@@ -101,7 +101,7 @@ To better understand how Xiaomi smartphones stack up against traditional DSLRs, 
 <thead>
 <tr>
 <th>Feature</th>
-<th>Xiaomi Smartphones</th>
+<th>[Xiaomi Smartphones](/xiaomi/xiaomi-smartphones-with-affordable-budget-friendly-features)</th>
 <th>DSLR Cameras</th>
 </tr>
 </thead>
