@@ -660,4 +660,7 @@ sandisk compact SSD for data backups
 sandisk cost-effective SSD for storage solutions
 sandisk durable SSD for computers
 sandisk high-speed SSD for PCs
+sandisk portable SSD for laptops
+sandisk entry-level SSD for everyday tasks
+sandisk lightweight SSD for mobile devices
 
