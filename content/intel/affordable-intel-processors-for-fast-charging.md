@@ -11,11 +11,14 @@ tags: ["affordable", "Intel", "processors", "fast charging", "efficiency"]
 categories: ["intel"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/intel/affordable-intel-processors-for-fast-charging.jpg"
+featuredImagePreview: "/images/intel/affordable-intel-processors-for-fast-charging.jpg"
 ---
+
+![Affordable Intel Processors for Fast Charging](/images/intel/affordable-intel-processors-for-fast-charging.jpg)
+
 
 *Affordable Intel Processors for Fast Charging* - 
 
