@@ -71,7 +71,7 @@ For example:
 
 ### Built to Last
 
-Durability is another area where Xiaomi excels. These smartphones are designed to withstand the rigors of daily use, making them a reliable choice for The Potensians who need a device that can keep up with their busy lives.
+Durability is another area where Xiaomi excels. These smartphones are designed to withstand the rigors of [daily use](/xiaomi/xiaomi-mid-range-smartphone-for-daily-use), making them a reliable choice for The Potensians who need a device that can keep up with their busy lives.
 
 ## Long Battery Life and Fast Charging Technology
 
