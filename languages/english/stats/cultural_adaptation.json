@@ -14918,5 +14918,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "xiaomi entry-level smartphone with AI features": {
+        "date": "2026-04-22T09:04:42",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: BBQ",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
