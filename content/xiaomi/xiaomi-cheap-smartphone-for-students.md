@@ -58,7 +58,7 @@ The Poco X5 Pro also features a robust battery with fast-charging capabilities, 
 
 ### Redmi 10C
 
-For students on a tight budget, the Redmi 10C offers excellent value for money. This entry-level smartphone is perfect for basic tasks like browsing the web, checking emails, and staying active on social media. Despite its affordability, the Redmi 10C doesn’t skimp on essential features. It comes with a decent camera for capturing moments, a lightweight design for easy portability, and a reliable battery to keep The Potensians connected throughout the day.
+For students on a tight budget, the Redmi 10C offers excellent value for money. This [entry-level smartphone](/xiaomi/xiaomi-entry-level-smartphone-with-ai-features) is perfect for basic tasks like browsing the web, checking emails, and staying active on social media. Despite its affordability, the Redmi 10C doesn’t skimp on essential features. It comes with a decent camera for capturing moments, a lightweight design for easy portability, and a reliable battery to keep The Potensians connected throughout the day.
 
 ## Detailed Comparison of Xiaomi Student-Friendly Smartphones
 
