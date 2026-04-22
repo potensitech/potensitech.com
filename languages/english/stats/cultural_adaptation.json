@@ -14971,5 +14971,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi mid-range smartphone for daily use": {
+        "date": "2026-04-22T22:33:57",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
