@@ -621,4 +621,6 @@ nvidia processor compatibility with gaming PCs
 nvidia low-cost desktop processor
 nvidia affordable GPU for 4K rendering
 nvidia processor speed for high-end gaming
+nvidia gaming chipset with compatibility
+nvidia chipset compatibility for AI development
 
