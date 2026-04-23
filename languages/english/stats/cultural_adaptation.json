@@ -15001,5 +15001,15 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Intel processors for energy-efficient fast charging": {
+        "date": "2026-04-23T06:36:46",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
