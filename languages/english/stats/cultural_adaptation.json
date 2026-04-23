@@ -14981,5 +14981,15 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Intel processors for efficient fast charging": {
+        "date": "2026-04-23T03:44:28",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Los Angeles",
+            "Cultural: Innovation"
+        ]
     }
 }

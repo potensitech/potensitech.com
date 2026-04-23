@@ -15,3 +15,4 @@ intel high-performance build chipset compatibility
 intel advanced user chipset compatibility guide
 affordable Intel processors for fast charging
 Intel processors with long battery life
+Intel processors for efficient fast charging
