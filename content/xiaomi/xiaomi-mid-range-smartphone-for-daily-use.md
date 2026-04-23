@@ -28,7 +28,7 @@ When it comes to striking the perfect balance between affordability and performa
 
 ### A Legacy of Innovation
 
-Xiaomi has consistently pushed the boundaries of what mid-range smartphones can offer. From incorporating cutting-edge processors to integrating advanced camera systems, the company has redefined the expectations for this segment. In 2026, Xiaomi's mid-range devices are not just about affordability; they are about delivering a premium experience at a fraction of the cost.
+Xiaomi has consistently pushed the boundaries of what mid-range smartphones can offer. From incorporating cutting-edge processors to integrating [advanced camera](/xiaomi/xiaomi-smartphone-with-advanced-camera-features) systems, the company has redefined the expectations for this segment. In 2026, Xiaomi's mid-range devices are not just about affordability; they are about delivering a premium experience at a fraction of the cost.
 
 ### A Brand That Listens to Its Users
 
