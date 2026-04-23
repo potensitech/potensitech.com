@@ -14991,5 +14991,15 @@
             "Cultural: Los Angeles",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone with excellent camera quality": {
+        "date": "2026-04-23T05:22:11",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
