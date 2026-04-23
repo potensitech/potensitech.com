@@ -578,4 +578,5 @@ amd entry-level chipsets for gaming setups
 amd processors for multitasking and productivity
 amd optimized processor speeds for gaming
 amd small form factor chipset options
+amd chipset compatibility for gaming computers
 
