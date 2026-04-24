@@ -15011,5 +15011,17 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone featuring fast autofocus": {
+        "date": "2026-04-24T06:37:23",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Broadway",
+            "Cultural: Tex-Mex",
+            "Cultural: Innovation"
+        ]
     }
 }
