@@ -405,4 +405,9 @@ philips chipset compatibility for personal gadgets
 philips high-speed processors for personal gadgets
 philips fast processors for kitchen gadgets
 philips energy-efficient processors for home appliances
+philips home electronics with fast processor
+philips consumer electronics with efficient processor
+philips kitchen processor with high speed
+philips home appliance with efficient processor
+philips electronics with reliable processor speed
 
