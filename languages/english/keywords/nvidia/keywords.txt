@@ -627,4 +627,6 @@ nvidia high-performance laptop GPU
 nvidia beginner-friendly and affordable graphics card
 nvidia gaming processor speed comparison
 nvidia chipset compatibility with AMD motherboards
+affordable nvidia chipset compatibility
+affordable nvidia processor speed
 
