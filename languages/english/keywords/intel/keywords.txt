@@ -747,4 +747,6 @@ intel SSD options for high-speed storage
 intel affordable SSDs for fast storage
 cost-effective intel solid state drives
 affordable intel processor chipset solutions
+intel entry-level chipset for affordable processors
+intel high-speed budget SSDs for storage
 
