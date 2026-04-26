@@ -42,7 +42,7 @@ Xiaomi’s MIUI, its custom Android-based operating system, is designed to enhan
 
 ## Exceptional Camera Technology
 
-The standout feature of any Xiaomi budget smartphone with a great camera is its ability to capture stunning photos and videos. Over the years, Xiaomi has partnered with leading lens manufacturers like Sony to integrate advanced camera sensors into their devices, even at entry-level price points.
+The standout feature of any Xiaomi budget smartphone with a great camera is its ability to capture stunning photos and videos. Over the years, Xiaomi has partnered with leading lens manufacturers like Sony to integrate [advanced camera](/xiaomi/xiaomi-smartphone-with-advanced-camera-features) sensors into their devices, even at entry-level price points.
 
 ### Advanced Camera Features
 
@@ -65,7 +65,7 @@ To better understand why Xiaomi budget smartphones excel in photography, let’s
 
 ### Superior Sensor Quality
 
-Modern smartphone photography relies heavily on sensor quality, and Xiaomi doesn’t disappoint. By incorporating large pixel sizes and advanced image stabilization technologies, Xiaomi’s cameras excel in reducing noise and enhancing clarity, even in challenging lighting conditions.
+Modern smartphone photography relies heavily on sensor quality, and Xiaomi doesn’t disappoint. By incorporating large pixel sizes and advanced [image stabilization](/xiaomi/cheap-xiaomi-smartphone-image-stabilization-alternatives) technologies, Xiaomi’s cameras excel in reducing noise and enhancing clarity, even in challenging lighting conditions.
 
 For instance:
 - Low-light shots taken during a nighttime stroll through a bustling city come out vivid and detailed, thanks to Night Mode.
