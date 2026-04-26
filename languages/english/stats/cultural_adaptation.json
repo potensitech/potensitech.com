@@ -15023,5 +15023,18 @@
             "Cultural: Tex-Mex",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone for photography enthusiasts": {
+        "date": "2026-04-26T05:29:58",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
