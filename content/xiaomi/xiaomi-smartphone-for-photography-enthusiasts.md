@@ -24,7 +24,7 @@ featuredImagePreview: "/images/xiaomi/xiaomi-smartphone-for-photography-enthusia
 
 ## Top Picks: Best Xiaomi Smartphones for Photography Enthusiasts
 
-Xiaomi has established itself as a leader in smartphone photography, offering devices that cater to both amateur and professional photographers. Below, We’ve compiled a list of top-performing Xiaomi smartphones based on their features, capabilities, and suitability for different types of photography.
+Xiaomi has established itself as a leader in smartphone photography, offering devices that cater to both amateur and professional photographers. Below, We’ve compiled a list of top-performing [Xiaomi smartphones](/xiaomi/xiaomi-smartphones-for-affordable-digital-photography) based on their features, capabilities, and suitability for different types of photography.
 
 <div class="table-responsive">
 <table class="html-table">
