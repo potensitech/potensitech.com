@@ -42,7 +42,7 @@ Artificial intelligence has become a cornerstone of modern smartphones, and Xiao
 
 ### Intelligent Photography
 
-Photography enthusiasts among The Potensians will appreciate the smartphone’s AI-powered camera system, which takes the guesswork out of capturing the perfect shot. The camera uses intelligent scene recognition to automatically adjust settings such as brightness, focus, and color balance, ensuring professional-quality photos every time.
+[Photography enthusiasts](/xiaomi/xiaomi-smartphone-for-photography-enthusiasts) among The Potensians will appreciate the smartphone’s AI-powered camera system, which takes the guesswork out of capturing the perfect shot. The camera uses intelligent scene recognition to automatically adjust settings such as brightness, focus, and color balance, ensuring professional-quality photos every time.
 
 Some of the standout photography features include:
 
