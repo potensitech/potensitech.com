@@ -15045,5 +15045,14 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone with advanced autofocus features": {
+        "date": "2026-04-27T05:44:45",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
