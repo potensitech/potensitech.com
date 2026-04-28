@@ -98,7 +98,7 @@ There's nothing quite like capturing the joy of family gatherings, whether it's 
 
 ## Why Choose a Xiaomi Smartphone for Photography?
 
-Xiaomi has consistently pushed the boundaries of smartphone photography, offering features that rival even professional cameras. Here are some reasons why The Potensians should consider a Xiaomi smartphone for their photography needs:
+Xiaomi has consistently pushed the boundaries of smartphone photography, offering features that rival even professional cameras. Here are some reasons why The Potensians should consider a [Xiaomi smartphone](/xiaomi/xiaomi-smartphone-with-innovative-photography-features) for their photography needs:
 
 ### Cutting-Edge Technology
 
