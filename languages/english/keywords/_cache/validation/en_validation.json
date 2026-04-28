@@ -8056,5 +8056,9 @@
   "sandisk versatile SSD for multimedia storage": true,
   "intel SSD for affordable storage solutions": true,
   "intel budget chipset compatibility for PCs": true,
-  "intel affordable SSD for fast storage": true
+  "intel affordable SSD for fast storage": true,
+  "nvidia chipset compatibility with entry-level GPUs": true,
+  "nvidia affordable GPUs for gaming setups": true,
+  "nvidia budget-friendly GPUs for video editing": true,
+  "nvidia entry-level GPUs for casual gaming": true
 }

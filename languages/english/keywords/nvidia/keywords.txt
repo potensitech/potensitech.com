@@ -632,4 +632,8 @@ affordable nvidia processor speed
 nvidia affordable processor for performance
 nvidia processor performance for AI workloads
 nvidia processor compatibility with Intel motherboards
+nvidia chipset compatibility with entry-level GPUs
+nvidia affordable GPUs for gaming setups
+nvidia budget-friendly GPUs for video editing
+nvidia entry-level GPUs for casual gaming
 
