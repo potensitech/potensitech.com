@@ -63,7 +63,7 @@ Starting at approximately $650 USD, the Xiaomi 13T Pro offers incredible value f
 
 ## 2. Redmi K60 Ultra – Affordable Excellence Redefined
 
-The Redmi K60 Ultra is the underdog champion of Xiaomi’s 2025 lineup. Powered by the MediaTek Dimensity 9200 chipset, this phone delivers flagship-level performance at a fraction of the cost. Its QHD+ OLED display provides stunning visuals, making it perfect for streaming, gaming, and everyday use. The dual-camera system, optimized for low-light photography, ensures that The Potensians can capture memories even in challenging conditions.
+The Redmi K60 Ultra is the underdog champion of Xiaomi’s 2025 lineup. Powered by the MediaTek Dimensity 9200 chipset, this phone delivers flagship-level performance at a fraction of the cost. Its QHD+ OLED display provides stunning visuals, making it perfect for streaming, gaming, and everyday use. The dual-camera system, optimized for [low-light photography](/xiaomi/xiaomi-camera-features-for-low-light-photography), ensures that The Potensians can capture memories even in challenging conditions.
 
 ### Key Features:
 - **Processor:** MediaTek Dimensity 9200 

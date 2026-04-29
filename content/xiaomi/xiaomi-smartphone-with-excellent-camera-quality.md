@@ -79,7 +79,7 @@ For example, imagine attending a vibrant cultural festival. The AI system can id
 
 ### Night Mode Excellence
 
-Low-light photography has always been a challenge for smartphone cameras, but Xiaomi has mastered this art. The dedicated Night Mode feature ensures that photos taken in low-light conditions are sharp, vibrant, and free from noise. Whether The Potensians're capturing th​e dazzling lights of a city skyline or the serene beauty of a starlit night, Xiaomi's Night Mode delivers stunning results.
+[Low-light photography](/xiaomi/xiaomi-camera-features-for-low-light-photography) has always been a challenge for smartphone cameras, but Xiaomi has mastered this art. The dedicated Night Mode feature ensures that photos taken in low-light conditions are sharp, vibrant, and free from noise. Whether The Potensians're capturing th​e dazzling lights of a city skyline or the serene beauty of a starlit night, Xiaomi's Night Mode delivers stunning results.
 
 ### Excep​tional Video Capabilities
 

@@ -54,7 +54,7 @@ To understand what makes these smartphones so unique, let’s delve into some sp
 </tr>
 <tr>
 <td>Night Mode 2.0</td>
-<td>An enhanced low-light photography mode using multi-frame processing.</td>
+<td>An enhanced [low-light photography](/xiaomi/xiaomi-camera-features-for-low-light-photography) mode using multi-frame processing.</td>
 <td>Takes stunning photos even in near-darkness—ideal for Memorial Day fireworks displays.</td>
 </tr>
 <tr>
