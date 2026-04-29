@@ -59,7 +59,7 @@ Low-light photography often comes with the challenge of shaky hands, which can r
 <td>Xiaomi Mi 12 Pro, Redmi K60 Pro</td>
 </tr>
 <tr>
-<td>Optical Image Stabilization (OIS)</td>
+<td>Optical [Image Stabilization](/xiaomi/xiaomi-budget-friendly-smartphone-with-image-stabilization) (OIS)</td>
 <td>Minimize blur caused by hand movement in low-light conditions.</td>
 <td>Xiaomi Mi 11 Ultra, Mi 12 Pro</td>
 </tr>
