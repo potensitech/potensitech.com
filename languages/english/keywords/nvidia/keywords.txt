@@ -636,4 +636,6 @@ nvidia chipset compatibility with entry-level GPUs
 nvidia affordable GPUs for gaming setups
 nvidia budget-friendly GPUs for video editing
 nvidia entry-level GPUs for casual gaming
+nvidia budget-friendly GPU performance for gaming
+nvidia high-performance and affordable GPUs
 
