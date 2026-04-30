@@ -638,4 +638,7 @@ nvidia budget-friendly GPUs for video editing
 nvidia entry-level GPUs for casual gaming
 nvidia budget-friendly GPU performance for gaming
 nvidia high-performance and affordable GPUs
+nvidia entry-level GPU for gaming PCs
+nvidia high-performance GPU for computing tasks
+nvidia cost-effective graphics card options
 
