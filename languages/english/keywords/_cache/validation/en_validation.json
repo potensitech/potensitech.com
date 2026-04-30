@@ -8133,5 +8133,7 @@
   "intel affordable processor chipset compatibility guide": true,
   "nvidia entry-level GPU for gaming PCs": true,
   "nvidia high-performance GPU for computing tasks": true,
-  "nvidia cost-effective graphics card options": true
+  "nvidia cost-effective graphics card options": true,
+  "amd chipset for high-performance gaming compatibility": true,
+  "best amd chipset for entry-level PCs": true
 }
