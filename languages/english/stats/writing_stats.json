@@ -9434,5 +9434,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "xiaomi smartphone with high-resolution camera": {
+        "date": "2026-05-01T06:00:11",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }

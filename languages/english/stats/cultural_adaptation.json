@@ -15064,5 +15064,14 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone with high-resolution camera": {
+        "date": "2026-05-01T06:00:11",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
