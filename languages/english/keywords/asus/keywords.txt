@@ -646,4 +646,7 @@ asus smartphone chipset compatibility for multitasking
 asus budget processor speed for smartphones
 asus low-cost processor speed for smartphones
 asus high-performance laptop processor speed
+asus high-performance desktop processor speed
+asus entry-level computer chipset compatibility
+asus lightweight ultrabook processor speed
 
