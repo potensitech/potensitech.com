@@ -587,4 +587,6 @@ amd chipset compatibility guide for motherboards
 amd affordable processors for entry-level gaming
 amd chipset for high-performance gaming compatibility
 best amd chipset for entry-level PCs
+amd high-performance affordable chipset options
+amd affordable chipset for compact PCs
 
