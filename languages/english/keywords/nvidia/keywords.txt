@@ -641,4 +641,8 @@ nvidia high-performance and affordable GPUs
 nvidia entry-level GPU for gaming PCs
 nvidia high-performance GPU for computing tasks
 nvidia cost-effective graphics card options
+nvidia GPU performance for budget-friendly setups
+nvidia budget-friendly GPUs for gaming enthusiasts
+nvidia affordable GPUs for gaming builds
+nvidia cost-effective GPU options for gamers
 
