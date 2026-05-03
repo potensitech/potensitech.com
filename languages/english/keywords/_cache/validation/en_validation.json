@@ -8197,5 +8197,8 @@
   "nvidia entry-level chipsets for GPUs": true,
   "nvidia GPU compatibility with budget monitors": true,
   "nvidia affordable chipsets for high-performance GPUs": true,
-  "nvidia processors for cost-effective video editing": true
+  "nvidia processors for cost-effective video editing": true,
+  "amd entry-level high-speed processors": true,
+  "amd motherboard chipset compatibility guide": true,
+  "amd workstation chipsets for affordable builds": true
 }
