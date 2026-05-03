@@ -649,4 +649,6 @@ asus high-performance laptop processor speed
 asus high-performance desktop processor speed
 asus entry-level computer chipset compatibility
 asus lightweight ultrabook processor speed
+asus smartphone performance with budget-friendly processors
+asus entry-level smartphone chipset compatibility guide
 
