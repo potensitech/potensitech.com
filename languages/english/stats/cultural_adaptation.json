@@ -15163,5 +15163,14 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "xiaomi smartphone for travel photography": {
+        "date": "2026-05-04T22:42:36",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: New York"
+        ]
     }
 }
