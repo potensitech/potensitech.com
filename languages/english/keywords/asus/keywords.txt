@@ -651,4 +651,6 @@ asus entry-level computer chipset compatibility
 asus lightweight ultrabook processor speed
 asus smartphone performance with budget-friendly processors
 asus entry-level smartphone chipset compatibility guide
+asus chipset for budget smartphones
+asus smartphone processor for multitasking
 
