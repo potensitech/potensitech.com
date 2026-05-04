@@ -15083,5 +15083,15 @@
             "Cultural: Tex-Mex",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone with affordable image stabilization": {
+        "date": "2026-05-04T07:46:44",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Innovation"
+        ]
     }
 }
