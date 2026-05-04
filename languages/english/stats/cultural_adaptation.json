@@ -15106,5 +15106,18 @@
             "Cultural: Chicago",
             "Cultural: Hollywood"
         ]
+    },
+    "xiaomi smartphone with advanced image stabilization": {
+        "date": "2026-05-04T11:31:41",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Steve Jobs"
+        ]
     }
 }

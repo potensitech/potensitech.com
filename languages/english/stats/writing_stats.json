@@ -9462,5 +9462,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "xiaomi smartphone with advanced image stabilization": {
+        "date": "2026-05-04T11:31:41",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }
