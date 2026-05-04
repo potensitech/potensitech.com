@@ -83,7 +83,7 @@ To better understand how Xiaomi’s smartphones stack up against the competition
 <thead>
 <tr>
 <th>Feature</th>
-<th>Xiaomi Smartphone</th>
+<th>[Xiaomi Smartphone](/xiaomi/cheap-xiaomi-smartphone-camera-lens-alternatives)</th>
 <th>Competitor A</th>
 <th>Competitor B</th>
 </tr>

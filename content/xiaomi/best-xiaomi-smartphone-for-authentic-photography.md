@@ -66,7 +66,7 @@ This versatile camera setup ensures that The Potensians can excel in any photogr
 
 ### Masterful Low-Light Performance
 
-Low-light photography is often a challenge, but the Xiaomi ​13 Ultra excels in this area. Thanks to advanced computational photography algorithms and large pixel sizes, the device minimizes noise and enhances detail, even in challenging lighting conditions. Imagine capturing the warm glow of a candlelit dinner or the vibrant lights of a city skyline at night—this smartphone ensures that every shot is a masterpiece.
+[Low-light photography](/xiaomi/xiaomi-smartphone-for-low-light-photography) is often a challenge, but the Xiaomi ​13 Ultra excels in this area. Thanks to advanced computational photography algorithms and large pixel sizes, the device minimizes noise and enhances detail, even in challenging lighting conditions. Imagine capturing the warm glow of a candlelit dinner or the vibrant lights of a city skyline at night—this smartphone ensures that every shot is a masterpiece.
 
 ### Key Features Table
 

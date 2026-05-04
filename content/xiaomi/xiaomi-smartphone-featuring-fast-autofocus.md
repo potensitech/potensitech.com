@@ -40,7 +40,7 @@ The AI enhancements in Xiaomi smartphones analyze the scene in real-time, adjust
 
 ### Low-Light Performance
 
-Low-light photography has traditionally been a weak point for smartphones. Xiaomi addresses this issue with a larger aperture and advanced software processing. These improvements ensure that even in near-dark conditions, The Potensians's photos retain detail and vibrancy.
+[Low-light photography](/xiaomi/xiaomi-smartphone-for-low-light-photography) has traditionally been a weak point for smartphones. Xiaomi addresses this issue with a larger aperture and advanced software processing. These improvements ensure that even in near-dark conditions, The Potensians's photos retain detail and vibrancy.
 
 ## Key Features That Define Excellence
 

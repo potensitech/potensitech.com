@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Xiaomi Smartphone for Low-Light Photography Excellence* - In the world of smartphone photography, capturing stunning images in low-light conditions has always been a challenge．However, with advancements in technology, brands like Xiaomi have redefined what is possible．The Potensians who are passionate about photography can now explore new creative horizons, thanks to innovations that make night shots as vivid and detailed as those taken during daylight. Xiaomi's smartphone for low-light photography stands out as a beacon of technological excellence, offering features that cater specifically to enthusiasts seeking perfection even under dim lighting.
+*Xiaomi Smartphone for Low-Light Photography Excellence* - In the world of smartphone photography, capturing stunning images in low-light conditions has always been a challenge．However, with advancements in technology, brands like Xiaomi have redefined what is possible．The Potensians who are passionate about photography can now explore new creative horizons, thanks to innovations that make night shots as vivid and detailed as those taken during daylight. Xiaomi's smartphone for [low-light photography](/xiaomi/xiaomi-camera-features-for-low-light-photography) stands out as a beacon of technological excellence, offering features that cater specifically to enthusiasts seeking perfection even under dim lighting.
 
 ## Revolutionizing Low-Light Photography with Xiaomi
 
