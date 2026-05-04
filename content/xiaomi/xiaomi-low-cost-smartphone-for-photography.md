@@ -62,7 +62,7 @@ Xiaomi's low-cost smartphones often feature multiple cameras, each designed for 
 
 ### Long-Lasting Battery Life
 
-Photography can be a battery-intensive activity, especially when using features like video recording or night mode.  Xiaomi addresses this with large-capacity batteries that can last all day, even with heavy usage. Some models also support fast charging, ensuring that The Potensians can quickly get back to capturing memories.
+Photography can be a battery-intensive activity, especially when using features like [video recording](/xiaomi/xiaomi-smartphone-for-video-recording) or night mode.  Xiaomi addresses this with large-capacity batteries that can last all day, even with heavy usage. Some models also support fast charging, ensuring that The Potensians can quickly get back to capturing memories.
 
 ### User-Friendly Camera Interface
 

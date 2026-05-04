@@ -120,7 +120,7 @@ Low-light photography is where Xiaomi truly shines. The 1-inch Sony IMX989 senso
 
 ### Video Recording
 
-For video enthusiasts, all four brands offer impressive capabilities. Xiaomi's ProFocus and advanced stabilization make it a strong contender for videography. Samsung's 8K video recording and enhanced stabilization are perfect for capturing high-quality videos. Apple's Cinematic Mode allows for professional-grade video recording with adjustable focus effects, while Huawei's video capabilities are bolstered by its advanced imaging system.
+For video enthusiasts, all four brands offer impressive capabilities. Xiaomi's ProFocus and advanced stabilization make it a strong contender for videography. Samsung's 8K [video recording](/xiaomi/xiaomi-smartphone-for-video-recording) and enhanced stabilization are perfect for capturing high-quality videos. Apple's Cinematic Mode allows for professional-grade video recording with adjustable focus effects, while Huawei's video capabilities are bolstered by its advanced imaging system.
 
 ## Price Comparison: Value for Money
 

@@ -43,7 +43,7 @@ Xiaomi has established itself as a leader in smartphone photography, offering de
 </tr>
 <tr>
 <td>Xiaomi Mi 12T Pro</td>
-<td>200MP main camera; Ultra Night Video mode; HDR10+ video recording</td>
+<td>200MP main camera; Ultra Night Video mode; HDR10+ [video recording](/xiaomi/xiaomi-smartphone-for-video-recording)</td>
 <td>Content creators focusing on both photos and videos</td>
 </tr>
 <tr>
