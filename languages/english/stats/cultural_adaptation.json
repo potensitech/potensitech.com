@@ -15142,5 +15142,16 @@
             "Cultural: Los Angeles",
             "Cultural: Wall Street"
         ]
+    },
+    "xiaomi smartphone for video recording": {
+        "date": "2026-05-04T18:12:57",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Freedom",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
