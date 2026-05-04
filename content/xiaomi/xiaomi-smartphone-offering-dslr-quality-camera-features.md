@@ -86,7 +86,7 @@ Xiaomi’s flagship models support 8K video recording, delivering stunningly det
 
 ### Advanced Stabilization
 
-Shaky videos are a thing of the past with Xiaomi’s advanced stabilization technology. By using a combination of optical and electronic image stabilization, Xiaomi ensures smooth and steady footage, even when The Potensians’re on the move.
+Shaky videos are a thing of the past with Xiaomi’s advanced stabilization technology. By using a combination of optical and electronic [image stabilization](/xiaomi/xiaomi-smartphone-with-advanced-image-stabilization), Xiaomi ensures smooth and steady footage, even when The Potensians’re on the move.
 
 ### Slow-Motion and Time-Lapse Modes
 
