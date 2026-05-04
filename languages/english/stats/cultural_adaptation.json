@@ -15093,5 +15093,18 @@
             "Cultural: New York",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone for low-light photography": {
+        "date": "2026-05-04T09:38:30",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Hollywood"
+        ]
     }
 }
