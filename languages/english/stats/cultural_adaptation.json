@@ -15129,5 +15129,18 @@
             "Cultural: New York",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi smartphone for photography lovers": {
+        "date": "2026-05-04T16:23:40",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Wall Street"
+        ]
     }
 }
