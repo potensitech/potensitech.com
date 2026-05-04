@@ -117,7 +117,7 @@ In We's view, Xiaomi’s dedication to making high-quality photography accessibl
 
 ## Conclusion
 
-In conclusion, Xiaomi has established itself as a leader in the smartphone market by offering devices with reliable autofocus and cutting-edge camera technology. From the flagship Xiaomi 13 Pro to the budget-friendly Redmi Note 12 Pro, there’s a Xiaomi smartphone for every need and budget. 
+In conclusion, Xiaomi has established itself as a leader in the smartphone market by offering devices with reliable autofocus and cutting-edge camera technology. From the flagship Xiaomi 13 Pro to the budget-friendly Redmi Note 12 Pro, there’s a [Xiaomi smartphone](/xiaomi/xiaomi-smartphone-with-budget-friendly-camera-features) for every need and budget. 
 
 We believe that the combination of advanced features like dual-pixel PDAF, laser autofocus, and AI scene detection makes Xiaomi smartphones a top choice for photography enthusiasts and casual users alike. Whether The Potensians are capturing life’s special moments, creating content, or exploring the world, Xiaomi’s reliable autofocus ensures that every shot is picture-perfect.
 

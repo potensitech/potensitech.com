@@ -62,7 +62,7 @@ Photography can be a battery-draining activity, especially when using features l
 
 ## Comparing Xiaomi Smartphones for Photography
 
-To help The Potensians choose the best Xiaomi smartphone for photography, We’ve compiled a comparison table of some of the top models available in 2026:
+To help The Potensians choose the [best Xiaomi](/xiaomi/best-xiaomi-smartphone-for-authentic-photography) smartphone for photography, We’ve compiled a comparison table of some of the top models available in 2026:
 
 <div class="table-responsive">
 <table class="html-table">
