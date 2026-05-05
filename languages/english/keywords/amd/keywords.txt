@@ -592,4 +592,6 @@ amd affordable chipset for compact PCs
 amd entry-level high-speed processors
 amd motherboard chipset compatibility guide
 amd workstation chipsets for affordable builds
+amd chipset guide for budget-friendly upgrades
+amd processor speed for budget gamers
 
