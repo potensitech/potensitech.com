@@ -15172,5 +15172,18 @@
         "matches": [
             "Cultural: New York"
         ]
+    },
+    "xiaomi affordable smartphone with fast autofocus": {
+        "date": "2026-05-05T03:45:55",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: Los Angeles",
+            "Cultural: Broadway",
+            "Cultural: Burgers"
+        ]
     }
 }
