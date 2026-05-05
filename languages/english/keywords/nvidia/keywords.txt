@@ -651,4 +651,5 @@ nvidia entry-level chipsets for GPUs
 nvidia GPU compatibility with budget monitors
 nvidia affordable chipsets for high-performance GPUs
 nvidia processors for cost-effective video editing
+nvidia processor speed comparison for gamers
 
