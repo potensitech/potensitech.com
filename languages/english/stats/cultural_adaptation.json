@@ -15185,5 +15185,14 @@
             "Cultural: Broadway",
             "Cultural: Burgers"
         ]
+    },
+    "xiaomi affordable smartphone with high-performance graphics": {
+        "date": "2026-05-06T05:49:31",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
