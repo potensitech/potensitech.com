@@ -8309,5 +8309,9 @@
   "intel processor chipset compatibility for upgrades": true,
   "intel SSDs for cost-effective storage performance": true,
   "intel solid-state drives for affordable storage": true,
-  "intel SSD options for budget computing": true
+  "intel SSD options for budget computing": true,
+  "nvidia processor optimization for graphic rendering": true,
+  "nvidia processor speed for high-performance graphics": true,
+  "nvidia budget-friendly GPUs with wide compatibility": true,
+  "nvidia gaming GPUs for smooth performance": true
 }
