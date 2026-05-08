@@ -11,11 +11,14 @@ tags: ["xiaomi", "budget-friendly", "portable", "SSD", "storage"]
 categories: ["xiaomi"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/xiaomi/xiaomi-budget-friendly-portable-ssd-for-storage-solutions.jpg"
+featuredImagePreview: "/images/xiaomi/xiaomi-budget-friendly-portable-ssd-for-storage-solutions.jpg"
 ---
+
+![Xiaomi Budget-Friendly Portable SSD for Storage Solutions](/images/xiaomi/xiaomi-budget-friendly-portable-ssd-for-storage-solutions.jpg)
+
 
 
 ---
