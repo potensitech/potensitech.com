@@ -449,4 +449,6 @@ philips reliable chipset for personal gadgets
 philips advanced processor for kitchen electronics
 philips durable chipset for home appliances
 philips energy-efficient processor for personal electronics
+philips processor speed for personal electronics
+philips processor performance for grooming devices
 
