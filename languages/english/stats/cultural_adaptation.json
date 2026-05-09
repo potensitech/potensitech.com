@@ -15207,5 +15207,14 @@
             "Cultural: Steve Jobs",
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi affordable smartphone with portable SSD": {
+        "date": "2026-05-09T05:40:17",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
