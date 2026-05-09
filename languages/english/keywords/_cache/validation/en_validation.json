@@ -8343,5 +8343,8 @@
   "intel budget solid state drive options": true,
   "intel gaming processor compatible chipsets": true,
   "intel SSDs for laptops": true,
-  "intel affordable SSDs for desktops": true
+  "intel affordable SSDs for desktops": true,
+  "nvidia processor optimized for video editing": true,
+  "nvidia budget-friendly graphics card for beginners": true,
+  "nvidia affordable desktop processor": true
 }
