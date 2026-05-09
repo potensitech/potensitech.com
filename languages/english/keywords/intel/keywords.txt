@@ -783,4 +783,8 @@ intel processor chipset compatibility for upgrades
 intel SSDs for cost-effective storage performance
 intel solid-state drives for affordable storage
 intel SSD options for budget computing
+intel budget solid state drive options
+intel gaming processor compatible chipsets
+intel SSDs for laptops
+intel affordable SSDs for desktops
 
