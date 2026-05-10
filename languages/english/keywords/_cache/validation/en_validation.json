@@ -8368,5 +8368,10 @@
   "intel solid-state drives for high-performance storage": true,
   "affordable intel SSDs for everyday use": true,
   "intel chipset solutions for cost-effective processors": true,
-  "nvidia entry-level GPUs for gaming": true
+  "nvidia entry-level GPUs for gaming": true,
+  "amd cost-effective processors for everyday computing": true,
+  "amd affordable chipset for high-performance builds": true,
+  "amd entry-level processors for beginners": true,
+  "amd processor optimization for budget builds": true,
+  "amd affordable chipset for overclocking compatibility": true
 }
