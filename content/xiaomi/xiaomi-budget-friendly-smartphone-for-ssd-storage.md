@@ -87,7 +87,7 @@ To complement the SSD storage, Xiaomi has equipped this smartphone with a powerf
 
 ### Camera Capabilities
 
-Photography enthusiasts will appreciate the advanced camera system on this device. With a high-resolution primary camera and multiple lenses for wide-angle, macro, and portrait shots, The Potensians can capture every moment in stunning detail. The phone also features AI-powered enhancements, ensuring that every photo looks professional.
+Photography enthusiasts will appreciate the [advanced camera](/xiaomi/xiaomi-smartphone-with-advanced-camera-features) system on this device. With a high-resolution primary camera and multiple lenses for wide-angle, macro, and portrait shots, The Potensians can capture every moment in stunning detail. The phone also features AI-powered enhancements, ensuring that every photo looks professional.
 
 ## Why Choose Xiaomi’s SSD Smartphone in 2026?
 
