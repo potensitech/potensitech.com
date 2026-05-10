@@ -451,4 +451,6 @@ philips durable chipset for home appliances
 philips energy-efficient processor for personal electronics
 philips processor speed for personal electronics
 philips processor performance for grooming devices
+philips reliable high-speed kitchen appliance
+philips high-performance blender for making smoothies
 
