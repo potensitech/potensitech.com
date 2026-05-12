@@ -661,4 +661,6 @@ nvidia processor optimized for video editing
 nvidia budget-friendly graphics card for beginners
 nvidia affordable desktop processor
 nvidia entry-level GPUs for gaming
+nvidia GPU for budget-friendly gaming PCs
+nvidia processor for affordable gaming performance
 
