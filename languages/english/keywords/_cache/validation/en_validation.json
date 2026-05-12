@@ -8401,5 +8401,8 @@
   "intel affordable desktop processor solutions": true,
   "intel reliable solid-state storage options": true,
   "nvidia GPU for budget-friendly gaming PCs": true,
-  "nvidia processor for affordable gaming performance": true
+  "nvidia processor for affordable gaming performance": true,
+  "amd entry-level processor for everyday performance": true,
+  "amd processor for budget-conscious gamers": true,
+  "amd affordable processor for productivity performance": true
 }
