@@ -15244,5 +15244,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "xiaomi high-resolution smartphone camera features": {
+        "date": "2026-05-13T09:59:01",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: BBQ"
+        ]
     }
 }
