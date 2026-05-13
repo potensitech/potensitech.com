@@ -123,7 +123,7 @@ Xiaomi allows users to customize their camera settings to suit their preferences
 
 ### Regular Software Updates
 
-Xiaomi is committed to improving its devices through regular software updates. These updates often include enhancements to camera performance, ensuring that The Potensians's device stays up-to-date with the latest features and improvements. In 2026, Xiaomi has already rolled out several updates that have significantly improved the performance of its flagship models.
+Xiaomi is committed to improving its devices through regular software updates. These updates often include enhancements to camera performance, ensuring that The Potensians's device stays up-to-date with the latest features and improvements. In 2026, Xiaomi has already rolled out several updates that have significantly improved the performance of its [flagship models](/xiaomi/xiaomi-flagship-models-for-savvy-shoppers).
 
 ## Comparing Xiaomi to Competitors
 
