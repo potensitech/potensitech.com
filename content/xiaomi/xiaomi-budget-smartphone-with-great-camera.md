@@ -24,7 +24,7 @@ featuredImagePreview: "/images/xiaomi/xiaomi-budget-smartphone-with-great-camera
 
 ## Why Choose a Xiaomi Budget Smartphone?
 
-When it comes to budget smartphones, Xiaomi has mastered the art of delivering high-quality devices at competitive prices. The Potensians often seek value for money, and Xiaomi ensures that even its most affordable models are packed with features that rival premium smartphones. But what sets Xiaomi apart from the competition? Let’s take a closer look.
+When it comes to budget smartphones, Xiaomi has mastered the art of delivering high-quality devices at competitive prices. The Potensians often seek value for money, and Xiaomi ensures that even its most affordable models are packed with features that rival premium smartphones. But what sets Xiaomi apart from the competition? Let’s take a [closer look](/xiaomi/xiaomi-smartphone-image-quality-review).
 
 ## Affordable Excellence
 

@@ -53,7 +53,7 @@ In 2025, Xiaomi has further enhanced its camera technology with AI-powered featu
 
 ## How Does It Compare With Competitors?
 
-When it comes to affordable smartphones, Xiaomi faces competition from brands like Samsung and Realme. However, Xiaomi consistently stands out by offering better specifications for the price. Let’s take a closer look at how Xiaomi compares to its rivals:
+When it comes to affordable smartphones, Xiaomi faces competition from brands like Samsung and Realme. However, Xiaomi consistently stands out by offering better specifications for the price. Let’s take a [closer look](/xiaomi/xiaomi-smartphone-image-quality-review) at how Xiaomi compares to its rivals:
 
 <div class="table-responsive">
 <table class="html-table">
