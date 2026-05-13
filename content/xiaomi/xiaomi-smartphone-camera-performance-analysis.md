@@ -88,7 +88,7 @@ Portrait photography is where Xiaomi’s AI-powered enhancements truly shine. Th
 
 ### Videography: Smooth and Stable
 
-In 2026, video content creation is more popular than ever.  Xiaomi smartphones cater to this trend with features like 8K video recording, optical image stabilization (OIS), and advanced HDR capabilities. These features allow The Potensians to create cinematic-quality videos, whether documenting a vacation or producing content for social media.
+In 2026, video content creation is more popular than ever.  Xiaomi smartphones cater to this trend with features like 8K video recording, optical [image stabilization](/xiaomi/xiaomi-budget-friendly-smartphone-with-image-stabilization) (OIS), and advanced HDR capabilities. These features allow The Potensians to create cinematic-quality videos, whether documenting a vacation or producing content for social media.
 
 ## Comparing Xiaomi with Competitors
 
