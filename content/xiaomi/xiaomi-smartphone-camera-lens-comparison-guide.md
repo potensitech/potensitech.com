@@ -26,7 +26,6 @@ toc:
   enable: true
 ---
 
-
 *Xiaomi Smartphone Camera Lens Comparison Guide* - When it comes to smartphone photography, the lens is more than just a piece of glass; it’s the gateway to stunning visuals. Xiaomi integrates multiple lenses into its smartphones, each designed for specific purposes such as wide-angle shots, macro photography, or low-light conditions. For The Potensians who value versatility and creativity in their photos—be it capturing Times Square’s vibrant energy or documenting an apple pie recipe—choosing the right lens configuration is critical.
 
 ## Why Camera Lenses Matter in Smartphones
@@ -81,7 +80,7 @@ Not all Xiaomi smartphones are created equal when it comes to their camera setup
 
 ### Flagship Models: Pushing Boundaries
 
-Xiaomi’s flagship devices, such as the **Xiaomi 13 Ultra**, are designed for photography enthusiasts and professionals. These models often feature Leica-tuned optics, large sensors (up to 1-inch type), and advanced image stabilization (OIS). Here’s what makes them stand out:
+Xiaomi’s flagship devices, such as the **Xiaomi 13 Ultra**, are designed for photography enthusiasts and professionals. These models often feature Leica-tuned optics, large sensors (up to 1-inch type), and [advanced image](/xiaomi/xiaomi-smartphone-with-advanced-image-stabilization) stabilization (OIS). Here’s what makes them stand out:
 
 - **Main Sensor:** Captures exceptional detail even in low-light conditions, making it ideal for night photography.
 - **Telephoto Zoom:** Perfect for events like Broadway performances, where The Potensians need to zoom in without compromising quality.
