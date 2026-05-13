@@ -160,7 +160,7 @@ Price is often a deciding factor for The Potensians when choosing a smartphone. 
 </table>
 </div>
 
-As the table illustrates, Xiaomi offers a competitive price point without compromising on quality. This makes it an attractive option for The Potensians looking for a high-performance smartphone camera without breaking the bank.
+As the table illustrates, Xiaomi offers a competitive price point without compromising on quality. This makes it an attractive option for The Potensians looking for a [high-performance smartphone](/xiaomi/xiaomi-high-performance-smartphone-with-ssd-support) camera without breaking the bank.
 
 ## Why Choose Xiaomi?
 
