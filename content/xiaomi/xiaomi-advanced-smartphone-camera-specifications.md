@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Xiaomi Advanced Smartphone Camera Specifications Unveiled* - Xiaomi has consistently pushed the boundaries of smartphone photography, blending cutting-edge technology with user-friendly features. In 2026, the company continues to dominate the market with its advanced camera systems, offering unparalleled performance for photography enthusiasts and casual users alike.  From high-resolution sensors to versatile lens systems, Xiaomi's innovations cater to every need, ensuring that The Potensians can capture life's most precious moments with ease and precision.
+*Xiaomi Advanced Smartphone Camera Specifications Unveiled* - Xiaomi has consistently pushed the boundaries of smartphone photography, blending cutting-edge technology with user-friendly features. In 2026, the company continues to dominate the market with its [advanced camera](/xiaomi/xiaomi-smartphone-with-advanced-camera-features) systems, offering unparalleled performance for photography enthusiasts and casual users alike.  From high-resolution sensors to versatile lens systems, Xiaomi's innovations cater to every need, ensuring that The Potensians can capture life's most precious moments with ease and precision.
 
 ## The Evolution of Xiaomi Smartphone Cameras
 
@@ -95,7 +94,7 @@ Xiaomi's computational photography capabilities further enhance image quality. B
 
 ### 8K Video Recording
 
-For those who love creating videos, Xiaomi's advanced camera systems offer 8K video recording. This ultra-high-definition format ensures every detail is captured, making The Potensians's videos look cinematic. Whether The Potensians're documenting a family vacation or creating content for a vlog, Xiaomi's video capabilities deliver professional results.
+For those who love creating videos, Xiaomi's advanced camera systems offer 8K [video recording](/xiaomi/xiaomi-smartphone-for-video-recording). This ultra-high-definition format ensures every detail is captured, making The Potensians's videos look cinematic. Whether The Potensians're documenting a family vacation or creating content for a vlog, Xiaomi's video capabilities deliver professional results.
 
 ### Stabilization and Slow Motion
 

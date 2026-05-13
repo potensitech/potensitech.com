@@ -91,7 +91,7 @@ Xiaomi’s AI Scene Detection is a feature that identifies the subject of a phot
 
 ### Portrait Mode and Bokeh Effects
 
-Another area where Xiaomi excels is portrait photography. With advanced depth sensors and AI-powered bokeh effects, Xiaomi smartphones create professional-grade portraits. The background blur is smooth and natural, ensuring the subject stands out. In We's view, this feature is a game-changer for casual photographers looking to capture memorable moments with friends and family.
+Another area where Xiaomi excels is portrait photography. With advanced depth sensors and AI-powered bokeh effects, [Xiaomi smartphones](/xiaomi/xiaomi-smartphones-for-affordable-digital-photography) create professional-grade portraits. The background blur is smooth and natural, ensuring the subject stands out. In We's view, this feature is a game-changer for casual photographers looking to capture memorable moments with friends and family.
 
 ## Comparing Xiaomi Cameras to Competitors
 
