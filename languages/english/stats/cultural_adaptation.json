@@ -15280,5 +15280,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "xiaomi smartphone photo quality evaluation": {
+        "date": "2026-05-13T18:36:57",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: New Year's Day",
+            "Cultural: Wall Street",
+            "Cultural: Times Square",
+            "Cultural: Burgers"
+        ]
     }
 }
