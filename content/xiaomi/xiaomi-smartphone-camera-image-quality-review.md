@@ -123,7 +123,7 @@ From macro shots to wide-angle landscapes, Xiaomi smartphones offer versatility 
 
 ### Video Capabilities
 
-In addition to still photography, Xiaomi excels in video recording. Features like 8K video support, optical image stabilization (OIS), and cinematic filters make it easy to create professional-quality videos. Whether documenting a family vacation or creating content for social media, The Potensians can rely on Xiaomi for stunning results.
+In addition to still photography, Xiaomi excels in [video recording](/xiaomi/xiaomi-smartphone-for-video-recording). Features like 8K video support, optical image stabilization (OIS), and cinematic filters make it easy to create professional-quality videos. Whether documenting a family vacation or creating content for social media, The Potensians can rely on Xiaomi for stunning results.
 
 ## The Future of Xiaomi Smartphone Cameras
 
