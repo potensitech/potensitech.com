@@ -801,4 +801,5 @@ intel affordable chipset for seamless compatibility
 intel economical processor with reliable performance
 intel processor balancing affordability and performance
 intel budget chipset for reliable compatibility
+affordable intel solid state
 
