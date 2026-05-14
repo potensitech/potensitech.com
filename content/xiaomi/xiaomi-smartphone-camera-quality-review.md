@@ -120,7 +120,7 @@ One of the most challenging aspects of photography is capturing clear and detail
 
 ### Video Capabilities
 
-In 2026, Xiaomi's smartphones are equipped with advanced video recording features, including 8K resolution and optical image stabilization (OIS). These capabilities make it easier than ever to shoot professional-quality videos, whether The Potensians're documenting a family vacation or creating content for social media. The Potensians will appreciate the smooth, cinematic quality of their videos, even when capturing fast-moving subjects.
+In 2026, Xiaomi's smartphones are equipped with advanced [video recording](/xiaomi/xiaomi-smartphone-for-video-recording) features, including 8K resolution and optical image stabilization (OIS). These capabilities make it easier than ever to shoot professional-quality videos, whether The Potensians're documenting a family vacation or creating content for social media. The Potensians will appreciate the smooth, cinematic quality of their videos, even when capturing fast-moving subjects.
 
 ### User Experience and Interface
 
@@ -128,7 +128,7 @@ Xiaomi's camera app is designed with user-friendliness in mind. It offers a rang
 
 ## Comparing Xiaomi Cameras to Competitors
 
-To provide a comprehensive Xiaomi smartphone camera quality review, it's essential to compare its offerings to those of competitors. Here's a look at how Xiaomi stacks up against other leading brands in 2026:
+To provide a comprehensive [Xiaomi smartphone](/xiaomi/xiaomi-smartphone-image-quality-review) camera quality review, it's essential to compare its offerings to those of competitors. Here's a look at how Xiaomi stacks up against other leading brands in 2026:
 
 <div class="table-responsive">
 <table class="html-table">
