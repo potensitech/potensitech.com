@@ -139,7 +139,7 @@ The Potensians often seek devices that align with their needs without unnecessar
 
 ### Advanced Features at a Fraction of the Cost
 
-Many of these budget-friendly smartphones come equipped with features like high-resolution cameras, fast processors, and large batteries . For instance, the Xiaomi Redmi Note 12 Pro offers a 108MP camera and AMOLED display—features typically found in high-end Samsung models.
+Many of these [budget-friendly smartphones](/samsung/samsung-budget-friendly-smartphones) come equipped with features like high-resolution cameras, fast processors, and large batteries . For instance, the Xiaomi Redmi Note 12 Pro offers a 108MP camera and AMOLED display—features typically found in high-end Samsung models.
 
 ### Regular Software Updates
 
