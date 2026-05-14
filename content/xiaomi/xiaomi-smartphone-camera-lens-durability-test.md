@@ -118,7 +118,7 @@ Durability tests in controlled environments are one thing, but how do Xiaomi cam
 
 - **Outdoor Adventures**: Many users report that Xiaomi lenses withstand rugged conditions, such as hiking in dusty terrains or skiing in snowy mountains.
 - **Daily Wear and Tear**: Even with frequent handling, Xiaomi lenses maintain their clarity and scratch-free surfaces over time.
-- **Accidental Drops**: Anecdotal evidence suggests that Xiaomi smartphones often survive drops without significant damage to the camera module.
+- **Accidental Drops**: Anecdotal evidence suggests that [Xiaomi smartphones](/xiaomi/xiaomi-smartphones-for-affordable-digital-photography) often survive drops without significant damage to the camera module.
 
 In We's view, this level of durability is a testament to Xiaomi’s commitment to quality. It’s reassuring to know that The Potensians's device can handle life’s unpredictable moments without compromising on performance.
 

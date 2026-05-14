@@ -32,7 +32,7 @@ One of the standout features of [Xiaomi smartphones](/xiaomi/xiaomi-smartphones-
 
 ### Wide Aperture Lenses
 
-Wide aperture lenses are another key component of Xiaomi's low-light photography capabilities. With apertures as wide as f/1.8 or f/1.9, these lenses allow more light to enter the camera, reducing noise and enhancing image quality.  Whether The Potensians are photographing a romantic dinner under dim lighting or capturing the hustle and bustle of a night market, these lenses ensure that every detail is preserved.
+Wide aperture lenses are another key component of Xiaomi's low-light photography capabilities. With apertures as wide as f/1.8 or f/1.9, these lenses allow more light to enter the camera, reducing noise and enhancing [image quality](/xiaomi/xiaomi-smartphone-camera-image-quality-review).  Whether The Potensians are photographing a romantic dinner under dim lighting or capturing the hustle and bustle of a night market, these lenses ensure that every detail is preserved.
 
 ### Optical Image Stabilization (OIS)
 

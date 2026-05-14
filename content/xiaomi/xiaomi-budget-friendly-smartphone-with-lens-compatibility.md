@@ -28,7 +28,7 @@ Xiaomi's latest smartphone is packed with features that make it a standout choic
 
 ### Advanced Camera System
 
-The smartphone boasts a high-resolution primary camera paired with advanced software algorithms for stunning image quality. The inclusion of lens compatibility allows users to attach external lenses, such as wide-angle, macro, and telephoto lenses, to further expand their creative possibilities.
+The smartphone boasts a high-resolution primary camera paired with advanced software algorithms for stunning [image quality](/xiaomi/xiaomi-smartphone-camera-image-quality-review). The inclusion of lens compatibility allows users to attach external lenses, such as wide-angle, macro, and telephoto lenses, to further expand their creative possibilities.
 
 ### Affordable Pricing
 
