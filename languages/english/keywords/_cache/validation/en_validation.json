@@ -8458,5 +8458,8 @@
   "nvidia affordable chipset speed": true,
   "nvidia affordable chipset performance": true,
   "nvidia affordable gaming GPU performance": true,
-  "nvidia affordable workstation GPU compatibility": true
+  "nvidia affordable workstation GPU compatibility": true,
+  "amd high-speed affordable processor": true,
+  "amd gaming-optimized processor for performance": true,
+  "amd multitasking-efficient chipset with affordable price": true
 }
