@@ -663,4 +663,10 @@ nvidia affordable desktop processor
 nvidia entry-level GPUs for gaming
 nvidia GPU for budget-friendly gaming PCs
 nvidia processor for affordable gaming performance
+nvidia affordable processor compatibility
+nvidia affordable processor performance
+nvidia affordable chipset speed
+nvidia affordable chipset performance
+nvidia affordable gaming GPU performance
+nvidia affordable workstation GPU compatibility
 
