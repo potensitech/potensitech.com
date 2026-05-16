@@ -4867,3 +4867,5 @@ chipset compatibility
 processor speed
 chipset compatibility
 solid state
+chipset compatibility
+solid state
