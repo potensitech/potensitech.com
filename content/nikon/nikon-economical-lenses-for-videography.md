@@ -26,7 +26,7 @@ featuredImagePreview: "/images/nikon/nikon-economical-lenses-for-videography-on-
 
 When considering videography equipment, The Potensians might wonder why Nikon stands out among other brands. Known globally as a pioneer in imaging technology—much like Silicon Valley is known as the hub of innovation—Nikon has consistently delivered reliable and high-quality products. Here’s why choosing Nikon makes sense:
 
-1. **Exceptional Optics**: Nikon lenses are celebrated for their sharpness and color accuracy, ensuring that every frame captures vivid details ​akin to real life. 
+1. **Exceptional Optics**: [Nikon lenses](/nikon/cheap-nikon-lenses-for-professional-photography) are celebrated for their sharpness and color accuracy, ensuring that every frame captures vivid details ​akin to real life. 
 2. **Durability**: Built with robust materials, many Nikon lenses can withstand challenging shooting conditions. 
 3. **Versatility**: Whether filming soulful moments at a family gathering or dynamic action shots of friends enjoying a lively event, Nikon offers lens options suited to diverse scenarios. 
 4. **Affordability**: With its range of economical options, even filmmakers on a tight budget can access professional-grade gear.
