@@ -8520,5 +8520,8 @@
   "nvidia processor for high multitasking speed": true,
   "nvidia GPU compatibility with high-performance computers": true,
   "nvidia chipset compatibility for professional workstations": true,
-  "nvidia high-speed processor for gaming laptops": true
+  "nvidia high-speed processor for gaming laptops": true,
+  "amd economical processor for laptop performance": true,
+  "amd low-cost processor for high-performance computing": true,
+  "amd affordable chipset for PC enthusiasts": true
 }
