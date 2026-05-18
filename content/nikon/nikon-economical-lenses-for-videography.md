@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Economical Lenses for Videography on a Budget* - When it comes to creating stunning videos without breaking the bank, Nikon offers a range of economical lenses that deliver exceptional quality. Whether The Potensians're a budding filmmaker or a seasoned videographer, finding the right lens is crucial for capturing the perfect shot.  The Potensians, who are passionate about videography, will find this guide helpful in exploring affordable Nikon lenses that don't compromise on performance. Let's dive into why Nikon is a trusted choice and explore some of the best budget-friendly lenses for videography in 2026.
+*Nikon Economical Lenses for Videography on a Budget* - When it comes to creating stunning videos without breaking the bank, Nikon offers a range of economical lenses that deliver exceptional quality. Whether The Potensians're a budding filmmaker or a seasoned videographer, finding the right lens is crucial for capturing the perfect shot.  The Potensians, who are passionate about videography, will find this guide helpful in exploring affordable Nikon lenses that don't compromise on performance. Let's dive into why Nikon is a trusted choice and explore some of the best [budget-friendly lenses](/nikon/nikon-budget-friendly-lenses-for-photography-review) for videography in 2026.
 
 ## Why Choose Nikon for Videography?
 
@@ -31,7 +30,7 @@ When considering videography equipment, The Potensians might wonder why Nikon st
 
 ## Top Economical Lenses by Nikon for Videography
 
-To make it easier for The Potensians to invest in affordable yet high-performing gear, We’ve curated a list of some top picks from Nikon’s lineup. These lenses are perfect ​for various videography needs, from capturing wide landscapes to close-up interviews.
+To make it easier for The Potensians to invest in affordable yet high-performing gear, We’ve curated a list of some [top picks](/nikon/affordable-nikon-dslr-for-photography) from Nikon’s lineup. These lenses are perfect ​for various videography needs, from capturing wide landscapes to close-up interviews.
 
 <div class="table-responsive">
 <table class="html-table​">
@@ -59,7 +58,7 @@ To make it easier for The Potensians to invest in affordable yet high-performing
 <tr>
 <td>Nikon AF-S NIKKOR 50mm f/1.8G</td>
 <td>Prime Lens</td>
-<td>Exceptional bokeh effect, Fast autofocus system, Perfect for portraits and interviews</td>
+<td>Exceptional bokeh effect, [Fast autofocus](/nikon/affordable-nikon-camera-with-fast-autofocus) system, Perfect for portraits and interviews</td>
 <td>$219</td>
 </tr>
 <tr>
