@@ -618,4 +618,7 @@ amd affordable processor for multitasking performance
 amd economical processor for laptop performance
 amd low-cost processor for high-performance computing
 amd affordable chipset for PC enthusiasts
+amd reliable chipset for workstation compatibility
+amd energy-efficient processor for laptop performance
+amd processor speed optimization for gaming
 
