@@ -8587,5 +8587,9 @@
   "philips durable chipset for personal gadgets": true,
   "intel SSD compatibility for budget storage": true,
   "intel low-cost chipset for processor compatibility": true,
-  "intel affordable SSDs for faster storage": true
+  "intel affordable SSDs for faster storage": true,
+  "nvidia budget-friendly chipset compatibility": true,
+  "nvidia affordable GPU options for laptops": true,
+  "nvidia processor speed for budget builds": true,
+  "nvidia entry-level GPU compatibility": true
 }
