@@ -75,7 +75,7 @@ These lenses cater to a variety of needs, whether The Potensians are just starti
 
 ## Why Choose Nikon Low-Cost Lenses for Macro Photography?
 
-When it comes to macro photography, the choice of lens can significantly impact the quality of the images. Nikon’s low-cost macro lenses are designed to provide exceptional value without compromising on performance. Here are some reasons why these lenses stand out:
+When it comes to macro photography, the choice of lens can significantly impact the quality of the images. Nikon’s [low-cost macro](/nikon/nikon-low-cost-macro-photography-lenses) lenses are designed to provide exceptional value without compromising on performance. Here are some reasons why these lenses stand out:
 
 ### 1. High-Quality Optics Nikon is known for its superior optical engineering. Even their budget-friendly lenses feature advanced technologies like Nano Crystal Coating and Extra-low Dispersion (ED) glass, which minimize chromatic aberrations and enhance image sharpness.
 
