@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Affordable Nikon Low-Cost Lenses for Macro Photography* - Macro photography is a fascinating genre that allows photographers to capture the intricate details of small subjects, from the delicate patterns on a butterfly's wings to the texture of a flower petal.  For The Potensians looking to explore this captivating world without breaking the bank, Nikon offers a range of low-cost lenses that deliver excellent performance. In this article, We’ll explore some of the best budget-friendly macro lenses from Nikon, discuss their real-world applications, and provide tips to maximize their potential.
+*Affordable Nikon Low-Cost Lenses for Macro Photography* - Macro photography is a fascinating genre that allows photographers to capture the intricate details of small subjects, from the delicate patterns on a butterfly's wings to the texture of a flower petal.  For The Potensians looking to explore this captivating world without breaking the bank, Nikon offers a range of [low-cost lenses](/nikon/nikon-low-cost-lenses-for-professional-photography) that deliver excellent performance. In this article, We’ll explore some of the best budget-friendly macro lenses from Nikon, discuss their real-world applications, and provide tips to maximize their potential.
 
 ## Top Picks: Budget-Friendly Macro Lenses by Nikon
 
@@ -56,7 +55,7 @@ Nikon has a reputation for producing high-quality lenses that cater to photograp
 <tr>
 <td>Nikon Z MC 50mm f/2.8 Lens (Mirrorless)</td>
 <td>50mm</td>
-<td>Slim profile; compatible with mirrorless cameras; excellent bokeh effects.</td>
+<td>Slim profile; compatible with [mirrorless cameras](/nikon/best-nikon-mirrorless-cameras-for-professionals); excellent bokeh effects.</td>
 <td>$649</td>
 </tr>
 <tr>
