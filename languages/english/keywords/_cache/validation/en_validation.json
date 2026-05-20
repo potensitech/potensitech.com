@@ -8584,5 +8584,8 @@
   "philips reliable chipset for home devices": true,
   "philips energy-efficient chipset for kitchen devices": true,
   "philips advanced processors for home electronics": true,
-  "philips durable chipset for personal gadgets": true
+  "philips durable chipset for personal gadgets": true,
+  "intel SSD compatibility for budget storage": true,
+  "intel low-cost chipset for processor compatibility": true,
+  "intel affordable SSDs for faster storage": true
 }
