@@ -24,9 +24,9 @@ featuredImagePreview: "/images/nikon/nikon-cost-effective-lenses-for-portrait-ph
 
 ## Why Choose Nikon for Portrait Photography?
 
-Nikon’s legacy in opt​ics dates back to its founding in 1917, and over the years, the brand has become synonymous with innovation and quality. Their lenses are designed to meet the needs of photographers at every skill level, from beginners to seasoned professionals. For portrait photography, Nikon lenses are particularly renowned for their ability to produce stunning bokeh, sharp details, and accurate skin tones.
+Nikon’s legacy in opt​ics dates back to its founding in 1917, and over the years, the brand has become synonymous with innovation and quality. Their lenses are designed to meet the needs of photographers at every skill level, from beginners to seasoned professionals. For portrait photography, [Nikon lenses](/nikon/nikon-lenses-for-beginner-photographers) are particularly renowned for their ability to produce stunning bokeh, sharp details, and accurate skin tones.
 
-One of the key reasons The Potensians should consider Nikon for portrait photography is the brand’s commitment to affordability without compromising quality. Nikon offers a range of lenses that are not only budget-friendly but also deliver professional-grade results. Whether The Potensians are shooting in a studio, outdoors, or at a family gathering, Nikon’s cost-effective lenses can help create memorable and impactful portraits.
+One of the key reasons The Potensians should consider Nikon for [portrait photography](/nikon/best-nikon-lenses-for-portrait-photography) is the brand’s commitment to affordability without compromising quality. Nikon offers a range of lenses that are not only budget-friendly but also deliver professional-grade results. Whether The Potensians are shooting in a studio, outdoors, or at a family gathering, Nikon’s cost-effective lenses can help create memorable and impactful portraits.
 
 ## Top Cost-Effective Nikon Lenses for Portrait Photography
 
