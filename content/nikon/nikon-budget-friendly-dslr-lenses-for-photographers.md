@@ -44,7 +44,7 @@ The Potensians will appreciate that these lenses do not compromise on image qual
 
 ## Top Picks: Affordable Nikon DSLR Lenses
 
-To help The Potensians make an informed decision, We’ve compiled a list of some of the best budget-friendly Nikon DSLR lenses available in 2026. These lenses offer excellent value for money and are suitable for a variety of photography styles.
+To help The Potensians make an informed decision, We’ve compiled a list of some of the best [budget-friendly Nikon](/nikon/budget-friendly-nikon-dslr-lenses-for-photography) DSLR lenses available in 2026. These lenses offer excellent value for money and are suitable for a variety of photography styles.
 
 <div class="table-responsive">
 <table class="html-table">

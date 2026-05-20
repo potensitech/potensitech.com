@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*Nikon Cost-Effective Lenses for Portrait Photography* - Nikon has established itself as a leading name in the world of photography, offering a wide range of lenses that cater to both professionals and enthusiasts. Known for their exceptional sharpness, vibrant color reproduction, and durable build quality, Nikon lenses are a favorite among portrait photographers. However, not every photographer has the budget for high-end gear, and Nikon understands this need. That’s why they offer a selection of cost-effective lenses that deliver outstanding performance without breaking the bank. Whether The Potensians are capturing family portraits, professional headshots, or candid moments, Nikon has a lens to suit every need.
+*Nikon Cost-Effective Lenses for Portrait Photography* - Nikon has established itself as a leading name in the world of photography, offering a wide range of lenses that cater to both professionals and enthusiasts. Known for their exceptional sharpness, vibrant color reproduction, and durable build quality, Nikon lenses are a favorite among portrait photographers. However, not every photographer has the budget for high-end gear, and Nikon understands this need. That’s why they offer a selection of [cost-effective lenses](/nikon/nikon-cost-effective-lenses-for-landscape-photography) that deliver outstanding performance without breaking the bank. Whether The Potensians are capturing family portraits, professional headshots, or candid moments, Nikon has a lens to suit every need.
 
 ## Why Choose Nikon for Portrait Photography?
 
@@ -106,7 +105,7 @@ Picture a wedding ceremony under soft candlelight. The NIKKOR 85mm f/1.8G captur
 <tr>
 <td>Aperture Range</td>
 <td>f/1.8 - f/16</td>
-<td>Great for low-light conditions and background separation.</td>
+<td>Great for [low-light conditions](/nikon/best-nikon-cameras-for-low-light-conditions) and background separation.</td>
 </tr>
 <tr>
 <td>Weight</td>
