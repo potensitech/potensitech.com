@@ -11,11 +11,14 @@ tags: ["nikon", "beginner-friendly", "DSLR", "photography", "equipment"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-nikon-beginner-friendly-dslr-photography-equipment.jpg"
+featuredImagePreview: "/images/nikon/top-nikon-beginner-friendly-dslr-photography-equipment.jpg"
 ---
+
+![Top Nikon Beginner-Friendly DSLR Photography Equipment](/images/nikon/top-nikon-beginner-friendly-dslr-photography-equipment.jpg)
+
 
 *Top Nikon Beginner-Friendly DSLR Photography Equipment* - 
 
