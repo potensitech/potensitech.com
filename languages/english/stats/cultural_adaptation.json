@@ -15445,5 +15445,18 @@
             "Cultural: Times Square",
             "Cultural: Central Park"
         ]
+    },
+    "nikon beginner-friendly DSLR photography equipment": {
+        "date": "2026-05-21T06:40:01",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square",
+            "Cultural: Pizza"
+        ]
     }
 }
