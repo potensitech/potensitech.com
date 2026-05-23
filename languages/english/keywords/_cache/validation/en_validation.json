@@ -8646,5 +8646,7 @@
   "nvidia chipset compatibility for gaming": true,
   "nvidia processor speed for multitasking": true,
   "nvidia high-performance GPU speed": true,
-  "nvidia GPU performance for video editing": true
+  "nvidia GPU performance for video editing": true,
+  "amd processor speed for budget-friendly setups": true,
+  "amd affordable chipsets for home PCs": true
 }

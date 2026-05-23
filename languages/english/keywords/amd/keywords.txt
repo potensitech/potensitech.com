@@ -622,4 +622,6 @@ amd reliable chipset for workstation compatibility
 amd energy-efficient processor for laptop performance
 amd processor speed optimization for gaming
 amd affordable chipset for motherboard upgrades
+amd processor speed for budget-friendly setups
+amd affordable chipsets for home PCs
 
