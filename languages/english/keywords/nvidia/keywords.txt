@@ -689,4 +689,8 @@ nvidia entry-level GPU compatibility
 nvidia affordable GPU compatibility analysis
 nvidia high-speed processor performance review
 nvidia affordable GPU performance evaluation
+nvidia chipset compatibility for gaming
+nvidia processor speed for multitasking
+nvidia high-performance GPU speed
+nvidia GPU performance for video editing
 
