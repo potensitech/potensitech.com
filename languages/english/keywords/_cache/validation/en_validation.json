@@ -8669,5 +8669,10 @@
   "cheap intel chipsets for processors": true,
   "nvidia high-performance GPU for gaming laptops": true,
   "nvidia budget-friendly GPU for 4K gaming": true,
-  "nvidia chipset compatibility for advanced gaming": true
+  "nvidia chipset compatibility for advanced gaming": true,
+  "amd low-cost processors for multitasking": true,
+  "amd processor speeds for budget builds": true,
+  "amd processor speed optimization tips": true,
+  "amd gaming compatibility with affordable chipsets": true,
+  "amd processor speeds for high-performance computing": true
 }
