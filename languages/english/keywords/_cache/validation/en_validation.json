@@ -8703,5 +8703,8 @@
   "philips advanced home appliance": true,
   "philips reliable personal gadget": true,
   "philips energy-efficient kitchen processor": true,
-  "Intel chipset compatibility for budget-friendly PCs": true
+  "Intel chipset compatibility for budget-friendly PCs": true,
+  "amd processor speed for cost-effective multitasking": true,
+  "amd chipset compatibility for budget-conscious gaming": true,
+  "amd entry-level processor for everyday tasks": true
 }
