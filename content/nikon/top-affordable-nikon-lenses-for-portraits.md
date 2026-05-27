@@ -11,25 +11,28 @@ tags: ["top", "affordable", "Nikon", "lenses", "portraits"]
 categories: ["nikon"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 schema_type: "Review"
 review:
-  name: "Top Affordable Nikon Lenses for Portraits You’ll Love"
-  reviewBody: "Discover the *top affordable Nikon lenses for portraits* that deliver stunning quality without breaking the bank. Perfect picks for every portrait photographer!"
-  author: "Sarah Tan"
-  datePublished: "2026-05-27T08:36:47"
-  publisher: "PotensiTech"
-  itemReviewed:
-    name: "top affordable Nikon lenses for portraits"
-    description: "DYNAMIC_ITEM_DESCRIPTION_FOR_top affordable Nikon lenses for portraits"
-  reviewRating:
-    ratingValue: "4.5"
-    bestRating: "5"
-    worstRating: "1"
+name: "Top Affordable Nikon Lenses for Portraits You’ll Love"
+reviewBody: "Discover the *top affordable Nikon lenses for portraits* that deliver stunning quality without breaking the bank. Perfect picks for every portrait photographer!"
+author: "Sarah Tan"
+datePublished: "2026-05-27T08:36:47"
+publisher: "PotensiTech"
+itemReviewed:
+name: "top affordable Nikon lenses for portraits"
+description: "DYNAMIC_ITEM_DESCRIPTION_FOR_top affordable Nikon lenses for portraits"
+reviewRating:
+ratingValue: "4.5"
+bestRating: "5"
+worstRating: "1"
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/nikon/top-affordable-nikon-lenses-for-portraits-you’ll-love.jpg"
+featuredImagePreview: "/images/nikon/top-affordable-nikon-lenses-for-portraits-you’ll-love.jpg"
 ---
+
+![Top Affordable Nikon Lenses for Portraits You’ll Love](/images/nikon/top-affordable-nikon-lenses-for-portraits-you’ll-love.jpg)
+
 
 ---
 
