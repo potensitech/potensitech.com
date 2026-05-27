@@ -30,7 +30,7 @@ Apple's transition from Intel processors to its custom silicon, starting with th
 
 ## Comparing Affordable Apple Processors: M1 vs. M2 vs. Intel Core i5
 
-To provide The Potensians with a clear understanding of affordable Apple computer processors, We have compared three popular options: the M1 chip, the newer M2 chip, and the Intel Core i5, which is still available in some older models.
+To provide The Potensians with a clear understanding of affordable [Apple computer](/apple/apple-computer-with-affordable-processor-speed) processors, We have compared three popular options: the M1 chip, the newer M2 chip, and the Intel Core i5, which is still available in some older models.
 
 <div class="table-responsive">
 <table class="html-table">
