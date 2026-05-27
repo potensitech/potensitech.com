@@ -17,8 +17,7 @@ toc:
   enable: true
 ---
 
-
-*AMD Processors for Affordable Performance Upgrades* - When it comes to upgrading The Potensians's computer's performance without breaking the bank, AMD processors have become a go-to choice for many.​ Known for their balance of cutting-edge technology and affordability, AMD has consistently delivered products that cater to both budget-conscious buyers and performance enthusiasts. Whether The Potensians're a gamer, a content creator, or someone who simply wants a faster and more efficient computer, AMD processors offer a compelling solution.
+*AMD Processors for Affordable Performance Upgrades* - When it comes to upgrading The Potensians's computer's performance without breaking the bank, [AMD processors](/amd/high-performance-amd-processors-for-gaming-rigs) have become a go-to choice for many.​ Known for their balance of cutting-edge technology and affordability, AMD has consistently delivered products that cater to both budget-conscious buyers and performance enthusiasts. Whether The Potensians're a gamer, a content creator, or someone who simply wants a faster and more efficient computer, AMD processors offer a compelling solution.
 
 ## Why Choose AMD Processors?
 
@@ -91,7 +90,7 @@ To help The Potensians make informed decisions, We have compiled a list of popul
 <td>AMD Ryzen 9 5900X</td>
 <td>12 cores / 24 threads</td>
 <td>3.7 GHz</td>
-<td>High-performance gaming & multitasking</td>
+<td>[High-performance gaming](/amd/top-amd-gpus-for-high-performance-gaming) & multitasking</td>
 <td>$400</td>
 </tr>
 <tr>

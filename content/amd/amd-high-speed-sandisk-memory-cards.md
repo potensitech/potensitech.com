@@ -56,7 +56,7 @@ Whether The Potensians're hiking in the mountains or attending a summer festival
 One of the standout advantages of AMD high-speed SanDisk memory cards is their broad compatibility. These cards work seamlessly with a variety of devices, including:
 
 - Cameras from leading brands like Canon, Nikon, and Sony.
-- Laptops and desktops powered by AMD processors.
+- Laptops and desktops powered by [AMD processors](/amd/amd-processors-for-affordable-performance-upgrades).
 - Gaming consoles and other portable devices.
 
 This versatility ensures The Potensians can use these memory cards across their entire device ecosystem without compatibility concerns.
