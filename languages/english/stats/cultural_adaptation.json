@@ -15544,5 +15544,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "amd entry-level processor with strong performance": {
+        "date": "2026-05-28T23:05:36",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Albert Einstein",
+            "Cultural: Innovation"
+        ]
     }
 }
