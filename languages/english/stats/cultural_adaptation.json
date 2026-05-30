@@ -15554,5 +15554,18 @@
             "Cultural: Albert Einstein",
             "Cultural: Innovation"
         ]
+    },
+    "amd affordable processor for multitasking efficiency": {
+        "date": "2026-05-30T06:07:44",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: BBQ",
+            "Cultural: Tex-Mex",
+            "Cultural: Benjamin Franklin",
+            "Cultural: Innovation"
+        ]
     }
 }
