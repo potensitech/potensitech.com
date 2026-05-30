@@ -11,11 +11,14 @@ tags: ["amd", "affordable", "processor", "multitasking", "efficiency"]
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/amd-affordable-processor-for-multitasking-efficiency.jpg"
+featuredImagePreview: "/images/amd/amd-affordable-processor-for-multitasking-efficiency.jpg"
 ---
+
+![AMD Affordable Processor for Multitasking Efficiency](/images/amd/amd-affordable-processor-for-multitasking-efficiency.jpg)
+
 
 
 ---
