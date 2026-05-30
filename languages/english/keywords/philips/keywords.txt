@@ -512,4 +512,6 @@ philips advanced consumer electronics processor tutorial
 philips energy-efficient processor for home appliances
 philips optimized processor for kitchen gadgets
 philips fast processor for household electronics
+philips chipset compatibility for kitchen electronics
+philips high-speed processors for home gadgets
 
