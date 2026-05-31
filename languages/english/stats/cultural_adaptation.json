@@ -15567,5 +15567,18 @@
             "Cultural: Benjamin Franklin",
             "Cultural: Innovation"
         ]
+    },
+    "amd high-performance GPU for creative work": {
+        "date": "2026-05-31T04:50:55",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: Silicon Valley",
+            "Cultural: Central Park",
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
