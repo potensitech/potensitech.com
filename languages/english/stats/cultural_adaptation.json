@@ -15580,5 +15580,18 @@
             "Cultural: Innovation",
             "Cultural: Remote Work"
         ]
+    },
+    "amd energy-efficient processor for eco-conscious users": {
+        "date": "2026-05-31T22:43:50",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Apple Pie",
+            "Cultural: Martin Luther King Jr."
+        ]
     }
 }
