@@ -709,4 +709,7 @@ nvidia GPU for high-speed processing guide
 nvidia affordable graphics card features review
 nvidia processor for multitasking tips
 nvidia GPU for 4K gaming performance
+nvidia chipset compatibility for gaming performance
+nvidia high-performance processor for advanced computing
+nvidia entry-level GPU for beginner gamers
 
