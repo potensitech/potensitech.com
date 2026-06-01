@@ -634,4 +634,6 @@ amd chipset compatibility for budget-conscious gaming
 amd entry-level processor for everyday tasks
 budget-friendly amd chipset compatibility for motherboards
 amd chipset compatibility for overclocking enthusiasts
+amd high-performance affordable chipset for computing
+amd optimized processor speed for multitasking
 
