@@ -845,4 +845,5 @@ budget-friendly Intel chipset options
 affordable Intel processor and chipset pairing
 Intel chipset compatibility with affordable processors
 Intel budget processor chipset guide
+intel affordable processor compatibility checklist
 
