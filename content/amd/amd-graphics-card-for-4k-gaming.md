@@ -11,11 +11,14 @@ tags: ["amd", "graphics card", "4K gaming", "high-performance GPUs"]
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/amd-graphics-card-for-4k-gaming-power-meets-precision.jpg"
+featuredImagePreview: "/images/amd/amd-graphics-card-for-4k-gaming-power-meets-precision.jpg"
 ---
+
+![AMD Graphics Card for 4K Gaming: Power Meets Precision](/images/amd/amd-graphics-card-for-4k-gaming-power-meets-precision.jpg)
+
 
 *AMD Graphics Card for 4K Gaming: Power Meets Precision* - 
 
