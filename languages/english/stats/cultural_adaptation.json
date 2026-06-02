@@ -15600,5 +15600,14 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "amd graphics card for 4K gaming": {
+        "date": "2026-06-02T23:25:13",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
