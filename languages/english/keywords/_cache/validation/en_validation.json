@@ -8845,5 +8845,8 @@
   "nvidia affordable GPU for better performance": true,
   "nvidia processor speed for gaming laptops": true,
   "nvidia affordable processor for budget-friendly PCs": true,
-  "nvidia processor compatibility with AMD motherboards": true
+  "nvidia processor compatibility with AMD motherboards": true,
+  "amd budget-friendly processors for multitasking": true,
+  "amd processors for budget gaming PCs": true,
+  "amd affordable chipsets for high-performance PCs": true
 }

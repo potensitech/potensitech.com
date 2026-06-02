@@ -636,4 +636,7 @@ budget-friendly amd chipset compatibility for motherboards
 amd chipset compatibility for overclocking enthusiasts
 amd high-performance affordable chipset for computing
 amd optimized processor speed for multitasking
+amd budget-friendly processors for multitasking
+amd processors for budget gaming PCs
+amd affordable chipsets for high-performance PCs
 
