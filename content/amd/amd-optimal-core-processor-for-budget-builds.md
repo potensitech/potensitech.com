@@ -57,7 +57,7 @@ AMD’s optimal-core processors boast cutting-edge multi-core architectures that
 <tr>
 <td>Ryzen 3</td>
 <td>4 Cores / 8 Threads</td>
-<td>Entry-level Gaming & Office Work</td>
+<td>[Entry-level Gaming](/amd/affordable-amd-gpu-for-entry-level-gaming) & Office Work</td>
 </tr>
 <tr>
 <td>Ryzen 5</td>
