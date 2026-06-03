@@ -534,4 +534,5 @@ samsung chipset options for budget smartphones
 samsung budget smartphone processor compatibility
 samsung low-cost smartphone chipset guide
 samsung chipset compatibility for entry-level smartphones
+Samsung professional-grade smartphone camera lenses
 
