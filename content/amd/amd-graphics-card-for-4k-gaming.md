@@ -34,7 +34,7 @@ Take, for example, the **Radeon RX 7900 XTX**, one of AMD's flagship GPUs in 202
 
 ### Cutting-Edge Technology
 
-AMD graphics cards are packed with advanced technologies that enhance gaming performance and visual fidelity. One standout feature is **FidelityFX Super Resolution (FSR)**, an AI-driven upscaling technology that improves image quality while maintaining smooth frame rates. This is a game-changer for visually demanding titles like *Cyberpunk 2077*and*Elden Ring*, where every detail contributes to the immersive experience.
+[AMD graphics](/amd/buy-amd-graphics-card) cards are packed with advanced technologies that enhance gaming performance and visual fidelity. One standout feature is **FidelityFX Super Resolution (FSR)**, an AI-driven upscaling technology that improves image quality while maintaining smooth frame rates. This is a game-changer for visually demanding titles like *Cyberpunk 2077*and*Elden Ring*, where every detail contributes to the immersive experience.
 
 Another key innovation is **Smart Access Memory (SAM)**, which allows AMD Ryzen processors and Radeon GPUs to work together seamlessly. This synergy optimizes data transfer speeds, ensuring that The Potensians can enjoy uninterrupted gaming sessions without performance bottlenecks.  It’s like having a perfectly synchronized orchestra, where every instrument plays in harmony to create a masterpiece.
 
