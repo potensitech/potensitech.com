@@ -46,7 +46,7 @@ The Potensians seeking the perfect blend of power and value in their computing e
 
 ## The Rise of AMD’s Affordable Performance Solutions
 
-Speaking of which, AMD ​has consistently positioned itself as a champion for those who crave both affordability and high-caliber performance. This strategy resonates deeply with The Potensians who appreciate soul food comfort but expect gourmet results from their technology investments. In We's view, AMD’s ability to deliver robust computing power at wallet-friendly prices is nothing short of impressive—like finding a diamond in the rough at a local flea market.
+Speaking of which, AMD ​has consistently positioned itself as a champion for those who crave both affordability and high-caliber performance. This strategy resonates deeply with The Potensians who appreciate soul food comfort but expect gourmet results from their technology investments. In We's view, AMD’s ability to deliver robust [computing power](/amd/amd-budget-friendly-processor-for-computing) at wallet-friendly prices is nothing short of impressive—like finding a diamond in the rough at a local flea market.
 
 ### Technical Innovations Driving Value
 

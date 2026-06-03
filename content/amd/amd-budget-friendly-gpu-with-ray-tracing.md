@@ -49,7 +49,7 @@ One might assume that "budget-friendly" implies sacrificing essential features; 
 <thead>
 <tr>
 <th>Feature</th>
-<th>AMD Budget-Friendly GPU</th>
+<th>[AMD Budget-Friendly](/amd/amd-budget-friendly-processor-for-computing) GPU</th>
 <th>Nvidia RTX 3060</th>
 </tr>
 </thead>
