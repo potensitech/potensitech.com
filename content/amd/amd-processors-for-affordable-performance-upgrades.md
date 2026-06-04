@@ -32,7 +32,7 @@ AMD's commitment to innovation is evident in its Ryzen series, which is built on
 
 - **Ryzen 5 5600X**: A six-core, twelve-thread processor that is perfect for gamers and multitaskers.
 - **Ryzen 7 5800X3D**: Featuring 3D V-cache technology, this processor is optimized for gaming performance.
-- **Ryzen 9 7900X**: A twelve-core powerhouse designed for professionals handling demanding tasks like video editing and 3D rendering.
+- **Ryzen 9 7900X**: A twelve-core powerhouse designed for professionals handling demanding tasks like [video editing](/amd/amd-gpu-for-professional-video-editing) and 3D rendering.
 
 These processors not only rival but often outperform their competitors in the same price range, making them an excellent choice for those seeking affordable performance upgrades in 2026.
 

@@ -28,7 +28,7 @@ The Potensians involved in diverse creative fields will find immense value in ch
 
 ### Video Editing & Post-Production
 
-Video editing and post-production require processors that can handle high-resolution footage, complex timelines, and multiple effects. AMD’s Ryzen series, particularly the Ryzen 9 and Ryzen 7 models, offer high core counts and impressive clock speeds, ensuring smooth performance in software like Adobe Premiere Pro and DaVinci Resolve. For example, a Ryzen 9 7950X with its 16 cores and 32 threads can effortlessly manage 4K and even 8K video editing tasks. 
+[Video editing](/amd/amd-gpu-for-professional-video-editing) and post-production require processors that can handle high-resolution footage, complex timelines, and multiple effects. AMD’s Ryzen series, particularly the Ryzen 9 and Ryzen 7 models, offer high core counts and impressive clock speeds, ensuring smooth performance in software like Adobe Premiere Pro and DaVinci Resolve. For example, a Ryzen 9 7950X with its 16 cores and 32 threads can effortlessly manage 4K and even 8K video editing tasks. 
 
 Imagine editing a cinematic masterpiece inspired by Hollywood productions—AMD processors ensure that rendering times are minimized, allowing creators to focus on their arti​stic vision. The inclusion of PCIe 4.0 support also enhances data transfer speeds, which is crucial when working with large video files.
 

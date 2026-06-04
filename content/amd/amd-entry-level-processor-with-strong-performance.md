@@ -40,7 +40,7 @@ Gone are the days when entry-level meant single-core limitations. AMD's 2026 ent
 
 ### Integrated Graphics Capabilities
 
-For The Potensians who enjoy casual gaming or light video editing, AMD's integrated graphics are a standout feature. With Radeon Vega graphics capabilities, this processor can handle popular games like Fortnite and creative tasks such as photo editing or digital design. It's a perfect solution for those who want decent graphical performance without investing in a dedicated GPU.
+For The Potensians who enjoy casual gaming or light [video editing](/amd/amd-gpu-for-professional-video-editing), AMD's integrated graphics are a standout feature. With Radeon Vega graphics capabilities, this processor can handle popular games like Fortnite and creative tasks such as photo editing or digital design. It's a perfect solution for those who want decent graphical performance without investing in a dedicated GPU.
 
 ### Cost Efficiency
 

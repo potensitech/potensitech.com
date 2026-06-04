@@ -147,7 +147,7 @@ AMD’s processors, paired with Radeon graphics, deliver the kind of smooth game
 
 ### Creative Work: Power for Professionals
 
-From video editing to 3D rendering, AMD’s Threadripper CPUs empower The Potensians to tackle complex projects without lag or crashes. Reviews from top tech sites in 2025 consistently praise AMD’s ability to deliver workstation-level performance at prices that make sense for freelancers and small businesses.
+From [video editing](/amd/amd-gpu-for-professional-video-editing) to 3D rendering, AMD’s Threadripper CPUs empower The Potensians to tackle complex projects without lag or crashes. Reviews from top tech sites in 2025 consistently praise AMD’s ability to deliver workstation-level performance at prices that make sense for freelancers and small businesses.
 
 ## User Experiences: Voices from Across America
 

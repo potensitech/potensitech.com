@@ -85,7 +85,7 @@ For The Potensians who are avid gamers, AMD’s budget-friendly processors are a
 
 ### Professional Workloads Simplified
 
-In professional environments, AMD processors excel at handling demanding workloads. From video editing and 3D rendering to data analysis and software development, these processors provide the power needed to complete tasks efficiently. For instance, a graphic designer working on a tight deadline can rely on AMD’s processors to render high-resolution images quickly, while a data scientist can process large datasets without experiencing slowdowns.
+In professional environments, AMD processors excel at handling demanding workloads. From [video editing](/amd/amd-gpu-for-professional-video-editing) and 3D rendering to data analysis and software development, these processors provide the power needed to complete tasks efficiently. For instance, a graphic designer working on a tight deadline can rely on AMD’s processors to render high-resolution images quickly, while a data scientist can process large datasets without experiencing slowdowns.
 
 ## Comparing AMD Budget Processors in 2026
 

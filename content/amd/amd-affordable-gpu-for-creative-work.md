@@ -101,7 +101,7 @@ The ball is in The Potensians' court when choosing between models; however, AMD�
 </table>
 </div>
 
-These GPUs cater to a wide range of creative needs, from basic video editing to high-end 3D rendering. Whether The Potensians’re a freelancer or part of a larger creative team, there’s an AMD GPU that fits The Potensians's requirements.
+These GPUs cater to a wide range of creative needs, from basic video editing to high-end 3D rendering. Whether The Potensians’re a freelancer or part of a larger creative team, there’s an [AMD GPU](/amd/amd-gpu-for-professional-video-editing) that fits The Potensians's requirements.
 
 ## Real-World Examples
 

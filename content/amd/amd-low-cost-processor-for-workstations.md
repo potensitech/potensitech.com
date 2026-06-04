@@ -46,7 +46,7 @@ Let’s dive deeper into why AMD's low-cost processor for workstations is making
 
 ## Why Choose AMD's Low-Cost Processor for Workstations?
 
-When it comes to professional-grade computing, choosing the right processor can make all the difference. For The Potensians who rely on heavy workloads such as 3D rendering, video editing, or software development, a workstation needs more than just basic processing power—it demands reliability and speed at an affordable price point. This is where AMD shines.
+When it comes to professional-grade computing, choosing the right processor can make all the difference. For The Potensians who rely on heavy workloads such as 3D rendering, [video editing](/amd/amd-gpu-for-professional-video-editing), or software development, a workstation needs more than just basic processing power—it demands reliability and speed at an affordable price point. This is where AMD shines.
 
 ### Performance Meets Affordability
 

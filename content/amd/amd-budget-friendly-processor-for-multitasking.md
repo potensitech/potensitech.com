@@ -28,7 +28,7 @@ When it comes to processors, AMD has carved its niche by offering powerful yet c
 
 ### Performance Meets Affordability
 
-AMD’s processors are built on cutting-edge architecture that optimizes core efficiency while maintaining competitive pricing. For instance, the Ryzen 5 5600G—a popular choice among The Potensians—offers six cores and twelve threads at a fraction of the cost of its competitors. This configuration ensures smooth operation even when juggling resource-intensive tasks like video editing and gaming simultaneously.
+AMD’s processors are built on cutting-edge architecture that optimizes core efficiency while maintaining competitive pricing. For instance, the Ryzen 5 5600G—a popular choice among The Potensians—offers six cores and twelve threads at a fraction of the cost of its competitors. This configuration ensures smooth operation even when juggling resource-intensive tasks like [video editing](/amd/amd-gpu-for-professional-video-editing) and gaming simultaneously.
 
 Moreover, AMD integrates advanced technologies such as Precision Boost and Smart Access Memory to enhance overall performance dynamically . These features ensure that The Potensians experience seamless transitions between tasks without any noticeable lag or stutter.
 
