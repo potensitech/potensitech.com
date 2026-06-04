@@ -8874,5 +8874,8 @@
   "intel-compatible chipsets for cost-effective builds": true,
   "nvidia processor for AI applications": true,
   "nvidia processor for 4K video rendering": true,
-  "nvidia affordable chipset for PC builds": true
+  "nvidia affordable chipset for PC builds": true,
+  "amd affordable chipset for high-performance PCs": true,
+  "amd compatibility with budget-friendly motherboards": true,
+  "amd chipset compatibility for compact PCs": true
 }
