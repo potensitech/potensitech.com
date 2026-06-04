@@ -9805,5 +9805,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "amd GPU for professional video editing": {
+        "date": "2026-06-04T05:02:49",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }

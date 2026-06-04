@@ -15622,5 +15622,18 @@
             "Cultural: Apple Pie",
             "Cultural: Innovation"
         ]
+    },
+    "amd GPU for professional video editing": {
+        "date": "2026-06-04T05:02:49",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: New York",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
