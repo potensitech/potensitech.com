@@ -11,11 +11,14 @@ tags: ["amd", "GPU", "video editing", "professional tools", "graphics"]
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/amd-gpu-for-professional-video-editing-excellence.jpg"
+featuredImagePreview: "/images/amd/amd-gpu-for-professional-video-editing-excellence.jpg"
 ---
+
+![AMD GPU for Professional Video Editing Excellence](/images/amd/amd-gpu-for-professional-video-editing-excellence.jpg)
+
 
 *AMD GPU for Professional Video Editing Excellence* - 
 
