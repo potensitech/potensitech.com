@@ -15635,5 +15635,12 @@
             "Cultural: Hollywood",
             "Cultural: Tex-Mex"
         ]
+    },
+    "amd processor for efficient office tasks": {
+        "date": "2026-06-05T04:46:51",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
