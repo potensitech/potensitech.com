@@ -642,4 +642,7 @@ amd affordable chipsets for high-performance PCs
 amd affordable chipset for high-performance PCs
 amd compatibility with budget-friendly motherboards
 amd chipset compatibility for compact PCs
+amd processor for everyday computing performance
+amd chipset compatibility with budget-friendly GPUs
+amd chipset guide for affordable motherboards
 
