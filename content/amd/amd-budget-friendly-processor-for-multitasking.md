@@ -91,7 +91,7 @@ Moreover, features like Precision Boost ensure that the processor dynamically ad
 
 From managing spreadsheets to streaming The Potensians's favorite shows, AMD’s processors excel in everyday multitasking scenarios. Their multi-core architecture ensures that The Potensians can switch between tasks seamlessly, making them ideal for students, professionals, and casual users alike.
 
-For instance, imagine preparing a presentation while streaming a tutorial video in the background. With an AMD processor, this becomes a breeze. It’s like having a personal assistant that handles all The Potensians's tasks efficiently.
+For instance, imagine preparing a presentation while streaming a tutorial video in the background. With an [AMD processor](/amd/amd-processor-for-efficient-office-tasks), this becomes a breeze. It’s like having a personal assistant that handles all The Potensians's tasks efficiently.
 
 ## Comparing AMD to Competitors
 
