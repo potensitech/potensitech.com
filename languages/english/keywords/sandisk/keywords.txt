@@ -714,4 +714,5 @@ sandisk cost-effective SSD for student laptops
 sandisk energy-efficient SSD for long-term reliability
 sandisk portable SSD for file transfer
 sandisk internal SSD for high-speed storage
+sandisk external SSD for portable use
 
