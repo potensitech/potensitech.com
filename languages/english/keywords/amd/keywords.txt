@@ -645,4 +645,6 @@ amd chipset compatibility for compact PCs
 amd processor for everyday computing performance
 amd chipset compatibility with budget-friendly GPUs
 amd chipset guide for affordable motherboards
+amd affordable chipsets for desktop PCs
+amd low-cost processors for casual users
 

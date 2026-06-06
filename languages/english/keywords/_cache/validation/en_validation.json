@@ -8927,5 +8927,7 @@
   "affordable Intel processor chipsets for laptops": true,
   "nvidia budget-friendly GPU with processor speed": true,
   "nvidia high-speed GPU performance for rendering": true,
-  "nvidia entry-level gaming GPUs": true
+  "nvidia entry-level gaming GPUs": true,
+  "amd affordable chipsets for desktop PCs": true,
+  "amd low-cost processors for casual users": true
 }
