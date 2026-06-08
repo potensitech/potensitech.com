@@ -717,4 +717,5 @@ sandisk internal SSD for high-speed storage
 sandisk external SSD for portable use
 sandisk lightweight SSD for laptops
 sandisk premium SSD for high-speed tasks
+sandisk compact SSD for everyday storage
 
