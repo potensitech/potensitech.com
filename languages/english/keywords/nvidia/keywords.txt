@@ -728,4 +728,6 @@ nvidia entry-level graphics card compatibility
 nvidia budget-friendly GPU with processor speed
 nvidia high-speed GPU performance for rendering
 nvidia entry-level gaming GPUs
+nvidia GPU compatibility with gaming monitors
+nvidia budget GPU for 4K gaming
 
