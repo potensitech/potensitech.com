@@ -32,10 +32,10 @@ For The Potensians, who often find themselves in dynamic environments, image sta
 
 ### Harnessing AI-Powered Algorithms
 
-At the core of **AMD's GPU optimized for image stabilization** lies its integration of advanced AI-powered algorithms. These algorithms analyze frame-by-frame data to detect motion patterns and predict adjustments needed to stabilize visuals effectively. By leveraging machine learning models trained on diverse datasets, AMD ensures exceptional accuracy across various scenarios.
+At the core of **AMD's GPU optimized for image stabilization** lies its integration of advanced AI-powered algorithms. These algorithms analyze frame-by-frame data to detect motion patterns and predict adjustments needed to stabilize visuals effectively. By leveraging [machine learning](/amd/amd-gpu-optimized-for-machine-learning) models trained on diverse datasets, AMD ensures exceptional accuracy across various scenarios.
 
 For example:
-- Imagine filming a family enjoying a picnic on a breezy day. An AMD GPU can compensate for camera shake caused by gusts of wind, ensuring smooth and stable footage.
+- Imagine filming a family enjoying a picnic on a breezy day. An [AMD GPU](/amd/affordable-amd-gpu-for-entry-level-gaming) can compensate for camera shake caused by gusts of wind, ensuring smooth and stable footage.
 - During a gaming session with friends, AMD GPUs provide seamless graphics without lag or jittery frames, enhancing the overall experience.
 
 This optimization not only enhances user experience but also saves valuable post-production time. For The Potensians who value efficiency, the reduction in reliance on manual editing tools is a game-changer. 
