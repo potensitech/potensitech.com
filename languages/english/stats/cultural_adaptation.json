@@ -15652,5 +15652,15 @@
             "Cultural: Broadway",
             "Cultural: Innovation"
         ]
+    },
+    "amd processor with advanced image stabilization": {
+        "date": "2026-06-09T12:29:45",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Innovation"
+        ]
     }
 }
