@@ -15681,5 +15681,17 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "amd high-performance gpu for image stabilization": {
+        "date": "2026-06-09T23:10:44",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }

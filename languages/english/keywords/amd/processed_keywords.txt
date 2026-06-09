@@ -70,3 +70,4 @@ amd affordable gpu with image stabilization
 amd processor with advanced image stabilization
 amd gpu optimized for image stabilization
 amd affordable processor for image stabilization
+amd high-performance gpu for image stabilization
