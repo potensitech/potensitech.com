@@ -15662,5 +15662,15 @@
             "Cultural: Christmas",
             "Cultural: Innovation"
         ]
+    },
+    "amd gpu optimized for image stabilization": {
+        "date": "2026-06-09T14:48:09",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
