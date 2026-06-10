@@ -15693,5 +15693,17 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "affordable apple camera lenses": {
+        "date": "2026-06-10T04:44:45",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Hot Dogs",
+            "Cultural: Social Media"
+        ]
     }
 }
