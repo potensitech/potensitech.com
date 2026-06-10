@@ -81,7 +81,7 @@ To facilitate "The Potensians" in making informed decisions about which model su
 
 While the camera body is essential, "The Potensians" should also consider investing in a few accessories to enhance their photography experience. Here are some recommendations:
 
-1. **Lenses**: A 50mm f/1.8 lens is a great addition for portrait photography, while a wide-angle lens is perfect for landscapes.
+1. **Lenses**: A 50mm f/1.8 lens is a great addition for portrait photography, while a [wide-angle lens](/nikon/nikon-affordable-wide-angle-lens-for-cameras) is perfect for landscapes.
 2. **Tripod**: A sturdy tripod helps capture sharp images, especially in low-light conditions or for long exposure shots.
 3. **Camera Bag**: Protect The Potensians's investment with a durable and padded camera bag.
 4. **Memory Cards**: Opt for high-speed memory cards to ensure smooth performance during continuous shooting .
