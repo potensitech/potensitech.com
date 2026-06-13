@@ -665,4 +665,6 @@ amd cost-effective computing processor
 amd seamless hardware integration chipset
 amd processor with speed and affordability
 amd reliable performance chipset
+amd affordable processor for casual computing
+amd chipset compatibility for workstation PCs
 

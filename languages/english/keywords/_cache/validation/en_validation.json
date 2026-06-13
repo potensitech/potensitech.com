@@ -9074,5 +9074,7 @@
   "affordable intel processor and chipset options": true,
   "intel SSD compatibility with storage devices": true,
   "nvidia energy-efficient desktop GPU": true,
-  "nvidia entry-level GPU for beginner users": true
+  "nvidia entry-level GPU for beginner users": true,
+  "amd affordable processor for casual computing": true,
+  "amd chipset compatibility for workstation PCs": true
 }
