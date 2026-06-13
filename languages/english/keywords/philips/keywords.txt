@@ -557,4 +557,7 @@ philips value-for-money kitchen appliances
 philips low-cost personal care devices
 philips budget-friendly kitchen tools
 philips economical home gadgets
+philips consumer electronics with chipset support
+philips kitchen gadgets with fast processors
+philips affordable electronics with advanced chipsets
 
