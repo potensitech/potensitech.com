@@ -144,7 +144,7 @@ To understand the value of this device, let’s compare it to other smartphones 
 </table>
 </div>
 
-As seen in the table, Apple’s offering stands out for its optimized processor and premium display, making it a compelling choice for The Potensians who value both performance and aesthetics.
+As seen in the table, Apple’s offering stands out for its [optimized processor](/apple/apple-computer-with-optimized-processor-performance) and premium display, making it a compelling choice for The Potensians who value both performance and aesthetics.
 
 ## Conclusion: A Smartphone for Everyone
 
