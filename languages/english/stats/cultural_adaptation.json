@@ -15724,5 +15724,18 @@
             "Cultural: Thomas Edison",
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer with optimized processor performance": {
+        "date": "2026-06-13T18:04:36",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Central Park",
+            "Cultural: Tex-Mex",
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation"
+        ]
     }
 }
