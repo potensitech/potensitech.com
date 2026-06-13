@@ -15714,5 +15714,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone with affordable processor options": {
+        "date": "2026-06-13T13:59:30",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Thomas Edison",
+            "Cultural: Innovation"
+        ]
     }
 }
