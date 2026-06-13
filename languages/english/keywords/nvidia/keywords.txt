@@ -739,4 +739,6 @@ nvidia gaming chipset compatibility review
 nvidia high-performance processor for computing tasks
 nvidia high-speed processor for multitasking performance
 nvidia high-performance processor for multitasking
+nvidia energy-efficient desktop GPU
+nvidia entry-level GPU for beginner users
 
