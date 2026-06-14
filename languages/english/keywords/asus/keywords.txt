@@ -728,4 +728,5 @@ asus mid-range smartphone chipset options
 asus high-speed gaming laptop processor
 asus entry-level smartphone chipset options
 asus professional laptop processor speed
+asus optimized chipset for budget smartphones
 
