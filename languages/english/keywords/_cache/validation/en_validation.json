@@ -9120,5 +9120,6 @@
   "nvidia processor compatibility for gaming": true,
   "nvidia chipset compatibility with budget GPUs": true,
   "nvidia affordable processor for AI workloads": true,
-  "nvidia chipset performance for creative workflows": true
+  "nvidia chipset performance for creative workflows": true,
+  "amd low-cost processor for everyday computing": true
 }

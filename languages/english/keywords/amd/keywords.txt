@@ -668,4 +668,5 @@ amd reliable performance chipset
 amd affordable processor for casual computing
 amd chipset compatibility for workstation PCs
 amd affordable chipsets for custom PCs
+amd low-cost processor for everyday computing
 
