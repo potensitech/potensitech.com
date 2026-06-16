@@ -742,4 +742,9 @@ nvidia high-performance processor for multitasking
 nvidia energy-efficient desktop GPU
 nvidia entry-level GPU for beginner users
 nvidia GPU for high-performance computing tasks
+nvidia GPU compatibility with budget systems
+nvidia processor compatibility for gaming
+nvidia chipset compatibility with budget GPUs
+nvidia affordable processor for AI workloads
+nvidia chipset performance for creative workflows
 

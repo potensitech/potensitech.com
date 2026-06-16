@@ -9115,5 +9115,10 @@
   "philips high-performance processor for consumer gadgets": true,
   "sandisk reliable solid state drive solution": true,
   "sandisk cost-effective SSD for backups": true,
-  "intel high-speed solid-state drives": true
+  "intel high-speed solid-state drives": true,
+  "nvidia GPU compatibility with budget systems": true,
+  "nvidia processor compatibility for gaming": true,
+  "nvidia chipset compatibility with budget GPUs": true,
+  "nvidia affordable processor for AI workloads": true,
+  "nvidia chipset performance for creative workflows": true
 }
