@@ -9121,5 +9121,9 @@
   "nvidia chipset compatibility with budget GPUs": true,
   "nvidia affordable processor for AI workloads": true,
   "nvidia chipset performance for creative workflows": true,
-  "amd low-cost processor for everyday computing": true
+  "amd low-cost processor for everyday computing": true,
+  "canon inexpensive professional camera lenses": true,
+  "canon entry-level lenses for photography": true,
+  "canon affordable portrait lenses for DSLRs": true,
+  "canon cost-effective wildlife photography lenses": true
 }
