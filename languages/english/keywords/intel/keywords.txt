@@ -876,4 +876,5 @@ affordable intel processor and chipset options
 intel SSD compatibility with storage devices
 affordable intel SSDs for storage solutions
 affordable intel processor chipset compatibility guide
+intel high-speed solid-state drives
 
