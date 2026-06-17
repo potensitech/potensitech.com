@@ -15762,5 +15762,16 @@
             "Cultural: Broadway",
             "Cultural: Hot Dogs"
         ]
+    },
+    "Apple smartphone with affordable processor speed": {
+        "date": "2026-06-17T07:39:10",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Apple Pie",
+            "Cultural: Innovation"
+        ]
     }
 }
