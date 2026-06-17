@@ -1,7 +1,7 @@
 chipset compatibility
-processor speed
 solid state
 dslr photography
+processor speed
 camera lenses
 mirrorless options
 core architecture
