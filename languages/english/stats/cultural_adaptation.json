@@ -15773,5 +15773,15 @@
             "Cultural: Apple Pie",
             "Cultural: Innovation"
         ]
+    },
+    "Affordable Apple computer with high-speed processor": {
+        "date": "2026-06-18T09:14:12",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
