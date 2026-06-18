@@ -15801,5 +15801,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "apple affordable smartphone processor speed": {
+        "date": "2026-06-18T17:39:50",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Black Friday",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood",
+            "Cultural: Clam Chowder"
+        ]
     }
 }
