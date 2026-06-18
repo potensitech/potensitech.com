@@ -15783,5 +15783,14 @@
             "Cultural: Innovation",
             "Cultural: Remote Work"
         ]
+    },
+    "Affordable processor options for Apple smartphones": {
+        "date": "2026-06-18T12:45:21",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
