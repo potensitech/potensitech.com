@@ -15824,5 +15824,18 @@
             "Cultural: Independence Day",
             "Cultural: Innovation"
         ]
+    },
+    "apple affordable computer processor performance": {
+        "date": "2026-06-19T07:42:48",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Times Square",
+            "Cultural: Broadway",
+            "Cultural: Buffalo Wings",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
