@@ -15846,5 +15846,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Apple processor speed for budget-friendly laptops": {
+        "date": "2026-06-20T16:03:35",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Times Square",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
