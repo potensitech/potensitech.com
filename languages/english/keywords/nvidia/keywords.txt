@@ -750,4 +750,5 @@ nvidia chipset performance for creative workflows
 nvidia budget GPU for gaming PCs
 nvidia processor speed for AI workloads
 nvidia high-performance processor for AI applications
+nvidia affordable processor for better performance
 
