@@ -15881,5 +15881,15 @@
             "Cultural: Clam Chowder",
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer optimized for fast processing": {
+        "date": "2026-06-20T22:53:39",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
