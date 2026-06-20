@@ -30,7 +30,7 @@ Apple’s ability to tightly integrate hardware and software is a key factor in 
 
 ### Key Features of Affordable Apple Processors
 
-To understand why affordable Apple processor speed for smartphones stands out, let’s break down some key features:
+To understand why affordable Apple [processor speed](/apple/affordable-processor-speed-in-apple-smartphones) for smartphones stands out, let’s break down some key features:
 
 <div class="table-responsive">
 <table class="html-table">
