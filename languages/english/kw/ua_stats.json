@@ -897,17 +897,17 @@
       "consecutive_blocks": 0
     },
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.140 Safari/537.36": {
-      "requests": 18,
+      "requests": 19,
       "blocks": 0,
       "success_rate": 100.0,
       "last_blocked": null,
       "consecutive_blocks": 0
     }
   },
-  "last_updated": "2026-06-21T12:04:13.478019",
+  "last_updated": "2026-06-21T14:01:56.138943",
   "global_stats": {
-    "total_requests": 142972,
+    "total_requests": 142973,
     "total_blocks": 1,
-    "success_rate": 99.99930056234787
+    "success_rate": 99.99930056723997
   }
 }
