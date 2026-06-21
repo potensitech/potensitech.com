@@ -15891,5 +15891,18 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone with fast processor performance": {
+        "date": "2026-06-21T05:15:12",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Times Square",
+            "Cultural: Clam Chowder",
+            "Cultural: Elon Musk",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
