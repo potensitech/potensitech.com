@@ -15904,5 +15904,18 @@
             "Cultural: Elon Musk",
             "Cultural: Benjamin Franklin"
         ]
+    },
+    "fast processor speed in Apple computers": {
+        "date": "2026-06-21T07:21:31",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Clam Chowder",
+            "Cultural: Innovation"
+        ]
     }
 }
