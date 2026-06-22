@@ -15935,5 +15935,18 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "apple affordable computer with processor speed": {
+        "date": "2026-06-22T07:53:38",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Christmas",
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Burgers"
+        ]
     }
 }
