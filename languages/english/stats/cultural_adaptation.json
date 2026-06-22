@@ -15960,5 +15960,17 @@
             "Cultural: Broadway",
             "Cultural: Innovation"
         ]
+    },
+    "apple budget-friendly smartphone with processor speed": {
+        "date": "2026-06-22T20:04:57",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
