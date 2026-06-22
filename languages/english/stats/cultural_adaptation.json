@@ -15948,5 +15948,17 @@
             "Cultural: Wall Street",
             "Cultural: Burgers"
         ]
+    },
+    "apple high-performance computer with processor speed": {
+        "date": "2026-06-22T18:36:04",
+        "language": "en",
+        "cultural_score": 48,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Broadway",
+            "Cultural: Innovation"
+        ]
     }
 }
