@@ -9197,5 +9197,6 @@
   "intel affordable CPUs for desktop builds": true,
   "intel SSD compatibility with laptops": true,
   "intel solid-state drive for high-speed storage": true,
-  "intel budget-friendly SSDs for gaming PCs": true
+  "intel budget-friendly SSDs for gaming PCs": true,
+  "amd processor performance for cost-effective PCs": true
 }

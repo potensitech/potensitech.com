@@ -671,4 +671,5 @@ amd affordable chipsets for custom PCs
 amd low-cost processor for everyday computing
 amd affordable processors for everyday performance
 amd high-performance affordable chipset for gaming
+amd processor performance for cost-effective PCs
 
