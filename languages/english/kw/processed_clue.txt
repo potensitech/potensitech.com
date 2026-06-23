@@ -5613,3 +5613,5 @@ dslr photography
 camera lenses
 dslr photography
 camera lenses
+chipset compatibility
+processor speed
