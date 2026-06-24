@@ -15985,5 +15985,15 @@
             "Cultural: Burgers",
             "Cultural: BBQ"
         ]
+    },
+    "Apple high-performance processor for computers": {
+        "date": "2026-06-24T14:29:43",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation"
+        ]
     }
 }
