@@ -15972,5 +15972,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Apple processor speed comparison for computers": {
+        "date": "2026-06-24T10:37:22",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Burgers",
+            "Cultural: BBQ"
+        ]
     }
 }
