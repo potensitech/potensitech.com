@@ -5659,3 +5659,5 @@ chipset compatibility
 processor speed
 dslr photography
 camera lenses
+dslr photography
+camera lenses
