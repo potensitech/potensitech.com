@@ -16026,5 +16026,14 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "high-speed processor in affordable Apple computers": {
+        "date": "2026-06-25T19:04:28",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
