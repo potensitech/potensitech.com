@@ -16063,5 +16063,18 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer with budget-friendly fast processor": {
+        "date": "2026-06-26T22:55:55",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Broadway",
+            "Cultural: Abraham Lincoln",
+            "Cultural: Innovation"
+        ]
     }
 }
