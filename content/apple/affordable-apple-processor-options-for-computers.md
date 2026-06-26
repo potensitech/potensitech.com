@@ -92,7 +92,7 @@ The M2 chip, launched as a successor to the M1, builds on its predecessor’s st
 
 #### Key Benefits of the M2 Chip:
 
-- **Enhanced Performance**: With up to 18% faster CPU performance and 35% faster GPU performance compared to the M1, the M2 is perfect for tasks like 3D rendering and advanced photo editing.
+- **Enhanced Performance**: With up to 18% faster CPU performance and 35% faster GPU performance compared to the M1, the M2 is perfect for tasks like 3D rendering and advanced [photo editing](/apple/affordable-apple-computers-for-photo-editing).
 - **Improved Efficiency**: Despite its increased power, the M2 maintains excellent energy efficiency, ensuring long battery life for laptops.
 - **Affordable Upgrade**: As the M3 gains traction, the M2 is becoming more affordable, making it a great mid-range option.
 
