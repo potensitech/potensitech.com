@@ -71,7 +71,7 @@ In the past, [Apple products](/apple/buy-apple-products-online) were often consi
 
 ### Mac Mini: Compact Powerhouse
 
-The Mac Mini is a fantastic entry point into the Apple ecosystem. Starting at under $700, it offers the power of the M2 chip in a compact and affordable package. Despite its small size, the Mac Mini is a versatile machine that can handle a variety of tasks, from basic web browsing to more demanding applications lik​e photo editing and coding.
+The Mac Mini is a fantastic entry point into the Apple ecosystem. Starting at under $700, it offers the power of the M2 chip in a compact and affordable package. Despite its small size, the Mac Mini is a versatile machine that can handle a variety of tasks, from basic web browsing to more demanding applications lik​e [photo editing](/apple/affordable-apple-computers-for-photo-editing) and coding.
 
 #### Key Features of the Mac Mini:
 - **Compact Design:** Its small footprint makes it perfect for any workspace, whether it’s a home office or a dorm room.
