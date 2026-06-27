@@ -16076,5 +16076,15 @@
             "Cultural: Abraham Lincoln",
             "Cultural: Innovation"
         ]
+    },
+    "Apple processor speed for affordable smartphones": {
+        "date": "2026-06-27T04:16:51",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
