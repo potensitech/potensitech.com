@@ -16096,5 +16096,14 @@
             "Cultural: Black Friday",
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer processor speed for professionals": {
+        "date": "2026-06-27T17:53:39",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
