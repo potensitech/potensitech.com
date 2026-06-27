@@ -16105,5 +16105,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Apple processor speed for multitasking computers": {
+        "date": "2026-06-27T22:47:23",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
