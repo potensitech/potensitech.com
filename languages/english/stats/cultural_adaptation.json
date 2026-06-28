@@ -16115,5 +16115,17 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Apple smartphone processor speed for photography": {
+        "date": "2026-06-28T04:50:00",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Silicon Valley",
+            "Cultural: BBQ",
+            "Cultural: Innovation"
+        ]
     }
 }
