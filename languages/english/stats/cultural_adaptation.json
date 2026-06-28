@@ -16136,5 +16136,16 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "affordable high-speed processor in Apple smartphones": {
+        "date": "2026-06-28T22:48:08",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Tex-Mex",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
