@@ -16168,5 +16168,12 @@
             "Cultural: Thanksgiving",
             "Cultural: Innovation"
         ]
+    },
+    "affordable apple smartphone with efficient processor": {
+        "date": "2026-06-29T21:02:42",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
