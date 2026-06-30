@@ -16175,5 +16175,17 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "apple computer designed for efficient processing": {
+        "date": "2026-06-30T04:26:31",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Fourth of July",
+            "Cultural: Soul Food",
+            "Cultural: Innovation"
+        ]
     }
 }
