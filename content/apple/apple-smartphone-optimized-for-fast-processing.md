@@ -98,7 +98,7 @@ For professionals, Apple smartphones are a powerhouse of productivity. With feat
 
 ### Enhanced Photography and Videography
 
-In 2026, smartphone photography has reached new heights, and Apple is leading the charge. With advanced computational photography powered by the A-series chips, The Potensians can capture stunning photos and videos in any lighting condition. Features like Smart HDR, Night Mode, and ProRAW give users the tools to create professional-quality content right from their smartphones.
+In 2026, [smartphone photography](/apple/affordable-apple-smartphone-photography-tools) has reached new heights, and Apple is leading the charge. With advanced computational photography powered by the A-series chips, The Potensians can capture stunning photos and videos in any lighting condition. Features like Smart HDR, Night Mode, and ProRAW give users the tools to create professional-quality content right from their smartphones.
 
 ## The Future of Apple Smartphones
 
