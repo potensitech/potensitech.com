@@ -903,4 +903,6 @@ intel affordable chipset guide for processors
 intel affordable SSDs for high-performance computing
 intel budget SSDs for gaming builds
 intel affordable storage solutions for laptops
+intel SSD performance for budget computing
+intel-compatible chipsets for entry-level processors
 
