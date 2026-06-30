@@ -16205,5 +16205,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "Apple computer designed for fast processing": {
+        "date": "2026-06-30T23:01:13",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation"
+        ]
     }
 }
