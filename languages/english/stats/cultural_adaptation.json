@@ -16187,5 +16187,14 @@
             "Cultural: Soul Food",
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone optimized for fast processing": {
+        "date": "2026-06-30T08:30:39",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
