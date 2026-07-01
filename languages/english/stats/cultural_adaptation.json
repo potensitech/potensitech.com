@@ -16215,5 +16215,14 @@
             "Cultural: Steve Jobs",
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone with affordable processing power": {
+        "date": "2026-07-01T22:58:33",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
