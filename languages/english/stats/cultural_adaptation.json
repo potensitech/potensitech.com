@@ -16224,5 +16224,15 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "affordable Apple smartphone with high-speed processor": {
+        "date": "2026-07-02T04:20:52",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
