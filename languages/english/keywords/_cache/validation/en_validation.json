@@ -9399,5 +9399,10 @@
   "intel affordable chipset for budget processors": true,
   "budget-friendly intel SSDs for high-speed storage": true,
   "intel affordable SSDs for entry-level storage": true,
-  "nvidia high-performance GPU with processor speed": true
+  "nvidia high-performance GPU with processor speed": true,
+  "amd chipsets for entry-level PC builds": true,
+  "amd processors for budget-conscious users": true,
+  "amd processor performance for cost-effective computing": true,
+  "amd chipsets for gaming PC compatibility": true,
+  "amd chipsets for high-performance PC setups": true
 }
