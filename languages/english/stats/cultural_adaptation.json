@@ -16244,5 +16244,16 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Apple smartphone with high-speed processor": {
+        "date": "2026-07-03T04:07:12",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media",
+            "Cultural: Remote Work"
+        ]
     }
 }
