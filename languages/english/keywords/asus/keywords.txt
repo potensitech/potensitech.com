@@ -748,4 +748,5 @@ asus affordable smartphone chipset compatibility guide
 asus processor speed for entry-level smartphones
 asus smartphone processor compatibility overview
 asus laptop processor speed optimization tips
+asus smartphone compatibility with latest chipsets
 
