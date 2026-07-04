@@ -748,4 +748,7 @@ sandisk lightweight SSD for on-the-go computing
 sandisk low-cost SSD for fast transfers
 sandisk economical SSD for home use
 sandisk affordable SSD for professional storage
+sandisk lightweight SSD for everyday computing
+sandisk SSD compatible with Intel processors
+sandisk SSD for AMD-powered computers
 
