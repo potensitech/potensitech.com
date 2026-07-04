@@ -16255,5 +16255,18 @@
             "Cultural: Social Media",
             "Cultural: Remote Work"
         ]
+    },
+    "Apple computer processor speed for multitasking": {
+        "date": "2026-07-04T06:05:23",
+        "language": "en",
+        "cultural_score": 97,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Thanksgiving",
+            "Cultural: New Year's Day",
+            "Cultural: Christmas",
+            "Cultural: New York"
+        ]
     }
 }
