@@ -9458,5 +9458,7 @@
   "cost-effective intel chipset options for processors": true,
   "intel SSDs for affordable storage upgrades": true,
   "nvidia processor performance for high-performance tasks": true,
-  "nvidia high-speed processors for workstation performance": true
+  "nvidia high-speed processors for workstation performance": true,
+  "amd chipset compatibility with gaming GPUs": true,
+  "amd affordable processors for home computing": true
 }

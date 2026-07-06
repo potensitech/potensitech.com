@@ -705,4 +705,6 @@ amd chipsets for high-performance PC setups
 amd high-performance processor speed for computing
 amd chipset compatibility for gaming laptops
 amd processor speed for everyday computing
+amd chipset compatibility with gaming GPUs
+amd affordable processors for home computing
 
