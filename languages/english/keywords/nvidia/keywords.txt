@@ -779,4 +779,6 @@ nvidia affordable beginner graphics card
 nvidia processor for video editing speed
 nvidia budget GPU for 1080p gaming
 nvidia affordable graphics card for creators
+nvidia processor performance for high-performance tasks
+nvidia high-speed processors for workstation performance
 
