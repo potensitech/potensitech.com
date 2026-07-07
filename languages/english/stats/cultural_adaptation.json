@@ -16268,5 +16268,15 @@
             "Cultural: Christmas",
             "Cultural: New York"
         ]
+    },
+    "Apple computer featuring high processor speed": {
+        "date": "2026-07-07T12:23:26",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
