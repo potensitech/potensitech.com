@@ -16288,5 +16288,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Apple smartphone featuring fast processor performance": {
+        "date": "2026-07-07T18:57:47",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Times Square",
+            "Cultural: Central Park",
+            "Cultural: Tex-Mex",
+            "Cultural: Mark Zuckerberg"
+        ]
     }
 }
