@@ -497,4 +497,6 @@ apple iPhone chipset compatibility with accessories
 apple chipset compatibility with latest smartphones
 apple processors for entry-level computers
 apple chipset compatibility for cheap smartphones
+apple processor optimization for smartphone performance
+apple high-performance processor for professional computers
 
