@@ -16321,5 +16321,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "Budget-friendly Apple computer with efficient processor": {
+        "date": "2026-07-08T20:44:09",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Wall Street",
+            "Cultural: Tex-Mex",
+            "Cultural: Albert Einstein",
+            "Cultural: Benjamin Franklin"
+        ]
     }
 }
