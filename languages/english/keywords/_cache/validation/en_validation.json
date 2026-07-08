@@ -9501,5 +9501,9 @@
   "asus chipset compatibility with AMD GPUs": true,
   "philips home electronics with high-performance processor": true,
   "philips kitchen processor optimized for speed": true,
-  "philips personal electronics with fast processor": true
+  "philips personal electronics with fast processor": true,
+  "sandisk budget SSD storage": true,
+  "sandisk SSD for affordable storage": true,
+  "sandisk low-cost SSD drive": true,
+  "sandisk affordable external SSD drive": true
 }
