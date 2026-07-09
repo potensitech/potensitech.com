@@ -16347,5 +16347,18 @@
             "Cultural: Abraham Lincoln",
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone optimized for fast performance": {
+        "date": "2026-07-09T23:01:09",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Halloween",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: Apple Pie"
+        ]
     }
 }
