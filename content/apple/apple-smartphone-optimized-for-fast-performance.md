@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 ---
 
 ## The Heart of Speed: Cutting-Edge Processors  
@@ -44,7 +43,7 @@ One standout feature is how apps are optimized for resource allocation on iOS de
 <tr>
 <th>Scenario</th>
 <th>Typical Smartphone</th>
-<th>Apple Smartphone</th>
+<th>[Apple Smartphone](/apple/affordable-apple-smartphone-with-high-megapixels)</th>
 </tr>
 </thead>
 <tbody>
