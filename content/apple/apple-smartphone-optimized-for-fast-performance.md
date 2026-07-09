@@ -11,11 +11,14 @@ tags: ["Apple", "smartphone", "optimized", "fast", "performance"]
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-smartphone-optimized-for-fast-performance.jpg"
+featuredImagePreview: "/images/apple/apple-smartphone-optimized-for-fast-performance.jpg"
 ---
+
+![Apple smartphone optimized for fast performance](/images/apple/apple-smartphone-optimized-for-fast-performance.jpg)
+
 
 ---
 
