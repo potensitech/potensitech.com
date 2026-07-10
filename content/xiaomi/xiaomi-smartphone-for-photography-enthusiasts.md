@@ -5,7 +5,7 @@ lastmod: 2026-04-26T05:29:26
 draft: false
 author: "Kevin Wu"
 authorLink: "/profile/kevin-wu"
-description: ""Discover the best Xiaomi smartphone for photography enthusiasts! Explore top features, stunning camera quality, and why it's perfect for capturing every mom..."
+description: "Discover the best Xiaomi smartphone for photography enthusiasts! Explore top features, stunning camera quality, and why it's perfect for capturing every mom..."
 keywords: ["xiaomi smartphone for photography enthusiasts", "best xiaomi smartphone for photography", "xiaomi photography smartphone 2026"]
 tags: ["xiaomi", "smartphone", "photography", "camera phones"]
 categories: ["xiaomi"]
