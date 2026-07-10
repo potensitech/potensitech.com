@@ -5,7 +5,7 @@ lastmod: 2026-05-04T22:42:13
 draft: false
 author: "Sarah Tan"
 authorLink: "/profile/sarah-tan"
-description: ""Discover why a Xiaomi smartphone for travel photography is your perfect companion. Capture stunning shots on the go with advanced features and top-notch qua..."
+description: "Discover why a Xiaomi smartphone for travel photography is your perfect companion. Capture stunning shots on the go with advanced features and top-notch qua..."
 keywords: ["xiaomi smartphone for travel photography", "best xiaomi phone for photography", "xiaomi travel photography tips"]
 tags: ["xiaomi", "smartphone photography", "travel photography", "xiaomi camera"]
 categories: ["xiaomi"]
