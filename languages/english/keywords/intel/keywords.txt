@@ -931,4 +931,7 @@ intel processor compatibility guide
 intel affordable processors for gaming
 intel SSD options for data storage
 intel SSD solutions for budget users
+intel high-speed and affordable SSDs
+intel budget SSDs for gaming PCs
+intel affordable processor and chipset guide
 
