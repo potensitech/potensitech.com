@@ -16360,5 +16360,12 @@
             "Cultural: Times Square",
             "Cultural: Apple Pie"
         ]
+    },
+    "budget-friendly Apple smartphone with great performance": {
+        "date": "2026-07-10T08:13:10",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
