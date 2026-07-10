@@ -782,4 +782,6 @@ nvidia affordable graphics card for creators
 nvidia processor performance for high-performance tasks
 nvidia high-speed processors for workstation performance
 nvidia budget-friendly processors for gaming
+nvidia entry-level GPU with processor compatibility
+nvidia low-cost processor for AI applications
 
