@@ -11,11 +11,14 @@ tags: ["Apple", "smartphone", "fast processor", "mobile technology", "innovation
 categories: ["apple"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/apple/apple-smartphone-featuring-fast-processor-speed-shines.jpg"
+featuredImagePreview: "/images/apple/apple-smartphone-featuring-fast-processor-speed-shines.jpg"
 ---
+
+![Apple Smartphone Featuring Fast Processor Speed Shines](/images/apple/apple-smartphone-featuring-fast-processor-speed-shines.jpg)
+
 
 *Apple Smartphone Featuring Fast Processor Speed Shines* - 
 
