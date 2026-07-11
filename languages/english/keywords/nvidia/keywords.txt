@@ -784,4 +784,8 @@ nvidia high-speed processors for workstation performance
 nvidia budget-friendly processors for gaming
 nvidia entry-level GPU with processor compatibility
 nvidia low-cost processor for AI applications
+nvidia affordable processor for gaming performance
+nvidia budget-friendly GPUs for gaming PCs
+nvidia GPU compatibility with 4K displays
+nvidia entry-level graphics card for gaming
 
