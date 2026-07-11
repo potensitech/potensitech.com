@@ -16377,5 +16377,18 @@
             "Cultural: Black Friday",
             "Cultural: Innovation"
         ]
+    },
+    "Apple smartphone featuring fast processor speed": {
+        "date": "2026-07-11T07:06:19",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Hollywood",
+            "Cultural: Steve Jobs",
+            "Cultural: Innovation"
+        ]
     }
 }
