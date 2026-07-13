@@ -6021,3 +6021,5 @@ chipset compatibility
 processor speed
 chipset compatibility
 processor speed
+dslr photography
+camera lenses
