@@ -788,4 +788,5 @@ nvidia affordable processor for gaming performance
 nvidia budget-friendly GPUs for gaming PCs
 nvidia GPU compatibility with 4K displays
 nvidia entry-level graphics card for gaming
+nvidia high-performance laptop processors
 
