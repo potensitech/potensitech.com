@@ -709,4 +709,6 @@ amd chipset compatibility with gaming GPUs
 amd affordable processors for home computing
 amd chipset for budget build compatibility
 amd processor optimized for gaming speed
+amd affordable chipset compatibility for gaming
+amd affordable chipset compatibility for motherboards
 

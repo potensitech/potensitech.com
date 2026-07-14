@@ -9600,5 +9600,7 @@
   "nvidia affordable GPU for gaming compatibility": true,
   "nvidia affordable processor for laptops": true,
   "nvidia affordable processor for desktop performance": true,
-  "nvidia economical GPU for AI applications": true
+  "nvidia economical GPU for AI applications": true,
+  "amd affordable chipset compatibility for gaming": true,
+  "amd affordable chipset compatibility for motherboards": true
 }
