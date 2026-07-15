@@ -32,7 +32,7 @@ The A-series Bionic processors have become synonymous with speed, efficiency, an
 
 Here’s what makes these chips exceptional:
 
-- **Neural Engine:** Specifically designed for machine learning tasks, this component powers features like Face ID recognition, real-time language translation, and advanced photo editing.
+- **Neural Engine:** Specifically designed for machine learning tasks, this component powers features like Face ID recognition, real-time language translation, and advanced [photo editing](/apple/affordable-apple-computers-for-photo-editing).
 - **High-Efficiency Cores:** These cores handle routine tasks such as messaging and browsing with minimal energy consumption.
 - **High-Performance Cores:** Perfect for demanding applications, these cores excel in tasks like 4K video editing, augmented reality (AR) experiences, and gaming.
 

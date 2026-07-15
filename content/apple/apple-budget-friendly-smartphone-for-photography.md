@@ -60,7 +60,7 @@ One of the most underrated features of this budget-friendly smartphone is its im
 
 ### Storage Options for Every Need
 
-Apple understands that photography enthusiasts need ample storage for their high-resolution images and videos. This smartphone offers multiple storage options, ranging from 64GB to 256GB, ensuring that The Potensians can choose the best fit for their needs without overspending.
+Apple understands that [photography enthusiasts](/apple/apple-smartphone-ideal-for-photography-enthusiasts) need ample storage for their high-resolution images and videos. This smartphone offers multiple storage options, ranging from 64GB to 256GB, ensuring that The Potensians can choose the best fit for their needs without overspending.
 
 ## Technical Specifications of Apple’s Budget-Friendly Smartphone
 

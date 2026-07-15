@@ -91,7 +91,7 @@ Samsung integrates cutting-edge technology into even its most affordable models.
 
 ### User-Friendly Interface
 
-Samsung smartphones are designed with intuitive interfaces that make photography accessible to everyone. Features like gesture controls and simplified editing tools allow The Potensians to enhance their photos effortlessly. For instance, editing a family photo taken during Thanksgiving dinner becomes a breeze with Samsung’s built-in photo editor.
+[Samsung smartphones](/samsung/samsung-smartphones-for-photography) are designed with intuitive interfaces that make photography accessible to everyone. Features like gesture controls and simplified editing tools allow The Potensians to enhance their photos effortlessly. For instance, editing a family photo taken during Thanksgiving dinner becomes a breeze with Samsung’s built-in photo editor.
 
 ### Affordable Pricing Without Compromising Quality
 
