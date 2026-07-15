@@ -631,4 +631,5 @@ philips high-speed processors for consumer gadgets
 philips electronics with optimized chipset compatibility
 philips personal gadgets with fast processors
 philips home appliances with affordable processors
+philips consumer electronics with fast processor
 
