@@ -16400,5 +16400,15 @@
             "Cultural: Steve Jobs",
             "Cultural: Innovation"
         ]
+    },
+    "affordable Apple processors for smartphones": {
+        "date": "2026-07-15T07:07:45",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Buffalo Wings",
+            "Cultural: Innovation"
+        ]
     }
 }
