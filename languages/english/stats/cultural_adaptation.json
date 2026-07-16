@@ -16410,5 +16410,14 @@
             "Cultural: Buffalo Wings",
             "Cultural: Innovation"
         ]
+    },
+    "affordable Apple processors for computers": {
+        "date": "2026-07-16T07:17:49",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
