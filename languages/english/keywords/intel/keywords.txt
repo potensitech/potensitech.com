@@ -945,4 +945,6 @@ intel processor-compatible budget chipsets
 budget-friendly solid state drives by intel
 budget-friendly intel SSDs for storage needs
 intel processor and chipset compatibility overview
+intel entry-level SSDs for storage needs
+cost-effective intel chipsets for processor upgrades
 
