@@ -9633,5 +9633,6 @@
   "sandisk premium SSD for professionals": true,
   "sandisk SSD for everyday computing": true,
   "intel solid-state drive for data-intensive tasks": true,
-  "intel budget chipset for entry-level processors": true
+  "intel budget chipset for entry-level processors": true,
+  "nvidia processor speed for AI computing": true
 }
