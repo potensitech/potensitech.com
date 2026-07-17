@@ -9631,5 +9631,7 @@
   "asus optimized processor for budget smartphones": true,
   "philips high-speed home electronics processor": true,
   "sandisk premium SSD for professionals": true,
-  "sandisk SSD for everyday computing": true
+  "sandisk SSD for everyday computing": true,
+  "intel solid-state drive for data-intensive tasks": true,
+  "intel budget chipset for entry-level processors": true
 }
