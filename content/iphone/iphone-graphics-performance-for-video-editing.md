@@ -88,7 +88,7 @@ Key features include:
 
 ## Real-Life Applicati​ons That Highlight Its Power
 
-To truly appreciate the iPhone’s capabilities, let’s delve into some real-world scenarios where its graphics performance shines.
+To truly appreciate the iPhone’s capabilities, let’s delve into some real-world scenarios where its graphics [performance shines](/iphone/iphone-affordable-autofocus-performance).
 
 ### Social Media Content Creation
 
