@@ -767,4 +767,5 @@ asus 5G smartphone chipset compatibility
 asus energy-efficient processor for smartphones
 asus gaming smartphone chipset optimization
 asus optimized processor for budget smartphones
+asus entry-level smartphone processor speed guide
 
