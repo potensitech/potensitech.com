@@ -75,7 +75,7 @@ One of the most critical factors to consider is compatibility. Apple devices oft
 
 ### Speed and Storage Capacity
 
-When transferring large files, such as high-resolution photos or 4K videos, speed is of the essence. Devices with USB 3.0 or USB-C interfaces offer faster transfer speeds compared to older USB 2.0 models. Additionally, consider the storage capacity of the device . For casual users, 64GB might suffice, but for those who frequently capture videos​ or store large files, a device with 128GB or 256GB capacity would be more suitable.
+When transferring [large files](/iphone/iphone-ssd-storage-for-large-files), such as high-resolution photos or 4K videos, speed is of the essence. Devices with USB 3.0 or USB-C interfaces offer faster transfer speeds compared to older USB 2.0 models. Additionally, consider the storage capacity of the device . For casual users, 64GB might suffice, but for those who frequently capture videos​ or store large files, a device with 128GB or 256GB capacity would be more suitable.
 
 ### Portability and Design
 
