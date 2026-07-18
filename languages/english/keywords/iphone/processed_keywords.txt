@@ -97,3 +97,4 @@ iphone graphics performance for video editing
 iphone SSD storage for large files
 iphone graphics performance vs Nvidia GPUs
 iphone SSD storage vs SanDisk drives
+iphone graphics performance for creative work
