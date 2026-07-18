@@ -10337,5 +10337,12 @@
         "tone": "Technical",
         "copywriting_style": "AIDA",
         "writing_model": "Descriptive"
+    },
+    "iphone graphics performance vs Nvidia GPUs": {
+        "date": "2026-07-18T09:05:11",
+        "language": "en",
+        "tone": "Technical",
+        "copywriting_style": "AIDA",
+        "writing_model": "Descriptive"
     }
 }
