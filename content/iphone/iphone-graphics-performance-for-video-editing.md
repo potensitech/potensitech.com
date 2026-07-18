@@ -24,7 +24,7 @@ featuredImagePreview: "/images/iphone/iphone-graphics-performance-for-video-edit
 
 ## The Evolution of iPhone Graphics Performance
 
-The journey of iPhone graphics performance is nothing short of extraordinary. Apple’s relentless focus on innovation has transformed the iPhone into a device capable of handling complex video editing tasks, from 4K rendering to augmented reality (AR) applications. The introduction of the A-series chips marked a turning point, enabling the iPhone to deliver desktop-level performance in a handheld device.
+The journey of [iPhone graphics](/iphone/iphone-graphics-performance-vs-nvidia-gpus) performance is nothing short of extraordinary. Apple’s relentless focus on innovation has transformed the iPhone into a device capable of handling complex video editing tasks, from 4K rendering to augmented reality (AR) applications. The introduction of the A-series chips marked a turning point, enabling the iPhone to deliver desktop-level performance in a handheld device.
 
 ### Key Milestones in Graphics Innovation
 
