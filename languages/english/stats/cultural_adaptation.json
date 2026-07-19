@@ -16496,5 +16496,18 @@
             "Cultural: Pizza",
             "Cultural: Abraham Lincoln"
         ]
+    },
+    "compact SSD for iPhone travel use": {
+        "date": "2026-07-19T09:25:42",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Los Angeles",
+            "Cultural: Silicon Valley",
+            "Cultural: Hollywood",
+            "Cultural: Tex-Mex"
+        ]
     }
 }
