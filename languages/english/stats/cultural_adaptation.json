@@ -16483,5 +16483,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "high-speed SSD for iPhone data storage": {
+        "date": "2026-07-19T07:24:08",
+        "language": "en",
+        "cultural_score": 92,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New York",
+            "Cultural: Chicago",
+            "Cultural: Times Square",
+            "Cultural: Pizza",
+            "Cultural: Abraham Lincoln"
+        ]
     }
 }
