@@ -129,7 +129,7 @@ Once The Potensians have chosen the best portable SSD for their needs, the next 
 
 ### Step 1: Choose the Right Adapter
 
-Depending on the model of The Potensians' iPhone, they may need a Lightning-to-USB or USB-C-to-USB adapter. Ensure the adapter supports data transfer and not just charging.
+Depending on the model of The Potensians' iPhone, they may need a Lightning-to-USB or USB-C-to-USB adapter. Ensure the adapter supports [data transfer](/iphone/top-iphone-compatible-data-transfer-accessories) and not just charging.
 
 ### Step 2: Connect the SSD to the iPhone
 
