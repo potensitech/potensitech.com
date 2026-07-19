@@ -9658,5 +9658,7 @@
   "reliable SanDisk SSD for backup": true,
   "lightweight SanDisk SSD for travel": true,
   "intel solid-state drives for budget computing": true,
-  "intel budget SSD options for upgrades": true
+  "intel budget SSD options for upgrades": true,
+  "nvidia chipset support for AMD motherboards": true,
+  "nvidia high-performance graphics card for computing": true
 }

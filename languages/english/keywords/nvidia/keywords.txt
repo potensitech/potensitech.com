@@ -795,4 +795,6 @@ nvidia affordable processor for desktop performance
 nvidia economical GPU for AI applications
 nvidia high-speed processors for AI tasks
 nvidia processor speed for AI computing
+nvidia chipset support for AMD motherboards
+nvidia high-performance graphics card for computing
 
