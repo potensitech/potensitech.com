@@ -9688,5 +9688,8 @@
   "intel affordable SSDs for data storage": true,
   "nvidia graphics card compatibility with laptops": true,
   "nvidia entry-level GPU for budget builds": true,
-  "nvidia high-speed processor for AI workloads": true
+  "nvidia high-speed processor for AI workloads": true,
+  "amd chipset guide for new builders": true,
+  "amd affordable processor for home performance": true,
+  "amd chipset for high-performance build compatibility": true
 }
