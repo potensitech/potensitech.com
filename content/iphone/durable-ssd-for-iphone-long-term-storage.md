@@ -45,7 +45,7 @@ Not all SSDs are created equal, especially when it comes to working seamlessly w
 
 For instance: 
 - **SanDisk Extreme Portable SSD**: Offers USB-C support and optional Lightning connectors, making it a versatile choice. 
-- **Samsung T7 Touch**: Combines high-speed performance with cross-platform compatibility, ensuring smooth operation with iPhones. 
+- **Samsung T7 Touch**: Combines high-[speed performance](/iphone/iphone-autofocus-speed-performance-test) with cross-platform compatibility, ensuring smooth operation with iPhones. 
 
 ### Storage Capacity Options
 
