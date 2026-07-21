@@ -16509,5 +16509,14 @@
             "Cultural: Hollywood",
             "Cultural: Tex-Mex"
         ]
+    },
+    "durable SSD for iPhone long-term storage": {
+        "date": "2026-07-21T07:30:14",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Fourth of July"
+        ]
     }
 }
