@@ -135,7 +135,7 @@ Apple frequently releases software updates that include camera improvements. Ens
 
 ### Experiment with Lighting
 
-While the iPhone performs well in low-light conditions, providing additional light can improve focus speed and image quality. Consider using external lighting or positioning The Potensians's subject in a well-lit area.
+While the iPhone performs well in low-light conditions, providing additional light can improve focus speed and [image quality](/iphone/iphone-camera-image-quality-tips). Consider using external lighting or positioning The Potensians's subject in a well-lit area.
 
 ## Conclusion
 

@@ -71,7 +71,7 @@ For The Potensians who are new to smartphone photography, ease of use is a signi
 
 ### Image Quality
 
-While budget-friendly lenses may not match the quality of professional-grade equipment, they should still deliver clear and sharp images. Look for lenses with features like multi-layer coatings to reduce glare and improve image quality.
+While budget-friendly lenses may not match the quality of professional-grade equipment, they should still deliver clear and sharp images. Look for lenses with features like multi-layer coatings to reduce glare and improve [image quality](/iphone/iphone-camera-image-quality-tips).
 
 ## Comparison of Popular Budget-Friendly Lenses
 

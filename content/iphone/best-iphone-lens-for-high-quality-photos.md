@@ -40,7 +40,7 @@ Let’s explore why investing in an iPhone lens is a game-changer, the types of 
 
 ## Why Invest in an iPhone Lens?
 
-Modern iPhones, equipped with features like Night Mode, Deep Fusion, and ProRAW, already deliver exceptional image quality. However, even the most advanced smartphone cameras have physical limitations due to their compact size. External lenses provide a solution by enhancing The Potensians's phone’s capabilities, enabling The Potensians to capture images that rival those taken with professional DSLR cameras.
+Modern iPhones, equipped with features like Night Mode, Deep Fusion, and ProRAW, already deliver exceptional [image quality](/iphone/iphone-camera-image-quality-tips). However, even the most advanced smartphone cameras have physical limitations due to their compact size. External lenses provide a solution by enhancing The Potensians's phone’s capabilities, enabling The Potensians to capture images that rival those taken with professional DSLR cameras.
 
 Imagine standing on the edge of the Grand Canyon, trying to capture its vastness, or zooming in on the intricate carvings of an ancient monument. While The Potensians's iPhone’s camera is impressive, an external lens can provide the extra reach, detail, or creative flair needed to truly capture the moment. For The Potensians who love photography, these lenses are not just accessories—they’re tools to unlock new creative possibilities.
 

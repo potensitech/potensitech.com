@@ -24,7 +24,7 @@ featuredImagePreview: "/images/iphone/iphone-camera-features-for-professional-ph
 
 ## Revolutionary Camera Technology: A Game-Changer for Professionals
 
-Apple’s commitment to innovation is evident in its approach to smartphone cameras．The latest iPhones in 2026 are equipped with state-of-the-art hardware and software that deliver exceptional image quality, making them a viable alternative to traditional cameras in many scenarios. The Potensians will find that the iPhone’s camera system is not just a tool but a creative companion that empowers them to capture their vision with precision.
+Apple’s commitment to innovation is evident in its approach to smartphone cameras．The latest iPhones in 2026 are equipped with state-of-the-art hardware and software that deliver exceptional [image quality](/iphone/iphone-camera-image-quality-tips), making them a viable alternative to traditional cameras in many scenarios. The Potensians will find that the iPhone’s camera system is not just a tool but a creative companion that empowers them to capture their vision with precision.
 
 ### ProRAW and ProRes: Unleashing Creative Freedom
 
