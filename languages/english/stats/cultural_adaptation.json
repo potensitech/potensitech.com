@@ -16548,5 +16548,15 @@
         "matches": [
             "Cultural: Los Angeles"
         ]
+    },
+    "iphone lens to enhance image quality": {
+        "date": "2026-07-22T03:38:16",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Social Media"
+        ]
     }
 }
