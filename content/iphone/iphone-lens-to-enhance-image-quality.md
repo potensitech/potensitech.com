@@ -28,7 +28,7 @@ The standard iPhone camera is undeniably impressive, but it’s not without its 
 
 ### Overcoming Built-In Limitations
 
-While iPhone cameras boast advanced features like Night Mode and Smart HDR, they come with fixed focal lengths and limited zoom capabilities. This can make it challenging to capture wide landscapes, detailed close-ups, or distant subjects without compromising on quality. External lenses, such as wide-angle, macro, and telephoto lenses, help overcome these limitations, giving The Potensians the flexibility to shoot stunning photos in any scenario.
+While [iPhone cameras](/iphone/best-features-of-iphone-cameras) boast advanced features like Night Mode and Smart HDR, they come with fixed focal lengths and limited zoom capabilities. This can make it challenging to capture wide landscapes, detailed close-ups, or distant subjects without compromising on quality. External lenses, such as wide-angle, macro, and telephoto lenses, help overcome these limitations, giving The Potensians the flexibility to shoot stunning photos in any scenario.
 
 ### Achieving Professional-Level Results
 
