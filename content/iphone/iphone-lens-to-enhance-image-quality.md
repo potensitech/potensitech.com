@@ -24,7 +24,7 @@ featuredImagePreview: "/images/iphone/iphone-lens-to-enhance-image-quality-like-
 
 ## Why Upgrade The Potensians' iPhone Camera with External Lenses?
 
-The standard iPhone camera is undeniably impressive, but it’s not without its constraints. External lenses are designed to complement the iPhone’s capabilities, allowing The Potensians to explore new dimensions in photography. Let’s delve into why these lenses are worth considering.
+The standard [iPhone camera](/iphone/iphone-camera-performance-in-low-light-conditions) is undeniably impressive, but it’s not without its constraints. External lenses are designed to complement the iPhone’s capabilities, allowing The Potensians to explore new dimensions in photography. Let’s delve into why these lenses are worth considering.
 
 ### Overcoming Built-In Limitations
 
