@@ -120,7 +120,7 @@ While software solutions can significantly enhance photo quality, they can’t a
 
 ### External Lenses
 
-Attachable lenses can expand the capabilities of the iPhone camera. Wide-angle lenses are perfect for capturing landscapes or group photos, while macro lenses allow for detailed close-ups of small subjects like flowers or insects. Telephoto lenses, on the other hand, are ideal for zooming in on distant objects without losing image quality.
+Attachable lenses can expand the capabilities of the iPhone camera. Wide-angle lenses are perfect for capturing landscapes or group photos, while macro lenses allow for detailed close-ups of small subjects like flowers or insects. Telephoto lenses, on the other hand, are ideal for zooming in on distant objects without losing [image quality](/iphone/iphone-lens-to-enhance-image-quality).
 
 ### Tripods and Stabilizers
 

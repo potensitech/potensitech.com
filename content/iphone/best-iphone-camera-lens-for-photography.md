@@ -142,7 +142,7 @@ Selecting the right lens depends on The Potensians's photography goals and prefe
 
 Once The Potensians’ve chosen the best iPhone camera lens for photography, here are some tips to maximize its potential:
 
-- **Clean the lens regularly** to avoid smudges and dust affecting image quality.
+- **Clean the lens regularly** to avoid smudges and dust affecting [image quality](/iphone/iphone-lens-to-enhance-image-quality).
 - **Experiment with angles and lighting** to create unique compositions.
 - **Use a tripod** for stability, especially when shooting in low light or with telephoto lenses.
 - **Edit The Potensians's photos** using apps like Lightroom or Snapseed to enhance colors and details.

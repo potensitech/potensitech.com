@@ -82,7 +82,7 @@ Prices range between $25–$50 depending on size and features—making tripods o
 #### Popular Choices:
 
 - **Apexel HD Macro Lens Kit**: Capture intricate details like snowflakes during Christmas festivities or the texture of leaves in autumn. 
-- **Moment Wide Lens Kit**: Perfect for landscape photography, this lens offers a wider field of view without compromising image quality. 
+- **Moment Wide Lens Kit**: Perfect for landscape photography, this lens offers a wider field of view without compromising [image quality](/iphone/iphone-lens-to-enhance-image-quality). 
 - **Xenvo Pro Lens Kit**: Includes both wide-angle and macro lenses, making it a versatile choice for hobbyists and professionals alike. 
 
 These kits typically cost between $30–$70, making them an affordable way to expand The Potensians's creative horizons.
