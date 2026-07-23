@@ -90,7 +90,7 @@ The iPhone’s camera sensors have evolved significantly, with larger pixe​ls 
 
 ## Real-Life Applications That Wow
 
-The question many of The Potensians ask is, "Can a smartphone truly replace a DSLR for professional use?" The answer increasingly leans toward "yes." The iPhone’s DSLR-like photo quality has found applications in various fields, from social media content creation to professional photography.
+The question many of The Potensians ask is, "Can a smartphone truly replace a DSLR for professional use?" The answer increasingly leans toward "yes." The iPhone’s DSLR-like photo quality has found applications in various fields, from social media content creation to [professional photography](/iphone/iphone-compatible-lenses-for-professional-photography).
 
 ### Social Media and Content Creation
 
