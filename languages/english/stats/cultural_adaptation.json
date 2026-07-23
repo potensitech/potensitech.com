@@ -16574,5 +16574,18 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "iphone DSLR-like photo quality": {
+        "date": "2026-07-23T07:30:35",
+        "language": "en",
+        "cultural_score": 96,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Christmas",
+            "Cultural: Times Square",
+            "Cultural: Soul Food",
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
