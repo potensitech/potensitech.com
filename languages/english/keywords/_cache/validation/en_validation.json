@@ -9739,5 +9739,7 @@
   "nvidia low-cost GPU optimization": true,
   "nvidia entry-level processor compatibility": true,
   "nvidia budget-friendly gaming chipset": true,
-  "nvidia cost-effective processor for multitasking": true
+  "nvidia cost-effective processor for multitasking": true,
+  "amd processors for entry-level system performance": true,
+  "amd processors for gaming performance optimization": true
 }

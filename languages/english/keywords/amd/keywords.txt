@@ -721,4 +721,6 @@ amd affordable processor for home performance
 amd chipset for high-performance build compatibility
 amd chipset support for high-performance GPUs
 amd processor speed for cost-effective PCs
+amd processors for entry-level system performance
+amd processors for gaming performance optimization
 
