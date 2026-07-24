@@ -16633,5 +16633,16 @@
             "Cultural: Social Media",
             "Cultural: Remote Work"
         ]
+    },
+    "amd high-performance GPUs for creative professionals": {
+        "date": "2026-07-24T22:46:12",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Independence Day",
+            "Cultural: Hollywood",
+            "Cultural: Innovation"
+        ]
     }
 }
