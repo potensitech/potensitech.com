@@ -11,11 +11,14 @@ tags: ["amd", "high-performance", "GPUs", "creative professionals", "video editi
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/amd-high-performance-gpus-for-creative-professionals.jpg"
+featuredImagePreview: "/images/amd/amd-high-performance-gpus-for-creative-professionals.jpg"
 ---
+
+![AMD High-Performance GPUs for Creative Professionals](/images/amd/amd-high-performance-gpus-for-creative-professionals.jpg)
+
 
 *AMD High-Performance GPUs for Creative Professionals* - 
 
