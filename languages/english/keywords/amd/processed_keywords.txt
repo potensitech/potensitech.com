@@ -72,3 +72,4 @@ amd gpu optimized for image stabilization
 amd affordable processor for image stabilization
 amd high-performance gpu for image stabilization
 amd budget-friendly gpu with image stabilization
+amd processor for image stabilization workflows

@@ -16600,5 +16600,17 @@
             "Cultural: Abraham Lincoln",
             "Cultural: Innovation"
         ]
+    },
+    "amd processor for image stabilization workflows": {
+        "date": "2026-07-24T13:36:08",
+        "language": "en",
+        "cultural_score": 62,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Wall Street",
+            "Cultural: Innovation",
+            "Cultural: Social Media",
+            "Cultural: Remote Work"
+        ]
     }
 }
