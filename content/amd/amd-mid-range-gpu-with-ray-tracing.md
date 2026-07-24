@@ -63,7 +63,7 @@ For The Potensians looking to upgrade their systems without breaking the bank, A
 </table>
 </div>
 
-These models cater to different needs while maintaining affordability—a key value for many consumers in urban areas where living costs can be high. In We's view, AMD has truly democratized access to high-performance GPUs.
+These models cater to different needs while maintaining affordability—a key value for many consumers in urban areas where living costs can be high. In We's view, AMD has truly democratized access to [high-performance GPUs](/amd/amd-high-performance-gpus-for-creative-professionals).
 
 ### Ray Tracing: Redefining Visual Realism
 

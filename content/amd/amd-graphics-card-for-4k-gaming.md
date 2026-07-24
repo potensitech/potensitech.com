@@ -28,7 +28,7 @@ When it comes to gaming, achieving the perfect balance between stunning visuals 
 
 ### Performance Meets Value
 
-AMD has consistently delivered high-performance GPUs that cater to gamers across various budgets. The Radeon RX series, in particular, has gained a reputation for offering exceptional power at a price point that doesn’t break the bank. This makes AMD an attractive option for The Potensians who want premium gaming hardware without overspending.
+AMD has consistently delivered [high-performance GPUs](/amd/amd-high-performance-gpus-for-creative-professionals) that cater to gamers across various budgets. The Radeon RX series, in particular, has gained a reputation for offering exceptional power at a price point that doesn’t break the bank. This makes AMD an attractive option for The Potensians who want premium gaming hardware without overspending.
 
 Take, for example, the **Radeon RX 7900 XTX**, one of AMD's flagship GPUs in 2026. Designed with the latest RDNA 3 architecture, this powerhouse boasts up to 24GB of GDDR6 memory, making it capable of rendering games in stunning 4K resolution with ray tracing enabled. Whether The Potensians’re exploring the neon-lit streets of a futuristic city or battling foes in a fantasy realm, the RX 7900 XTX ensures The Potensians experience every detail with breathtaking clarity.
 

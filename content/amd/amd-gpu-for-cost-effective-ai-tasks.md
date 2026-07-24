@@ -28,7 +28,7 @@ AMD GPUs have gained significant traction in the AI community due to their abili
 
 ### Competitive Pricing Without Compromising Performance
 
-One of AMD’s strongest selling points is its ability to deliver high-performance GPUs at accessible price points. This affordability makes AMD GPUs an excellent choice for startups, researchers, and individual developers who need to maximize their resources.
+One of AMD’s strongest selling points is its ability to deliver [high-performance GPUs](/amd/amd-high-performance-gpus-for-creative-professionals) at accessible price points. This affordability makes AMD GPUs an excellent choice for startups, researchers, and individual developers who need to maximize their resources.
 
 To illustrate this, let’s compare some popular AMD and Nvidia GPUs:
 
