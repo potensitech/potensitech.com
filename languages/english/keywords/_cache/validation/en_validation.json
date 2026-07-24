@@ -9782,5 +9782,8 @@
   "nvidia GPU performance for gaming": true,
   "nvidia processor performance for creative workflows": true,
   "nvidia GPU speed for 4K gaming": true,
-  "nvidia affordable chipset for high-performance tasks": true
+  "nvidia affordable chipset for high-performance tasks": true,
+  "amd chipset compatibility with entry-level processors": true,
+  "amd processor optimization for multitasking": true,
+  "amd affordable processors for everyday use": true
 }
