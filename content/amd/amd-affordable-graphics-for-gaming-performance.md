@@ -90,7 +90,7 @@ One of the most compelling reasons to choose AMD is the longevity of their produ
 
 ## How to Choose the Right AMD GPU for The Potensians's Needs
 
-Selecting the perfect GPU can feel overwhelming, especially with so many options available. Here are some factors to consider when choosing an AMD graphics card:
+Selecting the perfect GPU can feel overwhelming, especially with so many options available. Here are some factors to consider when choosing an AMD [graphics card](/amd/amd-low-cost-graphics-card-for-esports):
 
 ### Budget
 
