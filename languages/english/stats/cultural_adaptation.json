@@ -16587,5 +16587,18 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "amd budget-friendly gpu with image stabilization": {
+        "date": "2026-07-24T11:26:16",
+        "language": "en",
+        "cultural_score": 82,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Silicon Valley",
+            "Cultural: Times Square",
+            "Cultural: Clam Chowder",
+            "Cultural: Abraham Lincoln",
+            "Cultural: Innovation"
+        ]
     }
 }
