@@ -16644,5 +16644,18 @@
             "Cultural: Hollywood",
             "Cultural: Innovation"
         ]
+    },
+    "amd energy-efficient processors for laptops": {
+        "date": "2026-07-25T03:36:33",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Fourth of July",
+            "Cultural: New York",
+            "Cultural: Los Angeles",
+            "Cultural: Times Square"
+        ]
     }
 }
