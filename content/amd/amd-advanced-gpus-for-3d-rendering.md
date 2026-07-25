@@ -11,11 +11,14 @@ tags: ["amd", "GPUs", "3D rendering", "technology", "innovation"]
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/amd-advanced-gpus-for-3d-rendering-power-meets-precision.jpg"
+featuredImagePreview: "/images/amd/amd-advanced-gpus-for-3d-rendering-power-meets-precision.jpg"
 ---
+
+![AMD Advanced GPUs for 3D Rendering: Power Meets Precision](/images/amd/amd-advanced-gpus-for-3d-rendering-power-meets-precision.jpg)
+
 
 *AMD Advanced GPUs for 3D Rendering: Power Meets Precision* - 
 
