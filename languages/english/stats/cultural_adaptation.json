@@ -16670,5 +16670,15 @@
             "Cultural: Abraham Lincoln",
             "Cultural: Thomas Edison"
         ]
+    },
+    "amd optimized processors for desktop performance": {
+        "date": "2026-07-25T15:39:51",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Silicon Valley",
+            "Cultural: Innovation"
+        ]
     }
 }

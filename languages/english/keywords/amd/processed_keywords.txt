@@ -78,3 +78,4 @@ amd budget-friendly processors for multitasking efficiency
 amd high-performance GPUs for creative professionals
 amd energy-efficient processors for laptops
 amd entry-level GPU solutions for gaming
+amd optimized processors for desktop performance
