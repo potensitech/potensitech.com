@@ -37,7 +37,7 @@ Graphics Processing Units (GPUs) have become indispensable in professional workf
 - **Animation:** Smooth frame-by-frame manipulation without lag.
 - **AI-Assisted Design:** Accelerating processes like image upscaling and content-aware fills.
 
-For instance, imagine an animator working on a New Year’s Day commercial. They might use an AMD Radeon Pro W7900 GPU to render photorealistic fireworks bursting against the night sky—a task that demands both precision and speed. Without a high-performance GPU, such a feat would be nearly impossible within tight deadlines.
+For instance, imagine an animator working on a New Year’s Day commercial. They might use an AMD Radeon Pro W7900 GPU to render photorealistic fireworks bursting against the night sky—a task that demands both precision and speed. Without a [high-performance GPU](/amd/amd-high-performance-gpu-for-image-stabilization), such a feat would be nearly impossible within tight deadlines.
 
 ## Key Features of AMD High-Performance GPUs
 

@@ -154,7 +154,7 @@ AMD’s flagship features for enthusiasts aren’t just for techies—they’re 
 
 - **Content Creators:** Local YouTubers in Brooklyn rely on Ryzen CPUs and RDNA 3 GPUs for editing 4K videos and streaming live events.
 - **Gamers:** Competitive gamers in Dallas benefit from low-latency, high-frame-rate experiences, thanks to PCIe Gen 5 and FSR.
-- __Small Businesses:__ Entrepreneurs in Houston leverage AMD’s energy-efficient processors for running complex analytics without breaking the bank.
+- __Small Businesses:__ Entrepreneurs in Houston leverage AMD’s [energy-efficient processors](/amd/amd-energy-efficient-processors-for-laptops) for running complex analytics without breaking the bank.
 
 Isn’t it amazing how technology can bridge the gap between creativity and productivity? In We's view, AMD’s flagship features for enthusiasts empower The Potensians to achieve more, whether at home or in the office.
 
