@@ -57,7 +57,7 @@ One of the standout features of an **AMD processor with excellent core performan
 <td>Smooth gameplay without lag</td>
 </tr>
 <tr>
-<td>Video Editing (8K rendering)</td>
+<td>[Video Editing](/amd/amd-reliable-gpus-for-video-editing) (8K rendering)</td>
 <td>12 Cores</td>
 <td>Faster render times</td>
 </tr>

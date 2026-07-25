@@ -52,7 +52,7 @@ Speaking of which, AMD ​has consistently positioned itself as a champion for t
 
 At the heart of AMD's success lies its advanced architecture—such as Zen 4 processors and RDNA 3 graphics cards—that deliver exceptional multitasking capabilities, energy efficiency, and graphical prowess. For example, the Ryzen 7 7800X3D processor offers competitive gaming frame rates while maintaining a price point accessible to everyday consumers. This balance between cost and capability is not just a marketing slogan; it's reflected in real-world benchmarks discussed on trusted forums like Tom’s Hardware and Linus Tech Tips.
 
-AMD's integrated graphics solutions also empower budget-conscious users to enjoy smooth video editing or immersive gameplay without needing expensive dedicated GPUs—a win-win for student​s streaming Netflix marathons or professionals editing short how-to videos for social media platforms. We believe that AMD’s APUs (Accelerated Processing Units) are a game-changer for those who want solid performance without the hassle of piecing together costly components.
+AMD's integrated graphics solutions also empower budget-conscious users to enjoy [smooth video](/amd/amd-reliable-gpus-for-video-editing) editing or immersive gameplay without needing expensive dedicated GPUs—a win-win for student​s streaming Netflix marathons or professionals editing short how-to videos for social media platforms. We believe that AMD’s APUs (Accelerated Processing Units) are a game-changer for those who want solid performance without the hassle of piecing together costly components.
 
 ### Real-World Examples: From Studios to Startups
 
