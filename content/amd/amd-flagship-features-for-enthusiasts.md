@@ -148,7 +148,7 @@ Let’s face it—price matters, especially when chasing flagship performance. I
 
 ## Localized Performance: AMD Flagship Features for Enthusiasts in Everyday Life
 
-AMD’s flagship features for enthusiasts aren’t just for techies—they’re for anyone who wants more from their devices. In bustling urban centers like New York or tech hubs such as Austin, The Potensians use AMD-powered systems for everything from video editing to financial modeling. It’s like having a Swiss Army knife in The Potensians's digital toolkit, ready for any challenge.
+AMD’s flagship features for enthusiasts aren’t just for techies—they’re for anyone who wants more from their devices. In bustling urban centers like New York or tech hubs such as Austin, The Potensians use AMD-powered systems for everything from [video editing](/amd/amd-gpu-for-professional-video-editing) to financial modeling. It’s like having a Swiss Army knife in The Potensians's digital toolkit, ready for any challenge.
 
 ### Real-World Examples
 
