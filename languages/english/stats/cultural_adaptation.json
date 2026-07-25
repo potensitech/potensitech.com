@@ -16690,5 +16690,14 @@
             "Cultural: Innovation",
             "Cultural: Social Media"
         ]
+    },
+    "amd advanced GPUs for 3D rendering": {
+        "date": "2026-07-25T22:39:32",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
