@@ -16657,5 +16657,18 @@
             "Cultural: Los Angeles",
             "Cultural: Times Square"
         ]
+    },
+    "amd entry-level GPU solutions for gaming": {
+        "date": "2026-07-25T13:23:54",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Wall Street",
+            "Cultural: Broadway",
+            "Cultural: Abraham Lincoln",
+            "Cultural: Thomas Edison"
+        ]
     }
 }
