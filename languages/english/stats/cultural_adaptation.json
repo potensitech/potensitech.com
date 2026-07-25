@@ -16680,5 +16680,15 @@
             "Cultural: Silicon Valley",
             "Cultural: Innovation"
         ]
+    },
+    "amd reliable GPUs for video editing": {
+        "date": "2026-07-25T20:21:59",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media"
+        ]
     }
 }
