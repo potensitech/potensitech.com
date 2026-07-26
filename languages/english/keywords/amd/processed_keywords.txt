@@ -81,3 +81,4 @@ amd entry-level GPU solutions for gaming
 amd optimized processors for desktop performance
 amd reliable GPUs for video editing
 amd advanced GPUs for 3D rendering
+amd affordable processors for casual computing
