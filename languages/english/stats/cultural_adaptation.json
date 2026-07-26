@@ -16744,5 +16744,14 @@
         "matches": [
             "Cultural: Innovation"
         ]
+    },
+    "amd cost-effective GPU for video editing": {
+        "date": "2026-07-26T20:24:18",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Social Media"
+        ]
     }
 }
