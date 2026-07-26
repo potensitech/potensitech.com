@@ -11,11 +11,14 @@ tags: ["amd", "affordable processors", "casual computing", "budget CPUs"]
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/amd-affordable-processors-for-casual-computing-needs.jpg"
+featuredImagePreview: "/images/amd/amd-affordable-processors-for-casual-computing-needs.jpg"
 ---
+
+![AMD Affordable Processors for Casual Computing Needs](/images/amd/amd-affordable-processors-for-casual-computing-needs.jpg)
+
 
 _AMD Affordable Processors for Casual Computing Needs_ - 
 
