@@ -83,3 +83,4 @@ amd reliable GPUs for video editing
 amd advanced GPUs for 3D rendering
 amd affordable processors for casual computing
 amd affordable graphics card for performance
+amd efficient processor for multitasking

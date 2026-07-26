@@ -16716,5 +16716,15 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "amd efficient processor for multitasking": {
+        "date": "2026-07-26T07:31:12",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
