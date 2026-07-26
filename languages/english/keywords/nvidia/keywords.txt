@@ -811,4 +811,8 @@ nvidia GPU performance for gaming
 nvidia processor performance for creative workflows
 nvidia GPU speed for 4K gaming
 nvidia affordable chipset for high-performance tasks
+nvidia affordable gaming GPU chipset compatibility
+nvidia entry-level GPU processor speed comparison
+nvidia budget-friendly gaming build processor speed
+nvidia low-cost GPU upgrade chipset compatibility
 
