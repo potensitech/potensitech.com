@@ -16726,5 +16726,14 @@
             "Cultural: Innovation",
             "Cultural: Remote Work"
         ]
+    },
+    "amd affordable CPU for home computing": {
+        "date": "2026-07-26T15:39:54",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Innovation"
+        ]
     }
 }
