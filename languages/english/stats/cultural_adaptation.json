@@ -16753,5 +16753,16 @@
         "matches": [
             "Cultural: Social Media"
         ]
+    },
+    "amd energy-efficient processor for laptops": {
+        "date": "2026-07-26T22:44:40",
+        "language": "en",
+        "cultural_score": 43,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Social Media",
+            "Cultural: Green Technology"
+        ]
     }
 }
