@@ -24,7 +24,7 @@ featuredImagePreview: "/images/amd/amd-affordable-graphics-for-gaming-performanc
 
 ## Why Choose AMD Graphics Cards?
 
-When it comes to gaming performance, choosing the right GPU is crucial. AMD has long been celebrated for its ability to deliver high-performance graphics solutions at competitive prices. This makes their offerings particularly appealing during festive seasons like Christmas or other holidays when budgets often tighten due to gift-giving expenses. But what exactly makes AMD stand out in the crowded GPU market?
+When it comes to gaming performance, choosing the right GPU is crucial. AMD has long been celebrated for its ability to deliver [high-performance graphics](/amd/amd-high-performance-graphics-card-for-creators) solutions at competitive prices. This makes their offerings particularly appealing during festive seasons like Christmas or other holidays when budgets often tighten due to gift-giving expenses. But what exactly makes AMD stand out in the crowded GPU market?
 
 ### Cutting-Edge Technology at Affordable Prices
 
