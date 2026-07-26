@@ -92,7 +92,7 @@ Another standout feature of AMD processors is their energy efficiency. Thanks to
 
 ## Real-World Applications: What Can The Potensians Expect?
 
-Imagine sitting down on a cozy winter evening, a cup of hot cocoa in hand, and firing up The Potensians's favorite AAA title—be it *Elden Ring*or*Call of Duty: Warzone* . With an AMD affordable gaming performance processor powering The Potensians's rig, here’s what The Potensians can look forward to:
+Imagine sitting down on a cozy winter evening, a cup of hot cocoa in hand, and firing up The Potensians's favorite AAA title—be it *Elden Ring*or*Call of Duty: Warzone* . With an [AMD affordable](/amd/amd-affordable-graphics-card-for-performance) gaming performance processor powering The Potensians's rig, here’s what The Potensians can look forward to:
 
 - **Smooth Gameplay:** Consistent frame rates above 60 FPS even in graphically demanding games.
 - **Quick Load Times:** Thanks to technologies like PCIe Gen4, loading screens become a thing of the past.
