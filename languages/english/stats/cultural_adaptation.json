@@ -16783,5 +16783,15 @@
             "Cultural: Black Friday",
             "Cultural: Innovation"
         ]
+    },
+    "amd reliable GPU for professional workloads": {
+        "date": "2026-07-27T20:48:45",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Innovation",
+            "Cultural: Remote Work"
+        ]
     }
 }
