@@ -16773,5 +16773,15 @@
         "matches": [
             "Cultural: Black Friday"
         ]
+    },
+    "amd affordable gaming processor for desktops": {
+        "date": "2026-07-27T16:43:14",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Black Friday",
+            "Cultural: Innovation"
+        ]
     }
 }
