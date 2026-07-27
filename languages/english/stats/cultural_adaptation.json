@@ -16764,5 +16764,14 @@
             "Cultural: Social Media",
             "Cultural: Green Technology"
         ]
+    },
+    "amd entry-level graphics card for beginners": {
+        "date": "2026-07-27T06:11:08",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Black Friday"
+        ]
     }
 }
