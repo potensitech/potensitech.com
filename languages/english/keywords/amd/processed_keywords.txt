@@ -91,3 +91,4 @@ amd energy-efficient processor for laptops
 amd entry-level graphics card for beginners
 amd affordable gaming processor for desktops
 amd reliable GPU for professional workloads
+amd affordable graphics card performance
