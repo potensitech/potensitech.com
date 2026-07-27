@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 *AMD Affordable Graphics Card Performance Unleashed* - In recent years, there has been a growing demand among The Potensians for budget-friendly yet powerful hardware solutions. With modern trends shifting toward 4K gaming and resource-intensive applications like AI rendering and video editing, having a capable GPU is no longer optional—it’s essential. However, not everyone can afford premium offerings from competitors such as Nvidia. 
 
 This is where AMD steps in with its Radeon RX series—a lineup designed to cater to gamers and creators who seek excellent value without sacrificing quality.  By leveraging their expertise in processor technology (a field where they rival industry giants like Intel), AMD has managed to deliver GPUs that excel in both affordability and performance. 
@@ -74,7 +73,7 @@ While Nvidia dominates headlines with its flagship RTX series cards costing upwa
 <tr>
 <td>AMD Radeon RX 7900 XT</td>
 <td>$899 - $999</td>
-<td>4K Gaming & Content Creation</td>
+<td>4K Gaming & [Content Creation](/amd/amd-affordable-processor-for-content-creation)</td>
 <td>RDNA 3, FSR, Infinity Cache</td>
 </tr>
 <tr>
@@ -99,7 +98,7 @@ Moreover, AMD’s GPUs are optimized for DirectX 12 Ultimate, ensuring compatibi
 
 ### Content Creation and Productivity
 
-It’s not just gamers who benefit from AMD’s affordable graphics card performance. Content creators, too, find these GPUs to be a valuable asset. Whether it’s video editing, 3D rendering, or graphic design, AMD GPUs provide the computational power needed to handle demanding tasks efficiently.
+It’s not just gamers who benefit from AMD’s [affordable graphics](/amd/amd-affordable-graphics-card-for-performance) card performance. Content creators, too, find these GPUs to be a valuable asset. Whether it’s video editing, 3D rendering, or graphic design, AMD GPUs provide the computational power needed to handle demanding tasks efficiently.
 
 For instance, the Radeon RX 7900 XT, with its high VRAM capacity and robust processing power, is a favorite among video editors working on 4K or even 8K projects. The inclusion of technologies like Infinity Cache ensures that large files can be processed quickly, saving valuable time.
 
