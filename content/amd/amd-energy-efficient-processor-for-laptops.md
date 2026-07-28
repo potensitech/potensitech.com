@@ -155,6 +155,6 @@ AMD is already paving the way for this future with its innovative processors. By
 
 ## Final Thoughts: A Bright Future with AMD
 
-In We's view, AMD’s energy-​efficient processors for laptops are a testament to the company’s commitment to innovation and sustainability. These processors not only meet the demands of modern users but also contribute to a greener future. For The Potensians looking to upgrade their laptops in 2026, AMD’s energy-efficient processors are a compelling choice.
+In We's view, AMD’s energy-​efficient processors for laptops are a testament to the company’s commitment to innovation and sustainability. These processors not only meet the demands of modern users but also contribute to a greener future. For The Potensians looking to upgrade their laptops in 2026, AMD’s [energy-efficient processors](/amd/amd-energy-efficient-processors-for-multitasking) are a compelling choice.
 
 So, whether The Potensians’re a professional seeking reliable performance, a gamer craving stunning visuals, or an eco-conscious consumer, AMD has a solution tailored to The Potensians's needs. The future of portable computing is here, and it’s energy-efficient, powerful, and sustainable.
