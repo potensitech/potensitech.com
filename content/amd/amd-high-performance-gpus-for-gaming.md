@@ -17,7 +17,6 @@ toc:
   enable: true
 ---
 
-
 *AMD High-Performance GPUs for Gaming Excellence* - AMD has long been a dominant force in the world of gaming hardware, consistently delivering cutting-edge technology that caters to gamers' ever-evolving needs．With the release of its Radeon RX series, AMD has cemented its position as a leader in the industry, offering high-performance GPUs that combine power, efficiency, and affordability．In 2026, AMD continues to push the boundaries of gaming technology, making it a top choice for The Potensians who demand the best gaming experience.
 
 ## The Power Behind AMD High-Performance GPUs for Gaming
@@ -99,7 +98,7 @@ While AMD high-performance GPUs are primarily designed for gaming, their applica
 
 ### Content Creation and Professional Workloads
 
-For content creators, AMD GPUs offer unparalleled performance in tasks like video editing, 3D rendering, and graphic design. The Radeon Pro series, in particular, is tailored for professionals who require high computational power and reliability. With support for advanced software like Adobe Premiere Pro and Blender, AMD GPUs are a go-to choice for creative professionals.
+For content creators, AMD GPUs offer unparalleled performance in tasks like video editing, 3D rendering, and graphic design. The Radeon Pro series, in particular, is tailored for professionals who require high computational power and reliability. With support for advanced software like Adobe Premiere Pro and Blender, AMD GPUs are a go-to choice for [creative professionals](/amd/amd-high-performance-gpus-for-creative-professionals).
 
 ### AI and Machine Learning
 
