@@ -16826,5 +16826,18 @@
             "Cultural: Times Square",
             "Cultural: Innovation"
         ]
+    },
+    "amd energy-efficient processors for multitasking": {
+        "date": "2026-07-28T20:40:45",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: New Year's Day",
+            "Cultural: Halloween",
+            "Cultural: Wall Street",
+            "Cultural: Broadway",
+            "Cultural: Pizza"
+        ]
     }
 }
