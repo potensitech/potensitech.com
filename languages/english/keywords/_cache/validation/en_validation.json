@@ -9853,5 +9853,7 @@
   "philips efficient processor for consumer gadgets": true,
   "sandisk internal SSD for desktop storage": true,
   "nvidia affordable processors for efficient multitasking": true,
-  "nvidia chipset compatibility for laptop performance": true
+  "nvidia chipset compatibility for laptop performance": true,
+  "amd processor speed for multitasking performance": true,
+  "amd chipset compatibility for budget builds": true
 }

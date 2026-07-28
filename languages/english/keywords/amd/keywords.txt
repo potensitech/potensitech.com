@@ -729,4 +729,6 @@ amd affordable processors for everyday use
 amd budget-friendly chipset for PC builds
 amd affordable chipset options for desktops
 amd chipset for workstation compatibility
+amd processor speed for multitasking performance
+amd chipset compatibility for budget builds
 
