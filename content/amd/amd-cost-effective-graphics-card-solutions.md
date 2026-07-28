@@ -11,11 +11,14 @@ tags: ["amd", "graphics cards", "cost-effective GPUs", "gaming solutions", "tech
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/amd-cost-effective-graphics-card-solutions-unveiled.jpg"
+featuredImagePreview: "/images/amd/amd-cost-effective-graphics-card-solutions-unveiled.jpg"
 ---
+
+![AMD Cost-Effective Graphics Card Solutions Unveiled](/images/amd/amd-cost-effective-graphics-card-solutions-unveiled.jpg)
+
 
 *AMD Cost-Effective Graphics Card Solutions Unveiled* - 
 
