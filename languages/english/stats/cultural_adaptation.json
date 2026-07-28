@@ -16803,5 +16803,18 @@
             "Cultural: Black Friday",
             "Cultural: Innovation"
         ]
+    },
+    "amd budget-friendly processor efficiency": {
+        "date": "2026-07-28T03:30:37",
+        "language": "en",
+        "cultural_score": 87,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Halloween",
+            "Cultural: Times Square",
+            "Cultural: Pizza",
+            "Cultural: Buffalo Wings"
+        ]
     }
 }
