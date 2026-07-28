@@ -16816,5 +16816,15 @@
             "Cultural: Pizza",
             "Cultural: Buffalo Wings"
         ]
+    },
+    "amd high-performance GPUs for gaming": {
+        "date": "2026-07-28T18:12:35",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Times Square",
+            "Cultural: Innovation"
+        ]
     }
 }
