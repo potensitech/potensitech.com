@@ -16850,5 +16850,12 @@
             "Cultural: Tex-Mex",
             "Cultural: Innovation"
         ]
+    },
+    "amd affordable GPUs for creative work": {
+        "date": "2026-07-29T03:32:28",
+        "language": "en",
+        "cultural_score": 0,
+        "rating": "Basic",
+        "matches": []
     }
 }
