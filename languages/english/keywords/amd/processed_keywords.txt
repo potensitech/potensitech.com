@@ -97,3 +97,4 @@ amd high-performance GPUs for gaming
 amd energy-efficient processors for multitasking
 amd cost-effective graphics card solutions
 amd affordable GPUs for creative work
+amd processors optimized for budget users

@@ -16857,5 +16857,16 @@
         "cultural_score": 0,
         "rating": "Basic",
         "matches": []
+    },
+    "amd processors optimized for budget users": {
+        "date": "2026-07-29T05:42:12",
+        "language": "en",
+        "cultural_score": 57,
+        "rating": "Excellent",
+        "matches": [
+            "Cultural: Halloween",
+            "Cultural: Bill Gates",
+            "Cultural: Innovation"
+        ]
     }
 }
