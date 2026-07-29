@@ -16878,5 +16878,18 @@
             "Cultural: Buffalo Wings",
             "Cultural: Albert Einstein"
         ]
+    },
+    "amd efficient processors for small businesses": {
+        "date": "2026-07-29T09:56:57",
+        "language": "en",
+        "cultural_score": 100,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Thanksgiving",
+            "Cultural: Super Bowl Sunday",
+            "Cultural: Chicago",
+            "Cultural: Wall Street",
+            "Cultural: Pizza"
+        ]
     }
 }
