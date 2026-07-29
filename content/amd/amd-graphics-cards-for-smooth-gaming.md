@@ -11,11 +11,14 @@ tags: ["amd", "graphics cards", "gaming performance", "smooth gaming"]
 categories: ["amd"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ""
-featuredImagePreview: ""
 toc:
-  enable: true
+enable: true
+featuredImage: "/images/amd/amd-graphics-cards-for-smooth-gaming-performance.jpg"
+featuredImagePreview: "/images/amd/amd-graphics-cards-for-smooth-gaming-performance.jpg"
 ---
+
+![AMD Graphics Cards for Smooth Gaming Performance](/images/amd/amd-graphics-cards-for-smooth-gaming-performance.jpg)
+
 
 
 ---
