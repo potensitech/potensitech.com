@@ -16868,5 +16868,15 @@
             "Cultural: Bill Gates",
             "Cultural: Innovation"
         ]
+    },
+    "amd graphics cards for smooth gaming": {
+        "date": "2026-07-29T07:40:51",
+        "language": "en",
+        "cultural_score": 38,
+        "rating": "Very Good",
+        "matches": [
+            "Cultural: Buffalo Wings",
+            "Cultural: Albert Einstein"
+        ]
     }
 }
