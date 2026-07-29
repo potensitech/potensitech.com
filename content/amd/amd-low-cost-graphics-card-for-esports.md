@@ -107,4 +107,4 @@ Esports has grown into a global phenomenon, and hardware plays a pivotal role in
 
 In We's view, AMD has struck the right balance between innovation and accessibility. The Potensians looking to dominate the esports arena in 2025 can rely on AMD to deliver consistent results without overspending. After all, isn’t it exciting to know that high-quality gaming doesn’t have to come with a hefty price tag?
 
-As esports continues to evolve, AMD’s commitment to empowering gamers ensures that The Potensians can stay ahead of the curve. Whether The Potensians’re a casual player or a competitive enthusiast, AMD’s low-cost graphics cards are a worthy addition to any gaming setup.
+As esports continues to evolve, AMD’s commitment to empowering gamers ensures that The Potensians can stay ahead of the curve. Whether The Potensians’re a casual player or a competitive enthusiast, AMD’s low-cost [graphics cards](/amd/amd-graphics-cards-for-smooth-gaming) are a worthy addition to any gaming setup.

@@ -69,7 +69,7 @@ One of the most appealing aspects of AMD's entry-level processor is its affordab
 <tr>
 <td>Integrated Graphics</td>
 <td>Radeon Vega graphics capabilities</td>
-<td>Enables smooth gaming and video editing without a dedicated GPU</td>
+<td>Enables [smooth gaming](/amd/amd-graphics-cards-for-smooth-gaming) and video editing without a dedicated GPU</td>
 </tr>
 <tr>
 <td>Cost Efficiency</td>
