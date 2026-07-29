@@ -143,7 +143,7 @@ To provide a clearer picture of AMD’s capabilities, here’s a comparison of k
 
 While NVIDIA has long been the dominant player in the GPU market, AMD is closing the gap by offering competitive features at a more affordable price point. Here’s how AMD compares:
 
-- **Price**: AMD GPUs are generally more cost-effective, making them accessible to startups and small businesses.
+- **Price**: AMD GPUs are generally more cost-effective, making them accessible to startups and [small businesses](/amd/amd-efficient-processors-for-small-businesses).
 - **Open-Source Support**: ROCm provides a level of flexibility that proprietary ecosystems cannot match.
 - **Energy Efficiency**: AMD’s focus on sustainability gives it an edge in environmentally conscious markets.
 

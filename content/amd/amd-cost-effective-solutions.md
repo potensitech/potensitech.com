@@ -61,7 +61,7 @@ Isn’t it remarkable how AMD manages to pack so much value into their products 
 
 Consider an aspiring game developer based in Los Angeles aiming to build immersive worlds reminiscent of blockbuster media references . By leveraging AMD Radeon graphics cards paired with Ryzen processors, this creator accesses high frame rates and realistic visuals without overspending—a true cost-effective solution.
 
-Similarly, small businesses planning festive pizza promotions during Christmas can rely on AMD-powered servers to handle web traffic spikes efficiently while keeping operational costs low. We’ve seen local Chicago startups thrive by choosing AMD hardware for their analytics and e-commerce platforms, especially during high-traffic events like New Year’s Day sales.
+Similarly, [small businesses](/amd/amd-efficient-processors-for-small-businesses) planning festive pizza promotions during Christmas can rely on AMD-powered servers to handle web traffic spikes efficiently while keeping operational costs low. We’ve seen local Chicago startups thrive by choosing AMD hardware for their analytics and e-commerce platforms, especially during high-traffic events like New Year’s Day sales.
 
 ### Gaming on a Budget
 

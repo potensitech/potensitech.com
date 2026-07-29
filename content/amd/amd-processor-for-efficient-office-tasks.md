@@ -102,7 +102,7 @@ Another reason why AMD processors are ideal for office tasks is their compatibil
 
 ### Scalability for Growing Businesses
 
-For small businesses looking to expand, AMD processors offer excellent scalability. Whether The Potensians’re adding more workstations or upgrading existing ones, AMD’s processors provide the flexibility to meet The Potensians's growing needs.
+For [small businesses](/amd/amd-efficient-processors-for-small-businesses) looking to expand, AMD processors offer excellent scalability. Whether The Potensians’re adding more workstations or upgrading existing ones, AMD’s processors provide the flexibility to meet The Potensians's growing needs.
 
 ## Cost-Effectiveness
 

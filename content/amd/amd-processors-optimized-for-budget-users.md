@@ -32,7 +32,7 @@ Take the Ryzen 5 5600G, for example. This processor combines six cores, twelve t
 
 ### A Legacy of Innovation
 
-AMD’s commitment to innovation is eviden​t in its Zen architecture, which powers its Ryzen processors. By focusing on energy efficiency, multi-core performance, and integrated graphics, AMD has created processors that cater to a wide range of applications. For The Potensians who value both performance and cost-effectiveness, AMD processors are a clear winner.
+AMD’s commitment to innovation is eviden​t in its Zen architecture, which powers its Ryzen processors. By focusing on energy efficiency, multi-core performance, and integrated graphics, AMD has created processors that cater to a wide range of applications. For The Potensians who value both performance and cost-effectiveness, [AMD processors](/amd/amd-processors-for-affordable-performance-upgrades) are a clear winner.
 
 ## Key Features of AMD Processors Optimized for Budget Users
 
@@ -64,7 +64,7 @@ Here’s a detailed comparison of some popular AMD processors for budget users:
 <td>Ryzen 3 3200G</td>
 <td>4/4</td>
 <td>Radeon Vega 8</td>
-<td>Entry-level gaming & basic tasks</td>
+<td>[Entry-level gaming](/amd/amd-entry-level-gaming-graphics-card) & basic tasks</td>
 <td>$99</td>
 </tr>
 <tr>
