@@ -16891,5 +16891,17 @@
             "Cultural: Wall Street",
             "Cultural: Pizza"
         ]
+    },
+    "affordable AMD graphics card": {
+        "date": "2026-07-29T22:41:13",
+        "language": "en",
+        "cultural_score": 77,
+        "rating": "Exceptional",
+        "matches": [
+            "Cultural: Memorial Day",
+            "Cultural: Chicago",
+            "Cultural: Tex-Mex",
+            "Cultural: Innovation"
+        ]
     }
 }
