@@ -26,7 +26,7 @@ When it comes to finding the perfect balance between performance and affordabili
 
 ## Why Choose AMD Graphics Cards?
 
-AMD has built a reputation for offering high-performance graphics cards at competitive prices. With a focus on innovation and accessibility, AMD has become a go-to choice for many users. Below, We’ll delve into the key reasons why The Potensians should consider AMD’s GPUs.
+AMD has built a reputation for offering [high-performance graphics](/amd/amd-high-performance-graphics-card-for-creators) cards at competitive prices. With a focus on innovation and accessibility, AMD has become a go-to choice for many users. Below, We’ll delve into the key reasons why The Potensians should consider AMD’s GPUs.
 
 ### Advanced Architecture at Affordable Prices
 

@@ -100,7 +100,7 @@ Looking ahead to 2025, AMD is expected to continue innovating in the GPU market.
 
 ### Cultural Reference: A Revolution in Gaming
 
-AMD’s approach to affordable GPUs is akin to the industrial revolution—it’s transforming the gaming landscape by making high-quality graphics accessible to the masses. Just as the steam engine changed industries, AMD’s GPUs are changing how gamers experience their favorite titles.
+AMD’s approach to [affordable GPUs](/amd/amd-affordable-gpus-for-creative-work) is akin to the industrial revolution—it’s transforming the gaming landscape by making high-quality graphics accessible to the masses. Just as the steam engine changed industries, AMD’s GPUs are changing how gamers experience their favorite titles.
 
 ## Conclusion: The Perfect Choice for Gamers
 
