@@ -731,4 +731,7 @@ amd affordable chipset options for desktops
 amd chipset for workstation compatibility
 amd processor speed for multitasking performance
 amd chipset compatibility for budget builds
+amd processor speed for multitasking tasks
+amd chipset compatibility for GPU upgrades
+amd chipset compatibility for high-performance systems
 
