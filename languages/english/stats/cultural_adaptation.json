@@ -16903,5 +16903,14 @@
             "Cultural: Tex-Mex",
             "Cultural: Innovation"
         ]
+    },
+    "best AMD graphics card for gaming": {
+        "date": "2026-07-30T05:30:06",
+        "language": "en",
+        "cultural_score": 19,
+        "rating": "Basic",
+        "matches": [
+            "Cultural: Black Friday"
+        ]
     }
 }
