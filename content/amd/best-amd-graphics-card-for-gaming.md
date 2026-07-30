@@ -44,7 +44,7 @@ AMD graphics cards have earned a reputation for delivering exceptional value wit
 
 ### Cutting-Edge Technology
 
-AMD’s RDNA 3 architecture is at the heart of its latest GPUs, offering improved performance-per-watt and enhanced ray tracing capabilities. This means The Potensians can enjoy stunning visuals and smooth gameplay, even in the most demanding titles. Additionally, AMD’s Smart Access Memory (SAM) allows Ryzen processors to access the GPU’s memory more efficiently, resulting in better overall performance.
+AMD’s RDNA 3 architecture is at the heart of its latest GPUs, offering improved performance-per-watt and enhanced [ray tracing](/amd/amd-beginner-friendly-ray-tracing-gpu) capabilities. This means The Potensians can enjoy stunning visuals and smooth gameplay, even in the most demanding titles. Additionally, AMD’s Smart Access Memory (SAM) allows Ryzen processors to access the GPU’s memory more efficiently, resulting in better overall performance.
 
 ### Affordability Without Sacrificing Quality
 
