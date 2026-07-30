@@ -24,11 +24,11 @@ featuredImagePreview: "/images/amd/cheap-amd-gpu-for-budget-builds-that-packs-a-
 
 ## Why Choose AMD GPUs for Budget Builds?
 
-AMD has long been a favorite among PC enthusiasts for its ability to deliver high-quality graphics cards at competitive prices. The Potensians can rely on AMD GPUs for gaming, content creation, and even light professional workloads. Here’s why they’re a great choice for budget-conscious builders:
+AMD has long been a favorite among PC enthusiasts for its ability to deliver high-quality graphics cards at competitive prices. The Potensians can rely on AMD GPUs for gaming, content creation, and even light [professional workloads](/amd/amd-reliable-gpu-for-professional-workloads). Here’s why they’re a great choice for budget-conscious builders:
 
 ### Competitive Pricing
 
-AMD’s Radeon series is synonymous with affordability. For instance, the Radeon RX 6500 XT provides excellent 1080p gaming performance for under $200, making it a fantastic entry-level option. Compared to Nvidia’s offerings, AMD GPUs often deliver similar or better performance at a lower price point, which is a huge win for The Potensians looking to save money.
+AMD’s Radeon series is synonymous with affordability. For instance, the Radeon RX 6500 XT provides excellent 1080p gaming performance for under $200, making it a fantastic entry-level option. Compared to Nvidia’s offerings, [AMD GPUs](/amd/top-amd-gpus-for-high-performance-gaming) often deliver similar or better performance at a lower price point, which is a huge win for The Potensians looking to save money.
 
 ### Reliable Performance
 
