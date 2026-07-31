@@ -9901,5 +9901,7 @@
   "intel affordable camera lenses": true,
   "intel affordable dslr photography": true,
   "nvidia affordable camera lenses": true,
-  "nvidia affordable dslr photography": true
+  "nvidia affordable dslr photography": true,
+  "amd affordable camera lenses": true,
+  "amd affordable dslr photography": true
 }

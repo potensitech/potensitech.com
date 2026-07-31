@@ -734,4 +734,6 @@ amd chipset compatibility for budget builds
 amd processor speed for multitasking tasks
 amd chipset compatibility for GPU upgrades
 amd chipset compatibility for high-performance systems
+amd affordable camera lenses
+amd affordable dslr photography
 
