@@ -34,3 +34,5 @@ core efficiency
 chip performance
 chipset compatibility
 solid state
+dslr photography
+camera lenses
