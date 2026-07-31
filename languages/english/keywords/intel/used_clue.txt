@@ -35,3 +35,5 @@ clock speed
 chip performance
 core architecture
 solid state
+dslr photography
+camera lenses
