@@ -38,3 +38,4 @@ dslr lens
 mirrorless photography
 camera lenses
 mirrorless options
+chipset compatibility
