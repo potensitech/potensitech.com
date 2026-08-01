@@ -39,3 +39,4 @@ mirrorless options
 solid state
 chipset compatibility
 camera lenses
+processor speed

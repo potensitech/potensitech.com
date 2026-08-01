@@ -789,4 +789,6 @@ sandisk SSD for everyday computing needs
 sandisk internal SSD for desktop storage
 sandisk affordable camera lenses
 sandisk affordable dslr photography
+sandisk affordable chipset compatibility
+sandisk affordable processor speed
 
