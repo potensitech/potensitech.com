@@ -1,5 +1,4 @@
 chipset compatibility
-processor speed
 solid state
 mirrorless options
 core architecture

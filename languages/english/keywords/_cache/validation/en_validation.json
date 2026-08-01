@@ -9914,5 +9914,7 @@
   "apple affordable processor speed": true,
   "sony affordable chipset compatibility": true,
   "sandisk affordable chipset compatibility": true,
-  "sandisk affordable processor speed": true
+  "sandisk affordable processor speed": true,
+  "intel affordable chipset compatibility": true,
+  "intel affordable processor speed": true
 }
