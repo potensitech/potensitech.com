@@ -30,3 +30,4 @@ core efficiency
 chip performance
 dslr photography
 camera lenses
+solid state

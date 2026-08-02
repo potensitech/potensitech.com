@@ -9918,5 +9918,7 @@
   "intel affordable chipset compatibility": true,
   "intel affordable processor speed": true,
   "nvidia affordable chipset compatibility": true,
-  "nvidia affordable solid state": true
+  "nvidia affordable solid state": true,
+  "amd affordable chipset compatibility": true,
+  "amd affordable solid state": true
 }

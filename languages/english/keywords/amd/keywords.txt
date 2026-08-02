@@ -736,4 +736,6 @@ amd chipset compatibility for GPU upgrades
 amd chipset compatibility for high-performance systems
 amd affordable camera lenses
 amd affordable dslr photography
+amd affordable chipset compatibility
+amd affordable solid state
 
