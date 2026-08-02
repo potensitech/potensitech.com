@@ -6419,3 +6419,5 @@ chipset compatibility
 solid state
 solid state
 mirrorless options
+solid state
+mirrorless options

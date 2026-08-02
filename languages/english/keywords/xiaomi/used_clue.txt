@@ -39,3 +39,4 @@ autofocus technology
 camera lenses
 mirrorless options
 chipset compatibility
+solid state
