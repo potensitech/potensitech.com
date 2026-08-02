@@ -88,3 +88,6 @@ camera lenses
 
 --- Moved on 2026-08-01 22:32:39 ---
 processor speed
+
+--- Moved on 2026-08-02 09:20:50 ---
+chipset compatibility
