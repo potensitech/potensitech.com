@@ -1,4 +1,3 @@
-chipset compatibility
 solid state
 mirrorless options
 core architecture
