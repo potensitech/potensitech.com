@@ -9916,5 +9916,7 @@
   "sandisk affordable chipset compatibility": true,
   "sandisk affordable processor speed": true,
   "intel affordable chipset compatibility": true,
-  "intel affordable processor speed": true
+  "intel affordable processor speed": true,
+  "nvidia affordable chipset compatibility": true,
+  "nvidia affordable solid state": true
 }
