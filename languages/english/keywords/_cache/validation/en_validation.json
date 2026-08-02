@@ -9920,5 +9920,7 @@
   "nvidia affordable chipset compatibility": true,
   "nvidia affordable solid state": true,
   "amd affordable chipset compatibility": true,
-  "amd affordable solid state": true
+  "amd affordable solid state": true,
+  "canon affordable chipset compatibility": true,
+  "canon affordable solid state": true
 }
