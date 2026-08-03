@@ -9943,5 +9943,7 @@
   "sandisk affordable mirrorless options": true,
   "sandisk affordable solid state": true,
   "intel affordable core architecture": true,
-  "intel affordable mirrorless options": true
+  "intel affordable mirrorless options": true,
+  "nvidia affordable core architecture": true,
+  "nvidia affordable mirrorless options": true
 }
