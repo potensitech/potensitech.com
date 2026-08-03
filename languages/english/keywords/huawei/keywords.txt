@@ -618,4 +618,6 @@ huawei affordable chipset compatibility
 huawei affordable processor speed
 huawei affordable mirrorless options
 huawei affordable solid state
+huawei affordable core architecture
+huawei affordable thermal efficiency
 
