@@ -1,4 +1,3 @@
-mirrorless options
 core architecture
 thermal efficiency
 camera resolution

@@ -6443,3 +6443,5 @@ mirrorless options
 core architecture
 mirrorless options
 core architecture
+core architecture
+thermal efficiency
