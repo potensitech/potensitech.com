@@ -91,3 +91,6 @@ processor speed
 
 --- Moved on 2026-08-02 09:20:50 ---
 chipset compatibility
+
+--- Moved on 2026-08-03 08:04:56 ---
+solid state
