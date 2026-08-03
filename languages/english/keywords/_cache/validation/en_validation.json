@@ -9953,5 +9953,7 @@
   "nikon affordable core architecture": true,
   "nikon affordable thermal efficiency": true,
   "huawei affordable core architecture": true,
-  "huawei affordable thermal efficiency": true
+  "huawei affordable thermal efficiency": true,
+  "xiaomi affordable core architecture": true,
+  "xiaomi affordable thermal efficiency": true
 }
