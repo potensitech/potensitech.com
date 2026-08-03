@@ -31,3 +31,5 @@ chip performance
 dslr photography
 camera lenses
 solid state
+mirrorless options
+core architecture

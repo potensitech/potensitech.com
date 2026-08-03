@@ -9945,5 +9945,7 @@
   "intel affordable core architecture": true,
   "intel affordable mirrorless options": true,
   "nvidia affordable core architecture": true,
-  "nvidia affordable mirrorless options": true
+  "nvidia affordable mirrorless options": true,
+  "amd affordable core architecture": true,
+  "amd affordable mirrorless options": true
 }
