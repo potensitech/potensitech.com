@@ -47,3 +47,5 @@ core efficiency
 autofocus technology
 chipset compatibility
 camera lenses
+solid state
+mirrorless options
