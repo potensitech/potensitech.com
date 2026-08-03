@@ -6435,3 +6435,5 @@ solid state
 mirrorless options
 solid state
 mirrorless options
+mirrorless options
+core architecture
