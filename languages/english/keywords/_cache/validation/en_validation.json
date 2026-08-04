@@ -9965,5 +9965,7 @@
   "sony affordable core architecture": true,
   "sony affordable thermal efficiency": true,
   "asus affordable core architecture": true,
-  "asus affordable thermal efficiency": true
+  "asus affordable thermal efficiency": true,
+  "philips affordable core architecture": true,
+  "philips affordable thermal efficiency": true
 }
