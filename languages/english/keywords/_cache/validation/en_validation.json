@@ -9955,5 +9955,7 @@
   "huawei affordable core architecture": true,
   "huawei affordable thermal efficiency": true,
   "xiaomi affordable core architecture": true,
-  "xiaomi affordable thermal efficiency": true
+  "xiaomi affordable thermal efficiency": true,
+  "iphone affordable core architecture": true,
+  "iphone affordable thermal efficiency": true
 }
