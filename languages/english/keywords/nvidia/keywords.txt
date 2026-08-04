@@ -827,4 +827,6 @@ nvidia affordable chipset compatibility
 nvidia affordable solid state
 nvidia affordable core architecture
 nvidia affordable mirrorless options
+nvidia affordable camera resolution
+nvidia affordable thermal efficiency
 

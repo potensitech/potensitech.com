@@ -9970,5 +9970,7 @@
   "philips affordable thermal efficiency": true,
   "sandisk affordable core architecture": true,
   "sandisk affordable thermal efficiency": true,
-  "intel affordable thermal efficiency": true
+  "intel affordable thermal efficiency": true,
+  "nvidia affordable camera resolution": true,
+  "nvidia affordable thermal efficiency": true
 }

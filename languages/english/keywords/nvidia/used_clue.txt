@@ -38,3 +38,4 @@ dslr photography
 camera lenses
 mirrorless options
 core architecture
+camera resolution
