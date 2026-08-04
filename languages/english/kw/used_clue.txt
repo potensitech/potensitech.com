@@ -97,3 +97,6 @@ solid state
 
 --- Moved on 2026-08-03 16:42:58 ---
 mirrorless options
+
+--- Moved on 2026-08-04 18:23:04 ---
+core architecture

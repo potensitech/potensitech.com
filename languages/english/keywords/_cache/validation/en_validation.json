@@ -9969,5 +9969,6 @@
   "philips affordable core architecture": true,
   "philips affordable thermal efficiency": true,
   "sandisk affordable core architecture": true,
-  "sandisk affordable thermal efficiency": true
+  "sandisk affordable thermal efficiency": true,
+  "intel affordable thermal efficiency": true
 }
