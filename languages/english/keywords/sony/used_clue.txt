@@ -39,3 +39,5 @@ camera lenses
 chipset compatibility
 solid state
 mirrorless options
+core architecture
+thermal efficiency
