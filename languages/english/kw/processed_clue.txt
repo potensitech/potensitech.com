@@ -6467,3 +6467,5 @@ core architecture
 thermal efficiency
 thermal efficiency
 camera resolution
+thermal efficiency
+camera resolution

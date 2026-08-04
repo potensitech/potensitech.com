@@ -33,3 +33,5 @@ camera lenses
 solid state
 mirrorless options
 core architecture
+thermal efficiency
+camera resolution
