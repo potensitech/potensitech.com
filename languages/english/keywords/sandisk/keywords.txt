@@ -793,4 +793,6 @@ sandisk affordable chipset compatibility
 sandisk affordable processor speed
 sandisk affordable mirrorless options
 sandisk affordable solid state
+sandisk affordable core architecture
+sandisk affordable thermal efficiency
 

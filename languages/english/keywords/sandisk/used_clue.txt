@@ -40,3 +40,5 @@ solid state
 chipset compatibility
 camera lenses
 processor speed
+core architecture
+thermal efficiency
