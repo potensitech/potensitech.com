@@ -9959,5 +9959,7 @@
   "iphone affordable core architecture": true,
   "iphone affordable thermal efficiency": true,
   "samsung affordable core architecture": true,
-  "samsung affordable thermal efficiency": true
+  "samsung affordable thermal efficiency": true,
+  "apple affordable core architecture": true,
+  "apple affordable thermal efficiency": true
 }

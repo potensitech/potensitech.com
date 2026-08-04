@@ -522,4 +522,6 @@ apple affordable chipset compatibility
 apple affordable processor speed
 apple affordable mirrorless options
 apple affordable solid state
+apple affordable core architecture
+apple affordable thermal efficiency
 
