@@ -6457,3 +6457,5 @@ core architecture
 thermal efficiency
 core architecture
 thermal efficiency
+core architecture
+thermal efficiency

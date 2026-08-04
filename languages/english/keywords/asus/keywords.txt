@@ -796,4 +796,6 @@ asus optimized chipset compatibility for smartphones
 asus affordable dslr photography
 asus affordable mirrorless options
 asus affordable solid state
+asus affordable core architecture
+asus affordable thermal efficiency
 
