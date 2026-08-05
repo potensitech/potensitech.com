@@ -6471,3 +6471,5 @@ thermal efficiency
 camera resolution
 thermal efficiency
 camera resolution
+thermal efficiency
+camera resolution

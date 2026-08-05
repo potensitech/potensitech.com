@@ -647,4 +647,5 @@ nikon affordable chipset compatibility
 nikon affordable solid state
 nikon affordable core architecture
 nikon affordable thermal efficiency
+nikon affordable camera resolution
 

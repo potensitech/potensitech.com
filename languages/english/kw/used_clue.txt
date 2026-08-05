@@ -100,3 +100,6 @@ mirrorless options
 
 --- Moved on 2026-08-04 18:23:04 ---
 core architecture
+
+--- Moved on 2026-08-05 05:27:45 ---
+thermal efficiency
