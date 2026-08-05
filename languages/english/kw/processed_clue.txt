@@ -6475,3 +6475,5 @@ thermal efficiency
 camera resolution
 camera resolution
 autofocus technology
+camera resolution
+autofocus technology
