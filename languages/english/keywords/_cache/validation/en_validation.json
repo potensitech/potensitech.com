@@ -9974,5 +9974,7 @@
   "nvidia affordable camera resolution": true,
   "nvidia affordable thermal efficiency": true,
   "amd affordable camera resolution": true,
-  "amd affordable thermal efficiency": true
+  "amd affordable thermal efficiency": true,
+  "canon affordable camera resolution": true,
+  "canon affordable thermal efficiency": true
 }
