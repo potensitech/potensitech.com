@@ -10000,5 +10000,7 @@
   "intel affordable camera resolution": true,
   "nvidia affordable autofocus technology": true,
   "amd affordable autofocus technology": true,
-  "amd affordable dslr lens": true
+  "amd affordable dslr lens": true,
+  "canon affordable autofocus technology": true,
+  "canon affordable dslr lens": true
 }
