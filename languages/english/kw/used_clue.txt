@@ -103,3 +103,6 @@ core architecture
 
 --- Moved on 2026-08-05 05:27:45 ---
 thermal efficiency
+
+--- Moved on 2026-08-06 07:27:35 ---
+camera resolution

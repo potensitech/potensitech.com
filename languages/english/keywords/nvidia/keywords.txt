@@ -829,4 +829,5 @@ nvidia affordable core architecture
 nvidia affordable mirrorless options
 nvidia affordable camera resolution
 nvidia affordable thermal efficiency
+nvidia affordable autofocus technology
 

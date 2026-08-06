@@ -39,3 +39,4 @@ camera lenses
 mirrorless options
 core architecture
 camera resolution
+autofocus technology
