@@ -42,3 +42,4 @@ chipset compatibility
 solid state
 core architecture
 thermal efficiency
+autofocus technology
