@@ -35,3 +35,5 @@ mirrorless options
 core architecture
 thermal efficiency
 camera resolution
+autofocus technology
+dslr lens

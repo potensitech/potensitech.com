@@ -6495,3 +6495,5 @@ camera resolution
 autofocus technology
 camera resolution
 autofocus technology
+autofocus technology
+dslr lens

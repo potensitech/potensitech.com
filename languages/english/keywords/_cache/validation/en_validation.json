@@ -9998,5 +9998,7 @@
   "sandisk affordable camera resolution": true,
   "intel affordable autofocus technology": true,
   "intel affordable camera resolution": true,
-  "nvidia affordable autofocus technology": true
+  "nvidia affordable autofocus technology": true,
+  "amd affordable autofocus technology": true,
+  "amd affordable dslr lens": true
 }
