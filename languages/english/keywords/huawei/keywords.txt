@@ -622,4 +622,5 @@ huawei affordable core architecture
 huawei affordable thermal efficiency
 huawei affordable autofocus technology
 huawei affordable camera resolution
+huawei affordable dslr lens
 

@@ -106,3 +106,6 @@ thermal efficiency
 
 --- Moved on 2026-08-06 07:27:35 ---
 camera resolution
+
+--- Moved on 2026-08-07 00:44:34 ---
+autofocus technology
