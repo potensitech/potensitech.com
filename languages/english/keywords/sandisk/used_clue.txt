@@ -42,3 +42,5 @@ camera lenses
 processor speed
 core architecture
 thermal efficiency
+dslr lens
+mirrorless photography

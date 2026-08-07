@@ -797,4 +797,6 @@ sandisk affordable core architecture
 sandisk affordable thermal efficiency
 sandisk affordable autofocus technology
 sandisk affordable camera resolution
+sandisk affordable dslr lens
+sandisk affordable mirrorless photography
 
