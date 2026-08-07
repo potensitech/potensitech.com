@@ -40,7 +40,7 @@ Even AMD’s budget GPUs come equipped with modern features like ray tracing and
 
 ## Top Cheap AMD GPUs for Budget Builds in 2026
 
-To help The Potensians make an informed decision, We’ve compiled a list of the best cheap AMD GPUs for budget builds in 2026. These options balance price, performance, and features, making them ideal for a variety of use cases.
+To help The Potensians make an informed decision, We’ve compiled a list of the best [cheap AMD](/amd/cheap-amd-gpu-for-ai-acceleration) GPUs for budget builds in 2026. These options balance price, performance, and features, making them ideal for a variety of use cases.
 
 <div class="table-responsive">
 <table class="html-table">
