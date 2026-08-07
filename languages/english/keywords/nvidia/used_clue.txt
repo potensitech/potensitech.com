@@ -40,3 +40,5 @@ mirrorless options
 core architecture
 camera resolution
 autofocus technology
+dslr lens
+mirrorless photography
