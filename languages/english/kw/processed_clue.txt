@@ -6505,3 +6505,5 @@ autofocus technology
 dslr lens
 dslr lens
 mirrorless photography
+dslr lens
+mirrorless photography

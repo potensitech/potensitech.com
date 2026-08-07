@@ -46,3 +46,5 @@ solid state
 mirrorless options
 core architecture
 thermal efficiency
+dslr lens
+mirrorless photography
