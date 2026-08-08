@@ -41,3 +41,4 @@ solid state
 core architecture
 thermal efficiency
 camera resolution
+chip performance
