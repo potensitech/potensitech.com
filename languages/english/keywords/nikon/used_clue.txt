@@ -43,3 +43,4 @@ solid state
 core architecture
 thermal efficiency
 autofocus technology
+chip performance
