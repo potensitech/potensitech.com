@@ -53,3 +53,4 @@ core architecture
 thermal efficiency
 dslr lens
 mirrorless photography
+chip performance
