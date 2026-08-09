@@ -6549,3 +6549,5 @@ chip performance
 smartphone camera
 chip performance
 smartphone camera
+smartphone camera
+mirrorless camera
