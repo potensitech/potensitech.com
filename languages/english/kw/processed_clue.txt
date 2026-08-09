@@ -6555,3 +6555,5 @@ smartphone camera
 mirrorless camera
 smartphone camera
 mirrorless camera
+smartphone camera
+mirrorless camera
