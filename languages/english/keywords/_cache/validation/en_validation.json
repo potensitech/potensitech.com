@@ -10051,5 +10051,7 @@
   "intel affordable chip performance": true,
   "intel affordable smartphone camera": true,
   "nvidia affordable mirrorless camera": true,
-  "nvidia alternatives smartphone camera": true
+  "nvidia alternatives smartphone camera": true,
+  "amd affordable mirrorless camera": true,
+  "amd alternatives smartphone camera": true
 }
