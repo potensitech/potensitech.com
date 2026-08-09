@@ -6559,3 +6559,5 @@ smartphone camera
 mirrorless camera
 mirrorless camera
 battery life
+mirrorless camera
+battery life
