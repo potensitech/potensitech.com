@@ -124,3 +124,6 @@ smartphone camera
 
 --- Moved on 2026-08-10 15:19:16 ---
 mirrorless camera
+
+--- Moved on 2026-08-10 22:17:17 ---
+battery life
