@@ -44,3 +44,5 @@ autofocus technology
 dslr lens
 mirrorless photography
 smartphone camera
+mirrorless camera
+battery life
