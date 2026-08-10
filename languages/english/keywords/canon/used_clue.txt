@@ -43,3 +43,5 @@ thermal efficiency
 camera resolution
 chip performance
 smartphone camera
+battery life
+mobile display

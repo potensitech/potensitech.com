@@ -6581,3 +6581,5 @@ mirrorless camera
 battery life
 battery life
 mobile display
+battery life
+mobile display
