@@ -6585,3 +6585,5 @@ battery life
 mobile display
 battery life
 mobile display
+mobile display
+full-frame sensor

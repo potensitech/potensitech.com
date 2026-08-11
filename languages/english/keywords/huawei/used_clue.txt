@@ -45,3 +45,4 @@ dslr lens
 mirrorless photography
 chip performance
 mirrorless camera
+full-frame sensor
