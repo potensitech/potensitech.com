@@ -46,3 +46,5 @@ dslr lens
 mirrorless photography
 chip performance
 battery life
+mobile display
+full-frame sensor
