@@ -50,3 +50,5 @@ dslr lens
 mirrorless photography
 chip performance
 mirrorless camera
+mobile display
+full-frame sensor

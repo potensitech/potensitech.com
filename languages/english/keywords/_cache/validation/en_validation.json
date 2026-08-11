@@ -10088,5 +10088,7 @@
   "huawei affordable full-frame sensor": true,
   "huawei affordable mobile display": true,
   "xiaomi affordable full-frame sensor": true,
-  "xiaomi affordable mobile display": true
+  "xiaomi affordable mobile display": true,
+  "iphone affordable full-frame sensor": true,
+  "iphone affordable mobile display": true
 }
