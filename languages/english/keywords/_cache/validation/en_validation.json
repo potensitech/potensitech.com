@@ -10102,5 +10102,7 @@
   "philips affordable full-frame sensor": true,
   "philips affordable mobile display": true,
   "sandisk affordable full-frame sensor": true,
-  "sandisk affordable mobile display": true
+  "sandisk affordable mobile display": true,
+  "intel affordable full-frame sensor": true,
+  "intel affordable mobile display": true
 }

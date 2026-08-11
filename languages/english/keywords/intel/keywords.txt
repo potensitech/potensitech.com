@@ -985,4 +985,6 @@ intel affordable chip performance
 intel affordable smartphone camera
 intel affordable battery life
 intel affordable mirrorless camera
+intel affordable full-frame sensor
+intel affordable mobile display
 
