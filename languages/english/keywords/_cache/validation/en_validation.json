@@ -10112,5 +10112,7 @@
   "canon affordable lens compatibility": true,
   "nikon affordable full-frame sensor": true,
   "nikon affordable lens compatibility": true,
-  "huawei affordable lens compatibility": true
+  "huawei affordable lens compatibility": true,
+  "xiaomi affordable lens compatibility": true,
+  "xiaomi affordable processor performance": true
 }
