@@ -130,3 +130,6 @@ battery life
 
 --- Moved on 2026-08-12 04:20:42 ---
 mobile display
+
+--- Moved on 2026-08-12 10:37:29 ---
+full-frame sensor
