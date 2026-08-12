@@ -6617,3 +6617,5 @@ full-frame sensor
 lens compatibility
 lens compatibility
 processor performance
+lens compatibility
+processor performance
