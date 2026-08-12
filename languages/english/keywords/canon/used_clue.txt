@@ -45,3 +45,4 @@ chip performance
 smartphone camera
 battery life
 mobile display
+lens compatibility
