@@ -10106,5 +10106,6 @@
   "intel affordable full-frame sensor": true,
   "intel affordable mobile display": true,
   "nvidia affordable full-frame sensor": true,
-  "nvidia affordable mobile display": true
+  "nvidia affordable mobile display": true,
+  "amd affordable full-frame sensor": true
 }

@@ -127,3 +127,6 @@ mirrorless camera
 
 --- Moved on 2026-08-10 22:17:17 ---
 battery life
+
+--- Moved on 2026-08-12 04:20:42 ---
+mobile display
