@@ -45,3 +45,4 @@ thermal efficiency
 autofocus technology
 chip performance
 mobile display
+full-frame sensor

@@ -10109,5 +10109,7 @@
   "nvidia affordable mobile display": true,
   "amd affordable full-frame sensor": true,
   "canon affordable full-frame sensor": true,
-  "canon affordable lens compatibility": true
+  "canon affordable lens compatibility": true,
+  "nikon affordable full-frame sensor": true,
+  "nikon affordable lens compatibility": true
 }

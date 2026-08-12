@@ -6611,3 +6611,5 @@ mobile display
 full-frame sensor
 full-frame sensor
 lens compatibility
+full-frame sensor
+lens compatibility
