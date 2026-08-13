@@ -1,4 +1,3 @@
-lens compatibility
 core efficiency
 chip architecture
 clock speed

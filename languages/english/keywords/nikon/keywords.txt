@@ -658,4 +658,6 @@ nikon affordable battery life
 nikon affordable mobile display
 nikon affordable full-frame sensor
 nikon affordable lens compatibility
+nikon affordable chip architecture
+nikon affordable core efficiency
 

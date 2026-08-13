@@ -46,3 +46,4 @@ autofocus technology
 chip performance
 mobile display
 full-frame sensor
+chip architecture

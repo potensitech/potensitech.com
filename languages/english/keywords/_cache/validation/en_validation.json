@@ -10133,5 +10133,7 @@
   "nvidia affordable lens compatibility": true,
   "amd affordable core efficiency": true,
   "amd affordable lens compatibility": true,
-  "canon affordable core efficiency": true
+  "canon affordable core efficiency": true,
+  "nikon affordable chip architecture": true,
+  "nikon affordable core efficiency": true
 }
