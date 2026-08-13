@@ -6637,3 +6637,5 @@ lens compatibility
 core efficiency
 lens compatibility
 core efficiency
+lens compatibility
+core efficiency

@@ -136,3 +136,6 @@ full-frame sensor
 
 --- Moved on 2026-08-13 08:43:35 ---
 processor performance
+
+--- Moved on 2026-08-13 15:18:16 ---
+lens compatibility
