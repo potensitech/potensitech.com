@@ -48,3 +48,4 @@ mirrorless camera
 battery life
 mobile display
 full-frame sensor
+lens compatibility

@@ -133,3 +133,6 @@ mobile display
 
 --- Moved on 2026-08-12 10:37:29 ---
 full-frame sensor
+
+--- Moved on 2026-08-13 08:43:35 ---
+processor performance
