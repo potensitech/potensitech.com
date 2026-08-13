@@ -636,4 +636,6 @@ xiaomi affordable full-frame sensor
 xiaomi affordable mobile display
 xiaomi affordable lens compatibility
 xiaomi affordable processor performance
+xiaomi affordable chip architecture
+xiaomi affordable core efficiency
 

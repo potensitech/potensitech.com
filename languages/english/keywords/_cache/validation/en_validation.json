@@ -10137,5 +10137,7 @@
   "nikon affordable chip architecture": true,
   "nikon affordable core efficiency": true,
   "huawei affordable chip architecture": true,
-  "huawei affordable core efficiency": true
+  "huawei affordable core efficiency": true,
+  "xiaomi affordable chip architecture": true,
+  "xiaomi affordable core efficiency": true
 }
