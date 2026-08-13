@@ -6635,3 +6635,5 @@ lens compatibility
 processor performance
 lens compatibility
 core efficiency
+lens compatibility
+core efficiency

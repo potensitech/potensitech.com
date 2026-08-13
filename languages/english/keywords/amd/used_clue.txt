@@ -42,3 +42,4 @@ smartphone camera
 mirrorless camera
 mobile display
 full-frame sensor
+lens compatibility

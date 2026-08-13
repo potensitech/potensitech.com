@@ -750,4 +750,6 @@ amd alternatives smartphone camera
 amd affordable battery life
 amd affordable mobile display
 amd affordable full-frame sensor
+amd affordable core efficiency
+amd affordable lens compatibility
 
