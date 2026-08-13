@@ -837,4 +837,6 @@ nvidia alternatives smartphone camera
 nvidia affordable battery life
 nvidia affordable full-frame sensor
 nvidia affordable mobile display
+nvidia affordable core efficiency
+nvidia affordable lens compatibility
 

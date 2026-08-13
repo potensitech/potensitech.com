@@ -1,5 +1,4 @@
 lens compatibility
-processor performance
 core efficiency
 chip architecture
 clock speed

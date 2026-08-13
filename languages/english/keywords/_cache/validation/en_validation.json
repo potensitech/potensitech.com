@@ -10128,5 +10128,7 @@
   "philips affordable processor performance": true,
   "sandisk affordable lens compatibility": true,
   "sandisk affordable processor performance": true,
-  "intel affordable lens compatibility": true
+  "intel affordable lens compatibility": true,
+  "nvidia affordable core efficiency": true,
+  "nvidia affordable lens compatibility": true
 }
