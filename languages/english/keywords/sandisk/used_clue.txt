@@ -48,3 +48,5 @@ chip performance
 battery life
 mobile display
 full-frame sensor
+lens compatibility
+processor performance
