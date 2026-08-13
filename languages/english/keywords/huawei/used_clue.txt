@@ -46,3 +46,4 @@ mirrorless photography
 chip performance
 mirrorless camera
 full-frame sensor
+chip architecture

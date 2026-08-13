@@ -10135,5 +10135,7 @@
   "amd affordable lens compatibility": true,
   "canon affordable core efficiency": true,
   "nikon affordable chip architecture": true,
-  "nikon affordable core efficiency": true
+  "nikon affordable core efficiency": true,
+  "huawei affordable chip architecture": true,
+  "huawei affordable core efficiency": true
 }
