@@ -139,3 +139,6 @@ processor performance
 
 --- Moved on 2026-08-13 15:18:16 ---
 lens compatibility
+
+--- Moved on 2026-08-14 17:38:47 ---
+core efficiency

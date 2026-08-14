@@ -10153,5 +10153,7 @@
   "philips affordable chip architecture": true,
   "philips affordable core efficiency": true,
   "sandisk affordable chip architecture": true,
-  "sandisk affordable core efficiency": true
+  "sandisk affordable core efficiency": true,
+  "intel affordable chip architecture": true,
+  "intel affordable core efficiency": true
 }

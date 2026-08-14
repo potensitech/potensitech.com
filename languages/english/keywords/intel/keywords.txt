@@ -988,4 +988,6 @@ intel affordable mirrorless camera
 intel affordable full-frame sensor
 intel affordable mobile display
 intel affordable lens compatibility
+intel affordable chip architecture
+intel affordable core efficiency
 
