@@ -685,4 +685,6 @@ philips affordable full-frame sensor
 philips affordable mobile display
 philips affordable lens compatibility
 philips affordable processor performance
+philips affordable chip architecture
+philips affordable core efficiency
 

@@ -57,3 +57,4 @@ chip performance
 mirrorless camera
 mobile display
 full-frame sensor
+chip architecture
