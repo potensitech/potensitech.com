@@ -810,4 +810,6 @@ asus affordable full-frame sensor
 asus affordable mobile display
 asus affordable lens compatibility
 asus affordable processor performance
+asus affordable chip architecture
+asus affordable core efficiency
 

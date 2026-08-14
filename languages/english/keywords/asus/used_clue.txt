@@ -55,3 +55,4 @@ mirrorless camera
 mobile display
 full-frame sensor
 lens compatibility
+chip architecture
