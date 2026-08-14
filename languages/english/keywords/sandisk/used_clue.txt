@@ -50,3 +50,5 @@ mobile display
 full-frame sensor
 lens compatibility
 processor performance
+core efficiency
+chip architecture

@@ -807,4 +807,6 @@ sandisk affordable full-frame sensor
 sandisk affordable mobile display
 sandisk affordable lens compatibility
 sandisk affordable processor performance
+sandisk affordable chip architecture
+sandisk affordable core efficiency
 
