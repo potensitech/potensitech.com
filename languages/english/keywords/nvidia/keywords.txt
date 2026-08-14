@@ -839,4 +839,6 @@ nvidia affordable full-frame sensor
 nvidia affordable mobile display
 nvidia affordable core efficiency
 nvidia affordable lens compatibility
+nvidia affordable chip architecture
+nvidia affordable clock speed
 

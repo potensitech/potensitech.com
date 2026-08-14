@@ -10155,5 +10155,7 @@
   "sandisk affordable chip architecture": true,
   "sandisk affordable core efficiency": true,
   "intel affordable chip architecture": true,
-  "intel affordable core efficiency": true
+  "intel affordable core efficiency": true,
+  "nvidia affordable chip architecture": true,
+  "nvidia affordable clock speed": true
 }

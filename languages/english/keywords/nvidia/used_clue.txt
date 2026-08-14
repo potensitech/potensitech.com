@@ -48,3 +48,4 @@ battery life
 mobile display
 full-frame sensor
 lens compatibility
+clock speed

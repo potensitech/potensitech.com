@@ -1,4 +1,3 @@
-core efficiency
 chip architecture
 clock speed
 external storage
