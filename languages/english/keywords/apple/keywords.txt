@@ -536,4 +536,6 @@ apple affordable full-frame sensor
 apple affordable mobile display
 apple affordable lens compatibility
 apple affordable processor performance
+apple affordable chip architecture
+apple affordable core efficiency
 
