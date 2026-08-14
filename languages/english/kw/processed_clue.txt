@@ -6663,3 +6663,5 @@ core efficiency
 chip architecture
 chip architecture
 clock speed
+chip architecture
+clock speed

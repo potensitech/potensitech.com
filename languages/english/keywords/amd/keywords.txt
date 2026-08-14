@@ -752,4 +752,6 @@ amd affordable mobile display
 amd affordable full-frame sensor
 amd affordable core efficiency
 amd affordable lens compatibility
+amd affordable chip architecture
+amd affordable clock speed
 

@@ -10157,5 +10157,7 @@
   "intel affordable chip architecture": true,
   "intel affordable core efficiency": true,
   "nvidia affordable chip architecture": true,
-  "nvidia affordable clock speed": true
+  "nvidia affordable clock speed": true,
+  "amd affordable chip architecture": true,
+  "amd affordable clock speed": true
 }
