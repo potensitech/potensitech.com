@@ -633,4 +633,6 @@ sony affordable full-frame sensor
 sony affordable mobile display
 sony affordable lens compatibility
 sony affordable processor performance
+sony affordable chip architecture
+sony affordable core efficiency
 
