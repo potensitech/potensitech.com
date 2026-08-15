@@ -10170,5 +10170,7 @@
   "iphone affordable clock speed": true,
   "iphone affordable external storage": true,
   "samsung affordable clock speed": true,
-  "samsung affordable external storage": true
+  "samsung affordable external storage": true,
+  "apple affordable clock speed": true,
+  "apple affordable external storage": true
 }

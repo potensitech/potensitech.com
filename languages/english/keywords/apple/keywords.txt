@@ -538,4 +538,6 @@ apple affordable lens compatibility
 apple affordable processor performance
 apple affordable chip architecture
 apple affordable core efficiency
+apple affordable clock speed
+apple affordable external storage
 
