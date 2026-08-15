@@ -812,4 +812,6 @@ asus affordable lens compatibility
 asus affordable processor performance
 asus affordable chip architecture
 asus affordable core efficiency
+asus affordable clock speed
+asus affordable external storage
 
