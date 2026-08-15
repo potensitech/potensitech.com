@@ -51,3 +51,5 @@ mirrorless camera
 mobile display
 full-frame sensor
 chip architecture
+clock speed
+external storage

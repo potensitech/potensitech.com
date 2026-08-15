@@ -606,4 +606,6 @@ samsung affordable lens compatibility
 samsung affordable processor performance
 samsung affordable chip architecture
 samsung affordable core efficiency
+samsung affordable clock speed
+samsung affordable external storage
 
