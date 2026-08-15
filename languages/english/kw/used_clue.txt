@@ -142,3 +142,6 @@ lens compatibility
 
 --- Moved on 2026-08-14 17:38:47 ---
 core efficiency
+
+--- Moved on 2026-08-15 03:09:45 ---
+chip architecture

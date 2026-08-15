@@ -660,4 +660,5 @@ nikon affordable full-frame sensor
 nikon affordable lens compatibility
 nikon affordable chip architecture
 nikon affordable core efficiency
+nikon affordable clock speed
 
