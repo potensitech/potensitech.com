@@ -687,4 +687,6 @@ philips affordable lens compatibility
 philips affordable processor performance
 philips affordable chip architecture
 philips affordable core efficiency
+philips affordable clock speed
+philips affordable external storage
 
