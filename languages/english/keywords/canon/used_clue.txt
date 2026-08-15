@@ -46,3 +46,5 @@ smartphone camera
 battery life
 mobile display
 lens compatibility
+chip architecture
+clock speed

@@ -10159,5 +10159,7 @@
   "nvidia affordable chip architecture": true,
   "nvidia affordable clock speed": true,
   "amd affordable chip architecture": true,
-  "amd affordable clock speed": true
+  "amd affordable clock speed": true,
+  "canon affordable chip architecture": true,
+  "canon affordable clock speed": true
 }

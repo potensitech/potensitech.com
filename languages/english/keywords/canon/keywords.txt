@@ -672,4 +672,6 @@ canon affordable mobile display
 canon affordable full-frame sensor
 canon affordable lens compatibility
 canon affordable core efficiency
+canon affordable chip architecture
+canon affordable clock speed
 
