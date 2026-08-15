@@ -6671,3 +6671,5 @@ chip architecture
 clock speed
 clock speed
 external storage
+clock speed
+external storage

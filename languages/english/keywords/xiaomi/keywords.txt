@@ -638,4 +638,6 @@ xiaomi affordable lens compatibility
 xiaomi affordable processor performance
 xiaomi affordable chip architecture
 xiaomi affordable core efficiency
+xiaomi affordable clock speed
+xiaomi affordable external storage
 
