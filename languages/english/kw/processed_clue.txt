@@ -6673,3 +6673,5 @@ clock speed
 external storage
 clock speed
 external storage
+clock speed
+external storage

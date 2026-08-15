@@ -10166,5 +10166,7 @@
   "huawei affordable clock speed": true,
   "huawei affordable external storage": true,
   "xiaomi affordable clock speed": true,
-  "xiaomi affordable external storage": true
+  "xiaomi affordable external storage": true,
+  "iphone affordable clock speed": true,
+  "iphone affordable external storage": true
 }
