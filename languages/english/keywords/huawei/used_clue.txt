@@ -47,3 +47,5 @@ chip performance
 mirrorless camera
 full-frame sensor
 chip architecture
+clock speed
+external storage

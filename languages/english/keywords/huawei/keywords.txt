@@ -632,4 +632,6 @@ huawei affordable mobile display
 huawei affordable lens compatibility
 huawei affordable chip architecture
 huawei affordable core efficiency
+huawei affordable clock speed
+huawei affordable external storage
 
