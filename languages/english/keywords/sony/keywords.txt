@@ -635,4 +635,6 @@ sony affordable lens compatibility
 sony affordable processor performance
 sony affordable chip architecture
 sony affordable core efficiency
+sony affordable clock speed
+sony affordable external storage
 
