@@ -10182,5 +10182,7 @@
   "sandisk affordable clock speed": true,
   "sandisk affordable external storage": true,
   "intel affordable clock speed": true,
-  "intel affordable external storage": true
+  "intel affordable external storage": true,
+  "nvidia affordable high-performance": true,
+  "nvidia alternatives high-performance": true
 }

@@ -841,4 +841,6 @@ nvidia affordable core efficiency
 nvidia affordable lens compatibility
 nvidia affordable chip architecture
 nvidia affordable clock speed
+nvidia affordable high-performance
+nvidia alternatives high-performance
 
