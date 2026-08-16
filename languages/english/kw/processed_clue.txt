@@ -6693,3 +6693,5 @@ external storage
 high-performance
 external storage
 high-performance
+external storage
+high-performance

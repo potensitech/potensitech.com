@@ -674,4 +674,6 @@ canon affordable lens compatibility
 canon affordable core efficiency
 canon affordable chip architecture
 canon affordable clock speed
+canon affordable high-performance
+canon alternatives high-performance
 
