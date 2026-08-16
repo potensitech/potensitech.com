@@ -640,4 +640,6 @@ xiaomi affordable chip architecture
 xiaomi affordable core efficiency
 xiaomi affordable clock speed
 xiaomi affordable external storage
+xiaomi affordable high-performance
+xiaomi alternatives high-performance
 
