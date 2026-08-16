@@ -6691,3 +6691,5 @@ clock speed
 external storage
 external storage
 high-performance
+external storage
+high-performance

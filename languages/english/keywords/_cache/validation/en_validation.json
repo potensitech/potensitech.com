@@ -10184,5 +10184,7 @@
   "intel affordable clock speed": true,
   "intel affordable external storage": true,
   "nvidia affordable high-performance": true,
-  "nvidia alternatives high-performance": true
+  "nvidia alternatives high-performance": true,
+  "amd affordable high-performance": true,
+  "amd alternatives high-performance": true
 }

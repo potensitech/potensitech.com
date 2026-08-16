@@ -754,4 +754,6 @@ amd affordable core efficiency
 amd affordable lens compatibility
 amd affordable chip architecture
 amd affordable clock speed
+amd affordable high-performance
+amd alternatives high-performance
 
