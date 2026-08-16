@@ -661,4 +661,6 @@ nikon affordable lens compatibility
 nikon affordable chip architecture
 nikon affordable core efficiency
 nikon affordable clock speed
+nikon affordable high-performance
+nikon alternatives high-performance
 
