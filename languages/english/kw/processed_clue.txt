@@ -6701,3 +6701,5 @@ external storage
 high-performance
 high-performance
 gaming smartphone
+high-performance
+gaming smartphone

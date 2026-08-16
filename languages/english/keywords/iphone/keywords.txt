@@ -844,4 +844,6 @@ iphone affordable chip architecture
 iphone affordable core efficiency
 iphone affordable clock speed
 iphone affordable external storage
+iphone affordable high-performance
+iphone alternatives high-performance
 
