@@ -990,4 +990,6 @@ intel affordable mobile display
 intel affordable lens compatibility
 intel affordable chip architecture
 intel affordable core efficiency
+intel affordable clock speed
+intel affordable external storage
 

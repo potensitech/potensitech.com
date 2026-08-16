@@ -145,3 +145,6 @@ core efficiency
 
 --- Moved on 2026-08-15 03:09:45 ---
 chip architecture
+
+--- Moved on 2026-08-16 03:24:41 ---
+clock speed

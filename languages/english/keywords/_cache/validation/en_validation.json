@@ -10180,5 +10180,7 @@
   "philips affordable clock speed": true,
   "philips affordable external storage": true,
   "sandisk affordable clock speed": true,
-  "sandisk affordable external storage": true
+  "sandisk affordable external storage": true,
+  "intel affordable clock speed": true,
+  "intel affordable external storage": true
 }
