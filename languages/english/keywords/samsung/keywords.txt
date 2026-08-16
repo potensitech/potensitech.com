@@ -608,4 +608,6 @@ samsung affordable chip architecture
 samsung affordable core efficiency
 samsung affordable clock speed
 samsung affordable external storage
+samsung affordable high-performance
+samsung alternatives high-performance
 
