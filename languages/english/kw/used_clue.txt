@@ -148,3 +148,6 @@ chip architecture
 
 --- Moved on 2026-08-16 03:24:41 ---
 clock speed
+
+--- Moved on 2026-08-16 14:43:17 ---
+external storage
