@@ -809,4 +809,6 @@ sandisk affordable lens compatibility
 sandisk affordable processor performance
 sandisk affordable chip architecture
 sandisk affordable core efficiency
+sandisk affordable clock speed
+sandisk affordable external storage
 
