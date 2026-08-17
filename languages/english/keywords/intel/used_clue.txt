@@ -51,3 +51,5 @@ full-frame sensor
 lens compatibility
 chip architecture
 external storage
+high-performance
+gaming smartphone

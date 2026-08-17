@@ -992,4 +992,6 @@ intel affordable chip architecture
 intel affordable core efficiency
 intel affordable clock speed
 intel affordable external storage
+intel affordable high-performance
+intel alternatives high-performance
 
