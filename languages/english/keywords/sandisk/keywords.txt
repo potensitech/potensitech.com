@@ -811,4 +811,6 @@ sandisk affordable chip architecture
 sandisk affordable core efficiency
 sandisk affordable clock speed
 sandisk affordable external storage
+sandisk affordable high-performance
+sandisk alternatives high-performance
 
