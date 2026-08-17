@@ -637,4 +637,6 @@ sony affordable chip architecture
 sony affordable core efficiency
 sony affordable clock speed
 sony affordable external storage
+sony affordable high-performance
+sony alternatives high-performance
 
