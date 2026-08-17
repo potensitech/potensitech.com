@@ -689,4 +689,6 @@ philips affordable chip architecture
 philips affordable core efficiency
 philips affordable clock speed
 philips affordable external storage
+philips affordable high-performance
+philips alternatives high-performance
 

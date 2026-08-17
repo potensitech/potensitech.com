@@ -60,3 +60,4 @@ full-frame sensor
 chip architecture
 clock speed
 external storage
+gaming smartphone
