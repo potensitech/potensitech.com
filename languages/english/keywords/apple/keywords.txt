@@ -540,4 +540,6 @@ apple affordable chip architecture
 apple affordable core efficiency
 apple affordable clock speed
 apple affordable external storage
+apple affordable high-performance
+apple alternatives high-performance
 
