@@ -814,4 +814,6 @@ asus affordable chip architecture
 asus affordable core efficiency
 asus affordable clock speed
 asus affordable external storage
+asus affordable high-performance
+asus alternatives high-performance
 

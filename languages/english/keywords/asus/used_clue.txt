@@ -58,3 +58,4 @@ lens compatibility
 chip architecture
 clock speed
 external storage
+high-performance
