@@ -61,3 +61,4 @@ chip architecture
 clock speed
 external storage
 gaming smartphone
+flagship phone
