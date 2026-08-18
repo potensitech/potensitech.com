@@ -53,3 +53,5 @@ processor performance
 core efficiency
 chip architecture
 clock speed
+flagship phone
+amoled display
