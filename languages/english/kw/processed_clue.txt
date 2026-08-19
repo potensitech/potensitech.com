@@ -6751,3 +6751,5 @@ flagship phone
 amoled display
 amoled display
 megapixels
+amoled display
+megapixels
