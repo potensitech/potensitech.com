@@ -1,4 +1,3 @@
-amoled display
 megapixels
 autofocus
 dslr

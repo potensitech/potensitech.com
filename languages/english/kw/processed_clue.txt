@@ -6759,3 +6759,5 @@ amoled display
 megapixels
 amoled display
 megapixels
+megapixels
+autofocus
