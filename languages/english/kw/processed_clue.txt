@@ -6755,3 +6755,5 @@ amoled display
 megapixels
 amoled display
 megapixels
+amoled display
+megapixels
