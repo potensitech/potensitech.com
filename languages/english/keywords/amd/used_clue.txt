@@ -50,3 +50,5 @@ high-performance
 gaming smartphone
 flagship phone
 amoled display
+megapixels
+autofocus

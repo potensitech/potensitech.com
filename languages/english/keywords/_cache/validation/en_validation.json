@@ -10264,5 +10264,7 @@
   "intel affordable autofocus": true,
   "intel affordable megapixels": true,
   "nvidia affordable autofocus": true,
-  "nvidia affordable megapixels": true
+  "nvidia affordable megapixels": true,
+  "amd affordable autofocus": true,
+  "amd affordable megapixels": true
 }

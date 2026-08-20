@@ -759,4 +759,6 @@ amd alternatives high-performance
 amd affordable flagship phone
 amd affordable gaming smartphone
 amd affordable amoled display
+amd affordable autofocus
+amd affordable megapixels
 
