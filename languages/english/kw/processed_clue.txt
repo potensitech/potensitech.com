@@ -6777,3 +6777,5 @@ megapixels
 autofocus
 megapixels
 autofocus
+megapixels
+autofocus

@@ -163,3 +163,6 @@ flagship phone
 
 --- Moved on 2026-08-19 14:55:42 ---
 amoled display
+
+--- Moved on 2026-08-20 14:58:11 ---
+megapixels
