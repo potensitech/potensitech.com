@@ -1,4 +1,3 @@
-autofocus
 dslr
 mirrorless
 gpu performance

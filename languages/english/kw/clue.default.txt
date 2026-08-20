@@ -1,4 +1,3 @@
-megapixels
 autofocus
 dslr
 mirrorless

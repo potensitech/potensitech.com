@@ -10267,5 +10267,7 @@
   "nvidia affordable megapixels": true,
   "amd affordable autofocus": true,
   "amd affordable megapixels": true,
-  "canon affordable autofocus": true
+  "canon affordable autofocus": true,
+  "nikon affordable autofocus": true,
+  "nikon affordable dslr": true
 }

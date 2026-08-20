@@ -166,3 +166,6 @@ amoled display
 
 --- Moved on 2026-08-20 14:58:11 ---
 megapixels
+
+--- Moved on 2026-08-20 17:09:55 ---
+autofocus
