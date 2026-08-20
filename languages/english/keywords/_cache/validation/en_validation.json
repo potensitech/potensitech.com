@@ -10269,5 +10269,7 @@
   "amd affordable megapixels": true,
   "canon affordable autofocus": true,
   "nikon affordable autofocus": true,
-  "nikon affordable dslr": true
+  "nikon affordable dslr": true,
+  "huawei affordable dslr": true,
+  "huawei affordable mirrorless": true
 }

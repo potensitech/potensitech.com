@@ -53,3 +53,5 @@ high-performance
 gaming smartphone
 flagship phone
 amoled display
+dslr
+mirrorless
