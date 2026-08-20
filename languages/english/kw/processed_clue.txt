@@ -6783,3 +6783,5 @@ autofocus
 dslr
 dslr
 mirrorless
+dslr
+mirrorless
