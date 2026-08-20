@@ -846,4 +846,6 @@ nvidia alternatives high-performance
 nvidia authentic high-performance
 nvidia affordable amoled display
 nvidia affordable flagship phone
+nvidia affordable autofocus
+nvidia affordable megapixels
 

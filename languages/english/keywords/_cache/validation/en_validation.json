@@ -10262,5 +10262,7 @@
   "sandisk affordable autofocus": true,
   "sandisk affordable megapixels": true,
   "intel affordable autofocus": true,
-  "intel affordable megapixels": true
+  "intel affordable megapixels": true,
+  "nvidia affordable autofocus": true,
+  "nvidia affordable megapixels": true
 }
