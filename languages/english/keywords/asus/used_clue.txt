@@ -60,3 +60,5 @@ clock speed
 external storage
 high-performance
 amoled display
+megapixels
+autofocus
