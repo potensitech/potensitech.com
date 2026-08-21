@@ -998,4 +998,6 @@ intel affordable amoled display
 intel affordable flagship phone
 intel affordable autofocus
 intel affordable megapixels
+intel affordable dslr
+intel affordable mirrorless
 
