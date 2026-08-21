@@ -848,4 +848,6 @@ nvidia affordable amoled display
 nvidia affordable flagship phone
 nvidia affordable autofocus
 nvidia affordable megapixels
+nvidia affordable dslr
+nvidia affordable mirrorless
 

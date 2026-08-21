@@ -10289,5 +10289,7 @@
   "sandisk affordable dslr": true,
   "sandisk affordable mirrorless": true,
   "intel affordable dslr": true,
-  "intel affordable mirrorless": true
+  "intel affordable mirrorless": true,
+  "nvidia affordable dslr": true,
+  "nvidia affordable mirrorless": true
 }
