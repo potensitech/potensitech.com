@@ -64,3 +64,5 @@ gaming smartphone
 flagship phone
 megapixels
 autofocus
+dslr
+mirrorless
