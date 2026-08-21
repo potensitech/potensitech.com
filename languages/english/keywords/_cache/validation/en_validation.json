@@ -10291,5 +10291,7 @@
   "intel affordable dslr": true,
   "intel affordable mirrorless": true,
   "nvidia affordable dslr": true,
-  "nvidia affordable mirrorless": true
+  "nvidia affordable mirrorless": true,
+  "amd affordable dslr": true,
+  "amd affordable mirrorless": true
 }
