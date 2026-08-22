@@ -822,4 +822,6 @@ asus affordable autofocus
 asus affordable megapixels
 asus affordable dslr
 asus affordable mirrorless
+asus affordable data storage
+asus affordable gpu performance
 
