@@ -548,4 +548,6 @@ apple affordable autofocus
 apple affordable megapixels
 apple affordable dslr
 apple affordable mirrorless
+apple affordable data storage
+apple affordable gpu performance
 
