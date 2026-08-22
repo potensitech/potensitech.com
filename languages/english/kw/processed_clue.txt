@@ -6811,3 +6811,5 @@ mirrorless
 gpu performance
 mirrorless
 gpu performance
+gpu performance
+data storage
