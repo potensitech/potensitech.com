@@ -6809,3 +6809,5 @@ dslr
 mirrorless
 mirrorless
 gpu performance
+mirrorless
+gpu performance
