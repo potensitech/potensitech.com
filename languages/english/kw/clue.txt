@@ -1,4 +1,3 @@
-dslr
 mirrorless
 gpu performance
 data storage
