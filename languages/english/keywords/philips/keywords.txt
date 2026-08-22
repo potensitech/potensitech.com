@@ -697,4 +697,6 @@ philips affordable autofocus
 philips affordable megapixels
 philips affordable dslr
 philips affordable mirrorless
+philips affordable data storage
+philips affordable gpu performance
 

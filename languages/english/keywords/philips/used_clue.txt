@@ -66,3 +66,4 @@ megapixels
 autofocus
 dslr
 mirrorless
+data storage
