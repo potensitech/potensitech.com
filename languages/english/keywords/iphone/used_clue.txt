@@ -61,3 +61,4 @@ flagship phone
 amoled display
 dslr
 mirrorless
+data storage
