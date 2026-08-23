@@ -6837,3 +6837,5 @@ data storage
 usb drive
 data storage
 camera lens
+data storage
+camera lens
