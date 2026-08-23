@@ -10316,5 +10316,7 @@
   "intel affordable data storage": true,
   "intel affordable gpu performance": true,
   "nvidia affordable data storage": true,
-  "nvidia affordable usb drive": true
+  "nvidia affordable usb drive": true,
+  "amd affordable data storage": true,
+  "amd affordable usb drive": true
 }
