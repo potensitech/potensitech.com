@@ -1,5 +1,4 @@
 data storage
-usb drive
 camera lens
 mirrorless technology
 ray tracing
