@@ -1000,4 +1000,6 @@ intel affordable autofocus
 intel affordable megapixels
 intel affordable dslr
 intel affordable mirrorless
+intel affordable data storage
+intel affordable gpu performance
 
