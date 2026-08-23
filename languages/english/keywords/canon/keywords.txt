@@ -683,4 +683,6 @@ canon alternatives megapixels
 canon affordable autofocus
 canon affordable dslr
 canon affordable mirrorless
+canon affordable data storage
+canon affordable usb drive
 
