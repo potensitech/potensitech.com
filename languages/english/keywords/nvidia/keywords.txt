@@ -850,4 +850,6 @@ nvidia affordable autofocus
 nvidia affordable megapixels
 nvidia affordable dslr
 nvidia affordable mirrorless
+nvidia affordable data storage
+nvidia affordable usb drive
 

@@ -1,4 +1,3 @@
-gpu performance
 data storage
 usb drive
 camera lens

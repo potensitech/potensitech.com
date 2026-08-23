@@ -6829,3 +6829,5 @@ gpu performance
 data storage
 gpu performance
 data storage
+data storage
+usb drive
