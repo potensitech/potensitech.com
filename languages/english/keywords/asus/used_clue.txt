@@ -65,3 +65,5 @@ autofocus
 dslr
 mirrorless
 data storage
+camera lens
+mirrorless technology
