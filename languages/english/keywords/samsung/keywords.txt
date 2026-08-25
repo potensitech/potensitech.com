@@ -619,4 +619,6 @@ samsung affordable mirrorless
 samsung affordable data storage
 samsung affordable gpu performance
 samsung affordable camera lens
+samsung affordable graphics card
+samsung affordable ray tracing
 
