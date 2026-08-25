@@ -62,3 +62,5 @@ amoled display
 dslr
 mirrorless
 data storage
+ray tracing
+graphics card
