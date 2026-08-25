@@ -61,3 +61,5 @@ dslr
 mirrorless
 camera lens
 mirrorless technology
+ray tracing
+graphics card
