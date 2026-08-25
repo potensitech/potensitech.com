@@ -701,4 +701,6 @@ philips affordable data storage
 philips affordable gpu performance
 philips affordable camera lens
 philips affordable mirrorless technology
+philips affordable graphics card
+philips affordable ray tracing
 

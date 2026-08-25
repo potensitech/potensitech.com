@@ -67,3 +67,5 @@ autofocus
 dslr
 mirrorless
 data storage
+ray tracing
+graphics card
