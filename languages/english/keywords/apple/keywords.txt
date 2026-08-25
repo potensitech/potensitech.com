@@ -552,4 +552,6 @@ apple affordable data storage
 apple affordable gpu performance
 apple affordable camera lens
 apple affordable mirrorless technology
+apple affordable graphics card
+apple affordable ray tracing
 
