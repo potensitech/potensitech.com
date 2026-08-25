@@ -826,4 +826,6 @@ asus affordable data storage
 asus affordable gpu performance
 asus affordable camera lens
 asus affordable mirrorless technology
+asus affordable graphics card
+asus affordable ray tracing
 
