@@ -650,4 +650,6 @@ xiaomi affordable mirrorless
 xiaomi affordable data storage
 xiaomi affordable gpu performance
 xiaomi affordable camera lens
+xiaomi affordable graphics card
+xiaomi affordable ray tracing
 
