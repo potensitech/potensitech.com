@@ -56,3 +56,5 @@ amoled display
 dslr
 mirrorless
 data storage
+portable storage
+usb stick
