@@ -10370,5 +10370,7 @@
   "intel affordable graphics card": true,
   "intel affordable ray tracing": true,
   "nvidia affordable graphics card": true,
-  "nvidia affordable ray tracing": true
+  "nvidia affordable ray tracing": true,
+  "amd affordable portable storage": true,
+  "amd affordable usb stick": true
 }
