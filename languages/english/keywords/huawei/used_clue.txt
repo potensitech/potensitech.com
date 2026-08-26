@@ -57,3 +57,5 @@ dslr
 mirrorless
 data storage
 ray tracing
+portable storage
+usb stick

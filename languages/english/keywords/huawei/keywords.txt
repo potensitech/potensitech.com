@@ -646,4 +646,6 @@ huawei affordable camera lens
 huawei affordable data storage
 huawei affordable graphics card
 huawei affordable ray tracing
+huawei affordable portable storage
+huawei affordable usb stick
 
