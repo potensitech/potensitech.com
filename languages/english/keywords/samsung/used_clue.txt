@@ -62,3 +62,5 @@ mirrorless
 data storage
 ray tracing
 graphics card
+portable storage
+usb stick
