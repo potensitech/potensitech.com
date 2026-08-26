@@ -10368,5 +10368,7 @@
   "sandisk affordable graphics card": true,
   "sandisk affordable ray tracing": true,
   "intel affordable graphics card": true,
-  "intel affordable ray tracing": true
+  "intel affordable ray tracing": true,
+  "nvidia affordable graphics card": true,
+  "nvidia affordable ray tracing": true
 }
