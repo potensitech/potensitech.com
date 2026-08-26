@@ -6889,3 +6889,5 @@ ray tracing
 graphics card
 portable storage
 usb stick
+portable storage
+usb stick
