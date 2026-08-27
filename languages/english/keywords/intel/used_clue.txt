@@ -63,3 +63,5 @@ camera lens
 mirrorless technology
 ray tracing
 graphics card
+wireless charging
+screen resolution

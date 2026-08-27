@@ -6911,3 +6911,5 @@ portable storage
 usb stick
 usb stick
 wireless charging
+wireless charging
+screen resolution

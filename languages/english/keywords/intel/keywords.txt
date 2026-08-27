@@ -1006,4 +1006,6 @@ intel affordable camera lens
 intel affordable mirrorless technology
 intel affordable graphics card
 intel affordable ray tracing
+intel affordable screen resolution
+intel affordable wireless charging
 
