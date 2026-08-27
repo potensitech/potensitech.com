@@ -56,3 +56,5 @@ amoled display
 megapixels
 autofocus
 data storage
+wireless charging
+screen resolution
