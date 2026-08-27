@@ -6905,3 +6905,5 @@ portable storage
 usb stick
 portable storage
 usb stick
+portable storage
+usb stick
