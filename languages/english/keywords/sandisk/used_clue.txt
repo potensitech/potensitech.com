@@ -62,3 +62,4 @@ mirrorless
 gpu performance
 ray tracing
 graphics card
+wireless charging
