@@ -856,4 +856,6 @@ nvidia affordable camera lens
 nvidia affordable mirrorless technology
 nvidia affordable graphics card
 nvidia affordable ray tracing
+nvidia affordable screen resolution
+nvidia affordable wireless charging
 

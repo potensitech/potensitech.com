@@ -6913,3 +6913,5 @@ usb stick
 wireless charging
 wireless charging
 screen resolution
+wireless charging
+screen resolution
