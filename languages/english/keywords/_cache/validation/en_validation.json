@@ -10398,5 +10398,7 @@
   "intel affordable screen resolution": true,
   "intel affordable wireless charging": true,
   "nvidia affordable screen resolution": true,
-  "nvidia affordable wireless charging": true
+  "nvidia affordable wireless charging": true,
+  "amd affordable screen resolution": true,
+  "amd affordable wireless charging": true
 }

@@ -58,3 +58,5 @@ data storage
 usb drive
 camera lens
 mirrorless technology
+wireless charging
+screen resolution
