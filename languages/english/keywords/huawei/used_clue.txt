@@ -59,3 +59,5 @@ data storage
 ray tracing
 portable storage
 usb stick
+wireless charging
+screen resolution
