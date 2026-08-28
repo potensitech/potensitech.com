@@ -556,4 +556,6 @@ apple affordable graphics card
 apple affordable ray tracing
 apple affordable portable storage
 apple affordable usb stick
+apple affordable screen resolution
+apple affordable wireless charging
 
