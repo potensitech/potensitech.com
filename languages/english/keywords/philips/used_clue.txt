@@ -70,3 +70,5 @@ data storage
 ray tracing
 graphics card
 usb stick
+wireless charging
+screen resolution
