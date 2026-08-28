@@ -63,3 +63,4 @@ gpu performance
 ray tracing
 graphics card
 wireless charging
+screen resolution
