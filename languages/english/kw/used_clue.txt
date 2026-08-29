@@ -204,3 +204,6 @@ wireless charging
 
 --- Moved on 2026-08-29 00:43:17 ---
 screen resolution
+
+--- Moved on 2026-08-29 13:10:39 ---
+storage capacity
