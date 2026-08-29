@@ -58,3 +58,4 @@ autofocus
 data storage
 wireless charging
 screen resolution
+ai rendering
