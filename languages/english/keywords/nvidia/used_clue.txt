@@ -64,3 +64,4 @@ camera lens
 mirrorless technology
 wireless charging
 screen resolution
+coffee-machine

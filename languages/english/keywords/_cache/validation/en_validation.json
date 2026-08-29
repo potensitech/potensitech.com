@@ -10422,5 +10422,7 @@
   "philips affordable screen resolution": true,
   "philips affordable wireless charging": true,
   "sandisk affordable screen resolution": true,
-  "intel affordable ai rendering": true
+  "intel affordable ai rendering": true,
+  "nvidia affordable coffee-machine": true,
+  "nvidia alternatives coffee-machine": true
 }

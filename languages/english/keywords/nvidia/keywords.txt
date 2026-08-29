@@ -858,4 +858,6 @@ nvidia affordable graphics card
 nvidia affordable ray tracing
 nvidia affordable screen resolution
 nvidia affordable wireless charging
+nvidia affordable coffee-machine
+nvidia alternatives coffee-machine
 

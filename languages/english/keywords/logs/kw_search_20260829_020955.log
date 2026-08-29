@@ -1,0 +1,37 @@
+2026-08-29 02:09:55,041 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20260829_020955.log
+2026-08-29 02:09:55,041 - INFO - ============================================================
+2026-08-29 02:09:55,041 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-08-29 02:09:55,041 - INFO - ============================================================
+2026-08-29 02:09:55,357 - INFO - ========================================
+2026-08-29 02:09:55,357 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-08-29 02:09:55,357 - INFO - ========================================
+2026-08-29 02:09:55,357 - INFO - Continuing from last processed niche: intel
+2026-08-29 02:09:55,357 - INFO - ========================================
+2026-08-29 02:09:55,357 - INFO - 🎯 PROCESSING NICHE 10/14: 'nvidia'
+2026-08-29 02:09:55,357 - INFO - ========================================
+2026-08-29 02:09:55,357 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/nvidia
+2026-08-29 02:09:55,357 - INFO - Selected region: us
+2026-08-29 02:09:55,357 - INFO - Selected language: en
+2026-08-29 02:09:55,357 - INFO - 🎯 Current niche: nvidia
+2026-08-29 02:10:06,342 - INFO - 🎯 Niche terms for filtering: nvidia, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, nvidia product, sell nvidia, buy nvidia, cheap nvidia, best nvidia, nvidia review, where to buy nvidia, how to choose nvidia, top nvidia, nvidia guide, nvidia for sale, nvidia deals
+2026-08-29 02:10:06,342 - INFO - Generated 50 niche-clue pairs for 'nvidia'.
+2026-08-29 02:10:06,345 - INFO - Expanded 50 seed keywords to 218 variations
+2026-08-29 02:10:06,346 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-08-29 02:14:29,981 - INFO - Original clue keywords: coffee-machine
+2026-08-29 02:14:29,981 - INFO - Niche-focused seeds: coffee-machine nvidia, nvidia coffee-machine, coffee-machine cheap, cheap coffee-machine, coffee-machine best, best coffee-machine, coffee-machine latest, latest coffee-machine, coffee-machine review, review coffee-machine, coffee-machine price, price coffee-machine, coffee-machine sell, sell coffee-machine, coffee-machine buy, buy coffee-machine, coffee-machine recommendation, recommendation coffee-machine, coffee-machine tips, tips coffee-machine, coffee-machine tutorial, tutorial coffee-machine, coffee-machine guide, guide coffee-machine, coffee-machine how to, how to coffee-machine, coffee-machine vs, vs coffee-machine, coffee-machine versus, versus coffee-machine, coffee-machine compared to, compared to coffee-machine, coffee-machine comparison, comparison coffee-machine, coffee-machine alternatives, alternatives coffee-machine, coffee-machine which is better, which is better coffee-machine, coffee-machine expensive, expensive coffee-machine, coffee-machine discount, discount coffee-machine, coffee-machine deals, deals coffee-machine, coffee-machine sale, sale coffee-machine, coffee-machine affordable, affordable coffee-machine, coffee-machine cost, cost coffee-machine, coffee-machine online, online coffee-machine, coffee-machine offline, offline coffee-machine, coffee-machine marketplace, marketplace coffee-machine, coffee-machine store, store coffee-machine, coffee-machine shop, shop coffee-machine, coffee-machine retailer, retailer coffee-machine, coffee-machine where to buy, where to buy coffee-machine, coffee-machine worst, worst coffee-machine, coffee-machine quality, quality coffee-machine, coffee-machine original, original coffee-machine, coffee-machine genuine, genuine coffee-machine, coffee-machine fake, fake coffee-machine, coffee-machine replica, replica coffee-machine, coffee-machine authentic, authentic coffee-machine, coffee-machine brand, brand coffee-machine, coffee-machine manufacturer, manufacturer coffee-machine, coffee-machine company, company coffee-machine, coffee-machine product, product coffee-machine, coffee-machine nvidia product, nvidia product coffee-machine, coffee-machine sell nvidia, sell nvidia coffee-machine, coffee-machine buy nvidia, buy nvidia coffee-machine, coffee-machine cheap nvidia, cheap nvidia coffee-machine, coffee-machine best nvidia, best nvidia coffee-machine, coffee-machine nvidia review, nvidia review coffee-machine, coffee-machine where to buy nvidia, where to buy nvidia coffee-machine, coffee-machine how to choose nvidia, how to choose nvidia coffee-machine, coffee-machine top nvidia, top nvidia coffee-machine, coffee-machine nvidia guide, nvidia guide coffee-machine, coffee-machine nvidia for sale, nvidia for sale coffee-machine, coffee-machine nvidia deals, nvidia deals coffee-machine
+2026-08-29 02:14:29,984 - INFO - Expanded 110 seed keywords to 275 variations
+2026-08-29 02:14:29,984 - INFO - Language: en
+2026-08-29 02:14:29,985 - INFO - Region: us
+2026-08-29 02:18:59,134 - INFO - 🎯 After all filtering for 'nvidia': 118 relevant keywords
+2026-08-29 02:18:59,459 - INFO - 🎯 Found 5 new keywords for niche 'nvidia': nvidia affordable coffee-machine, cheap affordable coffee-machine, best affordable coffee-machine, how to affordable coffee-machine, nvidia alternatives coffee-machine
+2026-08-29 02:19:15,787 - INFO - ✅ Niche 'nvidia' process complete! 862 total keyword results.
+2026-08-29 02:19:15,787 - INFO - ✅ Completed processing niche: 'nvidia'
+2026-08-29 02:19:15,787 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-08-29 02:19:15,787 - INFO -    Total requests: 182928, Blocks: 1
+2026-08-29 02:19:15,788 - INFO - 
+========================================
+2026-08-29 02:19:15,788 - INFO - Process Summary:
+2026-08-29 02:19:15,788 - INFO - - Current niche: 'nvidia'
+2026-08-29 02:19:15,789 - INFO - - Next niche will be: 'amd'
+2026-08-29 02:19:15,789 - INFO - - Keywords saved in: languages/english/keywords/nvidia/
+2026-08-29 02:19:15,790 - INFO - ========================================

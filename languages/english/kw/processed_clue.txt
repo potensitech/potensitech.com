@@ -6941,3 +6941,4 @@ wireless charging
 screen resolution
 screen resolution
 ai rendering
+coffee-machine
