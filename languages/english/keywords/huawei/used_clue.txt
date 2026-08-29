@@ -61,3 +61,4 @@ portable storage
 usb stick
 wireless charging
 screen resolution
+storage capacity
