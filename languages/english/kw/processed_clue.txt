@@ -6942,3 +6942,5 @@ screen resolution
 screen resolution
 ai rendering
 coffee-machine
+ai rendering
+storage capacity

@@ -771,4 +771,6 @@ amd affordable portable storage
 amd affordable usb stick
 amd affordable screen resolution
 amd affordable wireless charging
+amd affordable ai rendering
+amd affordable storage capacity
 
