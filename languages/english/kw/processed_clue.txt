@@ -6953,3 +6953,5 @@ storage capacity
 ai rendering
 storage capacity
 electric-shaver
+ai rendering
+smart-lighting

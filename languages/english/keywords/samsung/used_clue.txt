@@ -65,3 +65,4 @@ graphics card
 portable storage
 usb stick
 wireless charging
+ai rendering
