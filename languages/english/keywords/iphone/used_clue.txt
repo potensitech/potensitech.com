@@ -67,3 +67,4 @@ graphics card
 portable storage
 usb stick
 screen resolution
+electric-shaver
