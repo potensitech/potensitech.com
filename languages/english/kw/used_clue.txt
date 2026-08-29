@@ -201,3 +201,6 @@ usb stick
 
 --- Moved on 2026-08-28 23:34:59 ---
 wireless charging
+
+--- Moved on 2026-08-29 00:43:17 ---
+screen resolution

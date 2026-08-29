@@ -6939,3 +6939,5 @@ wireless charging
 screen resolution
 wireless charging
 screen resolution
+screen resolution
+ai rendering

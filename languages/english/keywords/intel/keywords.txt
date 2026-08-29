@@ -1008,4 +1008,5 @@ intel affordable graphics card
 intel affordable ray tracing
 intel affordable screen resolution
 intel affordable wireless charging
+intel affordable ai rendering
 
