@@ -860,4 +860,6 @@ nvidia affordable screen resolution
 nvidia affordable wireless charging
 nvidia affordable coffee-machine
 nvidia alternatives coffee-machine
+nvidia affordable smart-lighting
+nvidia alternatives smart-lighting
 

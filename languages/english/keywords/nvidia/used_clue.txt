@@ -65,3 +65,4 @@ mirrorless technology
 wireless charging
 screen resolution
 coffee-machine
+smart-lighting
