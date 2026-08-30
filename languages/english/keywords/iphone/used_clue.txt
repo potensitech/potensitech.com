@@ -68,3 +68,4 @@ portable storage
 usb stick
 screen resolution
 electric-shaver
+ai rendering

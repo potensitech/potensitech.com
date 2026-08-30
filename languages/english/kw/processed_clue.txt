@@ -6979,3 +6979,5 @@ ai rendering
 smart-lighting
 ai rendering
 smart-lighting
+ai rendering
+smart-lighting
