@@ -1009,4 +1009,6 @@ intel affordable ray tracing
 intel affordable screen resolution
 intel affordable wireless charging
 intel affordable ai rendering
+intel affordable smart-lighting
+intel alternatives smart-lighting
 
