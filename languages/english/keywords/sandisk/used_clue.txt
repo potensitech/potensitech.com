@@ -64,3 +64,5 @@ ray tracing
 graphics card
 wireless charging
 screen resolution
+ai rendering
+smart-lighting
