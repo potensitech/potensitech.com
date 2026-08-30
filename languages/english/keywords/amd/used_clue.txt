@@ -61,3 +61,4 @@ mirrorless technology
 wireless charging
 screen resolution
 ai rendering
+smart-lighting

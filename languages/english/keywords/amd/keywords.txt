@@ -773,4 +773,6 @@ amd affordable screen resolution
 amd affordable wireless charging
 amd affordable ai rendering
 amd affordable storage capacity
+amd affordable smart-lighting
+amd alternatives smart-lighting
 

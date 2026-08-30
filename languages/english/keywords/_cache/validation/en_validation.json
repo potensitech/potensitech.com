@@ -10452,5 +10452,7 @@
   "intel affordable smart-lighting": true,
   "intel alternatives smart-lighting": true,
   "nvidia affordable smart-lighting": true,
-  "nvidia alternatives smart-lighting": true
+  "nvidia alternatives smart-lighting": true,
+  "amd affordable smart-lighting": true,
+  "amd alternatives smart-lighting": true
 }
