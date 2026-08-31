@@ -66,3 +66,4 @@ wireless charging
 screen resolution
 coffee-machine
 smart-lighting
+air-purifier
