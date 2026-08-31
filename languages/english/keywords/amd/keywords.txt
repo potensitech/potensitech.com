@@ -775,4 +775,6 @@ amd affordable ai rendering
 amd affordable storage capacity
 amd affordable smart-lighting
 amd alternatives smart-lighting
+amd affordable air-purifier
+amd affordable coffee-machine
 

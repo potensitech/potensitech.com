@@ -10479,5 +10479,7 @@
   "sandisk affordable coffee-machine": true,
   "intel affordable air-purifier": true,
   "intel affordable coffee-machine": true,
-  "nvidia affordable air-purifier": true
+  "nvidia affordable air-purifier": true,
+  "amd affordable air-purifier": true,
+  "amd affordable coffee-machine": true
 }

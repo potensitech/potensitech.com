@@ -62,3 +62,5 @@ wireless charging
 screen resolution
 ai rendering
 smart-lighting
+air-purifier
+coffee-machine
