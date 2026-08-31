@@ -6983,3 +6983,5 @@ ai rendering
 smart-lighting
 ai rendering
 air-purifier
+air-purifier
+coffee-machine

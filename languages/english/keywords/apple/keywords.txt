@@ -560,4 +560,6 @@ apple affordable screen resolution
 apple affordable wireless charging
 apple affordable smart-lighting
 apple alternatives smart-lighting
+apple affordable air-purifier
+apple affordable coffee-machine
 
