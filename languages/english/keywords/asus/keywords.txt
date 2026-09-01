@@ -836,4 +836,6 @@ asus affordable smart-lighting
 asus alternatives smart-lighting
 asus affordable air-purifier
 asus affordable coffee-machine
+asus affordable electric-shaver
+asus affordable gaming
 
