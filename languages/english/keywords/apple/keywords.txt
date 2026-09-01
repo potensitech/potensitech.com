@@ -562,4 +562,5 @@ apple affordable smart-lighting
 apple alternatives smart-lighting
 apple affordable air-purifier
 apple affordable coffee-machine
+apple affordable electric-shaver
 

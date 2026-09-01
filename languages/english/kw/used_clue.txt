@@ -216,3 +216,6 @@ ai rendering
 
 --- Moved on 2026-09-01 12:34:41 ---
 air-purifier
+
+--- Moved on 2026-09-01 14:16:07 ---
+coffee-machine
