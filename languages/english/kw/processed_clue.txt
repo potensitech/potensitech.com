@@ -7013,3 +7013,5 @@ air-purifier
 coffee-machine
 coffee-machine
 electric-shaver
+electric-shaver
+gaming

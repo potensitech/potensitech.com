@@ -66,3 +66,5 @@ screen resolution
 ai rendering
 air-purifier
 coffee-machine
+electric-shaver
+gaming

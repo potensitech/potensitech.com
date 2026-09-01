@@ -658,4 +658,6 @@ sony affordable smart-lighting
 sony alternatives smart-lighting
 sony affordable air-purifier
 sony affordable coffee-machine
+sony affordable electric-shaver
+sony affordable gaming
 
