@@ -7003,3 +7003,5 @@ air-purifier
 coffee-machine
 air-purifier
 coffee-machine
+air-purifier
+coffee-machine
