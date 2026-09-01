@@ -74,3 +74,5 @@ wireless charging
 screen resolution
 ai rendering
 coffee-machine
+electric-shaver
+gaming

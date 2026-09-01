@@ -711,4 +711,6 @@ philips affordable smart-lighting
 philips alternatives smart-lighting
 philips affordable air-purifier
 philips affordable coffee-machine
+philips affordable electric-shaver
+philips affordable gaming
 
