@@ -69,3 +69,5 @@ usb stick
 screen resolution
 electric-shaver
 ai rendering
+air-purifier
+coffee-machine
