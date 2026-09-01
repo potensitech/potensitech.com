@@ -832,4 +832,6 @@ sandisk affordable smart-lighting
 sandisk alternatives smart-lighting
 sandisk affordable air-purifier
 sandisk affordable coffee-machine
+sandisk affordable electric-shaver
+sandisk affordable gaming
 
