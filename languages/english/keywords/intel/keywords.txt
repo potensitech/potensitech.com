@@ -1013,4 +1013,6 @@ intel affordable smart-lighting
 intel alternatives smart-lighting
 intel affordable air-purifier
 intel affordable coffee-machine
+intel affordable electric-shaver
+intel affordable gaming
 
