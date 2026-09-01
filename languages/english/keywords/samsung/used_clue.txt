@@ -67,3 +67,4 @@ usb stick
 wireless charging
 ai rendering
 air-purifier
+coffee-machine

@@ -629,4 +629,5 @@ samsung affordable smart-lighting
 samsung alternatives smart-lighting
 samsung affordable air-purifier
 samsung air-purifier alternatives
+samsung affordable coffee-machine
 
