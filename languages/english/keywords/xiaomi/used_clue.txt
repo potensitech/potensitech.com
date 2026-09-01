@@ -64,3 +64,4 @@ usb stick
 wireless charging
 screen resolution
 smart-lighting
+coffee-machine
