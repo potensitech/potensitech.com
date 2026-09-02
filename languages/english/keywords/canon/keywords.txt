@@ -697,4 +697,6 @@ canon affordable smart-lighting
 canon alternatives smart-lighting
 canon affordable air-purifier
 canon affordable coffee-machine
+canon affordable electric-shaver
+canon affordable gaming
 
