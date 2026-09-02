@@ -662,4 +662,6 @@ xiaomi affordable smart-lighting
 xiaomi alternatives smart-lighting
 xiaomi affordable air-purifier
 xiaomi affordable coffee-machine
+xiaomi affordable electric-shaver
+xiaomi affordable gaming
 

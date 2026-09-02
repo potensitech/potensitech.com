@@ -65,3 +65,5 @@ wireless charging
 screen resolution
 smart-lighting
 coffee-machine
+electric-shaver
+gaming
