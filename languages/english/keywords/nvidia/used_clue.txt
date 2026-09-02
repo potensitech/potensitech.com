@@ -67,3 +67,5 @@ screen resolution
 coffee-machine
 smart-lighting
 air-purifier
+electric-shaver
+gaming

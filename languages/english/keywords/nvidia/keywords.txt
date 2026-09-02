@@ -863,4 +863,6 @@ nvidia alternatives coffee-machine
 nvidia affordable smart-lighting
 nvidia alternatives smart-lighting
 nvidia affordable air-purifier
+nvidia affordable electric-shaver
+nvidia affordable gaming
 

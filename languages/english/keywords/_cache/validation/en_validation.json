@@ -10503,5 +10503,7 @@
   "sandisk affordable electric-shaver": true,
   "sandisk affordable gaming": true,
   "intel affordable electric-shaver": true,
-  "intel affordable gaming": true
+  "intel affordable gaming": true,
+  "nvidia affordable electric-shaver": true,
+  "nvidia affordable gaming": true
 }
