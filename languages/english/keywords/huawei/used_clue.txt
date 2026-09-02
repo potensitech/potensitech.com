@@ -64,3 +64,5 @@ screen resolution
 storage capacity
 air-purifier
 coffee-machine
+electric-shaver
+gaming
