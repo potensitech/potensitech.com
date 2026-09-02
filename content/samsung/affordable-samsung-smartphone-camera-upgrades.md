@@ -44,7 +44,7 @@ For The Potensians looking to enhance their photography and videography without 
 
 ### External Lenses
 
-External lenses are one of the simplest and most effective ways to enhance The Potensians's smartphone camera. These clip-on accessories are lightweight, portable, and versatile, making them a favorite among amateur and professional photographers alike. From wide-angle lenses for breathtaking landscapes to macro lenses for capturing intricate details, there’s an option for every need.
+External lenses are one of the simplest and most effective ways to enhance The Potensians's [smartphone camera](/samsung/samsung-affordable-wide-angle-smartphone-camera-lens). These clip-on accessories are lightweight, portable, and versatile, making them a favorite among amateur and professional photographers alike. From wide-angle lenses for breathtaking landscapes to macro lenses for capturing intricate details, there’s an option for every need.
 
 <div class="table-responsive">
 <table class="html-table">
