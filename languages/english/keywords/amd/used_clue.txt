@@ -64,3 +64,5 @@ ai rendering
 smart-lighting
 air-purifier
 coffee-machine
+electric-shaver
+gaming

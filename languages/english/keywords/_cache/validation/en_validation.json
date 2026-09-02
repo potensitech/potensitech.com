@@ -10505,5 +10505,7 @@
   "intel affordable electric-shaver": true,
   "intel affordable gaming": true,
   "nvidia affordable electric-shaver": true,
-  "nvidia affordable gaming": true
+  "nvidia affordable gaming": true,
+  "amd affordable electric-shaver": true,
+  "amd affordable gaming": true
 }

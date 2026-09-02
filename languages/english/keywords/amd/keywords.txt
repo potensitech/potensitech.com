@@ -777,4 +777,6 @@ amd affordable smart-lighting
 amd alternatives smart-lighting
 amd affordable air-purifier
 amd affordable coffee-machine
+amd affordable electric-shaver
+amd affordable gaming
 
