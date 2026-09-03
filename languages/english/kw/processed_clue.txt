@@ -7043,3 +7043,5 @@ electric-shaver
 gaming
 gaming
 laptop
+laptop
+performance

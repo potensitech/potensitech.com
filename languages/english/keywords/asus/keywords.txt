@@ -838,4 +838,6 @@ asus affordable air-purifier
 asus affordable coffee-machine
 asus affordable electric-shaver
 asus affordable gaming
+asus affordable laptop
+asus affordable performance
 
