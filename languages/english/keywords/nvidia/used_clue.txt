@@ -69,3 +69,5 @@ smart-lighting
 air-purifier
 electric-shaver
 gaming
+laptop
+performance

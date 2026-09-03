@@ -865,4 +865,6 @@ nvidia alternatives smart-lighting
 nvidia affordable air-purifier
 nvidia affordable electric-shaver
 nvidia affordable gaming
+nvidia affordable laptop
+nvidia affordable performance
 
