@@ -779,4 +779,5 @@ amd affordable air-purifier
 amd affordable coffee-machine
 amd affordable electric-shaver
 amd affordable gaming
+amd affordable laptop
 

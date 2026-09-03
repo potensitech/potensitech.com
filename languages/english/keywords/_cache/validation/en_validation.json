@@ -10531,5 +10531,6 @@
   "intel affordable laptop": true,
   "intel affordable performance": true,
   "nvidia affordable laptop": true,
-  "nvidia affordable performance": true
+  "nvidia affordable performance": true,
+  "amd affordable laptop": true
 }
