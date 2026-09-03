@@ -658,4 +658,6 @@ huawei affordable air-purifier
 huawei affordable coffee-machine
 huawei affordable electric-shaver
 huawei affordable gaming
+huawei affordable laptop
+huawei affordable performance
 
