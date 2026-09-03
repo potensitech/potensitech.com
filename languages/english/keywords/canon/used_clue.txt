@@ -64,3 +64,5 @@ air-purifier
 coffee-machine
 electric-shaver
 gaming
+laptop
+performance
