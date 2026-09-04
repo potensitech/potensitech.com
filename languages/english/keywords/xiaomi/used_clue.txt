@@ -67,3 +67,5 @@ smart-lighting
 coffee-machine
 electric-shaver
 gaming
+laptop
+performance
