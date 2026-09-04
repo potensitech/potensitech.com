@@ -69,3 +69,4 @@ coffee-machine
 electric-shaver
 gaming
 laptop
+performance
