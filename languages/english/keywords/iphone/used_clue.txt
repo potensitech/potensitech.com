@@ -72,3 +72,5 @@ ai rendering
 air-purifier
 coffee-machine
 gaming
+laptop
+performance
