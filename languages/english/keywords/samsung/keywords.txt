@@ -632,4 +632,6 @@ samsung air-purifier alternatives
 samsung affordable coffee-machine
 samsung affordable electric-shaver
 samsung affordable gaming
+samsung affordable laptop
+samsung affordable performance
 
