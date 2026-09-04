@@ -77,3 +77,4 @@ air-purifier
 coffee-machine
 electric-shaver
 performance
+durability
