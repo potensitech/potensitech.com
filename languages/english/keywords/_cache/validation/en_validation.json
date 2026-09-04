@@ -10556,5 +10556,7 @@
   "sandisk affordable durability": true,
   "sandisk alternatives durability": true,
   "intel affordable durability": true,
-  "intel alternatives durability": true
+  "intel alternatives durability": true,
+  "nvidia affordable durability": true,
+  "nvidia alternatives durability": true
 }
