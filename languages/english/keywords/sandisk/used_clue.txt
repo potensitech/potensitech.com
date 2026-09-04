@@ -71,3 +71,5 @@ coffee-machine
 electric-shaver
 gaming
 laptop
+durability
+mirrorless innovation
