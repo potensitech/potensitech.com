@@ -780,4 +780,6 @@ amd affordable coffee-machine
 amd affordable electric-shaver
 amd affordable gaming
 amd affordable laptop
+amd affordable durability
+amd alternatives durability
 

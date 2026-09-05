@@ -10558,5 +10558,7 @@
   "intel affordable durability": true,
   "intel alternatives durability": true,
   "nvidia affordable durability": true,
-  "nvidia alternatives durability": true
+  "nvidia alternatives durability": true,
+  "amd affordable durability": true,
+  "amd alternatives durability": true
 }
