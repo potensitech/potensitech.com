@@ -73,3 +73,4 @@ laptop
 performance
 durability
 mirrorless innovation
+usb performance

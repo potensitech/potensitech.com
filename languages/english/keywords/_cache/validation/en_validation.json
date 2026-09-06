@@ -10583,5 +10583,7 @@
   "sandisk affordable ai computing": true,
   "sandisk affordable usb performance": true,
   "intel affordable ai computing": true,
-  "intel affordable usb performance": true
+  "intel affordable usb performance": true,
+  "nvidia affordable ai computing": true,
+  "nvidia affordable usb performance": true
 }
