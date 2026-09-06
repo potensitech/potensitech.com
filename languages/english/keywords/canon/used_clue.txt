@@ -67,3 +67,5 @@ gaming
 laptop
 performance
 durability
+ai computing
+usb performance
