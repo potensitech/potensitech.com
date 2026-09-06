@@ -76,3 +76,5 @@ laptop
 performance
 durability
 mirrorless innovation
+ai computing
+usb performance
