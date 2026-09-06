@@ -10585,5 +10585,7 @@
   "intel affordable ai computing": true,
   "intel affordable usb performance": true,
   "nvidia affordable ai computing": true,
-  "nvidia affordable usb performance": true
+  "nvidia affordable usb performance": true,
+  "amd affordable ai computing": true,
+  "amd affordable usb performance": true
 }
