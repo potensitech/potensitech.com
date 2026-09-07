@@ -74,3 +74,5 @@ performance
 durability
 mirrorless innovation
 usb performance
+core technology
+chipset upgrade

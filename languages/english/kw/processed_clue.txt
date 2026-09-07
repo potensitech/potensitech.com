@@ -7135,3 +7135,5 @@ usb performance
 core technology
 core technology
 chipset upgrade
+core technology
+chipset upgrade

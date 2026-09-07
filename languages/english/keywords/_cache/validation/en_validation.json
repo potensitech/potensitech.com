@@ -10609,5 +10609,7 @@
   "philips affordable usb performance": true,
   "sandisk affordable core technology": true,
   "intel affordable chipset upgrade": true,
-  "intel affordable core technology": true
+  "intel affordable core technology": true,
+  "nvidia affordable chipset upgrade": true,
+  "nvidia affordable core technology": true
 }

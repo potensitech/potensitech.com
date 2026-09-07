@@ -871,4 +871,6 @@ nvidia affordable durability
 nvidia alternatives durability
 nvidia affordable ai computing
 nvidia affordable usb performance
+nvidia affordable chipset upgrade
+nvidia affordable core technology
 
