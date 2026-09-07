@@ -7133,3 +7133,5 @@ ai computing
 usb performance
 usb performance
 core technology
+core technology
+chipset upgrade

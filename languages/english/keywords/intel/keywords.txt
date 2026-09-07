@@ -1021,4 +1021,6 @@ intel affordable durability
 intel alternatives durability
 intel affordable ai computing
 intel affordable usb performance
+intel affordable chipset upgrade
+intel affordable core technology
 

@@ -1,4 +1,3 @@
-usb performance
 core technology
 chipset upgrade
 cpu benchmark
