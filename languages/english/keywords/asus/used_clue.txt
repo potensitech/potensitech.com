@@ -79,3 +79,5 @@ electric-shaver
 performance
 durability
 mirrorless innovation
+ai computing
+usb performance
