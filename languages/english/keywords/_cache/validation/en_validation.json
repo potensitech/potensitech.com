@@ -10611,5 +10611,7 @@
   "intel affordable chipset upgrade": true,
   "intel affordable core technology": true,
   "nvidia affordable chipset upgrade": true,
-  "nvidia affordable core technology": true
+  "nvidia affordable core technology": true,
+  "amd affordable chipset upgrade": true,
+  "amd affordable core technology": true
 }
