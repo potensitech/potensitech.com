@@ -841,4 +841,6 @@ sandisk alternatives durability
 sandisk affordable ai computing
 sandisk affordable usb performance
 sandisk affordable core technology
+sandisk affordable chipset upgrade
+sandisk affordable cpu benchmark
 

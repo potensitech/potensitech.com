@@ -75,3 +75,5 @@ durability
 mirrorless innovation
 ai computing
 core technology
+chipset upgrade
+cpu benchmark

@@ -10633,5 +10633,7 @@
   "asus affordable chipset upgrade": true,
   "asus affordable core technology": true,
   "philips affordable chipset upgrade": true,
-  "philips affordable core technology": true
+  "philips affordable core technology": true,
+  "sandisk affordable chipset upgrade": true,
+  "sandisk affordable cpu benchmark": true
 }
