@@ -243,3 +243,6 @@ ai computing
 
 --- Moved on 2026-09-07 17:09:05 ---
 usb performance
+
+--- Moved on 2026-09-08 21:49:57 ---
+core technology
