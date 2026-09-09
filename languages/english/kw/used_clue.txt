@@ -246,3 +246,6 @@ usb performance
 
 --- Moved on 2026-09-08 21:49:57 ---
 core technology
+
+--- Moved on 2026-09-09 04:25:14 ---
+chipset upgrade

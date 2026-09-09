@@ -76,3 +76,4 @@ performance
 durability
 mirrorless innovation
 ai computing
+cpu benchmark

@@ -7161,3 +7161,5 @@ core technology
 chipset upgrade
 chipset upgrade
 cpu benchmark
+chipset upgrade
+cpu benchmark

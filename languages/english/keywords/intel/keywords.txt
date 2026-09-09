@@ -1023,4 +1023,5 @@ intel affordable ai computing
 intel affordable usb performance
 intel affordable chipset upgrade
 intel affordable core technology
+intel affordable cpu benchmark
 
