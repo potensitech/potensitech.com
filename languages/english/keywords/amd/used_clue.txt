@@ -73,3 +73,5 @@ mirrorless innovation
 ai computing
 usb performance
 core technology
+cpu benchmark
+smartphone performance

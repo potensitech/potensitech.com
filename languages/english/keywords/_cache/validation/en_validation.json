@@ -10638,5 +10638,7 @@
   "sandisk affordable cpu benchmark": true,
   "intel affordable cpu benchmark": true,
   "nvidia affordable cpu benchmark": true,
-  "nvidia affordable smartphone performance": true
+  "nvidia affordable smartphone performance": true,
+  "amd affordable cpu benchmark": true,
+  "amd affordable smartphone performance": true
 }

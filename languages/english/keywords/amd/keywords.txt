@@ -786,4 +786,6 @@ amd affordable ai computing
 amd affordable usb performance
 amd affordable chipset upgrade
 amd affordable core technology
+amd affordable cpu benchmark
+amd affordable smartphone performance
 
