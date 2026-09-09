@@ -10648,5 +10648,7 @@
   "huawei affordable cpu benchmark": true,
   "huawei affordable smartphone performance": true,
   "xiaomi affordable cpu benchmark": true,
-  "xiaomi affordable smartphone performance": true
+  "xiaomi affordable smartphone performance": true,
+  "iphone affordable cpu benchmark": true,
+  "iphone affordable smartphone performance": true
 }
