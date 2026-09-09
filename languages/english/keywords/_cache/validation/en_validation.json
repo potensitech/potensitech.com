@@ -10636,5 +10636,7 @@
   "philips affordable core technology": true,
   "sandisk affordable chipset upgrade": true,
   "sandisk affordable cpu benchmark": true,
-  "intel affordable cpu benchmark": true
+  "intel affordable cpu benchmark": true,
+  "nvidia affordable cpu benchmark": true,
+  "nvidia affordable smartphone performance": true
 }

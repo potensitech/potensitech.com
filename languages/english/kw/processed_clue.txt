@@ -7163,3 +7163,5 @@ chipset upgrade
 cpu benchmark
 chipset upgrade
 cpu benchmark
+cpu benchmark
+smartphone performance

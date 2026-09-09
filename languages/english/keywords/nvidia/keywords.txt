@@ -873,4 +873,6 @@ nvidia affordable ai computing
 nvidia affordable usb performance
 nvidia affordable chipset upgrade
 nvidia affordable core technology
+nvidia affordable cpu benchmark
+nvidia affordable smartphone performance
 
