@@ -82,3 +82,5 @@ mirrorless innovation
 ai computing
 usb performance
 chipset upgrade
+cpu benchmark
+smartphone performance
