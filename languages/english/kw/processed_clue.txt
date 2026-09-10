@@ -7195,3 +7195,5 @@ smartphone performance
 mobile processor
 mobile processor
 gaming phone
+mobile processor
+gaming phone
