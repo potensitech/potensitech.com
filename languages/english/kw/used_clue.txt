@@ -252,3 +252,6 @@ chipset upgrade
 
 --- Moved on 2026-09-10 12:14:17 ---
 cpu benchmark
+
+--- Moved on 2026-09-10 15:45:42 ---
+smartphone performance
