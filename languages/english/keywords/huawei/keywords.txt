@@ -668,4 +668,6 @@ huawei affordable chipset upgrade
 huawei affordable core technology
 huawei affordable cpu benchmark
 huawei affordable smartphone performance
+huawei affordable gaming phone
+huawei affordable mobile processor
 
