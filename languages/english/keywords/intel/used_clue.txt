@@ -77,3 +77,5 @@ durability
 mirrorless innovation
 ai computing
 cpu benchmark
+smartphone performance
+mobile processor

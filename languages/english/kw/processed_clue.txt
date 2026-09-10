@@ -7189,3 +7189,5 @@ cpu benchmark
 smartphone performance
 cpu benchmark
 smartphone performance
+smartphone performance
+mobile processor
