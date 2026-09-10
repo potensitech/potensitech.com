@@ -75,3 +75,5 @@ core technology
 chipset upgrade
 cpu benchmark
 smartphone performance
+mobile processor
+gaming phone
