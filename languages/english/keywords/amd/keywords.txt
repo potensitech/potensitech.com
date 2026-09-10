@@ -788,4 +788,6 @@ amd affordable chipset upgrade
 amd affordable core technology
 amd affordable cpu benchmark
 amd affordable smartphone performance
+amd affordable gaming phone
+amd affordable mobile processor
 

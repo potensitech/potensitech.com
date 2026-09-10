@@ -75,3 +75,4 @@ usb performance
 core technology
 cpu benchmark
 smartphone performance
+mobile processor
