@@ -1026,4 +1026,5 @@ intel affordable core technology
 intel affordable cpu benchmark
 intel affordable mobile processor
 intel affordable smartphone performance
+intel affordable gaming phone
 

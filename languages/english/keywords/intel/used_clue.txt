@@ -79,3 +79,4 @@ ai computing
 cpu benchmark
 smartphone performance
 mobile processor
+gaming phone
