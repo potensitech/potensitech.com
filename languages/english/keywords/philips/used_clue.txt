@@ -84,3 +84,5 @@ usb performance
 chipset upgrade
 cpu benchmark
 smartphone performance
+mobile processor
+gaming phone
