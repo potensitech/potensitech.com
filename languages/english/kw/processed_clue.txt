@@ -7219,3 +7219,5 @@ mobile processor
 gaming phone
 mobile processor
 gaming phone
+gaming phone
+long battery

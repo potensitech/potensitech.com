@@ -79,3 +79,4 @@ chipset upgrade
 cpu benchmark
 smartphone performance
 mobile processor
+long battery

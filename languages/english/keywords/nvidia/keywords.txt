@@ -876,4 +876,6 @@ nvidia affordable core technology
 nvidia affordable cpu benchmark
 nvidia affordable smartphone performance
 nvidia affordable mobile processor
+nvidia affordable gaming phone
+nvidia affordable long battery
 
