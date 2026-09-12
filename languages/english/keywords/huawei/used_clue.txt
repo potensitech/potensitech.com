@@ -76,3 +76,5 @@ chipset upgrade
 smartphone performance
 mobile processor
 gaming phone
+long battery
+dlss technology
