@@ -790,4 +790,6 @@ amd affordable cpu benchmark
 amd affordable smartphone performance
 amd affordable gaming phone
 amd affordable mobile processor
+amd affordable dlss technology
+amd affordable long battery
 

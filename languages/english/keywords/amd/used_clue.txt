@@ -76,3 +76,5 @@ core technology
 cpu benchmark
 smartphone performance
 mobile processor
+long battery
+dlss technology

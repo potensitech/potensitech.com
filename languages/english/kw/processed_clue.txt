@@ -7221,3 +7221,5 @@ mobile processor
 gaming phone
 gaming phone
 long battery
+long battery
+dlss technology
