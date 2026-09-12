@@ -7235,3 +7235,5 @@ long battery
 dlss technology
 long battery
 dlss technology
+long battery
+dlss technology
