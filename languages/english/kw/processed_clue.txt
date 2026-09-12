@@ -7223,3 +7223,5 @@ gaming phone
 long battery
 long battery
 dlss technology
+long battery
+dlss technology
