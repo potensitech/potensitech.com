@@ -10720,5 +10720,6 @@
   "nvidia affordable cuda cores": true,
   "nvidia affordable dlss technology": true,
   "amd affordable cuda cores": true,
-  "canon affordable cuda cores": true
+  "canon affordable cuda cores": true,
+  "nikon affordable cuda cores": true
 }
