@@ -10714,5 +10714,7 @@
   "asus affordable long battery": true,
   "philips affordable electric toothbrushes": true,
   "sandisk affordable cuda cores": true,
-  "sandisk affordable dlss technology": true
+  "sandisk affordable dlss technology": true,
+  "intel affordable cuda cores": true,
+  "intel affordable dlss technology": true
 }
