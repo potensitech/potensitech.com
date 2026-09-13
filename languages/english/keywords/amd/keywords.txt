@@ -792,4 +792,5 @@ amd affordable gaming phone
 amd affordable mobile processor
 amd affordable dlss technology
 amd affordable long battery
+amd affordable cuda cores
 

@@ -10718,5 +10718,6 @@
   "intel affordable cuda cores": true,
   "intel affordable dlss technology": true,
   "nvidia affordable cuda cores": true,
-  "nvidia affordable dlss technology": true
+  "nvidia affordable dlss technology": true,
+  "amd affordable cuda cores": true
 }
