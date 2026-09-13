@@ -878,4 +878,6 @@ nvidia affordable smartphone performance
 nvidia affordable mobile processor
 nvidia affordable gaming phone
 nvidia affordable long battery
+nvidia affordable cuda cores
+nvidia affordable dlss technology
 
