@@ -7242,3 +7242,5 @@ dlss technology
 long battery
 dlss technology
 electric toothbrushes
+dlss technology
+cuda cores

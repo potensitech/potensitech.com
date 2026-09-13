@@ -80,3 +80,5 @@ cpu benchmark
 smartphone performance
 mobile processor
 gaming phone
+dlss technology
+cuda cores

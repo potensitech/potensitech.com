@@ -846,4 +846,6 @@ sandisk affordable cpu benchmark
 sandisk affordable smartphone performance
 sandisk affordable gaming phone
 sandisk affordable mobile processor
+sandisk affordable cuda cores
+sandisk affordable dlss technology
 
