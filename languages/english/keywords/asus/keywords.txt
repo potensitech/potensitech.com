@@ -852,4 +852,5 @@ asus affordable gaming phone
 asus affordable mobile processor
 asus affordable dlss technology
 asus affordable long battery
+asus affordable cuda cores
 
