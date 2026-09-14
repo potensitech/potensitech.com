@@ -80,3 +80,4 @@ mobile processor
 gaming phone
 long battery
 dlss technology
+cuda cores

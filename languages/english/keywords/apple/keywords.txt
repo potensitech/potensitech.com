@@ -578,4 +578,5 @@ apple affordable gaming phone
 apple affordable mobile processor
 apple affordable dlss technology
 apple affordable long battery
+apple affordable cuda cores
 
