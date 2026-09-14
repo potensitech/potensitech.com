@@ -10724,5 +10724,6 @@
   "nikon affordable cuda cores": true,
   "huawei affordable cuda cores": true,
   "xiaomi affordable cuda cores": true,
-  "iphone affordable cuda cores": true
+  "iphone affordable cuda cores": true,
+  "samsung affordable cuda cores": true
 }
