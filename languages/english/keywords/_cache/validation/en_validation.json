@@ -10728,5 +10728,7 @@
   "samsung affordable cuda cores": true,
   "apple affordable cuda cores": true,
   "sony affordable cuda cores": true,
-  "asus affordable cuda cores": true
+  "asus affordable cuda cores": true,
+  "philips affordable cuda cores": true,
+  "philips affordable dlss technology": true
 }
