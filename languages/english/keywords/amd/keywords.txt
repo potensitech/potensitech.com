@@ -793,4 +793,6 @@ amd affordable mobile processor
 amd affordable dlss technology
 amd affordable long battery
 amd affordable cuda cores
+amd affordable audio systems
+amd affordable smart lighting
 

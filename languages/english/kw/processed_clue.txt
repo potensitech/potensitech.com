@@ -7275,3 +7275,5 @@ cuda cores
 home appliances
 audio systems
 smart lighting
+audio systems
+smart lighting
