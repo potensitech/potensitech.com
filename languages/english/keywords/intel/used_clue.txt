@@ -82,3 +82,4 @@ mobile processor
 gaming phone
 dlss technology
 cuda cores
+home appliances
