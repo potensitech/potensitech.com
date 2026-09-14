@@ -7273,3 +7273,5 @@ cuda cores
 dlss technology
 cuda cores
 home appliances
+audio systems
+smart lighting

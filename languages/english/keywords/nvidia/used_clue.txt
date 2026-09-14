@@ -80,3 +80,5 @@ cpu benchmark
 smartphone performance
 mobile processor
 long battery
+audio systems
+smart lighting

@@ -880,4 +880,6 @@ nvidia affordable gaming phone
 nvidia affordable long battery
 nvidia affordable cuda cores
 nvidia affordable dlss technology
+nvidia affordable audio systems
+nvidia affordable smart lighting
 
