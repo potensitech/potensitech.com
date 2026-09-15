@@ -85,3 +85,5 @@ core technology
 cpu benchmark
 dlss technology
 cuda cores
+audio systems
+smart lighting
