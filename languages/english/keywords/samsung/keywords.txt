@@ -647,4 +647,6 @@ samsung affordable mobile processor
 samsung affordable dlss technology
 samsung affordable long battery
 samsung affordable cuda cores
+samsung affordable audio systems
+samsung affordable smart lighting
 
