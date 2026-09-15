@@ -82,3 +82,5 @@ mobile processor
 gaming phone
 dlss technology
 cuda cores
+audio systems
+smart lighting
