@@ -579,4 +579,6 @@ apple affordable mobile processor
 apple affordable dlss technology
 apple affordable long battery
 apple affordable cuda cores
+apple affordable audio systems
+apple affordable smart lighting
 
