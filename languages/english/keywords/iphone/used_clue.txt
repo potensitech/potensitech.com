@@ -87,3 +87,5 @@ gaming phone
 long battery
 dlss technology
 cuda cores
+audio systems
+smart lighting
