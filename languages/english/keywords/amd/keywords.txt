@@ -795,4 +795,6 @@ amd affordable long battery
 amd affordable cuda cores
 amd affordable audio systems
 amd affordable smart lighting
+amd affordable electric toothbrushes
+amd affordable home appliances
 
