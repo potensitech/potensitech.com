@@ -268,3 +268,7 @@ long battery
 --- Moved on 2026-09-14 17:33:28 ---
 dlss technology
 cuda cores
+
+--- Moved on 2026-09-16 07:48:10 ---
+audio systems
+smart lighting
