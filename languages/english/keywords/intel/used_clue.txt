@@ -85,3 +85,4 @@ cuda cores
 home appliances
 audio systems
 smart lighting
+electric toothbrushes
