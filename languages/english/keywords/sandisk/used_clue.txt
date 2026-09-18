@@ -86,3 +86,5 @@ audio systems
 smart lighting
 electric toothbrushes
 home appliances
+graphics performance
+autofocus system
