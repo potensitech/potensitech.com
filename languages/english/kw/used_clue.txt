@@ -276,3 +276,6 @@ smart lighting
 --- Moved on 2026-09-17 18:19:49 ---
 electric toothbrushes
 home appliances
+
+--- Moved on 2026-09-18 23:33:55 ---
+graphics performance

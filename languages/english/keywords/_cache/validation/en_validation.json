@@ -10809,5 +10809,7 @@
   "sandisk affordable autofocus system": true,
   "sandisk affordable graphics performance": true,
   "intel affordable autofocus system": true,
-  "intel affordable graphics performance": true
+  "intel affordable graphics performance": true,
+  "nvidia affordable autofocus system": true,
+  "nvidia affordable graphics performance": true
 }

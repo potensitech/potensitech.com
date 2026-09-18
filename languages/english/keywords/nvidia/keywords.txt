@@ -884,4 +884,6 @@ nvidia affordable audio systems
 nvidia affordable smart lighting
 nvidia affordable electric toothbrushes
 nvidia affordable home appliances
+nvidia affordable autofocus system
+nvidia affordable graphics performance
 
