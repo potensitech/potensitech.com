@@ -7339,3 +7339,5 @@ graphics performance
 autofocus system
 graphics performance
 autofocus system
+graphics performance
+autofocus system
