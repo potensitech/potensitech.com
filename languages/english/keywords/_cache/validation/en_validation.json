@@ -10811,5 +10811,7 @@
   "intel affordable autofocus system": true,
   "intel affordable graphics performance": true,
   "nvidia affordable autofocus system": true,
-  "nvidia affordable graphics performance": true
+  "nvidia affordable graphics performance": true,
+  "amd affordable autofocus system": true,
+  "amd affordable ssd storage": true
 }
