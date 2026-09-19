@@ -84,3 +84,4 @@ audio systems
 smart lighting
 electric toothbrushes
 home appliances
+ssd storage

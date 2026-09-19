@@ -7363,3 +7363,5 @@ autofocus system
 ssd storage
 autofocus system
 ssd storage
+ssd storage
+portable ssd
