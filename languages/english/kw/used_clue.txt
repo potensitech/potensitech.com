@@ -279,3 +279,6 @@ home appliances
 
 --- Moved on 2026-09-18 23:33:55 ---
 graphics performance
+
+--- Moved on 2026-09-19 07:25:58 ---
+autofocus system

@@ -1,4 +1,3 @@
-autofocus system
 ssd storage
 portable ssd
 processor efficiency

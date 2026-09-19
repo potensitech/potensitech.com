@@ -7361,3 +7361,5 @@ graphics performance
 autofocus system
 autofocus system
 ssd storage
+autofocus system
+ssd storage
