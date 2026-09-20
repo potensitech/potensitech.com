@@ -1,4 +1,3 @@
-ssd storage
 portable ssd
 processor efficiency
 autofocus speed

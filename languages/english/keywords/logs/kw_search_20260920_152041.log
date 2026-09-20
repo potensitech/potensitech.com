@@ -1,0 +1,37 @@
+2026-09-20 15:20:41,665 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20260920_152041.log
+2026-09-20 15:20:41,665 - INFO - ============================================================
+2026-09-20 15:20:41,665 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-09-20 15:20:41,665 - INFO - ============================================================
+2026-09-20 15:20:42,072 - INFO - ========================================
+2026-09-20 15:20:42,072 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-09-20 15:20:42,072 - INFO - ========================================
+2026-09-20 15:20:42,072 - INFO - Continuing from last processed niche: amd
+2026-09-20 15:20:42,072 - INFO - ========================================
+2026-09-20 15:20:42,073 - INFO - 🎯 PROCESSING NICHE 12/14: 'canon'
+2026-09-20 15:20:42,073 - INFO - ========================================
+2026-09-20 15:20:42,073 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/canon
+2026-09-20 15:20:42,073 - INFO - Selected region: us
+2026-09-20 15:20:42,073 - INFO - Selected language: en
+2026-09-20 15:20:42,073 - INFO - 🎯 Current niche: canon
+2026-09-20 15:20:53,128 - INFO - 🎯 Niche terms for filtering: canon, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, canon product, sell canon, buy canon, cheap canon, best canon, canon review, where to buy canon, how to choose canon, top canon, canon guide, canon for sale, canon deals
+2026-09-20 15:20:53,128 - INFO - Generated 50 niche-clue pairs for 'canon'.
+2026-09-20 15:20:53,131 - INFO - Expanded 50 seed keywords to 218 variations
+2026-09-20 15:20:53,132 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-09-20 15:25:18,287 - INFO - Original clue keywords: gaming optimization
+2026-09-20 15:25:18,288 - INFO - Niche-focused seeds: gaming optimization canon, canon gaming optimization, gaming optimization cheap, cheap gaming optimization, gaming optimization best, best gaming optimization, gaming optimization latest, latest gaming optimization, gaming optimization review, review gaming optimization, gaming optimization price, price gaming optimization, gaming optimization sell, sell gaming optimization, gaming optimization buy, buy gaming optimization, gaming optimization recommendation, recommendation gaming optimization, gaming optimization tips, tips gaming optimization, gaming optimization tutorial, tutorial gaming optimization, gaming optimization guide, guide gaming optimization, gaming optimization how to, how to gaming optimization, gaming optimization vs, vs gaming optimization, gaming optimization versus, versus gaming optimization, gaming optimization compared to, compared to gaming optimization, gaming optimization comparison, comparison gaming optimization, gaming optimization alternatives, alternatives gaming optimization, gaming optimization which is better, which is better gaming optimization, gaming optimization expensive, expensive gaming optimization, gaming optimization discount, discount gaming optimization, gaming optimization deals, deals gaming optimization, gaming optimization sale, sale gaming optimization, gaming optimization affordable, affordable gaming optimization, gaming optimization cost, cost gaming optimization, gaming optimization online, online gaming optimization, gaming optimization offline, offline gaming optimization, gaming optimization marketplace, marketplace gaming optimization, gaming optimization store, store gaming optimization, gaming optimization shop, shop gaming optimization, gaming optimization retailer, retailer gaming optimization, gaming optimization where to buy, where to buy gaming optimization, gaming optimization worst, worst gaming optimization, gaming optimization quality, quality gaming optimization, gaming optimization original, original gaming optimization, gaming optimization genuine, genuine gaming optimization, gaming optimization fake, fake gaming optimization, gaming optimization replica, replica gaming optimization, gaming optimization authentic, authentic gaming optimization, gaming optimization brand, brand gaming optimization, gaming optimization manufacturer, manufacturer gaming optimization, gaming optimization company, company gaming optimization, gaming optimization product, product gaming optimization, gaming optimization canon product, canon product gaming optimization, gaming optimization sell canon, sell canon gaming optimization, gaming optimization buy canon, buy canon gaming optimization, gaming optimization cheap canon, cheap canon gaming optimization, gaming optimization best canon, best canon gaming optimization, gaming optimization canon review, canon review gaming optimization, gaming optimization where to buy canon, where to buy canon gaming optimization, gaming optimization how to choose canon, how to choose canon gaming optimization, gaming optimization top canon, top canon gaming optimization, gaming optimization canon guide, canon guide gaming optimization, gaming optimization canon for sale, canon for sale gaming optimization, gaming optimization canon deals, canon deals gaming optimization
+2026-09-20 15:25:18,291 - INFO - Expanded 110 seed keywords to 275 variations
+2026-09-20 15:25:18,291 - INFO - Language: en
+2026-09-20 15:25:18,291 - INFO - Region: us
+2026-09-20 15:29:49,691 - INFO - 🎯 After all filtering for 'canon': 120 relevant keywords
+2026-09-20 15:29:53,296 - INFO - 🎯 Found 4 new keywords for niche 'canon': canon affordable gaming optimization, cheap alternatives gaming optimization, best authentic gaming optimization, how to brand gaming optimization
+2026-09-20 15:30:09,239 - INFO - ✅ Niche 'canon' process complete! 724 total keyword results.
+2026-09-20 15:30:09,239 - INFO - ✅ Completed processing niche: 'canon'
+2026-09-20 15:30:09,239 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-09-20 15:30:09,239 - INFO -    Total requests: 201745, Blocks: 1
+2026-09-20 15:30:09,240 - INFO - 
+========================================
+2026-09-20 15:30:09,240 - INFO - Process Summary:
+2026-09-20 15:30:09,240 - INFO - - Current niche: 'canon'
+2026-09-20 15:30:09,241 - INFO - - Next niche will be: 'nikon'
+2026-09-20 15:30:09,241 - INFO - - Keywords saved in: languages/english/keywords/canon/
+2026-09-20 15:30:09,241 - INFO - ========================================
