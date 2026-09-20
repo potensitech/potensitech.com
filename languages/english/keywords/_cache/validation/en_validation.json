@@ -10845,5 +10845,7 @@
   "huawei affordable autofocus speed": true,
   "huawei affordable processor efficiency": true,
   "xiaomi affordable autofocus speed": true,
-  "xiaomi affordable processor efficiency": true
+  "xiaomi affordable processor efficiency": true,
+  "iphone affordable autofocus speed": true,
+  "iphone affordable processor efficiency": true
 }

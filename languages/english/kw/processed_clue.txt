@@ -7395,3 +7395,5 @@ processor efficiency
 autofocus speed
 processor efficiency
 autofocus speed
+processor efficiency
+autofocus speed
