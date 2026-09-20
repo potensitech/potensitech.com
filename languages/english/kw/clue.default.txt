@@ -1,4 +1,3 @@
-portable ssd
 processor efficiency
 autofocus speed
 dslr settings

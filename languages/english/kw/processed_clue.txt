@@ -7390,3 +7390,4 @@ portable ssd
 ssd storage
 portable ssd
 gaming optimization
+overclocking capability
