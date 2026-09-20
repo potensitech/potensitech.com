@@ -10837,5 +10837,7 @@
   "intel affordable portable ssd": true,
   "intel alternatives ssd storage": true,
   "nvidia affordable portable ssd": true,
-  "nvidia alternatives ssd storage": true
+  "nvidia alternatives ssd storage": true,
+  "amd affordable portable ssd": true,
+  "amd alternatives ssd storage": true
 }

@@ -282,3 +282,6 @@ graphics performance
 
 --- Moved on 2026-09-19 07:25:58 ---
 autofocus system
+
+--- Moved on 2026-09-20 13:40:42 ---
+ssd storage
