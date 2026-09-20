@@ -7393,3 +7393,5 @@ gaming optimization
 overclocking capability
 processor efficiency
 autofocus speed
+processor efficiency
+autofocus speed
