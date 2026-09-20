@@ -7391,3 +7391,5 @@ ssd storage
 portable ssd
 gaming optimization
 overclocking capability
+processor efficiency
+autofocus speed
