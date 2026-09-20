@@ -85,3 +85,5 @@ smart lighting
 electric toothbrushes
 home appliances
 autofocus system
+ssd storage
+portable ssd

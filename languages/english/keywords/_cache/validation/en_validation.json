@@ -10835,5 +10835,7 @@
   "philips alternatives ssd storage": true,
   "sandisk alternatives ssd storage": true,
   "intel affordable portable ssd": true,
-  "intel alternatives ssd storage": true
+  "intel alternatives ssd storage": true,
+  "nvidia affordable portable ssd": true,
+  "nvidia alternatives ssd storage": true
 }
