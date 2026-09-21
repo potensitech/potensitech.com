@@ -10849,5 +10849,7 @@
   "iphone affordable autofocus speed": true,
   "iphone affordable processor efficiency": true,
   "samsung affordable autofocus speed": true,
-  "samsung affordable processor efficiency": true
+  "samsung affordable processor efficiency": true,
+  "apple affordable autofocus speed": true,
+  "apple affordable processor efficiency": true
 }
