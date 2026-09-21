@@ -10863,5 +10863,7 @@
   "intel affordable autofocus speed": true,
   "intel affordable processor efficiency": true,
   "nvidia affordable autofocus speed": true,
-  "nvidia affordable processor efficiency": true
+  "nvidia affordable processor efficiency": true,
+  "amd affordable autofocus speed": true,
+  "amd affordable processor efficiency": true
 }
