@@ -888,4 +888,6 @@ nvidia affordable autofocus system
 nvidia affordable graphics performance
 nvidia affordable portable ssd
 nvidia alternatives ssd storage
+nvidia affordable autofocus speed
+nvidia affordable processor efficiency
 
