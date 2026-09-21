@@ -1037,4 +1037,6 @@ intel affordable autofocus system
 intel affordable graphics performance
 intel affordable portable ssd
 intel alternatives ssd storage
+intel affordable autofocus speed
+intel affordable processor efficiency
 

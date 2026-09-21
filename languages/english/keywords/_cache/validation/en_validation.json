@@ -10859,5 +10859,7 @@
   "philips affordable autofocus speed": true,
   "philips affordable processor efficiency": true,
   "sandisk affordable autofocus speed": true,
-  "sandisk affordable processor efficiency": true
+  "sandisk affordable processor efficiency": true,
+  "intel affordable autofocus speed": true,
+  "intel affordable processor efficiency": true
 }
