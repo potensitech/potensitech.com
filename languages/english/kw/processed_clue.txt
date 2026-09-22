@@ -7423,3 +7423,5 @@ processor efficiency
 dslr settings
 dslr settings
 gaming optimization
+dslr settings
+gaming optimization
