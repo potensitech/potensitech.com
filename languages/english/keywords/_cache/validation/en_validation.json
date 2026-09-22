@@ -10865,5 +10865,7 @@
   "nvidia affordable autofocus speed": true,
   "nvidia affordable processor efficiency": true,
   "amd affordable autofocus speed": true,
-  "amd affordable processor efficiency": true
+  "amd affordable processor efficiency": true,
+  "canon affordable autofocus speed": true,
+  "canon affordable processor efficiency": true
 }
