@@ -91,3 +91,5 @@ dlss technology
 cuda cores
 home appliances
 autofocus system
+dslr settings
+gaming optimization
