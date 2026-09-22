@@ -88,3 +88,5 @@ home appliances
 autofocus system
 ssd storage
 processor efficiency
+dslr settings
+gaming optimization

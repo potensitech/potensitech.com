@@ -7421,3 +7421,5 @@ processor efficiency
 autofocus speed
 processor efficiency
 dslr settings
+dslr settings
+gaming optimization
