@@ -87,3 +87,4 @@ home appliances
 ssd storage
 overclocking capability
 processor efficiency
+gaming optimization
