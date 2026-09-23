@@ -10899,5 +10899,7 @@
   "huawei affordable overclocking capability": true,
   "xiaomi affordable overclocking capability": true,
   "iphone affordable core speed": true,
-  "iphone affordable overclocking capability": true
+  "iphone affordable overclocking capability": true,
+  "samsung affordable core speed": true,
+  "samsung affordable overclocking capability": true
 }
