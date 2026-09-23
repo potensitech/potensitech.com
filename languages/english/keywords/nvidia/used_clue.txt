@@ -87,3 +87,5 @@ home appliances
 autofocus system
 ssd storage
 portable ssd
+dslr settings
+gaming optimization
