@@ -10890,5 +10890,7 @@
   "intel affordable dslr settings": true,
   "intel affordable gaming optimization": true,
   "nvidia affordable dslr settings": true,
-  "nvidia affordable gaming optimization": true
+  "nvidia affordable gaming optimization": true,
+  "amd affordable dslr settings": true,
+  "amd affordable gaming optimization": true
 }

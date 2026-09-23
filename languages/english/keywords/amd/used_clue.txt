@@ -87,3 +87,5 @@ autofocus system
 ssd storage
 portable ssd
 autofocus speed
+dslr settings
+gaming optimization
