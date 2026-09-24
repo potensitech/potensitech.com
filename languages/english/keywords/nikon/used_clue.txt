@@ -88,3 +88,4 @@ ssd storage
 overclocking capability
 processor efficiency
 gaming optimization
+core speed
