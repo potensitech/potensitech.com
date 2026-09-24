@@ -10915,5 +10915,7 @@
   "intel affordable core speed": true,
   "intel affordable overclocking capability": true,
   "nvidia affordable core speed": true,
-  "nvidia affordable overclocking capability": true
+  "nvidia affordable overclocking capability": true,
+  "amd affordable core speed": true,
+  "amd affordable overclocking capability": true
 }

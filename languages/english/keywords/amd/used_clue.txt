@@ -89,3 +89,4 @@ portable ssd
 autofocus speed
 dslr settings
 gaming optimization
+overclocking capability

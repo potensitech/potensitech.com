@@ -805,4 +805,6 @@ amd affordable autofocus speed
 amd affordable processor efficiency
 amd affordable dslr settings
 amd affordable gaming optimization
+amd affordable core speed
+amd affordable overclocking capability
 
