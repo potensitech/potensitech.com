@@ -7455,3 +7455,5 @@ overclocking capability
 core speed
 overclocking capability
 core speed
+overclocking capability
+core speed
