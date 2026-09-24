@@ -91,3 +91,5 @@ autofocus system
 processor efficiency
 dslr settings
 gaming optimization
+overclocking capability
+core speed
