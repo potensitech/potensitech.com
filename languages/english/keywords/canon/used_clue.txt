@@ -86,3 +86,5 @@ autofocus system
 gaming optimization
 processor efficiency
 autofocus speed
+overclocking capability
+core speed
