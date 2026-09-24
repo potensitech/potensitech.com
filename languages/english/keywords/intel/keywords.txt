@@ -1041,4 +1041,6 @@ intel affordable autofocus speed
 intel affordable processor efficiency
 intel affordable dslr settings
 intel affordable gaming optimization
+intel affordable core speed
+intel affordable overclocking capability
 

@@ -10911,5 +10911,7 @@
   "philips affordable core speed": true,
   "philips affordable overclocking capability": true,
   "sandisk affordable core speed": true,
-  "sandisk affordable overclocking capability": true
+  "sandisk affordable overclocking capability": true,
+  "intel affordable core speed": true,
+  "intel affordable overclocking capability": true
 }
