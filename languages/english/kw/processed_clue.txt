@@ -7477,3 +7477,5 @@ overclocking capability
 core speed
 core speed
 power efficiency
+core speed
+power efficiency

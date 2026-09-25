@@ -10922,5 +10922,7 @@
   "canon affordable overclocking capability": true,
   "nikon affordable core speed": true,
   "huawei affordable core speed": true,
-  "huawei affordable power efficiency": true
+  "huawei affordable power efficiency": true,
+  "xiaomi affordable core speed": true,
+  "xiaomi affordable power efficiency": true
 }
