@@ -88,3 +88,5 @@ ssd storage
 processor efficiency
 gaming optimization
 overclocking capability
+core speed
+power efficiency
