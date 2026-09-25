@@ -1043,4 +1043,6 @@ intel affordable dslr settings
 intel affordable gaming optimization
 intel affordable core speed
 intel affordable overclocking capability
+intel affordable power efficiency
+intel affordable smartphone features
 
