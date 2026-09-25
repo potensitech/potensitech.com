@@ -7483,3 +7483,5 @@ core speed
 power efficiency
 power efficiency
 smartphone features
+power efficiency
+smartphone features
