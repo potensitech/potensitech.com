@@ -7481,3 +7481,5 @@ core speed
 power efficiency
 core speed
 power efficiency
+power efficiency
+smartphone features
