@@ -303,3 +303,6 @@ gaming optimization
 
 --- Moved on 2026-09-24 22:21:29 ---
 overclocking capability
+
+--- Moved on 2026-09-25 08:00:18 ---
+core speed

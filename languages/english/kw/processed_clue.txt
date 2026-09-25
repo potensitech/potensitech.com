@@ -7479,3 +7479,5 @@ core speed
 power efficiency
 core speed
 power efficiency
+core speed
+power efficiency
