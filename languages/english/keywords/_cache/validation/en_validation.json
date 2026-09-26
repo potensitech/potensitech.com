@@ -10941,5 +10941,7 @@
   "intel affordable power efficiency": true,
   "intel affordable smartphone features": true,
   "nvidia affordable power efficiency": true,
-  "nvidia affordable smartphone features": true
+  "nvidia affordable smartphone features": true,
+  "amd affordable power efficiency": true,
+  "amd affordable smartphone features": true
 }

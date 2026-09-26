@@ -90,3 +90,5 @@ autofocus speed
 dslr settings
 gaming optimization
 overclocking capability
+power efficiency
+smartphone features
