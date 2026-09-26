@@ -7511,3 +7511,5 @@ smartphone features
 solid-state
 solid-state
 usb storage
+solid-state
+usb storage
