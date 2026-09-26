@@ -7513,3 +7513,5 @@ solid-state
 usb storage
 solid-state
 usb storage
+solid-state
+usb storage
