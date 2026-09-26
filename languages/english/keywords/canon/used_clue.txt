@@ -88,3 +88,5 @@ processor efficiency
 autofocus speed
 overclocking capability
 core speed
+power efficiency
+smartphone features
