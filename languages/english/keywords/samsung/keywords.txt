@@ -663,4 +663,6 @@ samsung affordable core speed
 samsung affordable overclocking capability
 samsung affordable power efficiency
 samsung affordable smartphone features
+samsung affordable solid-state
+samsung alternatives solid-state
 

@@ -7509,3 +7509,5 @@ smartphone features
 solid-state
 smartphone features
 solid-state
+solid-state
+usb storage
