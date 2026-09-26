@@ -89,3 +89,5 @@ overclocking capability
 processor efficiency
 gaming optimization
 core speed
+power efficiency
+smartphone features
