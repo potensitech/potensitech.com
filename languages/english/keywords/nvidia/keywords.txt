@@ -894,4 +894,6 @@ nvidia affordable dslr settings
 nvidia affordable gaming optimization
 nvidia affordable core speed
 nvidia affordable overclocking capability
+nvidia affordable power efficiency
+nvidia affordable smartphone features
 
