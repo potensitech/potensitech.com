@@ -98,3 +98,4 @@ gaming optimization
 overclocking capability
 core speed
 power efficiency
+solid-state
