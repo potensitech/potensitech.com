@@ -7505,3 +7505,5 @@ power efficiency
 smartphone features
 power efficiency
 smartphone features
+smartphone features
+solid-state
