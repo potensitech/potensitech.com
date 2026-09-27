@@ -1045,4 +1045,6 @@ intel affordable core speed
 intel affordable overclocking capability
 intel affordable power efficiency
 intel affordable smartphone features
+intel affordable solid-state
+intel alternatives solid-state
 

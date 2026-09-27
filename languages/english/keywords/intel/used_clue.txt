@@ -93,3 +93,4 @@ dslr settings
 gaming optimization
 overclocking capability
 smartphone features
+usb storage

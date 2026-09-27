@@ -10963,5 +10963,7 @@
   "philips affordable solid-state": true,
   "philips alternatives solid-state": true,
   "sandisk affordable solid-state": true,
-  "sandisk alternatives solid-state": true
+  "sandisk alternatives solid-state": true,
+  "intel affordable solid-state": true,
+  "intel alternatives solid-state": true
 }
