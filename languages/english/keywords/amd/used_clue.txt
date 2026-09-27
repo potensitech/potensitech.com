@@ -92,3 +92,5 @@ gaming optimization
 overclocking capability
 power efficiency
 smartphone features
+solid-state
+usb storage

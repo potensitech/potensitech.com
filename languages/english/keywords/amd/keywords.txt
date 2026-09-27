@@ -809,4 +809,6 @@ amd affordable core speed
 amd affordable overclocking capability
 amd affordable power efficiency
 amd affordable smartphone features
+amd affordable solid-state
+amd alternatives solid-state
 

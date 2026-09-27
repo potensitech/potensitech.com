@@ -10967,5 +10967,7 @@
   "intel affordable solid-state": true,
   "intel alternatives solid-state": true,
   "nvidia affordable solid-state": true,
-  "nvidia alternatives solid-state": true
+  "nvidia alternatives solid-state": true,
+  "amd affordable solid-state": true,
+  "amd alternatives solid-state": true
 }
