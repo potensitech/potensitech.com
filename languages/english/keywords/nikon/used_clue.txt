@@ -91,3 +91,5 @@ gaming optimization
 core speed
 power efficiency
 smartphone features
+solid-state
+usb storage
