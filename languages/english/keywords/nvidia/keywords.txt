@@ -896,4 +896,6 @@ nvidia affordable core speed
 nvidia affordable overclocking capability
 nvidia affordable power efficiency
 nvidia affordable smartphone features
+nvidia affordable solid-state
+nvidia alternatives solid-state
 

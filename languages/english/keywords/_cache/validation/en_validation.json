@@ -10965,5 +10965,7 @@
   "sandisk affordable solid-state": true,
   "sandisk alternatives solid-state": true,
   "intel affordable solid-state": true,
-  "intel alternatives solid-state": true
+  "intel alternatives solid-state": true,
+  "nvidia affordable solid-state": true,
+  "nvidia alternatives solid-state": true
 }
