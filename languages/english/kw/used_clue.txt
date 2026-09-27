@@ -312,3 +312,6 @@ power efficiency
 
 --- Moved on 2026-09-26 15:39:37 ---
 smartphone features
+
+--- Moved on 2026-09-27 22:06:36 ---
+solid-state
