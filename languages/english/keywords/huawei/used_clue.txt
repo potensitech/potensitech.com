@@ -91,3 +91,5 @@ overclocking capability
 core speed
 power efficiency
 smartphone features
+solid-state
+usb storage

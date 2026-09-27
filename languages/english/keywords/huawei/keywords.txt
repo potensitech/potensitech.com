@@ -688,4 +688,6 @@ huawei affordable gaming optimization
 huawei affordable overclocking capability
 huawei affordable core speed
 huawei affordable power efficiency
+huawei affordable solid-state
+huawei alternatives solid-state
 
