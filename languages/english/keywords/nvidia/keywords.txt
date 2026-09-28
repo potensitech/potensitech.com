@@ -898,4 +898,6 @@ nvidia affordable power efficiency
 nvidia affordable smartphone features
 nvidia affordable solid-state
 nvidia alternatives solid-state
+nvidia affordable smartphone battery
+nvidia alternatives smartphone display
 
