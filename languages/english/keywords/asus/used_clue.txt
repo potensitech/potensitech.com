@@ -97,3 +97,4 @@ core speed
 power efficiency
 solid-state
 usb storage
+smartphone display
