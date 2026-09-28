@@ -7539,3 +7539,5 @@ usb storage
 smartphone battery
 usb storage
 smartphone battery
+smartphone battery
+smartphone display

@@ -597,4 +597,6 @@ apple affordable power efficiency
 apple affordable smartphone features
 apple affordable solid-state
 apple alternatives solid-state
+apple affordable smartphone battery
+apple alternatives smartphone display
 
