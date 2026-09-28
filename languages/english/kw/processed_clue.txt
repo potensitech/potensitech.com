@@ -7545,3 +7545,5 @@ smartphone battery
 smartphone display
 smartphone battery
 smartphone display
+smartphone battery
+smartphone display
