@@ -99,3 +99,4 @@ power efficiency
 smartphone features
 solid-state
 usb storage
+smartphone battery

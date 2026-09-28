@@ -315,3 +315,6 @@ smartphone features
 
 --- Moved on 2026-09-27 22:06:36 ---
 solid-state
+
+--- Moved on 2026-09-28 05:08:24 ---
+usb storage
