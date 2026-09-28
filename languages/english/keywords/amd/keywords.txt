@@ -811,4 +811,6 @@ amd affordable power efficiency
 amd affordable smartphone features
 amd affordable solid-state
 amd alternatives solid-state
+amd affordable smartphone battery
+amd alternatives smartphone display
 
