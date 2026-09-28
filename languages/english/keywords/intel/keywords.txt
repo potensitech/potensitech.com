@@ -1047,4 +1047,6 @@ intel affordable power efficiency
 intel affordable smartphone features
 intel affordable solid-state
 intel alternatives solid-state
+intel affordable smartphone battery
+intel alternatives smartphone display
 

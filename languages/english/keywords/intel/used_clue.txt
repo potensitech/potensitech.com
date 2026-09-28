@@ -94,3 +94,5 @@ gaming optimization
 overclocking capability
 smartphone features
 usb storage
+smartphone battery
+smartphone display
