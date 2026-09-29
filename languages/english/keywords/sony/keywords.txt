@@ -696,4 +696,6 @@ sony affordable solid-state
 sony alternatives solid-state
 sony affordable smartphone battery
 sony alternatives smartphone display
+sony affordable gaming performance
+sony affordable smartphone storage
 

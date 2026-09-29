@@ -97,3 +97,5 @@ power efficiency
 solid-state
 usb storage
 smartphone display
+smartphone storage
+gaming performance
