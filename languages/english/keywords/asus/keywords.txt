@@ -873,4 +873,6 @@ asus affordable solid-state
 asus alternatives solid-state
 asus affordable smartphone battery
 asus alternatives smartphone display
+asus affordable gaming performance
+asus affordable smartphone storage
 
