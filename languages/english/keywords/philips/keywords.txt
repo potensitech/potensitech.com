@@ -748,4 +748,6 @@ philips affordable solid-state
 philips alternatives solid-state
 philips affordable smartphone battery
 philips alternatives smartphone display
+philips affordable gaming performance
+philips affordable smartphone storage
 
