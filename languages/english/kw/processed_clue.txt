@@ -7567,3 +7567,5 @@ smartphone battery
 smartphone display
 smartphone display
 smartphone storage
+smartphone storage
+gaming performance
