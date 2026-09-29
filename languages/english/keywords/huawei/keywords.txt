@@ -690,4 +690,6 @@ huawei affordable core speed
 huawei affordable power efficiency
 huawei affordable solid-state
 huawei alternatives solid-state
+huawei affordable smartphone battery
+huawei alternatives smartphone display
 
