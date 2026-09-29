@@ -667,4 +667,6 @@ samsung affordable solid-state
 samsung alternatives solid-state
 samsung affordable smartphone battery
 samsung affordable usb storage
+samsung affordable smartphone display
+samsung alternatives smartphone storage
 
