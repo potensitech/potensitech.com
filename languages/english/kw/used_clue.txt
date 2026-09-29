@@ -318,3 +318,6 @@ solid-state
 
 --- Moved on 2026-09-28 05:08:24 ---
 usb storage
+
+--- Moved on 2026-09-29 14:05:11 ---
+smartphone battery
