@@ -100,3 +100,4 @@ smartphone features
 solid-state
 usb storage
 smartphone battery
+gaming performance
