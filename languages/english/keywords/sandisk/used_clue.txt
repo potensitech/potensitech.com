@@ -96,3 +96,5 @@ core speed
 power efficiency
 smartphone battery
 smartphone display
+smartphone storage
+gaming performance
