@@ -813,4 +813,6 @@ amd affordable solid-state
 amd alternatives solid-state
 amd affordable smartphone battery
 amd alternatives smartphone display
+amd affordable gaming performance
+amd affordable smartphone storage
 

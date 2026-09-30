@@ -96,3 +96,5 @@ solid-state
 usb storage
 smartphone battery
 smartphone display
+smartphone storage
+gaming performance

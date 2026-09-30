@@ -11021,5 +11021,7 @@
   "intel affordable gaming performance": true,
   "intel affordable smartphone storage": true,
   "nvidia affordable gaming performance": true,
-  "nvidia affordable smartphone storage": true
+  "nvidia affordable smartphone storage": true,
+  "amd affordable gaming performance": true,
+  "amd affordable smartphone storage": true
 }
