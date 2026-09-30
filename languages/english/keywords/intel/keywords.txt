@@ -1049,4 +1049,6 @@ intel affordable solid-state
 intel alternatives solid-state
 intel affordable smartphone battery
 intel alternatives smartphone display
+intel affordable gaming performance
+intel affordable smartphone storage
 
