@@ -900,4 +900,6 @@ nvidia affordable solid-state
 nvidia alternatives solid-state
 nvidia affordable smartphone battery
 nvidia alternatives smartphone display
+nvidia affordable gaming performance
+nvidia affordable smartphone storage
 
