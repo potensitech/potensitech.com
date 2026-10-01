@@ -11048,5 +11048,7 @@
   "intel affordable mobile performance": true,
   "intel affordable sleek design": true,
   "nvidia affordable mobile performance": true,
-  "nvidia affordable sleek design": true
+  "nvidia affordable sleek design": true,
+  "amd affordable mobile performance": true,
+  "amd affordable sleek design": true
 }
