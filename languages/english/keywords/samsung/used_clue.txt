@@ -101,3 +101,5 @@ solid-state
 usb storage
 smartphone battery
 gaming performance
+mobile performance
+sleek design
