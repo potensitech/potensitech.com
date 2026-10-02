@@ -1053,4 +1053,6 @@ intel affordable gaming performance
 intel affordable smartphone storage
 intel affordable mobile performance
 intel affordable sleek design
+intel affordable core count
+intel affordable thermal performance
 
