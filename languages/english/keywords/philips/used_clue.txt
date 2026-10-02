@@ -102,3 +102,5 @@ smartphone display
 smartphone storage
 gaming performance
 sleek design
+core count
+thermal performance

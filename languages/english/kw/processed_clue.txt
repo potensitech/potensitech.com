@@ -7629,3 +7629,5 @@ sleek design
 core count
 core count
 thermal performance
+core count
+thermal performance
