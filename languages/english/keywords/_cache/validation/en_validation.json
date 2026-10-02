@@ -11069,5 +11069,7 @@
   "asus affordable core count": true,
   "asus affordable thermal performance": true,
   "philips affordable core count": true,
-  "philips affordable thermal performance": true
+  "philips affordable thermal performance": true,
+  "sandisk affordable core count": true,
+  "sandisk affordable thermal performance": true
 }
