@@ -11079,5 +11079,7 @@
   "amd affordable core count": true,
   "amd affordable thermal performance": true,
   "canon affordable core count": true,
-  "canon affordable thermal performance": true
+  "canon affordable thermal performance": true,
+  "nikon affordable core count": true,
+  "nikon affordable thermal performance": true
 }
