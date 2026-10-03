@@ -11077,5 +11077,7 @@
   "nvidia affordable core count": true,
   "nvidia affordable thermal performance": true,
   "amd affordable core count": true,
-  "amd affordable thermal performance": true
+  "amd affordable thermal performance": true,
+  "canon affordable core count": true,
+  "canon affordable thermal performance": true
 }
