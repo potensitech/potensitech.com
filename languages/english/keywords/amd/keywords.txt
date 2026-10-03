@@ -817,4 +817,6 @@ amd affordable gaming performance
 amd affordable smartphone storage
 amd affordable mobile performance
 amd affordable sleek design
+amd affordable core count
+amd affordable thermal performance
 

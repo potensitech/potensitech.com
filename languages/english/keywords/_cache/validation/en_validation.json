@@ -11075,5 +11075,7 @@
   "intel affordable core count": true,
   "intel affordable thermal performance": true,
   "nvidia affordable core count": true,
-  "nvidia affordable thermal performance": true
+  "nvidia affordable thermal performance": true,
+  "amd affordable core count": true,
+  "amd affordable thermal performance": true
 }
