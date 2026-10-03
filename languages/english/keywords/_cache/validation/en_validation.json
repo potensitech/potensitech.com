@@ -11085,5 +11085,7 @@
   "huawei affordable core count": true,
   "huawei affordable thermal performance": true,
   "xiaomi affordable core count": true,
-  "xiaomi affordable thermal performance": true
+  "xiaomi affordable thermal performance": true,
+  "iphone affordable core count": true,
+  "iphone affordable thermal performance": true
 }
