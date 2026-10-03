@@ -103,3 +103,5 @@ smartphone battery
 gaming performance
 mobile performance
 sleek design
+core count
+thermal performance
