@@ -904,4 +904,6 @@ nvidia affordable gaming performance
 nvidia affordable smartphone storage
 nvidia affordable mobile performance
 nvidia affordable sleek design
+nvidia affordable core count
+nvidia affordable thermal performance
 

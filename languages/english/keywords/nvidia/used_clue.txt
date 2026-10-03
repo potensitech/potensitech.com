@@ -100,3 +100,4 @@ smartphone display
 smartphone storage
 mobile performance
 sleek design
+core count
