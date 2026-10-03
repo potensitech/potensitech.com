@@ -11089,5 +11089,7 @@
   "iphone affordable core count": true,
   "iphone affordable thermal performance": true,
   "samsung affordable core count": true,
-  "samsung affordable thermal performance": true
+  "samsung affordable thermal performance": true,
+  "apple affordable core count": true,
+  "apple affordable thermal performance": true
 }
