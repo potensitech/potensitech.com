@@ -1,4 +1,3 @@
-core count
 thermal performance
 dslr features
 ai acceleration
