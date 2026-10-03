@@ -11081,5 +11081,7 @@
   "canon affordable core count": true,
   "canon affordable thermal performance": true,
   "nikon affordable core count": true,
-  "nikon affordable thermal performance": true
+  "nikon affordable thermal performance": true,
+  "huawei affordable core count": true,
+  "huawei affordable thermal performance": true
 }
