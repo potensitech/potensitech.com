@@ -7657,3 +7657,5 @@ core count
 thermal performance
 thermal performance
 dslr features
+dslr features
+ai acceleration
