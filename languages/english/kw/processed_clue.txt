@@ -7655,3 +7655,5 @@ core count
 thermal performance
 core count
 thermal performance
+thermal performance
+dslr features

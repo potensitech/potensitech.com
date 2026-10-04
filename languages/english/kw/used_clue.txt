@@ -339,3 +339,6 @@ sleek design
 
 --- Moved on 2026-10-03 22:07:45 ---
 core count
+
+--- Moved on 2026-10-04 00:01:16 ---
+thermal performance

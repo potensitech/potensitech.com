@@ -102,3 +102,4 @@ smartphone storage
 gaming performance
 core count
 thermal performance
+dslr features
