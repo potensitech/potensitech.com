@@ -101,3 +101,5 @@ smartphone storage
 mobile performance
 sleek design
 core count
+dslr features
+ai acceleration
