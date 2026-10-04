@@ -100,3 +100,5 @@ smartphone storage
 gaming performance
 sleek design
 thermal performance
+dslr features
+ai acceleration
