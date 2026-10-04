@@ -11101,5 +11101,7 @@
   "intel affordable ai acceleration": true,
   "intel affordable dslr features": true,
   "nvidia affordable ai acceleration": true,
-  "nvidia affordable dslr features": true
+  "nvidia affordable dslr features": true,
+  "amd affordable ai acceleration": true,
+  "amd affordable dslr features": true
 }
