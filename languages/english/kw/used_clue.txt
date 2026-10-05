@@ -342,3 +342,6 @@ core count
 
 --- Moved on 2026-10-04 00:01:16 ---
 thermal performance
+
+--- Moved on 2026-10-05 16:00:41 ---
+dslr features
