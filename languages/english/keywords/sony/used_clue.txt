@@ -103,3 +103,5 @@ mobile performance
 sleek design
 core count
 thermal performance
+dslr features
+ai acceleration
