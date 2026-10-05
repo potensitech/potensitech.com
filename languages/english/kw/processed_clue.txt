@@ -7687,3 +7687,5 @@ dslr features
 ai acceleration
 ai acceleration
 digital photography
+digital photography
+oled display
