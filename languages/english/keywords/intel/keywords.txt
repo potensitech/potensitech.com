@@ -1057,4 +1057,6 @@ intel affordable core count
 intel affordable thermal performance
 intel affordable ai acceleration
 intel affordable dslr features
+intel affordable digital photography
+intel affordable oled display
 
