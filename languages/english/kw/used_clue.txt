@@ -345,3 +345,6 @@ thermal performance
 
 --- Moved on 2026-10-05 16:00:41 ---
 dslr features
+
+--- Moved on 2026-10-05 18:47:24 ---
+ai acceleration

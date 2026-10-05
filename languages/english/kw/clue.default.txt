@@ -1,4 +1,3 @@
-dslr features
 ai acceleration
 digital photography
 oled display
