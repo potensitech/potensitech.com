@@ -105,3 +105,5 @@ sleek design
 core count
 thermal performance
 ai acceleration
+oled display
+fast charging
