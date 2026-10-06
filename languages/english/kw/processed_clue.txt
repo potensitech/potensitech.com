@@ -7703,3 +7703,5 @@ digital photography
 oled display
 oled display
 fast charging
+oled display
+fast charging
