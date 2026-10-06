@@ -821,4 +821,6 @@ amd affordable core count
 amd affordable thermal performance
 amd affordable ai acceleration
 amd affordable dslr features
+amd affordable digital photography
+amd affordable oled display
 

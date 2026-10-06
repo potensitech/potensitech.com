@@ -11127,5 +11127,7 @@
   "intel affordable digital photography": true,
   "intel affordable oled display": true,
   "nvidia affordable digital photography": true,
-  "nvidia affordable oled display": true
+  "nvidia affordable oled display": true,
+  "amd affordable digital photography": true,
+  "amd affordable oled display": true
 }
