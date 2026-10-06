@@ -608,4 +608,6 @@ apple affordable core count
 apple affordable thermal performance
 apple affordable ai acceleration
 apple affordable dslr features
+apple affordable fast charging
+apple affordable oled display
 

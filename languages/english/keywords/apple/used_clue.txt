@@ -103,3 +103,5 @@ core count
 thermal performance
 dslr features
 ai acceleration
+oled display
+fast charging
