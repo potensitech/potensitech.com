@@ -348,3 +348,6 @@ dslr features
 
 --- Moved on 2026-10-05 18:47:24 ---
 ai acceleration
+
+--- Moved on 2026-10-06 09:09:01 ---
+digital photography
