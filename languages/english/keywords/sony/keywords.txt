@@ -704,4 +704,6 @@ sony affordable core count
 sony affordable thermal performance
 sony affordable ai acceleration
 sony affordable dslr features
+sony affordable fast charging
+sony affordable oled display
 
