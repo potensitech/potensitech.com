@@ -881,4 +881,6 @@ asus affordable core count
 asus affordable thermal performance
 asus affordable dslr features
 asus affordable ai acceleration
+asus affordable fast charging
+asus affordable oled display
 

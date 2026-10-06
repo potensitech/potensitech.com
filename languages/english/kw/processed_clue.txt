@@ -7711,3 +7711,5 @@ oled display
 fast charging
 oled display
 fast charging
+oled display
+fast charging
