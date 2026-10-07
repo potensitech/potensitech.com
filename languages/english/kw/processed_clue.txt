@@ -7729,3 +7729,5 @@ fast charging
 autofocus precision
 fast charging
 autofocus precision
+fast charging
+autofocus precision
