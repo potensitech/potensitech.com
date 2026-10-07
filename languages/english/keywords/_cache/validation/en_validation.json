@@ -11155,5 +11155,7 @@
   "intel affordable autofocus precision": true,
   "intel affordable fast charging": true,
   "nvidia affordable autofocus precision": true,
-  "nvidia affordable fast charging": true
+  "nvidia affordable fast charging": true,
+  "amd affordable autofocus precision": true,
+  "amd affordable fast charging": true
 }
