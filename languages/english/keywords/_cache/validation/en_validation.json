@@ -11153,5 +11153,7 @@
   "sandisk affordable autofocus precision": true,
   "sandisk affordable fast charging": true,
   "intel affordable autofocus precision": true,
-  "intel affordable fast charging": true
+  "intel affordable fast charging": true,
+  "nvidia affordable autofocus precision": true,
+  "nvidia affordable fast charging": true
 }

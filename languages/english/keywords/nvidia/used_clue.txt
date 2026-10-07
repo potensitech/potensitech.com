@@ -104,3 +104,5 @@ core count
 dslr features
 ai acceleration
 digital photography
+fast charging
+autofocus precision
