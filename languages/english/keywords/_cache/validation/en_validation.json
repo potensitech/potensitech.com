@@ -11151,5 +11151,7 @@
   "philips affordable fast charging": true,
   "philips affordable oled display": true,
   "sandisk affordable autofocus precision": true,
-  "sandisk affordable fast charging": true
+  "sandisk affordable fast charging": true,
+  "intel affordable autofocus precision": true,
+  "intel affordable fast charging": true
 }

@@ -7717,3 +7717,5 @@ oled display
 fast charging
 fast charging
 autofocus precision
+fast charging
+autofocus precision
