@@ -11157,5 +11157,7 @@
   "nvidia affordable autofocus precision": true,
   "nvidia affordable fast charging": true,
   "amd affordable autofocus precision": true,
-  "amd affordable fast charging": true
+  "amd affordable fast charging": true,
+  "canon affordable autofocus precision": true,
+  "canon affordable fast charging": true
 }
