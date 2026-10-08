@@ -106,3 +106,4 @@ ai acceleration
 digital photography
 oled display
 autofocus precision
+core performance
