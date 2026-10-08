@@ -11181,5 +11181,7 @@
   "intel affordable camera": true,
   "intel alternatives camera": true,
   "nvidia affordable camera": true,
-  "nvidia alternatives camera": true
+  "nvidia alternatives camera": true,
+  "amd affordable camera": true,
+  "amd alternatives camera": true
 }

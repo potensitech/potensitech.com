@@ -825,4 +825,6 @@ amd affordable digital photography
 amd affordable oled display
 amd affordable autofocus precision
 amd affordable fast charging
+amd affordable camera
+amd alternatives camera
 
