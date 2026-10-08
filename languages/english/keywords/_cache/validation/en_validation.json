@@ -11177,5 +11177,7 @@
   "asus affordable core performance": true,
   "philips affordable autofocus precision": true,
   "philips affordable core performance": true,
-  "sandisk affordable core performance": true
+  "sandisk affordable core performance": true,
+  "intel affordable camera": true,
+  "intel alternatives camera": true
 }

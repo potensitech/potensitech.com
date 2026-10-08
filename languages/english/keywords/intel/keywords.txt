@@ -1061,4 +1061,6 @@ intel affordable digital photography
 intel affordable oled display
 intel affordable autofocus precision
 intel affordable fast charging
+intel affordable camera
+intel alternatives camera
 

@@ -7745,3 +7745,5 @@ autofocus precision
 core performance
 autofocus precision
 core performance
+core performance
+camera
