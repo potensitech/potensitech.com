@@ -11179,5 +11179,7 @@
   "philips affordable core performance": true,
   "sandisk affordable core performance": true,
   "intel affordable camera": true,
-  "intel alternatives camera": true
+  "intel alternatives camera": true,
+  "nvidia affordable camera": true,
+  "nvidia alternatives camera": true
 }

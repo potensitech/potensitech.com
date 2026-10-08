@@ -106,3 +106,4 @@ ai acceleration
 digital photography
 fast charging
 autofocus precision
+camera

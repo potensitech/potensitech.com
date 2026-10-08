@@ -912,4 +912,6 @@ nvidia affordable digital photography
 nvidia affordable oled display
 nvidia affordable autofocus precision
 nvidia affordable fast charging
+nvidia affordable camera
+nvidia alternatives camera
 
