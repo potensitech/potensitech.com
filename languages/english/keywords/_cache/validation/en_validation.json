@@ -11168,5 +11168,7 @@
   "iphone affordable autofocus precision": true,
   "iphone affordable core performance": true,
   "samsung affordable autofocus precision": true,
-  "samsung affordable core performance": true
+  "samsung affordable core performance": true,
+  "apple affordable autofocus precision": true,
+  "apple affordable core performance": true
 }
