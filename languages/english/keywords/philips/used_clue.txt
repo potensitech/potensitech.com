@@ -106,3 +106,5 @@ core count
 thermal performance
 dslr features
 ai acceleration
+autofocus precision
+core performance

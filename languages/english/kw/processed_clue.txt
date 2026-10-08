@@ -7741,3 +7741,5 @@ autofocus precision
 core performance
 autofocus precision
 core performance
+autofocus precision
+core performance
