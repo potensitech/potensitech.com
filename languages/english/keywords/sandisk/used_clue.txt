@@ -107,3 +107,5 @@ digital photography
 oled display
 autofocus precision
 core performance
+android
+battery
