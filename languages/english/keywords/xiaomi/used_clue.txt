@@ -108,3 +108,5 @@ ai acceleration
 oled display
 fast charging
 autofocus precision
+core performance
+camera

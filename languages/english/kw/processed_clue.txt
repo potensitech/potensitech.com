@@ -7757,3 +7757,5 @@ core performance
 camera
 core performance
 camera
+core performance
+camera
