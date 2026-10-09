@@ -761,4 +761,6 @@ philips affordable fast charging
 philips affordable oled display
 philips affordable autofocus precision
 philips affordable core performance
+philips affordable android
+philips affordable battery
 
