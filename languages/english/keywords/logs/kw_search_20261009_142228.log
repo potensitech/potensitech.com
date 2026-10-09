@@ -1,0 +1,37 @@
+2026-10-09 14:22:28,994 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261009_142228.log
+2026-10-09 14:22:28,994 - INFO - ============================================================
+2026-10-09 14:22:28,994 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-09 14:22:28,994 - INFO - ============================================================
+2026-10-09 14:22:29,435 - INFO - ========================================
+2026-10-09 14:22:29,435 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-09 14:22:29,435 - INFO - ========================================
+2026-10-09 14:22:29,435 - INFO - Continuing from last processed niche: iphone
+2026-10-09 14:22:29,435 - INFO - ========================================
+2026-10-09 14:22:29,435 - INFO - 🎯 PROCESSING NICHE 3/14: 'samsung'
+2026-10-09 14:22:29,435 - INFO - ========================================
+2026-10-09 14:22:29,435 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/samsung
+2026-10-09 14:22:29,436 - INFO - Selected region: us
+2026-10-09 14:22:29,436 - INFO - Selected language: en
+2026-10-09 14:22:29,436 - INFO - 🎯 Current niche: samsung
+2026-10-09 14:22:40,365 - INFO - 🎯 Niche terms for filtering: samsung, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, samsung product, sell samsung, buy samsung, cheap samsung, best samsung, samsung review, where to buy samsung, how to choose samsung, top samsung, samsung guide, samsung for sale, samsung deals
+2026-10-09 14:22:40,365 - INFO - Generated 50 niche-clue pairs for 'samsung'.
+2026-10-09 14:22:40,368 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-09 14:22:40,369 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-09 14:27:08,681 - INFO - Original clue keywords: camera, android
+2026-10-09 14:27:08,681 - INFO - Niche-focused seeds: camera samsung, samsung camera, camera cheap, cheap camera, camera best, best camera, camera latest, latest camera, camera review, review camera, camera price, price camera, camera sell, sell camera, camera buy, buy camera, camera recommendation, recommendation camera, camera tips, tips camera, camera tutorial, tutorial camera, camera guide, guide camera, camera how to, how to camera, camera vs, vs camera, camera versus, versus camera, camera compared to, compared to camera, camera comparison, comparison camera, camera alternatives, alternatives camera, camera which is better, which is better camera, camera expensive, expensive camera, camera discount, discount camera, camera deals, deals camera, camera sale, sale camera, camera affordable, affordable camera, camera cost, cost camera, camera online, online camera, camera offline, offline camera, camera marketplace, marketplace camera, camera store, store camera, camera shop, shop camera, camera retailer, retailer camera, camera where to buy, where to buy camera, camera worst, worst camera, camera quality, quality camera, camera original, original camera, camera genuine, genuine camera, camera fake, fake camera, camera replica, replica camera, camera authentic, authentic camera, camera brand, brand camera, camera manufacturer, manufacturer camera, camera company, company camera, camera product, product camera, camera samsung product, samsung product camera, camera sell samsung, sell samsung camera, camera buy samsung, buy samsung camera, camera cheap samsung, cheap samsung camera, camera best samsung, best samsung camera, camera samsung review, samsung review camera, camera where to buy samsung, where to buy samsung camera, camera how to choose samsung, how to choose samsung camera, camera top samsung, top samsung camera, camera samsung guide, samsung guide camera, camera samsung for sale, samsung for sale camera, camera samsung deals, samsung deals camera, android samsung, samsung android, android cheap, cheap android, android best, best android, android latest, latest android, android review, review android, android price, price android, android sell, sell android, android buy, buy android, android recommendation, recommendation android, android tips, tips android, android tutorial, tutorial android, android guide, guide android, android how to, how to android, android vs, vs android, android versus, versus android, android compared to, compared to android, android comparison, comparison android, android alternatives, alternatives android, android which is better, which is better android, android expensive, expensive android, android discount, discount android, android deals, deals android, android sale, sale android, android affordable, affordable android, android cost, cost android, android online, online android, android offline, offline android, android marketplace, marketplace android, android store, store android, android shop, shop android, android retailer, retailer android, android where to buy, where to buy android, android worst, worst android, android quality, quality android, android original, original android, android genuine, genuine android, android fake, fake android, android replica, replica android, android authentic, authentic android, android brand, brand android, android manufacturer, manufacturer android, android company, company android, android product, product android, android samsung product, samsung product android, android sell samsung, sell samsung android, android buy samsung, buy samsung android, android cheap samsung, cheap samsung android, android best samsung, best samsung android, android samsung review, samsung review android, android where to buy samsung, where to buy samsung android, android how to choose samsung, how to choose samsung android, android top samsung, top samsung android, android samsung guide, samsung guide android, android samsung for sale, samsung for sale android, android samsung deals, samsung deals android
+2026-10-09 14:27:08,684 - INFO - Expanded 220 seed keywords to 385 variations
+2026-10-09 14:27:08,684 - INFO - Language: en
+2026-10-09 14:27:08,684 - INFO - Region: us
+2026-10-09 14:31:39,829 - INFO - 🎯 After all filtering for 'samsung': 120 relevant keywords
+2026-10-09 14:31:40,038 - INFO - 🎯 Found 5 new keywords for niche 'samsung': samsung affordable android, cheap affordable android, best affordable android, how to affordable android, samsung affordable camera
+2026-10-09 14:31:56,264 - INFO - ✅ Niche 'samsung' process complete! 685 total keyword results.
+2026-10-09 14:31:56,264 - INFO - ✅ Completed processing niche: 'samsung'
+2026-10-09 14:31:56,264 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-09 14:31:56,264 - INFO -    Total requests: 218374, Blocks: 1
+2026-10-09 14:31:56,265 - INFO - 
+========================================
+2026-10-09 14:31:56,265 - INFO - Process Summary:
+2026-10-09 14:31:56,265 - INFO - - Current niche: 'samsung'
+2026-10-09 14:31:56,266 - INFO - - Next niche will be: 'apple'
+2026-10-09 14:31:56,266 - INFO - - Keywords saved in: languages/english/keywords/samsung/
+2026-10-09 14:31:56,266 - INFO - ========================================
