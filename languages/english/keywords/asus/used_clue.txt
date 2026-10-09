@@ -108,3 +108,4 @@ oled display
 fast charging
 autofocus precision
 core performance
+android

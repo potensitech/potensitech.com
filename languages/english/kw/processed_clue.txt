@@ -7767,3 +7767,5 @@ camera
 android
 camera
 android
+android
+battery
