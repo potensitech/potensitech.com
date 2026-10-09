@@ -360,3 +360,6 @@ fast charging
 
 --- Moved on 2026-10-08 16:50:46 ---
 autofocus precision
+
+--- Moved on 2026-10-09 11:32:31 ---
+core performance
