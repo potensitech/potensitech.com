@@ -363,3 +363,6 @@ autofocus precision
 
 --- Moved on 2026-10-09 11:32:31 ---
 core performance
+
+--- Moved on 2026-10-09 17:55:02 ---
+camera
