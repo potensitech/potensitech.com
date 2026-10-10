@@ -914,4 +914,6 @@ nvidia affordable autofocus precision
 nvidia affordable fast charging
 nvidia affordable camera
 nvidia alternatives camera
+nvidia affordable android
+nvidia affordable battery
 

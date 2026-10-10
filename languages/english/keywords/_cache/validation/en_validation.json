@@ -11207,5 +11207,7 @@
   "sandisk affordable android": true,
   "sandisk affordable battery": true,
   "intel affordable android": true,
-  "intel affordable battery": true
+  "intel affordable battery": true,
+  "nvidia affordable android": true,
+  "nvidia affordable battery": true
 }

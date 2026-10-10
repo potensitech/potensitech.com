@@ -107,3 +107,5 @@ digital photography
 fast charging
 autofocus precision
 camera
+android
+battery
