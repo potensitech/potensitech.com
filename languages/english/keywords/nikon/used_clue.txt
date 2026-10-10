@@ -107,3 +107,5 @@ oled display
 fast charging
 core performance
 camera
+android
+battery
