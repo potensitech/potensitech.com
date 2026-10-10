@@ -110,3 +110,4 @@ fast charging
 autofocus precision
 core performance
 camera
+battery
