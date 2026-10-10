@@ -1,0 +1,37 @@
+2026-10-10 08:42:21,344 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261010_084221.log
+2026-10-10 08:42:21,344 - INFO - ============================================================
+2026-10-10 08:42:21,344 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-10 08:42:21,344 - INFO - ============================================================
+2026-10-10 08:42:21,767 - INFO - ========================================
+2026-10-10 08:42:21,767 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-10 08:42:21,767 - INFO - ========================================
+2026-10-10 08:42:21,767 - INFO - Continuing from last processed niche: nvidia
+2026-10-10 08:42:21,767 - INFO - ========================================
+2026-10-10 08:42:21,767 - INFO - 🎯 PROCESSING NICHE 11/14: 'amd'
+2026-10-10 08:42:21,767 - INFO - ========================================
+2026-10-10 08:42:21,768 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/amd
+2026-10-10 08:42:21,768 - INFO - Selected region: us
+2026-10-10 08:42:21,768 - INFO - Selected language: en
+2026-10-10 08:42:21,768 - INFO - 🎯 Current niche: amd
+2026-10-10 08:42:32,567 - INFO - 🎯 Niche terms for filtering: amd, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, amd product, sell amd, buy amd, cheap amd, best amd, amd review, where to buy amd, how to choose amd, top amd, amd guide, amd for sale, amd deals
+2026-10-10 08:42:32,567 - INFO - Generated 50 niche-clue pairs for 'amd'.
+2026-10-10 08:42:32,570 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-10 08:42:32,571 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-10 08:46:59,642 - INFO - Original clue keywords: android, battery
+2026-10-10 08:46:59,642 - INFO - Niche-focused seeds: android amd, amd android, android cheap, cheap android, android best, best android, android latest, latest android, android review, review android, android price, price android, android sell, sell android, android buy, buy android, android recommendation, recommendation android, android tips, tips android, android tutorial, tutorial android, android guide, guide android, android how to, how to android, android vs, vs android, android versus, versus android, android compared to, compared to android, android comparison, comparison android, android alternatives, alternatives android, android which is better, which is better android, android expensive, expensive android, android discount, discount android, android deals, deals android, android sale, sale android, android affordable, affordable android, android cost, cost android, android online, online android, android offline, offline android, android marketplace, marketplace android, android store, store android, android shop, shop android, android retailer, retailer android, android where to buy, where to buy android, android worst, worst android, android quality, quality android, android original, original android, android genuine, genuine android, android fake, fake android, android replica, replica android, android authentic, authentic android, android brand, brand android, android manufacturer, manufacturer android, android company, company android, android product, product android, android amd product, amd product android, android sell amd, sell amd android, android buy amd, buy amd android, android cheap amd, cheap amd android, android best amd, best amd android, android amd review, amd review android, android where to buy amd, where to buy amd android, android how to choose amd, how to choose amd android, android top amd, top amd android, android amd guide, amd guide android, android amd for sale, amd for sale android, android amd deals, amd deals android, battery amd, amd battery, battery cheap, cheap battery, battery best, best battery, battery latest, latest battery, battery review, review battery, battery price, price battery, battery sell, sell battery, battery buy, buy battery, battery recommendation, recommendation battery, battery tips, tips battery, battery tutorial, tutorial battery, battery guide, guide battery, battery how to, how to battery, battery vs, vs battery, battery versus, versus battery, battery compared to, compared to battery, battery comparison, comparison battery, battery alternatives, alternatives battery, battery which is better, which is better battery, battery expensive, expensive battery, battery discount, discount battery, battery deals, deals battery, battery sale, sale battery, battery affordable, affordable battery, battery cost, cost battery, battery online, online battery, battery offline, offline battery, battery marketplace, marketplace battery, battery store, store battery, battery shop, shop battery, battery retailer, retailer battery, battery where to buy, where to buy battery, battery worst, worst battery, battery quality, quality battery, battery original, original battery, battery genuine, genuine battery, battery fake, fake battery, battery replica, replica battery, battery authentic, authentic battery, battery brand, brand battery, battery manufacturer, manufacturer battery, battery company, company battery, battery product, product battery, battery amd product, amd product battery, battery sell amd, sell amd battery, battery buy amd, buy amd battery, battery cheap amd, cheap amd battery, battery best amd, best amd battery, battery amd review, amd review battery, battery where to buy amd, where to buy amd battery, battery how to choose amd, how to choose amd battery, battery top amd, top amd battery, battery amd guide, amd guide battery, battery amd for sale, amd for sale battery, battery amd deals, amd deals battery
+2026-10-10 08:46:59,645 - INFO - Expanded 220 seed keywords to 385 variations
+2026-10-10 08:46:59,645 - INFO - Language: en
+2026-10-10 08:46:59,645 - INFO - Region: us
+2026-10-10 08:51:33,036 - INFO - 🎯 After all filtering for 'amd': 118 relevant keywords
+2026-10-10 08:51:33,287 - INFO - 🎯 Found 5 new keywords for niche 'amd': amd affordable android, cheap affordable android, best affordable android, how to affordable android, amd affordable battery
+2026-10-10 08:51:48,957 - INFO - ✅ Niche 'amd' process complete! 831 total keyword results.
+2026-10-10 08:51:48,957 - INFO - ✅ Completed processing niche: 'amd'
+2026-10-10 08:51:48,958 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-10 08:51:48,958 - INFO -    Total requests: 219150, Blocks: 1
+2026-10-10 08:51:48,958 - INFO - 
+========================================
+2026-10-10 08:51:48,959 - INFO - Process Summary:
+2026-10-10 08:51:48,959 - INFO - - Current niche: 'amd'
+2026-10-10 08:51:48,959 - INFO - - Next niche will be: 'canon'
+2026-10-10 08:51:48,959 - INFO - - Keywords saved in: languages/english/keywords/amd/
+2026-10-10 08:51:48,959 - INFO - ========================================

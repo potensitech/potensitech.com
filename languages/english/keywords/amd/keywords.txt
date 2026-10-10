@@ -827,4 +827,6 @@ amd affordable autofocus precision
 amd affordable fast charging
 amd affordable camera
 amd alternatives camera
+amd affordable android
+amd affordable battery
 

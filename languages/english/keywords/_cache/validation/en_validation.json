@@ -11209,5 +11209,7 @@
   "intel affordable android": true,
   "intel affordable battery": true,
   "nvidia affordable android": true,
-  "nvidia affordable battery": true
+  "nvidia affordable battery": true,
+  "amd affordable android": true,
+  "amd affordable battery": true
 }
