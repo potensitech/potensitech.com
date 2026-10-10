@@ -1,0 +1,37 @@
+2026-10-10 01:12:44,028 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261010_011244.log
+2026-10-10 01:12:44,028 - INFO - ============================================================
+2026-10-10 01:12:44,028 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-10 01:12:44,028 - INFO - ============================================================
+2026-10-10 01:12:44,447 - INFO - ========================================
+2026-10-10 01:12:44,447 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-10 01:12:44,447 - INFO - ========================================
+2026-10-10 01:12:44,447 - INFO - Continuing from last processed niche: sandisk
+2026-10-10 01:12:44,448 - INFO - ========================================
+2026-10-10 01:12:44,448 - INFO - 🎯 PROCESSING NICHE 9/14: 'intel'
+2026-10-10 01:12:44,448 - INFO - ========================================
+2026-10-10 01:12:44,448 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/intel
+2026-10-10 01:12:44,448 - INFO - Selected region: us
+2026-10-10 01:12:44,448 - INFO - Selected language: en
+2026-10-10 01:12:44,448 - INFO - 🎯 Current niche: intel
+2026-10-10 01:12:55,275 - INFO - 🎯 Niche terms for filtering: intel, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, intel product, sell intel, buy intel, cheap intel, best intel, intel review, where to buy intel, how to choose intel, top intel, intel guide, intel for sale, intel deals
+2026-10-10 01:12:55,275 - INFO - Generated 50 niche-clue pairs for 'intel'.
+2026-10-10 01:12:55,278 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-10 01:12:55,279 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-10 01:17:19,057 - INFO - Original clue keywords: android, battery
+2026-10-10 01:17:19,057 - INFO - Niche-focused seeds: android intel, intel android, android cheap, cheap android, android best, best android, android latest, latest android, android review, review android, android price, price android, android sell, sell android, android buy, buy android, android recommendation, recommendation android, android tips, tips android, android tutorial, tutorial android, android guide, guide android, android how to, how to android, android vs, vs android, android versus, versus android, android compared to, compared to android, android comparison, comparison android, android alternatives, alternatives android, android which is better, which is better android, android expensive, expensive android, android discount, discount android, android deals, deals android, android sale, sale android, android affordable, affordable android, android cost, cost android, android online, online android, android offline, offline android, android marketplace, marketplace android, android store, store android, android shop, shop android, android retailer, retailer android, android where to buy, where to buy android, android worst, worst android, android quality, quality android, android original, original android, android genuine, genuine android, android fake, fake android, android replica, replica android, android authentic, authentic android, android brand, brand android, android manufacturer, manufacturer android, android company, company android, android product, product android, android intel product, intel product android, android sell intel, sell intel android, android buy intel, buy intel android, android cheap intel, cheap intel android, android best intel, best intel android, android intel review, intel review android, android where to buy intel, where to buy intel android, android how to choose intel, how to choose intel android, android top intel, top intel android, android intel guide, intel guide android, android intel for sale, intel for sale android, android intel deals, intel deals android, battery intel, intel battery, battery cheap, cheap battery, battery best, best battery, battery latest, latest battery, battery review, review battery, battery price, price battery, battery sell, sell battery, battery buy, buy battery, battery recommendation, recommendation battery, battery tips, tips battery, battery tutorial, tutorial battery, battery guide, guide battery, battery how to, how to battery, battery vs, vs battery, battery versus, versus battery, battery compared to, compared to battery, battery comparison, comparison battery, battery alternatives, alternatives battery, battery which is better, which is better battery, battery expensive, expensive battery, battery discount, discount battery, battery deals, deals battery, battery sale, sale battery, battery affordable, affordable battery, battery cost, cost battery, battery online, online battery, battery offline, offline battery, battery marketplace, marketplace battery, battery store, store battery, battery shop, shop battery, battery retailer, retailer battery, battery where to buy, where to buy battery, battery worst, worst battery, battery quality, quality battery, battery original, original battery, battery genuine, genuine battery, battery fake, fake battery, battery replica, replica battery, battery authentic, authentic battery, battery brand, brand battery, battery manufacturer, manufacturer battery, battery company, company battery, battery product, product battery, battery intel product, intel product battery, battery sell intel, sell intel battery, battery buy intel, buy intel battery, battery cheap intel, cheap intel battery, battery best intel, best intel battery, battery intel review, intel review battery, battery where to buy intel, where to buy intel battery, battery how to choose intel, how to choose intel battery, battery top intel, top intel battery, battery intel guide, intel guide battery, battery intel for sale, intel for sale battery, battery intel deals, intel deals battery
+2026-10-10 01:17:19,060 - INFO - Expanded 220 seed keywords to 385 variations
+2026-10-10 01:17:19,061 - INFO - Language: en
+2026-10-10 01:17:19,061 - INFO - Region: us
+2026-10-10 01:21:53,016 - INFO - 🎯 After all filtering for 'intel': 120 relevant keywords
+2026-10-10 01:21:53,374 - INFO - 🎯 Found 5 new keywords for niche 'intel': intel affordable android, cheap affordable android, best affordable android, intel affordable battery, cheap affordable battery
+2026-10-10 01:22:09,454 - INFO - ✅ Niche 'intel' process complete! 1067 total keyword results.
+2026-10-10 01:22:09,455 - INFO - ✅ Completed processing niche: 'intel'
+2026-10-10 01:22:09,455 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-10 01:22:09,455 - INFO -    Total requests: 218950, Blocks: 1
+2026-10-10 01:22:09,456 - INFO - 
+========================================
+2026-10-10 01:22:09,456 - INFO - Process Summary:
+2026-10-10 01:22:09,456 - INFO - - Current niche: 'intel'
+2026-10-10 01:22:09,456 - INFO - - Next niche will be: 'nvidia'
+2026-10-10 01:22:09,456 - INFO - - Keywords saved in: languages/english/keywords/intel/
+2026-10-10 01:22:09,457 - INFO - ========================================

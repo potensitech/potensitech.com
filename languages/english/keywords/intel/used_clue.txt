@@ -107,3 +107,5 @@ oled display
 autofocus precision
 core performance
 camera
+android
+battery
