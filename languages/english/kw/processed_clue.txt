@@ -7787,3 +7787,5 @@ android
 battery
 android
 battery
+battery
+display

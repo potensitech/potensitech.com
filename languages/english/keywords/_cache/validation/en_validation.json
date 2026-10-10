@@ -11219,5 +11219,7 @@
   "huawei affordable android": true,
   "huawei affordable battery": true,
   "xiaomi affordable android": true,
-  "xiaomi affordable battery": true
+  "xiaomi affordable battery": true,
+  "iphone affordable battery": true,
+  "iphone affordable display": true
 }
