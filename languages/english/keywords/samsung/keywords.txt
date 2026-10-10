@@ -683,4 +683,6 @@ samsung affordable autofocus precision
 samsung affordable core performance
 samsung affordable android
 samsung affordable camera
+samsung affordable battery
+samsung affordable display
 

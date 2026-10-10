@@ -111,3 +111,5 @@ oled display
 fast charging
 core performance
 android
+battery
+display
