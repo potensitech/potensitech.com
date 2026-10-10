@@ -614,4 +614,6 @@ apple affordable autofocus precision
 apple affordable core performance
 apple affordable android
 apple affordable camera
+apple affordable battery
+apple affordable display
 

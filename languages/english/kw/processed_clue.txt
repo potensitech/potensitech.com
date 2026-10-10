@@ -7791,3 +7791,5 @@ battery
 display
 battery
 display
+battery
+display

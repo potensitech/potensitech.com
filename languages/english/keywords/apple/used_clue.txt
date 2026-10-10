@@ -108,3 +108,5 @@ fast charging
 core performance
 camera
 android
+battery
+display
