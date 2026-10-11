@@ -11235,5 +11235,7 @@
   "sandisk affordable display": true,
   "sandisk alternatives display": true,
   "intel affordable display": true,
-  "intel alternatives display": true
+  "intel alternatives display": true,
+  "nvidia affordable display": true,
+  "nvidia alternatives display": true
 }

@@ -109,3 +109,4 @@ autofocus precision
 camera
 android
 battery
+display

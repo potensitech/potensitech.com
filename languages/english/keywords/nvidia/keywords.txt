@@ -916,4 +916,6 @@ nvidia affordable camera
 nvidia alternatives camera
 nvidia affordable android
 nvidia affordable battery
+nvidia affordable display
+nvidia alternatives display
 
