@@ -1065,4 +1065,6 @@ intel affordable camera
 intel alternatives camera
 intel affordable android
 intel affordable battery
+intel affordable display
+intel alternatives display
 

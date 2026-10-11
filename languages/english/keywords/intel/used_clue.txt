@@ -109,3 +109,4 @@ core performance
 camera
 android
 battery
+display
