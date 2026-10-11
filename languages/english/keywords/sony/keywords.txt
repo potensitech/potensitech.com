@@ -710,4 +710,6 @@ sony affordable autofocus precision
 sony affordable core performance
 sony affordable android
 sony affordable camera
+sony affordable battery
+sony affordable display
 

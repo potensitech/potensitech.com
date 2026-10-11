@@ -369,3 +369,6 @@ camera
 
 --- Moved on 2026-10-10 16:52:56 ---
 android
+
+--- Moved on 2026-10-11 00:26:28 ---
+battery
