@@ -7797,3 +7797,4 @@ battery
 display
 display
 display
+display
