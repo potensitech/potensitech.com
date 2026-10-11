@@ -11237,5 +11237,7 @@
   "intel affordable display": true,
   "intel alternatives display": true,
   "nvidia affordable display": true,
-  "nvidia alternatives display": true
+  "nvidia alternatives display": true,
+  "amd affordable display": true,
+  "amd alternatives display": true
 }

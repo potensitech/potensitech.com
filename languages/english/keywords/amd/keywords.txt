@@ -829,4 +829,6 @@ amd affordable camera
 amd alternatives camera
 amd affordable android
 amd affordable battery
+amd affordable display
+amd alternatives display
 
