@@ -1,0 +1,37 @@
+2026-10-11 05:31:45,950 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261011_053145.log
+2026-10-11 05:31:45,951 - INFO - ============================================================
+2026-10-11 05:31:45,951 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-11 05:31:45,951 - INFO - ============================================================
+2026-10-11 05:31:46,376 - INFO - ========================================
+2026-10-11 05:31:46,376 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-11 05:31:46,376 - INFO - ========================================
+2026-10-11 05:31:46,376 - INFO - Continuing from last processed niche: sony
+2026-10-11 05:31:46,376 - INFO - ========================================
+2026-10-11 05:31:46,376 - INFO - 🎯 PROCESSING NICHE 6/14: 'asus'
+2026-10-11 05:31:46,376 - INFO - ========================================
+2026-10-11 05:31:46,376 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/asus
+2026-10-11 05:31:46,376 - INFO - Selected region: us
+2026-10-11 05:31:46,376 - INFO - Selected language: en
+2026-10-11 05:31:46,376 - INFO - 🎯 Current niche: asus
+2026-10-11 05:32:01,842 - INFO - 🎯 Niche terms for filtering: asus, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, asus product, sell asus, buy asus, cheap asus, best asus, asus review, where to buy asus, how to choose asus, top asus, asus guide, asus for sale, asus deals
+2026-10-11 05:32:01,842 - INFO - Generated 50 niche-clue pairs for 'asus'.
+2026-10-11 05:32:01,845 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-11 05:32:01,846 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-11 05:36:24,690 - INFO - Original clue keywords: display
+2026-10-11 05:36:24,690 - INFO - Niche-focused seeds: display asus, asus display, display cheap, cheap display, display best, best display, display latest, latest display, display review, review display, display price, price display, display sell, sell display, display buy, buy display, display recommendation, recommendation display, display tips, tips display, display tutorial, tutorial display, display guide, guide display, display how to, how to display, display vs, vs display, display versus, versus display, display compared to, compared to display, display comparison, comparison display, display alternatives, alternatives display, display which is better, which is better display, display expensive, expensive display, display discount, discount display, display deals, deals display, display sale, sale display, display affordable, affordable display, display cost, cost display, display online, online display, display offline, offline display, display marketplace, marketplace display, display store, store display, display shop, shop display, display retailer, retailer display, display where to buy, where to buy display, display worst, worst display, display quality, quality display, display original, original display, display genuine, genuine display, display fake, fake display, display replica, replica display, display authentic, authentic display, display brand, brand display, display manufacturer, manufacturer display, display company, company display, display product, product display, display asus product, asus product display, display sell asus, sell asus display, display buy asus, buy asus display, display cheap asus, cheap asus display, display best asus, best asus display, display asus review, asus review display, display where to buy asus, where to buy asus display, display how to choose asus, how to choose asus display, display top asus, top asus display, display asus guide, asus guide display, display asus for sale, asus for sale display, display asus deals, asus deals display
+2026-10-11 05:36:24,694 - INFO - Expanded 110 seed keywords to 275 variations
+2026-10-11 05:36:24,694 - INFO - Language: en
+2026-10-11 05:36:24,694 - INFO - Region: us
+2026-10-11 05:40:54,346 - INFO - 🎯 After all filtering for 'asus': 120 relevant keywords
+2026-10-11 05:40:54,627 - INFO - 🎯 Found 5 new keywords for niche 'asus': asus affordable display, cheap affordable display, best affordable display, how to affordable display, asus alternatives display
+2026-10-11 05:41:10,645 - INFO - ✅ Niche 'asus' process complete! 891 total keyword results.
+2026-10-11 05:41:10,645 - INFO - ✅ Completed processing niche: 'asus'
+2026-10-11 05:41:10,645 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-11 05:41:10,645 - INFO -    Total requests: 219972, Blocks: 1
+2026-10-11 05:41:10,646 - INFO - 
+========================================
+2026-10-11 05:41:10,646 - INFO - Process Summary:
+2026-10-11 05:41:10,646 - INFO - - Current niche: 'asus'
+2026-10-11 05:41:10,646 - INFO - - Next niche will be: 'philips'
+2026-10-11 05:41:10,646 - INFO - - Keywords saved in: languages/english/keywords/asus/
+2026-10-11 05:41:10,647 - INFO - ========================================
