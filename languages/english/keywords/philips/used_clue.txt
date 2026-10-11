@@ -109,3 +109,4 @@ ai acceleration
 autofocus precision
 core performance
 android
+display

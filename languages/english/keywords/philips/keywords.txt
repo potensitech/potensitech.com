@@ -763,4 +763,6 @@ philips affordable autofocus precision
 philips affordable core performance
 philips affordable android
 philips affordable battery
+philips affordable display
+philips alternatives display
 
