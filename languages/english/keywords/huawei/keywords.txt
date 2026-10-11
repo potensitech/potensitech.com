@@ -708,4 +708,6 @@ huawei affordable camera
 huawei alternatives camera
 huawei affordable android
 huawei affordable battery
+huawei affordable display
+huawei alternatives display
 
