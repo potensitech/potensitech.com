@@ -110,3 +110,4 @@ autofocus precision
 core performance
 android
 display
+philips
