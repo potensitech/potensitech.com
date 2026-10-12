@@ -113,3 +113,5 @@ core performance
 android
 battery
 display
+samsung
+best
