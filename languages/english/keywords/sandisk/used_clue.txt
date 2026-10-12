@@ -110,3 +110,4 @@ core performance
 android
 battery
 display
+sandisk
