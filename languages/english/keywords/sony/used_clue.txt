@@ -110,3 +110,4 @@ fast charging
 core performance
 android
 display
+sony
