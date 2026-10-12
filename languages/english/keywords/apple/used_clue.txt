@@ -110,3 +110,5 @@ camera
 android
 battery
 display
+apple
+top
