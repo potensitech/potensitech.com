@@ -7824,3 +7824,5 @@ xiaomi
 iphone
 samsung
 best
+apple
+best
