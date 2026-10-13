@@ -7819,3 +7819,4 @@ nvidia
 amd
 canon
 nikon
+huawei
