@@ -7822,3 +7822,5 @@ nikon
 huawei
 xiaomi
 iphone
+samsung
+best
