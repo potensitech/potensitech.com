@@ -1,0 +1,37 @@
+2026-10-13 17:05:40,155 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261013_170540.log
+2026-10-13 17:05:40,155 - INFO - ============================================================
+2026-10-13 17:05:40,155 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-13 17:05:40,155 - INFO - ============================================================
+2026-10-13 17:05:40,522 - INFO - ========================================
+2026-10-13 17:05:40,522 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-13 17:05:40,522 - INFO - ========================================
+2026-10-13 17:05:40,522 - INFO - Continuing from last processed niche: xiaomi
+2026-10-13 17:05:40,522 - INFO - ========================================
+2026-10-13 17:05:40,522 - INFO - 🎯 PROCESSING NICHE 2/14: 'iphone'
+2026-10-13 17:05:40,522 - INFO - ========================================
+2026-10-13 17:05:40,522 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/iphone
+2026-10-13 17:05:40,522 - INFO - Selected region: us
+2026-10-13 17:05:40,522 - INFO - Selected language: en
+2026-10-13 17:05:40,522 - INFO - 🎯 Current niche: iphone
+2026-10-13 17:05:51,521 - INFO - 🎯 Niche terms for filtering: iphone, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, iphone product, sell iphone, buy iphone, cheap iphone, best iphone, iphone review, where to buy iphone, how to choose iphone, top iphone, iphone guide, iphone for sale, iphone deals
+2026-10-13 17:05:51,521 - INFO - Generated 50 niche-clue pairs for 'iphone'.
+2026-10-13 17:05:51,523 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-13 17:05:51,524 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-13 17:10:16,640 - INFO - Original clue keywords: iphone
+2026-10-13 17:10:16,640 - INFO - Niche-focused seeds: iphone
+2026-10-13 17:10:16,643 - INFO - Expanded 1 seed keywords to 16 variations
+2026-10-13 17:10:16,643 - INFO - Language: en
+2026-10-13 17:10:16,643 - INFO - Region: us
+2026-10-13 17:14:43,852 - INFO - 🎯 After all filtering for 'iphone': 117 relevant keywords
+2026-10-13 17:14:43,853 - INFO - 🎯 Found 5 new keywords for niche 'iphone': iphone iphone, best iphone iphone, cheap iphone, iphone cheap, best cheap iphone
+2026-10-13 17:14:59,913 - INFO - ✅ Niche 'iphone' process complete! 926 total keyword results.
+2026-10-13 17:14:59,913 - INFO - ✅ Completed processing niche: 'iphone'
+2026-10-13 17:14:59,913 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-13 17:14:59,913 - INFO -    Total requests: 222363, Blocks: 1
+2026-10-13 17:14:59,914 - INFO - 
+========================================
+2026-10-13 17:14:59,914 - INFO - Process Summary:
+2026-10-13 17:14:59,914 - INFO - - Current niche: 'iphone'
+2026-10-13 17:14:59,914 - INFO - - Next niche will be: 'samsung'
+2026-10-13 17:14:59,914 - INFO - - Keywords saved in: languages/english/keywords/iphone/
+2026-10-13 17:14:59,915 - INFO - ========================================
