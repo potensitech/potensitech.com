@@ -112,3 +112,4 @@ core performance
 camera
 battery
 display
+xiaomi
