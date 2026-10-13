@@ -7816,3 +7816,4 @@ philips
 sandisk
 intel
 nvidia
+amd

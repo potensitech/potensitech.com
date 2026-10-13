@@ -11263,5 +11263,7 @@
   "best intel intel": true,
   "best cheap intel": true,
   "best nvidia nvidia": true,
-  "best cheap nvidia": true
+  "best cheap nvidia": true,
+  "best amd amd": true,
+  "best cheap amd": true
 }
