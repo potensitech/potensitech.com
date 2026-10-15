@@ -7866,3 +7866,5 @@ intel
 best
 nvidia
 best
+amd
+best
