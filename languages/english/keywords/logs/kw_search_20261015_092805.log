@@ -1,0 +1,37 @@
+2026-10-15 09:28:05,159 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261015_092805.log
+2026-10-15 09:28:05,159 - INFO - ============================================================
+2026-10-15 09:28:05,159 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-15 09:28:05,159 - INFO - ============================================================
+2026-10-15 09:28:05,479 - INFO - ========================================
+2026-10-15 09:28:05,479 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-15 09:28:05,479 - INFO - ========================================
+2026-10-15 09:28:05,479 - INFO - Continuing from last processed niche: sony
+2026-10-15 09:28:05,479 - INFO - ========================================
+2026-10-15 09:28:05,479 - INFO - 🎯 PROCESSING NICHE 6/14: 'asus'
+2026-10-15 09:28:05,479 - INFO - ========================================
+2026-10-15 09:28:05,479 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/asus
+2026-10-15 09:28:05,479 - INFO - Selected region: us
+2026-10-15 09:28:05,479 - INFO - Selected language: en
+2026-10-15 09:28:05,479 - INFO - 🎯 Current niche: asus
+2026-10-15 09:28:16,554 - INFO - 🎯 Niche terms for filtering: asus, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, asus product, sell asus, buy asus, cheap asus, best asus, asus review, where to buy asus, how to choose asus, top asus, asus guide, asus for sale, asus deals
+2026-10-15 09:28:16,555 - INFO - Generated 50 niche-clue pairs for 'asus'.
+2026-10-15 09:28:16,557 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-15 09:28:16,557 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-15 09:32:43,507 - INFO - Original clue keywords: asus, best
+2026-10-15 09:32:43,507 - INFO - Niche-focused seeds: asus, best
+2026-10-15 09:32:43,509 - INFO - Expanded 2 seed keywords to 32 variations
+2026-10-15 09:32:43,509 - INFO - Language: en
+2026-10-15 09:32:43,509 - INFO - Region: us
+2026-10-15 09:33:14,960 - INFO - 🎯 After all filtering for 'asus': 116 relevant keywords
+2026-10-15 09:33:14,961 - INFO - 🎯 Found 5 new keywords for niche 'asus': asus asus, best asus asus, cheap asus, asus cheap, best cheap asus
+2026-10-15 09:33:26,218 - INFO - ✅ Niche 'asus' process complete! 893 total keyword results.
+2026-10-15 09:33:26,218 - INFO - ✅ Completed processing niche: 'asus'
+2026-10-15 09:33:26,218 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-15 09:33:26,218 - INFO -    Total requests: 223665, Blocks: 1
+2026-10-15 09:33:26,219 - INFO - 
+========================================
+2026-10-15 09:33:26,219 - INFO - Process Summary:
+2026-10-15 09:33:26,219 - INFO - - Current niche: 'asus'
+2026-10-15 09:33:26,219 - INFO - - Next niche will be: 'philips'
+2026-10-15 09:33:26,219 - INFO - - Keywords saved in: languages/english/keywords/asus/
+2026-10-15 09:33:26,220 - INFO - ========================================
