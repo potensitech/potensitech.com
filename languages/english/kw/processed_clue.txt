@@ -7850,3 +7850,5 @@ xiaomi
 best
 iphone
 best
+samsung
+best
