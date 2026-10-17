@@ -1,0 +1,37 @@
+2026-10-17 13:08:00,223 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261017_130800.log
+2026-10-17 13:08:00,224 - INFO - ============================================================
+2026-10-17 13:08:00,224 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-17 13:08:00,224 - INFO - ============================================================
+2026-10-17 13:08:00,659 - INFO - ========================================
+2026-10-17 13:08:00,659 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-17 13:08:00,659 - INFO - ========================================
+2026-10-17 13:08:00,660 - INFO - Continuing from last processed niche: nikon
+2026-10-17 13:08:00,660 - INFO - ========================================
+2026-10-17 13:08:00,660 - INFO - 🎯 PROCESSING NICHE 14/14: 'huawei'
+2026-10-17 13:08:00,660 - INFO - ========================================
+2026-10-17 13:08:00,660 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/huawei
+2026-10-17 13:08:00,660 - INFO - Selected region: us
+2026-10-17 13:08:00,660 - INFO - Selected language: en
+2026-10-17 13:08:00,660 - INFO - 🎯 Current niche: huawei
+2026-10-17 13:08:11,148 - INFO - 🎯 Niche terms for filtering: huawei, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, huawei product, sell huawei, buy huawei, cheap huawei, best huawei, huawei review, where to buy huawei, how to choose huawei, top huawei, huawei guide, huawei for sale, huawei deals
+2026-10-17 13:08:11,148 - INFO - Generated 50 niche-clue pairs for 'huawei'.
+2026-10-17 13:08:11,151 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-17 13:08:11,152 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-17 13:12:37,716 - INFO - Original clue keywords: huawei, best
+2026-10-17 13:12:37,716 - INFO - Niche-focused seeds: huawei, best
+2026-10-17 13:12:37,719 - INFO - Expanded 2 seed keywords to 32 variations
+2026-10-17 13:12:37,719 - INFO - Language: en
+2026-10-17 13:12:37,719 - INFO - Region: us
+2026-10-17 13:13:08,074 - INFO - 🎯 After all filtering for 'huawei': 116 relevant keywords
+2026-10-17 13:13:08,131 - INFO - 🎯 Found 5 new keywords for niche 'huawei': huawei best, best huawei, best huawei best, cheap best, best cheap
+2026-10-17 13:13:18,859 - INFO - ✅ Niche 'huawei' process complete! 715 total keyword results.
+2026-10-17 13:13:18,859 - INFO - ✅ Completed processing niche: 'huawei'
+2026-10-17 13:13:18,860 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-17 13:13:18,860 - INFO -    Total requests: 224875, Blocks: 1
+2026-10-17 13:13:18,861 - INFO - 
+========================================
+2026-10-17 13:13:18,861 - INFO - Process Summary:
+2026-10-17 13:13:18,861 - INFO - - Current niche: 'huawei'
+2026-10-17 13:13:18,861 - INFO - - Next niche will be: 'xiaomi'
+2026-10-17 13:13:18,861 - INFO - - Keywords saved in: languages/english/keywords/huawei/
+2026-10-17 13:13:18,862 - INFO - ========================================
