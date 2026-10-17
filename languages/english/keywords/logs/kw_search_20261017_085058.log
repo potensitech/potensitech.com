@@ -1,0 +1,37 @@
+2026-10-17 08:50:58,320 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261017_085058.log
+2026-10-17 08:50:58,320 - INFO - ============================================================
+2026-10-17 08:50:58,321 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-17 08:50:58,321 - INFO - ============================================================
+2026-10-17 08:50:58,733 - INFO - ========================================
+2026-10-17 08:50:58,733 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-17 08:50:58,733 - INFO - ========================================
+2026-10-17 08:50:58,733 - INFO - Continuing from last processed niche: amd
+2026-10-17 08:50:58,733 - INFO - ========================================
+2026-10-17 08:50:58,733 - INFO - 🎯 PROCESSING NICHE 12/14: 'canon'
+2026-10-17 08:50:58,733 - INFO - ========================================
+2026-10-17 08:50:58,733 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/canon
+2026-10-17 08:50:58,733 - INFO - Selected region: us
+2026-10-17 08:50:58,733 - INFO - Selected language: en
+2026-10-17 08:50:58,733 - INFO - 🎯 Current niche: canon
+2026-10-17 08:51:09,694 - INFO - 🎯 Niche terms for filtering: canon, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, canon product, sell canon, buy canon, cheap canon, best canon, canon review, where to buy canon, how to choose canon, top canon, canon guide, canon for sale, canon deals
+2026-10-17 08:51:09,695 - INFO - Generated 50 niche-clue pairs for 'canon'.
+2026-10-17 08:51:09,698 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-17 08:51:09,699 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-17 08:55:33,044 - INFO - Original clue keywords: canon, best
+2026-10-17 08:55:33,044 - INFO - Niche-focused seeds: canon, best
+2026-10-17 08:55:33,047 - INFO - Expanded 2 seed keywords to 32 variations
+2026-10-17 08:55:33,047 - INFO - Language: en
+2026-10-17 08:55:33,047 - INFO - Region: us
+2026-10-17 08:56:07,224 - INFO - 🎯 After all filtering for 'canon': 116 relevant keywords
+2026-10-17 08:56:07,281 - INFO - 🎯 Found 5 new keywords for niche 'canon': canon best, best canon, best canon best, cheap best, best cheap
+2026-10-17 08:56:18,300 - INFO - ✅ Niche 'canon' process complete! 756 total keyword results.
+2026-10-17 08:56:18,301 - INFO - ✅ Completed processing niche: 'canon'
+2026-10-17 08:56:18,301 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-17 08:56:18,301 - INFO -    Total requests: 224765, Blocks: 1
+2026-10-17 08:56:18,302 - INFO - 
+========================================
+2026-10-17 08:56:18,302 - INFO - Process Summary:
+2026-10-17 08:56:18,302 - INFO - - Current niche: 'canon'
+2026-10-17 08:56:18,302 - INFO - - Next niche will be: 'nikon'
+2026-10-17 08:56:18,302 - INFO - - Keywords saved in: languages/english/keywords/canon/
+2026-10-17 08:56:18,303 - INFO - ========================================
