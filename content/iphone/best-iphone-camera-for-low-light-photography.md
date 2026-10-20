@@ -105,7 +105,7 @@ Apple offers a range of iPhones that excel in low-light photography. Here’s a 
 
 ## Tips for Capturing Stunning Low-Light Photos
 
-Even with the best iPhone camera for low-light photography, technique plays a crucial role in achieving great results. Here are some tips to help The Potensians make the most of their device:
+Even with the best [iPhone camera](/iphone/iphone-camera-image-quality-tips) for low-light photography, technique plays a crucial role in achieving great results. Here are some tips to help The Potensians make the most of their device:
 
 ### Use a Tripod
 
