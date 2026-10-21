@@ -1,0 +1,37 @@
+2026-10-21 12:56:26,646 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261021_125626.log
+2026-10-21 12:56:26,646 - INFO - ============================================================
+2026-10-21 12:56:26,646 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-21 12:56:26,646 - INFO - ============================================================
+2026-10-21 12:56:27,080 - INFO - ========================================
+2026-10-21 12:56:27,080 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-21 12:56:27,080 - INFO - ========================================
+2026-10-21 12:56:27,080 - INFO - Continuing from last processed niche: nvidia
+2026-10-21 12:56:27,080 - INFO - ========================================
+2026-10-21 12:56:27,080 - INFO - 🎯 PROCESSING NICHE 11/14: 'amd'
+2026-10-21 12:56:27,080 - INFO - ========================================
+2026-10-21 12:56:27,080 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/amd
+2026-10-21 12:56:27,080 - INFO - Selected region: us
+2026-10-21 12:56:27,080 - INFO - Selected language: en
+2026-10-21 12:56:27,081 - INFO - 🎯 Current niche: amd
+2026-10-21 12:56:37,600 - INFO - 🎯 Niche terms for filtering: amd, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, amd product, sell amd, buy amd, cheap amd, best amd, amd review, where to buy amd, how to choose amd, top amd, amd guide, amd for sale, amd deals
+2026-10-21 12:56:37,600 - INFO - Generated 50 niche-clue pairs for 'amd'.
+2026-10-21 12:56:37,603 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-21 12:56:37,604 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-21 13:01:00,290 - INFO - Original clue keywords: amd, best
+2026-10-21 13:01:00,291 - INFO - Niche-focused seeds: amd, best
+2026-10-21 13:01:00,294 - INFO - Expanded 2 seed keywords to 32 variations
+2026-10-21 13:01:00,294 - INFO - Language: en
+2026-10-21 13:01:00,294 - INFO - Region: us
+2026-10-21 13:01:33,547 - INFO - 🎯 After all filtering for 'amd': 116 relevant keywords
+2026-10-21 13:01:33,548 - INFO - 🎯 Found 5 new keywords for niche 'amd': amd amd, best amd amd, cheap amd, amd cheap, best cheap amd
+2026-10-21 13:01:44,661 - INFO - ✅ Niche 'amd' process complete! 835 total keyword results.
+2026-10-21 13:01:44,662 - INFO - ✅ Completed processing niche: 'amd'
+2026-10-21 13:01:44,662 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-21 13:01:44,662 - INFO -    Total requests: 227020, Blocks: 1
+2026-10-21 13:01:44,663 - INFO - 
+========================================
+2026-10-21 13:01:44,663 - INFO - Process Summary:
+2026-10-21 13:01:44,663 - INFO - - Current niche: 'amd'
+2026-10-21 13:01:44,663 - INFO - - Next niche will be: 'canon'
+2026-10-21 13:01:44,663 - INFO - - Keywords saved in: languages/english/keywords/amd/
+2026-10-21 13:01:44,664 - INFO - ========================================
