@@ -1,0 +1,37 @@
+2026-10-22 12:58:26,824 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261022_125826.log
+2026-10-22 12:58:26,824 - INFO - ============================================================
+2026-10-22 12:58:26,824 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-22 12:58:26,824 - INFO - ============================================================
+2026-10-22 12:58:27,275 - INFO - ========================================
+2026-10-22 12:58:27,275 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-22 12:58:27,275 - INFO - ========================================
+2026-10-22 12:58:27,275 - INFO - Continuing from last processed niche: asus
+2026-10-22 12:58:27,275 - INFO - ========================================
+2026-10-22 12:58:27,275 - INFO - 🎯 PROCESSING NICHE 7/14: 'philips'
+2026-10-22 12:58:27,275 - INFO - ========================================
+2026-10-22 12:58:27,275 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/philips
+2026-10-22 12:58:27,275 - INFO - Selected region: us
+2026-10-22 12:58:27,276 - INFO - Selected language: en
+2026-10-22 12:58:27,276 - INFO - 🎯 Current niche: philips
+2026-10-22 12:58:38,718 - INFO - 🎯 Niche terms for filtering: philips, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, philips product, sell philips, buy philips, cheap philips, best philips, philips review, where to buy philips, how to choose philips, top philips, philips guide, philips for sale, philips deals
+2026-10-22 12:58:38,718 - INFO - Generated 50 niche-clue pairs for 'philips'.
+2026-10-22 12:58:38,721 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-22 12:58:38,722 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-22 13:03:04,946 - INFO - Original clue keywords: philips, best
+2026-10-22 13:03:04,946 - INFO - Niche-focused seeds: philips, best
+2026-10-22 13:03:04,949 - INFO - Expanded 2 seed keywords to 32 variations
+2026-10-22 13:03:04,949 - INFO - Language: en
+2026-10-22 13:03:04,949 - INFO - Region: us
+2026-10-22 13:03:35,272 - INFO - 🎯 After all filtering for 'philips': 116 relevant keywords
+2026-10-22 13:03:35,334 - INFO - 🎯 Found 5 new keywords for niche 'philips': philips best, best philips, best philips best, cheap best, best cheap
+2026-10-22 13:03:46,637 - INFO - ✅ Niche 'philips' process complete! 770 total keyword results.
+2026-10-22 13:03:46,637 - INFO - ✅ Completed processing niche: 'philips'
+2026-10-22 13:03:46,638 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-22 13:03:46,638 - INFO -    Total requests: 227570, Blocks: 1
+2026-10-22 13:03:46,639 - INFO - 
+========================================
+2026-10-22 13:03:46,639 - INFO - Process Summary:
+2026-10-22 13:03:46,639 - INFO - - Current niche: 'philips'
+2026-10-22 13:03:46,639 - INFO - - Next niche will be: 'sandisk'
+2026-10-22 13:03:46,639 - INFO - - Keywords saved in: languages/english/keywords/philips/
+2026-10-22 13:03:46,639 - INFO - ========================================
