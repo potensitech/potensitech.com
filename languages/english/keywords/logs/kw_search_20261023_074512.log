@@ -1,0 +1,37 @@
+2026-10-23 07:45:12,250 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261023_074512.log
+2026-10-23 07:45:12,250 - INFO - ============================================================
+2026-10-23 07:45:12,250 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-23 07:45:12,250 - INFO - ============================================================
+2026-10-23 07:45:12,712 - INFO - ========================================
+2026-10-23 07:45:12,712 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-23 07:45:12,712 - INFO - ========================================
+2026-10-23 07:45:12,712 - INFO - All niches completed, starting over
+2026-10-23 07:45:12,712 - INFO - ========================================
+2026-10-23 07:45:12,712 - INFO - 🎯 PROCESSING NICHE 1/14: 'xiaomi'
+2026-10-23 07:45:12,712 - INFO - ========================================
+2026-10-23 07:45:12,712 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/xiaomi
+2026-10-23 07:45:12,713 - INFO - Selected region: us
+2026-10-23 07:45:12,713 - INFO - Selected language: en
+2026-10-23 07:45:12,713 - INFO - 🎯 Current niche: xiaomi
+2026-10-23 07:45:23,677 - INFO - 🎯 Niche terms for filtering: xiaomi, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, xiaomi product, sell xiaomi, buy xiaomi, cheap xiaomi, best xiaomi, xiaomi review, where to buy xiaomi, how to choose xiaomi, top xiaomi, xiaomi guide, xiaomi for sale, xiaomi deals
+2026-10-23 07:45:23,678 - INFO - Generated 50 niche-clue pairs for 'xiaomi'.
+2026-10-23 07:45:23,681 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-23 07:45:23,681 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-23 07:49:49,758 - INFO - Original clue keywords: xiaomi, best
+2026-10-23 07:49:49,758 - INFO - Niche-focused seeds: xiaomi, best
+2026-10-23 07:49:49,761 - INFO - Expanded 2 seed keywords to 32 variations
+2026-10-23 07:49:49,761 - INFO - Language: en
+2026-10-23 07:49:49,761 - INFO - Region: us
+2026-10-23 07:50:20,273 - INFO - 🎯 After all filtering for 'xiaomi': 116 relevant keywords
+2026-10-23 07:50:20,328 - INFO - 🎯 Found 5 new keywords for niche 'xiaomi': xiaomi best, best xiaomi, best xiaomi best, cheap best, best cheap
+2026-10-23 07:50:31,573 - INFO - ✅ Niche 'xiaomi' process complete! 721 total keyword results.
+2026-10-23 07:50:31,573 - INFO - ✅ Completed processing niche: 'xiaomi'
+2026-10-23 07:50:31,573 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-23 07:50:31,573 - INFO -    Total requests: 228010, Blocks: 1
+2026-10-23 07:50:31,574 - INFO - 
+========================================
+2026-10-23 07:50:31,575 - INFO - Process Summary:
+2026-10-23 07:50:31,575 - INFO - - Current niche: 'xiaomi'
+2026-10-23 07:50:31,575 - INFO - - Next niche will be: 'iphone'
+2026-10-23 07:50:31,575 - INFO - - Keywords saved in: languages/english/keywords/xiaomi/
+2026-10-23 07:50:31,575 - INFO - ========================================
