@@ -8030,3 +8030,5 @@ philips
 best
 sandisk
 best
+intel
+best
