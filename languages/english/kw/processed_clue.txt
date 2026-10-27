@@ -8096,3 +8096,5 @@ canon
 best
 nikon
 best
+huawei
+best
