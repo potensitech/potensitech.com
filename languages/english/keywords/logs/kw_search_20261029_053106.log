@@ -1,0 +1,37 @@
+2026-10-29 05:31:06,416 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261029_053106.log
+2026-10-29 05:31:06,416 - INFO - ============================================================
+2026-10-29 05:31:06,416 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-10-29 05:31:06,416 - INFO - ============================================================
+2026-10-29 05:31:06,858 - INFO - ========================================
+2026-10-29 05:31:06,858 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-10-29 05:31:06,859 - INFO - ========================================
+2026-10-29 05:31:06,859 - INFO - Continuing from last processed niche: samsung
+2026-10-29 05:31:06,859 - INFO - ========================================
+2026-10-29 05:31:06,859 - INFO - 🎯 PROCESSING NICHE 4/14: 'apple'
+2026-10-29 05:31:06,859 - INFO - ========================================
+2026-10-29 05:31:06,859 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/apple
+2026-10-29 05:31:06,859 - INFO - Selected region: us
+2026-10-29 05:31:06,859 - INFO - Selected language: en
+2026-10-29 05:31:06,859 - INFO - 🎯 Current niche: apple
+2026-10-29 05:31:17,897 - INFO - 🎯 Niche terms for filtering: apple, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, apple product, sell apple, buy apple, cheap apple, best apple, apple review, where to buy apple, how to choose apple, top apple, apple guide, apple for sale, apple deals
+2026-10-29 05:31:17,897 - INFO - Generated 50 niche-clue pairs for 'apple'.
+2026-10-29 05:31:17,899 - INFO - Expanded 50 seed keywords to 218 variations
+2026-10-29 05:31:17,900 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-10-29 05:35:43,487 - INFO - Original clue keywords: apple, best
+2026-10-29 05:35:43,487 - INFO - Niche-focused seeds: apple, best
+2026-10-29 05:35:43,488 - INFO - Expanded 2 seed keywords to 32 variations
+2026-10-29 05:35:43,488 - INFO - Language: en
+2026-10-29 05:35:43,489 - INFO - Region: us
+2026-10-29 05:36:17,752 - INFO - 🎯 After all filtering for 'apple': 116 relevant keywords
+2026-10-29 05:36:17,753 - INFO - 🎯 Found 5 new keywords for niche 'apple': apple apple, best apple apple, cheap apple, apple cheap, best cheap apple
+2026-10-29 05:36:28,502 - INFO - ✅ Niche 'apple' process complete! 620 total keyword results.
+2026-10-29 05:36:28,502 - INFO - ✅ Completed processing niche: 'apple'
+2026-10-29 05:36:28,503 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-10-29 05:36:28,503 - INFO -    Total requests: 231255, Blocks: 1
+2026-10-29 05:36:28,504 - INFO - 
+========================================
+2026-10-29 05:36:28,504 - INFO - Process Summary:
+2026-10-29 05:36:28,504 - INFO - - Current niche: 'apple'
+2026-10-29 05:36:28,504 - INFO - - Next niche will be: 'sony'
+2026-10-29 05:36:28,504 - INFO - - Keywords saved in: languages/english/keywords/apple/
+2026-10-29 05:36:28,504 - INFO - ========================================
