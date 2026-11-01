@@ -1,0 +1,37 @@
+2026-11-01 11:31:06,696 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261101_113106.log
+2026-11-01 11:31:06,697 - INFO - ============================================================
+2026-11-01 11:31:06,697 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-11-01 11:31:06,697 - INFO - ============================================================
+2026-11-01 11:31:07,061 - INFO - ========================================
+2026-11-01 11:31:07,062 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-11-01 11:31:07,062 - INFO - ========================================
+2026-11-01 11:31:07,062 - INFO - Continuing from last processed niche: philips
+2026-11-01 11:31:07,062 - INFO - ========================================
+2026-11-01 11:31:07,062 - INFO - 🎯 PROCESSING NICHE 8/14: 'sandisk'
+2026-11-01 11:31:07,062 - INFO - ========================================
+2026-11-01 11:31:07,062 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/sandisk
+2026-11-01 11:31:07,062 - INFO - Selected region: us
+2026-11-01 11:31:07,062 - INFO - Selected language: en
+2026-11-01 11:31:07,062 - INFO - 🎯 Current niche: sandisk
+2026-11-01 11:31:18,241 - INFO - 🎯 Niche terms for filtering: sandisk, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, sandisk product, sell sandisk, buy sandisk, cheap sandisk, best sandisk, sandisk review, where to buy sandisk, how to choose sandisk, top sandisk, sandisk guide, sandisk for sale, sandisk deals
+2026-11-01 11:31:18,242 - INFO - Generated 50 niche-clue pairs for 'sandisk'.
+2026-11-01 11:31:18,243 - INFO - Expanded 50 seed keywords to 218 variations
+2026-11-01 11:31:18,245 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-11-01 11:35:41,607 - INFO - Original clue keywords: sandisk, best
+2026-11-01 11:35:41,607 - INFO - Niche-focused seeds: sandisk, best
+2026-11-01 11:35:41,609 - INFO - Expanded 2 seed keywords to 32 variations
+2026-11-01 11:35:41,609 - INFO - Language: en
+2026-11-01 11:35:41,609 - INFO - Region: us
+2026-11-01 11:36:13,467 - INFO - 🎯 After all filtering for 'sandisk': 116 relevant keywords
+2026-11-01 11:36:13,503 - INFO - 🎯 Found 5 new keywords for niche 'sandisk': sandisk best, best sandisk, best sandisk best, cheap best, best cheap
+2026-11-01 11:36:24,533 - INFO - ✅ Niche 'sandisk' process complete! 889 total keyword results.
+2026-11-01 11:36:24,534 - INFO - ✅ Completed processing niche: 'sandisk'
+2026-11-01 11:36:24,534 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-11-01 11:36:24,534 - INFO -    Total requests: 232960, Blocks: 1
+2026-11-01 11:36:24,535 - INFO - 
+========================================
+2026-11-01 11:36:24,535 - INFO - Process Summary:
+2026-11-01 11:36:24,535 - INFO - - Current niche: 'sandisk'
+2026-11-01 11:36:24,535 - INFO - - Next niche will be: 'intel'
+2026-11-01 11:36:24,535 - INFO - - Keywords saved in: languages/english/keywords/sandisk/
+2026-11-01 11:36:24,535 - INFO - ========================================
