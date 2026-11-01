@@ -8204,3 +8204,5 @@ nvidia
 best
 amd
 best
+canon
+best
