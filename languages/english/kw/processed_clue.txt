@@ -8244,3 +8244,5 @@ iphone
 best
 samsung
 best
+apple
+best
