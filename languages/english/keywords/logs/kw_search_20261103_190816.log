@@ -1,0 +1,37 @@
+2026-11-03 19:08:16,006 - INFO - Log file created at: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/logs/kw_search_20261103_190816.log
+2026-11-03 19:08:16,006 - INFO - ============================================================
+2026-11-03 19:08:16,006 - INFO - AUTOMATIC KEYWORD RESEARCH TOOL
+2026-11-03 19:08:16,007 - INFO - ============================================================
+2026-11-03 19:08:16,415 - INFO - ========================================
+2026-11-03 19:08:16,416 - INFO - Found 14 niches to process: xiaomi, iphone, samsung, apple, sony, asus, philips, sandisk, intel, nvidia, amd, canon, nikon, huawei
+2026-11-03 19:08:16,416 - INFO - ========================================
+2026-11-03 19:08:16,416 - INFO - Continuing from last processed niche: iphone
+2026-11-03 19:08:16,416 - INFO - ========================================
+2026-11-03 19:08:16,416 - INFO - 🎯 PROCESSING NICHE 3/14: 'samsung'
+2026-11-03 19:08:16,416 - INFO - ========================================
+2026-11-03 19:08:16,416 - INFO - 📁 Niche directory: /home/runner/work/potensitech.com/potensitech.com/languages/english/keywords/samsung
+2026-11-03 19:08:16,416 - INFO - Selected region: us
+2026-11-03 19:08:16,416 - INFO - Selected language: en
+2026-11-03 19:08:16,416 - INFO - 🎯 Current niche: samsung
+2026-11-03 19:08:27,630 - INFO - 🎯 Niche terms for filtering: samsung, cheap, best, latest, review, price, sell, buy, recommendation, tips, tutorial, guide, how to, vs, versus, compared to, comparison, alternatives, which is better, expensive, discount, deals, sale, affordable, cost, online, offline, marketplace, store, shop, retailer, where to buy, worst, quality, original, genuine, fake, replica, authentic, brand, manufacturer, company, product, samsung product, sell samsung, buy samsung, cheap samsung, best samsung, samsung review, where to buy samsung, how to choose samsung, top samsung, samsung guide, samsung for sale, samsung deals
+2026-11-03 19:08:27,630 - INFO - Generated 50 niche-clue pairs for 'samsung'.
+2026-11-03 19:08:27,633 - INFO - Expanded 50 seed keywords to 218 variations
+2026-11-03 19:08:27,635 - INFO - 🔧 Request Handler initialized - Success rate: 100.0%
+2026-11-03 19:12:51,432 - INFO - Original clue keywords: samsung, best
+2026-11-03 19:12:51,432 - INFO - Niche-focused seeds: samsung, best
+2026-11-03 19:12:51,435 - INFO - Expanded 2 seed keywords to 32 variations
+2026-11-03 19:12:51,435 - INFO - Language: en
+2026-11-03 19:12:51,435 - INFO - Region: us
+2026-11-03 19:13:25,027 - INFO - 🎯 After all filtering for 'samsung': 116 relevant keywords
+2026-11-03 19:13:25,081 - INFO - 🎯 Found 5 new keywords for niche 'samsung': samsung best, best samsung, best samsung best, cheap best, best cheap
+2026-11-03 19:13:35,922 - INFO - ✅ Niche 'samsung' process complete! 688 total keyword results.
+2026-11-03 19:13:35,922 - INFO - ✅ Completed processing niche: 'samsung'
+2026-11-03 19:13:35,923 - INFO - 🔧 Request Handler final stats - Success rate: 100.0%
+2026-11-03 19:13:35,923 - INFO -    Total requests: 234225, Blocks: 1
+2026-11-03 19:13:35,924 - INFO - 
+========================================
+2026-11-03 19:13:35,924 - INFO - Process Summary:
+2026-11-03 19:13:35,924 - INFO - - Current niche: 'samsung'
+2026-11-03 19:13:35,924 - INFO - - Next niche will be: 'apple'
+2026-11-03 19:13:35,924 - INFO - - Keywords saved in: languages/english/keywords/samsung/
+2026-11-03 19:13:35,925 - INFO - ========================================
